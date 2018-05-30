@@ -1,0 +1,28 @@
+<application>
+  <component name="WebDeploymentTransportHostTargets">
+    <option name="stateHostTargets">
+      <list>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="47afa33d-6bdb-48c6-9d35-b764fc510be8" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="176e1f93-d37e-464f-a7ed-c48c2493423f" />
+              <id>176e1f93-d37e-464f-a7ed-c48c2493423f</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="$USER_HOME$/www" />
+        </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="abe121bf-79e0-4837-9c44-42ccdf959bfc" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="83595bd3-b1f4-4d56-9707-03ba13074f64" />
+              <id>83595bd3-b1f4-4d56-9707-03ba13074f64</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="/var/lib/tomcat8/webapps" />
+        </WebDeploymentTransportHostTarget>
+      </list>
+    </option>
+  </component>
+</application>
