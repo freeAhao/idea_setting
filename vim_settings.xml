@@ -94,8 +94,8 @@
         <mark key="[" line="59" column="0" />
         <mark key="]" line="60" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-add.jsp" timestamp="1527661163627">
-        <mark key="'" line="66" column="13" />
+      <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-add.jsp" timestamp="1527683637973">
+        <mark key="'" line="124" column="0" />
         <mark key="[" line="105" column="9" />
         <mark key="]" line="105" column="8" />
         <mark key="^" line="105" column="8" />
@@ -339,6 +339,7 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/js/jquery-easyui-1.4.1/src/jquery.form.js" timestamp="1527683704765" />
       <file name="$USER_HOME$/dev/resume/src/main/java/net/ddns/dzy/resume/service/CounterServiceImpl.java" timestamp="1527075357461">
         <mark key="[" line="21" column="18" />
         <mark key="]" line="21" column="18" />
@@ -589,8 +590,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="22" filename="$USER_HOME$/dev/e3parent/e3-manager-web/pom.xml" />
-      <jump line="62" column="35" filename="$USER_HOME$/dev/e3parent/e3-manager-web/pom.xml" />
       <jump line="173" column="17" filename="$USER_HOME$/dev/e3parent/pom.xml" />
       <jump line="54" column="19" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/pom.xml" />
       <jump line="15" column="17" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/resources/spring/applicationContext-service.xml" />
@@ -689,6 +688,8 @@
       <jump line="59" column="0" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/java/net/ddns/dzy/e3mall/controller/PicController.java" />
       <jump line="62" column="0" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/java/net/ddns/dzy/e3mall/controller/PicController.java" />
       <jump line="42" column="13" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/java/net/ddns/dzy/e3mall/controller/PicController.java" />
+      <jump line="112" column="38" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-add.jsp" />
+      <jump line="124" column="0" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-add.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
