@@ -127,11 +127,6 @@
         <mark key="^" line="18" column="57" />
         <mark key="." line="18" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-common/pom.xml" timestamp="1527594590574">
-        <mark key="[" line="60" column="12" />
-        <mark key="]" line="60" column="15" />
-        <mark key="." line="60" column="15" />
-      </file>
       <file name="$USER_HOME$/dev/resume/pom.xml" timestamp="1527074511038">
         <mark key="[" line="45" column="4" />
         <mark key="]" line="48" column="21" />
@@ -218,16 +213,11 @@
         <mark key="." line="16" column="80" />
         <mark key="^" line="16" column="80" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/resources/log4j.properties" timestamp="1527420001779">
-        <mark key="[" line="5" column="47" />
-        <mark key="]" line="5" column="96" />
-        <mark key="." line="5" column="96" />
+      <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/resources/log4j.properties" timestamp="1527667073513">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="8" column="31" />
         <mark key="^" line="5" column="96" />
-      </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/test/java/net/ddns/dzy/e3mall/fastdfs/FastDFSClientTest.java" timestamp="1527596418034">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-web/src/main/resources/spring/applicationContext-transaction.xml" timestamp="1527405941528">
         <mark key="[" line="11" column="11" />
@@ -284,12 +274,6 @@
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
-      </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-manager/pom.xml" timestamp="1527652004900">
-        <mark key="'" line="38" column="8" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/tmp/crm/src/main/java/net/ddns/dzy/crm/controller/BaseDictController.java" timestamp="1527119885693">
         <mark key="[" line="33" column="5" />
@@ -440,11 +424,11 @@
         <mark key="." line="42" column="19" />
         <mark key="^" line="42" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/pom.xml" timestamp="1527657689676">
-        <mark key="'" line="71" column="17" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="73" column="18" />
-        <mark key="." line="183" column="18" />
+      <file name="$USER_HOME$/dev/e3parent/pom.xml" timestamp="1527666956759">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="28" column="36" />
+        <mark key="]" line="28" column="37" />
+        <mark key="." line="28" column="37" />
         <mark key="^" line="183" column="18" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-pojo/src/main/java/net/ddns/dzy/e3mall/pojo/TbItemCat.java" timestamp="1527517835458">
@@ -496,16 +480,6 @@
         <mark key="^" line="1" column="59" />
         <mark key="." line="1" column="34" />
       </file>
-      <file name="/dummy.sql" timestamp="1527522263904">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1527651601249">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/java/net/ddns/dzy/e3mall/service/impl/ItemSerivceImpl.java" timestamp="1527406792629">
         <mark key="[" line="11" column="3" />
         <mark key="]" line="12" column="7" />
@@ -541,6 +515,9 @@
         <mark key="]" line="27" column="28" />
         <mark key="." line="27" column="28" />
         <mark key="^" line="27" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-dao/src/main/resources/net/ddns/dzy/e3mall/mapper/TbItemMapper.xml" timestamp="1527666814728">
+        <mark key="'" line="9" column="33" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-dao/pom.xml" timestamp="1527452633566">
         <mark key="[" line="17" column="21" />
@@ -601,9 +578,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="20" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-web/src/main/resources/spring/applicationContext-service.xml" />
-      <jump line="273" column="40" filename="$USER_HOME$/dev/e3parent/pom.xml" />
-      <jump line="9" column="27" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/webapp/WEB-INF/web.xml" />
       <jump line="29" column="12" filename="$USER_HOME$/dev/e3parent/e3-manager/pom.xml" />
       <jump line="28" column="8" filename="$USER_HOME$/dev/e3parent/e3-manager/pom.xml" />
       <jump line="25" column="18" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/pom.xml" />
@@ -665,7 +639,6 @@
       <jump line="25" column="0" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/java/net/ddns/dzy/e3mall/controller/ItemController.java" />
       <jump line="8" column="93" filename="$USER_HOME$/dev/e3parent/docker/fastdfs/run.sh" />
       <jump line="190" column="18" filename="$USER_HOME$/dev/e3parent/pom.xml" />
-      <jump line="81" column="21" filename="$USER_HOME$/dev/e3parent/pom.xml" />
       <jump line="9" column="3" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/test/java/net/ddns/dzy/e3mall/fastdfs/FastDFSClientTest.java" />
       <jump line="38" column="8" filename="$USER_HOME$/dev/e3parent/e3-manager/pom.xml" />
       <jump line="160" column="14" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/js/common.js" />
@@ -701,6 +674,10 @@
       <jump line="34" column="23" filename="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/utils/JsonUtil.java" />
       <jump line="40" column="0" filename="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/utils/JsonUtil.java" />
       <jump line="6" column="21" filename="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/utils/JsonUtil.java" />
+      <jump line="9" column="33" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-dao/src/main/resources/net/ddns/dzy/e3mall/mapper/TbItemMapper.xml" />
+      <jump line="81" column="25" filename="$USER_HOME$/dev/e3parent/pom.xml" />
+      <jump line="303" column="0" filename="$USER_HOME$/dev/e3parent/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/e3parent/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -710,7 +687,7 @@
         <text>result</text>
       </register>
       <register name="/" type="4">
-        <text>apache</text>
+        <text>mybatis</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnB1dCgiZXJyb3IiLDApOwogICAgICAgICAgICByZXN1bHQucHV0KCJ1cmwiLCAiaHR0cDovL2ltZy56Y29vbC5jbi9jb21tdW5pdHkvMDE0MjEzNTU0MWZlMTgwMDAwMDE5YWU5YjhjZjg2LmpwZ0AxMjgwd18xbF8yb18xMDBzaC5wbmciKTsK</text>
@@ -750,9 +727,9 @@
       </register>
     </registers>
     <search>
-      <last-search>apache</last-search>
+      <last-search>mybatis</last-search>
       <last-offset />
-      <last-pattern>apache</last-pattern>
+      <last-pattern>mybatis</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>not-null=&quot;true&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -760,8 +737,6 @@
     </search>
     <history>
       <history-search>
-        <entry>page</entry>
-        <entry>pagehelper</entry>
         <entry>dia</entry>
         <entry>dialect</entry>
         <entry>spring</entry>
@@ -780,6 +755,8 @@
         <entry>io</entry>
         <entry>file</entry>
         <entry>apache</entry>
+        <entry>selectByExample</entry>
+        <entry>mybatis</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
