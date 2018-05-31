@@ -135,7 +135,7 @@
         <mark key="^" line="26" column="90" />
         <mark key="." line="26" column="90" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/.idea/misc.xml" timestamp="1527756755907" />
+      <file name="$USER_HOME$/dev/e3parent/.idea/misc.xml" timestamp="1527760319364" />
       <file name="/dummy.sql" timestamp="1527751841725">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -151,6 +151,7 @@
         <mark key="]" line="68" column="14" />
         <mark key="." line="68" column="14" />
       </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/java/net/ddns/dzy/e3mall/manager/service/impl/ContentServiceImpl.java" timestamp="1527760283779" />
       <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/resources/spring/springmvc.xml" timestamp="1527752092710">
         <mark key="[" line="44" column="85" />
         <mark key="]" line="44" column="85" />
