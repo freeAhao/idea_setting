@@ -51,11 +51,14 @@
         <mark key="]" line="81" column="16" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/main/java/net/ddns/dzy/e3mall/content/service/impl/ContentCategoryServiceImpl.java" timestamp="1527772880591">
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="7" column="34" />
-        <mark key="." line="7" column="34" />
-        <mark key="^" line="7" column="34" />
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.8/mybatis-3.2.8.jar!/org/apache/ibatis/builder/xml/mybatis-3-mapper.dtd" timestamp="1527774352605">
+        <mark key="'" line="178" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/main/java/net/ddns/dzy/e3mall/content/service/impl/ContentCategoryServiceImpl.java" timestamp="1527775040074">
+        <mark key="[" line="67" column="54" />
+        <mark key="]" line="68" column="7" />
+        <mark key="." line="68" column="7" />
+        <mark key="^" line="68" column="7" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/test/java/net/ddns/dzy/e3mall/manager/service/PublishManagerServer.java" timestamp="1527772152564">
         <mark key="'" line="26" column="18" />
@@ -156,6 +159,13 @@
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-dao/src/main/resources/net/ddns/dzy/e3mall/manager/mapper/TbContentCategoryMapper.xml" timestamp="1527774767041">
+        <mark key="'" line="1" column="73" />
+        <mark key="[" line="104" column="118" />
+        <mark key="]" line="104" column="119" />
+        <mark key="^" line="104" column="119" />
+        <mark key="." line="104" column="119" />
+      </file>
       <file name="$USER_HOME$/dev/e3parent/e3-content/pom.xml" timestamp="1527764229670">
         <mark key="'" line="11" column="20" />
         <mark key="[" line="43" column="19" />
@@ -181,7 +191,7 @@
         <mark key="." line="12" column="59" />
         <mark key="^" line="12" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/java/net/ddns/dzy/e3mall/manager/controller/ContentCategoryController.java" timestamp="1527772460897">
+      <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/java/net/ddns/dzy/e3mall/manager/controller/ContentCategoryController.java" timestamp="1527774086602">
         <mark key="[" line="5" column="27" />
         <mark key="]" line="5" column="34" />
         <mark key="." line="5" column="34" />
@@ -294,14 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="9" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-param-add.jsp" />
-      <jump line="17" column="2" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <jump line="41" column="13" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-param-edit.jsp" />
-      <jump line="51" column="2" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-param-edit.jsp" />
-      <jump line="74" column="0" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-param-add.jsp" />
-      <jump line="21" column="62" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-param-add.jsp" />
-      <jump line="12" column="24" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-param-edit.jsp" />
-      <jump line="42" column="14" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-param-edit.jsp" />
       <jump line="13" column="73" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-param-add.jsp" />
       <jump line="29" column="141" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-param-edit.jsp" />
       <jump line="121" column="32" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-param-list.jsp" />
@@ -394,58 +396,66 @@
       <jump line="11" column="20" filename="$USER_HOME$/dev/e3parent/e3-content/pom.xml" />
       <jump line="26" column="18" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/test/java/net/ddns/dzy/e3mall/manager/service/PublishManagerServer.java" />
       <jump line="8" column="3" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/test/java/net/ddns/dzy/e3mall/content/service/PublishContentService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-dao/src/main/resources/net/ddns/dzy/e3mall/manager/mapper/TbContentCategoryMapper.xml" />
+      <jump line="105" column="4" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-dao/src/main/resources/net/ddns/dzy/e3mall/manager/mapper/TbContentCategoryMapper.xml" />
+      <jump line="104" column="79" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-dao/src/main/resources/net/ddns/dzy/e3mall/manager/mapper/TbContentCategoryMapper.xml" />
+      <jump line="257" column="0" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-dao/src/main/resources/net/ddns/dzy/e3mall/manager/mapper/TbContentCategoryMapper.xml" />
+      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.8/mybatis-3.2.8.jar!/org/apache/ibatis/builder/xml/mybatis-3-mapper.dtd" />
+      <jump line="6" column="19" filename="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.8/mybatis-3.2.8.jar!/org/apache/ibatis/builder/xml/mybatis-3-mapper.dtd" />
+      <jump line="178" column="0" filename="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.8/mybatis-3.2.8.jar!/org/apache/ibatis/builder/xml/mybatis-3-mapper.dtd" />
+      <jump line="1" column="73" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-dao/src/main/resources/net/ddns/dzy/e3mall/manager/mapper/TbContentCategoryMapper.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>advertId</text>
       </register>
       <register name="-" type="4">
-        <text>manager</text>
+        <text>advertId</text>
       </register>
       <register name="/" type="4">
-        <text>list</text>
+        <text>insert</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5uZXQuZGRucy5kenkuZTNtYWxsPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5lMy1tYW5hZ2VyLWludGVyZmFjZTwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+MS4wLVNOQVBTSE9UPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIDwhLS08ZGVwZW5kZW5jeT4tLT4KICAgICAgPCEtLTxncm91cElkPm5ldC5kZG5zLmR6eS5lM21hbGw8L2dyb3VwSWQ+LS0+CiAgICAgIDwhLS08YXJ0aWZhY3RJZD5lMy1jb21tb248L2FydGlmYWN0SWQ+LS0+CiAgICAgIDwhLS08dmVyc2lvbj4xLjAtU05BUFNIT1Q8L3ZlcnNpb24+LS0+CiAgICA8IS0tPC9kZXBlbmRlbmN5Pi0tPgogICAgPCEtLTxkZXBlbmRlbmN5Pi0tPgogICAgICA8IS0tPGdyb3VwSWQ+bmV0LmRkbnMuZHp5LmUzbWFsbDwvZ3JvdXBJZD4tLT4KICAgICAgPCEtLTxhcnRpZmFjdElkPmUzLW1hbmFnZXItcG9qbzwvYXJ0aWZhY3RJZD4tLT4KICAgICAgPCEtLTx2ZXJzaW9uPjEuMC1TTkFQU0hPVDwvdmVyc2lvbj4tLT4KICAgIDwhLS08L2RlcGVuZGVuY3k+LS0+</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb250ZW50Q2F0ZWdvcnlNYXBwZXIudXBkYXRlQnlQcmltYXJ5S2V5U2VsZWN0aXZlKHBhcmVudENvbnRlbnRDYXRlZ29yeSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5uZXQuZGRucy5kenkuZTNtYWxsPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5lMy1tYW5hZ2VyLWludGVyZmFjZTwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+MS4wLVNOQVBTSE9UPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICA8ZHViYm86c2VydmljZSBpbnRlcmZhY2U9Im5ldC5kZG5zLmR6eS5lM21hbGwuY29udGVudC5zZXJ2aWNlLkNvbnRlbnRDYXRlZ29yeVNlcnZpY2UiIHJlZj0iY29udGVudENhdGVnb3J5U2VydmljZUltcGwiIHRpbWVvdXQ9IjM2MDAwMDAiLz4KICA8ZHViYm86c2VydmljZSBpbnRlcmZhY2U9Im5ldC5kZG5zLmR6eS5lM21hbGwuY29udGVudC5zZXJ2aWNlLkNvbnRlbnRTZXJ2aWNlIiByZWY9ImNvbnRlbnRTZXJ2aWNlSW1wbCIgdGltZW91dD0iMzYwMDAwMCIvPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAodHJ1ZSl7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwYXJlbnRDb250ZW50Q2F0ZWdvcnkuc2V0SXNQYXJlbnQoIjEiLmdldEJ5dGVzKCkpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIDwhLS08ZGVwZW5kZW5jeT4tLT4KICAgICAgPCEtLTxncm91cElkPm5ldC5kZG5zLmR6eS5lM21hbGw8L2dyb3VwSWQ+LS0+CiAgICAgIDwhLS08YXJ0aWZhY3RJZD5lMy1jb21tb248L2FydGlmYWN0SWQ+LS0+CiAgICAgIDwhLS08dmVyc2lvbj4xLjAtU05BUFNIT1Q8L3ZlcnNpb24+LS0+CiAgICA8IS0tPC9kZXBlbmRlbmN5Pi0tPgogICAgPCEtLTxkZXBlbmRlbmN5Pi0tPgogICAgICA8IS0tPGdyb3VwSWQ+bmV0LmRkbnMuZHp5LmUzbWFsbDwvZ3JvdXBJZD4tLT4KICAgICAgPCEtLTxhcnRpZmFjdElkPmUzLW1hbmFnZXItcG9qbzwvYXJ0aWZhY3RJZD4tLT4KICAgICAgPCEtLTx2ZXJzaW9uPjEuMC1TTkFQU0hPVDwvdmVyc2lvbj4tLT4KICAgIDwhLS08L2RlcGVuZGVuY3k+LS0+</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5uZXQuZGRucy5kenkuZTNtYWxsPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5lMy1tYW5hZ2VyLWludGVyZmFjZTwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+MS4wLVNOQVBTSE9UPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBcHBsaWNhdGlvCg==</text>
+        <text encoding="base64">ICA8ZHViYm86c2VydmljZSBpbnRlcmZhY2U9Im5ldC5kZG5zLmR6eS5lM21hbGwuY29udGVudC5zZXJ2aWNlLkNvbnRlbnRDYXRlZ29yeVNlcnZpY2UiIHJlZj0iY29udGVudENhdGVnb3J5U2VydmljZUltcGwiIHRpbWVvdXQ9IjM2MDAwMDAiLz4KICA8ZHViYm86c2VydmljZSBpbnRlcmZhY2U9Im5ldC5kZG5zLmR6eS5lM21hbGwuY29udGVudC5zZXJ2aWNlLkNvbnRlbnRTZXJ2aWNlIiByZWY9ImNvbnRlbnRTZXJ2aWNlSW1wbCIgdGltZW91dD0iMzYwMDAwMCIvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAodHJ1ZSl7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>list</last-search>
+      <last-search>insert</last-search>
       <last-offset />
-      <last-pattern>list</last-pattern>
+      <last-pattern>insert</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>not-null=&quot;true&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -453,8 +463,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rest</entry>
-        <entry>input</entry>
         <entry>append</entry>
         <entry>select</entry>
         <entry>selectItemCat</entry>
@@ -473,6 +481,8 @@
         <entry>update</entry>
         <entry>setUpdate</entry>
         <entry>list</entry>
+        <entry>use</entry>
+        <entry>insert</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
@@ -493,8 +503,8 @@
         <entry>wqa</entry>
         <entry>vs</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
