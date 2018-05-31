@@ -15,7 +15,6 @@
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-pojo/src/main/java/net/ddns/dzy/e3mall/pojo/TbItemParam.java" timestamp="1527701502419" />
       <file name="$USER_HOME$/dev/tmp/business-electronically-search-demo/src/main/java/net/ddns/dzy/service/ProductService.java" timestamp="1527323182167">
         <mark key="[" line="14" column="18" />
         <mark key="]" line="14" column="21" />
@@ -98,7 +97,7 @@
         <mark key="." line="162" column="27" />
         <mark key="^" line="61" column="39" />
       </file>
-      <file name="/tb_item_param [e3mall@localhost]" timestamp="1527701813378">
+      <file name="/tb_item_param [e3mall@localhost]" timestamp="1527727766711">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/tmp/crm/src/main/java/net/ddns/dzy/crm/service/CustomerServiceImpl.java" timestamp="1527121535527">
@@ -195,7 +194,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-edit.jsp" timestamp="1527698346851" />
       <file name="$USER_HOME$/tmp/crm/src/main/websrc/src/app/app.component.html" timestamp="1526974324255">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="13" />
@@ -287,7 +285,6 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/resources/spring/applicationContext-transaction.xml" timestamp="1527699813857" />
       <file name="$USER_HOME$/tmp/crm/src/main/java/net/ddns/dzy/crm/pojo/BasePageBean.java" timestamp="1526962329325">
         <mark key="[" line="7" column="4" />
         <mark key="]" line="7" column="12" />
@@ -337,7 +334,7 @@
         <mark key="." line="19" column="6" />
         <mark key="^" line="19" column="6" />
       </file>
-      <file name="/tb_item_param_item [e3mall@localhost]" timestamp="1527701827896">
+      <file name="/tb_item_param_item [e3mall@localhost]" timestamp="1527727767755">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-interface/src/main/java/net/ddns/dzy/e3mall/service/ItemParamService.java" timestamp="1527701090837">
@@ -542,7 +539,7 @@
         <mark key="^" line="1" column="59" />
         <mark key="." line="1" column="34" />
       </file>
-      <file name="/dummy.sql" timestamp="1527702060246">
+      <file name="/dummy.sql" timestamp="1527702358423">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -648,7 +645,6 @@
         <mark key="." line="33" column="31" />
         <mark key="^" line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-pojo/src/main/java/net/ddns/dzy/e3mall/pojo/TbItemDesc.java" timestamp="1527697713619" />
       <file name="/fragment.java" timestamp="1527700759483">
         <mark key="[" line="0" column="0" />
       </file>
