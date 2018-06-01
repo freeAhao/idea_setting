@@ -228,12 +228,17 @@
         <mark key="^" line="1" column="57" />
         <mark key="." line="1" column="57" />
       </file>
+      <file name="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/schema.xml" timestamp="1527865457091">
+        <mark key="'" line="189" column="20" />
+        <mark key="[" line="1161" column="0" />
+        <mark key="]" line="1161" column="0" />
+        <mark key="." line="1161" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1527851465672">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="37" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/java/net/ddns/dzy/e3mall/service/impl/ContentCategoryServiceImpl.java" />
       <jump line="44" column="0" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/java/net/ddns/dzy/e3mall/service/impl/ContentCategoryServiceImpl.java" />
       <jump line="13" column="29" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/content-category.jsp" />
       <jump line="71" column="0" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/content-category.jsp" />
@@ -333,10 +338,11 @@
       <jump line="32" column="17" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/main/java/net/ddns/dzy/e3mall/content/service/impl/ContentServiceImpl.java" />
       <jump line="70" column="18" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/main/java/net/ddns/dzy/e3mall/content/service/impl/ContentServiceImpl.java" />
       <jump line="88" column="0" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/main/java/net/ddns/dzy/e3mall/content/service/impl/ContentServiceImpl.java" />
+      <jump line="189" column="20" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/schema.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICA8IS0tIFRleHRGaWVsZCDmiY3lj6/ku6Xoh6rlrprkuYnliIbmnpDlmaggLS0+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>null</text>
@@ -348,34 +354,34 @@
         <text encoding="base64">ICAgIC8qKgogICAgICog5L+d5a2YCiAgICAgKiBAcGFyYW0gY29udGVudAogICAgICogQHJldHVybgogICAgICovCiAgICBSZXN1bHQgYWRkQ29udGVudChUYkNvbnRlbnQgY29udGVudCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5Yig6ZmkCiAgICAgKiBAcGFyYW0gY29udGVudAogICAgICogQHJldHVybgogICAgICovCg==</text>
+        <text encoding="base64">ICA8IS0tIFRleHRGaWVsZCDmiY3lj6/ku6Xoh6rlrprkuYnliIbmnpDlmaggLS0+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxhbmFseXplciBjbGFzcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBqZWRpc0NsaWVudC5oZGVsKENPTlRFTlRfTElTVF9LRVksICk7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5Yig6ZmkCiAgICAgKiBAcGFyYW0gY29udGVudAogICAgICogQHJldHVybgogICAgICovCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudXRpbC5TdHJpbmdVdGlsczsK</text>
+        <text encoding="base64">ICAgICAgICBqZWRpc0NsaWVudC5oZGVsKENPTlRFTlRfTElTVF9LRVksICk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8JCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudXRpbC5TdHJpbmdVdGlsczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8JCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUJvb2xlYW4gZXhpc3RzKFN0cmluZyBrZXkpOwoJTG9uZyBleHBpcmUoU3RyaW5nIGtleSwgaW50IHNlY29uZHMpOwoJTG9uZyB0dGwoU3RyaW5nIGtleSk7CglMb25nIGluY3IoU3RyaW5nIGtleSk7Cg==</text>
+        <text encoding="base64">Ly8JCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
