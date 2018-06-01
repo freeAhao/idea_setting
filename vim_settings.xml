@@ -54,6 +54,7 @@
         <mark key="^" line="34" column="34" />
         <mark key="." line="34" column="34" />
       </file>
+      <file name="$USER_HOME$/dev/e3parent/docker/fastdfs/run.sh" timestamp="1527860347889" />
       <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/java/net/ddns/dzy/e3mall/controller/PageController.java" timestamp="1527746747473">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -221,7 +222,7 @@
         <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/dev/tmp/lucene_demo/business-electronically-search/pom.xml" timestamp="1527857689096" />
-      <file name="$USER_HOME$/dev/e3parent/docker/run.sh" timestamp="1527855680688">
+      <file name="$USER_HOME$/dev/e3parent/docker/run.sh" timestamp="1527860275097">
         <mark key="[" line="1" column="53" />
         <mark key="]" line="1" column="57" />
         <mark key="^" line="1" column="57" />
