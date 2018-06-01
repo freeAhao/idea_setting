@@ -3,13 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/resources/spring/applicationContext-manager-transaction.xml" timestamp="1527764062798">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="27" column="81" />
-        <mark key="]" line="27" column="96" />
-        <mark key="." line="27" column="96" />
-        <mark key="^" line="27" column="96" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.7.2/jedis-2.7.2.jar!/redis/clients/util/ClusterNodeInformationParser.class" timestamp="1527837403778" />
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-pojo/src/main/java/net/ddns/dzy/e3mall/pojo/TbItemParam.java" timestamp="1527744164693">
         <mark key="[" line="18" column="52" />
         <mark key="]" line="20" column="34" />
@@ -20,19 +14,14 @@
         <mark key="[" line="41" column="26" />
         <mark key="]" line="41" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/resources/spring/springmvc-portal.xml" timestamp="1527783176814">
-        <mark key="'" line="39" column="37" />
-        <mark key="[" line="39" column="86" />
-        <mark key="]" line="39" column="87" />
-        <mark key="." line="39" column="87" />
-        <mark key="^" line="39" column="79" />
-      </file>
       <file name="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/resources/spring/springmvc.xml" timestamp="1527754434491">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
         <mark key="^" line="28" column="35" />
       </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/main/resources/spring/applicationContext-content-dao.xml" timestamp="1527840137471" />
+      <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/JedisPool.java" timestamp="1527840175581" />
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/webapp/WEB-INF/web.xml" timestamp="1527761225260">
         <mark key="[" line="12" column="53" />
         <mark key="]" line="12" column="60" />
@@ -50,20 +39,10 @@
         <mark key="]" line="81" column="16" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.8/mybatis-3.2.8.jar!/org/apache/ibatis/builder/xml/mybatis-3-mapper.dtd" timestamp="1527774352605">
-        <mark key="'" line="178" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/main/java/net/ddns/dzy/e3mall/content/service/impl/ContentCategoryServiceImpl.java" timestamp="1527777542014">
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="31" />
         <mark key="." line="105" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/test/java/net/ddns/dzy/e3mall/manager/service/PublishManagerServer.java" timestamp="1527772152564">
-        <mark key="'" line="26" column="18" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="35" column="4" />
-        <mark key="^" line="34" column="34" />
-        <mark key="." line="34" column="34" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/java/net/ddns/dzy/e3mall/controller/PageController.java" timestamp="1527746747473">
         <mark key="[" line="20" column="0" />
@@ -79,17 +58,23 @@
       <file name="/tb_content_category [e3mall@localhost]" timestamp="1527784370719">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/jedis/JedisClient.java" timestamp="1527839563665">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="5" column="13" />
+        <mark key="^" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/resources/spring/applicationContext-manager-service.xml" timestamp="1527772362706">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="^" line="13" column="79" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/pom.xml" timestamp="1527763263180">
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="19" column="16" />
-        <mark key="." line="19" column="16" />
-        <mark key="^" line="19" column="16" />
+      <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/main/resources/config/db.properties" timestamp="1527840121039" />
+      <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/pom.xml" timestamp="1527839679602">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/web.xml" timestamp="1527762385243">
         <mark key="[" line="28" column="28" />
@@ -103,11 +88,19 @@
         <mark key="." line="39" column="22" />
         <mark key="^" line="39" column="22" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.7.2/jedis-2.7.2.jar!/redis/clients/jedis/JedisCluster.class" timestamp="1527837356411" />
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/java/net/ddns/dzy/e3mall/manager/service/impl/ContentCategoryServiceImpl.java" timestamp="1527761649062">
         <mark key="[" line="20" column="75" />
         <mark key="]" line="21" column="3" />
         <mark key="." line="21" column="3" />
         <mark key="^" line="21" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/main/resources/spring/applicationContext-content-redis.xml" timestamp="1527841780685">
+        <mark key="'" line="16" column="2" />
+        <mark key="[" line="46" column="7" />
+        <mark key="]" line="46" column="29" />
+        <mark key="." line="46" column="29" />
+        <mark key="^" line="46" column="29" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/resources/spring/applicationContext-service.xml" timestamp="1527752065813">
         <mark key="[" line="26" column="84" />
@@ -138,6 +131,18 @@
         <mark key="." line="43" column="66" />
         <mark key="^" line="43" column="66" />
       </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/test/java/net/ddns/dzy/e3mall/content/service/JedisClientTest.java" timestamp="1527841796959">
+        <mark key="'" line="10" column="32" />
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="36" />
+        <mark key="." line="21" column="36" />
+        <mark key="^" line="21" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-common/pom.xml" timestamp="1527839673915">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-interface/pom.xml" timestamp="1527762977348">
         <mark key="[" line="12" column="28" />
         <mark key="]" line="13" column="1" />
@@ -149,43 +154,22 @@
         <mark key="]" line="19" column="16" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/test/java/net/ddns/dzy/e3mall/content/service/PublishContentService.java" timestamp="1527772188131">
-        <mark key="'" line="13" column="3" />
-        <mark key="[" line="21" column="28" />
-        <mark key="]" line="21" column="34" />
-        <mark key="." line="21" column="34" />
-        <mark key="^" line="21" column="34" />
-      </file>
       <file name="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/utils/FastDFSClient.java" timestamp="1527688019212">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-interface/src/main/java/net/ddns/dzy/e3mall/content/service/ContentService.java" timestamp="1527777981602">
-        <mark key="'" line="14" column="6" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="38" column="20" />
-        <mark key="^" line="38" column="20" />
-        <mark key="." line="38" column="20" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1527776496023">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-dao/src/main/resources/net/ddns/dzy/e3mall/manager/mapper/TbContentCategoryMapper.xml" timestamp="1527774767041">
-        <mark key="'" line="1" column="73" />
-        <mark key="[" line="104" column="118" />
-        <mark key="]" line="104" column="119" />
-        <mark key="^" line="104" column="119" />
-        <mark key="." line="104" column="119" />
-      </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-content/pom.xml" timestamp="1527764229670">
-        <mark key="'" line="11" column="20" />
-        <mark key="[" line="43" column="19" />
-        <mark key="]" line="43" column="20" />
-        <mark key="." line="43" column="20" />
-        <mark key="^" line="44" column="1" />
+      <file name="$USER_HOME$/dev/e3parent/pom.xml" timestamp="1527838650465">
+        <mark key="'" line="226" column="17" />
+        <mark key="[" line="47" column="23" />
+        <mark key="]" line="47" column="28" />
+        <mark key="." line="47" column="28" />
+        <mark key="^" line="47" column="28" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/main/resources/spring/applicationContext-service.xml" timestamp="1527758265921">
         <mark key="[" line="20" column="41" />
@@ -213,13 +197,6 @@
         <mark key="]" line="5" column="34" />
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
-      </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-manager-web/pom.xml" timestamp="1527773178148">
-        <mark key="'" line="119" column="8" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="22" column="27" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/resources/spring/applicationContext-dao.xml" timestamp="1527729906919">
         <mark key="[" line="19" column="48" />
@@ -255,7 +232,19 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527772611039">
+      <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/test/java/net/ddns/dzy/e3mall/content/service/JedisTest.java" timestamp="1527839161828">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/jedis/JedisClientCluster.java" timestamp="1527840405008">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="9" column="57" />
+        <mark key="." line="9" column="57" />
+        <mark key="^" line="9" column="57" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1527841354303">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -276,6 +265,12 @@
         <mark key="[" line="68" column="14" />
         <mark key="]" line="68" column="14" />
         <mark key="." line="68" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/jedis/JedisClientPool.java" timestamp="1527840230361">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="48" />
+        <mark key="." line="10" column="48" />
+        <mark key="^" line="10" column="48" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/resources/spring/springmvc.xml" timestamp="1527760861052">
         <mark key="[" line="12" column="60" />
@@ -298,13 +293,6 @@
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-portal-web/pom.xml" timestamp="1527783114846">
-        <mark key="'" line="107" column="19" />
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="26" />
-        <mark key="." line="18" column="26" />
-        <mark key="^" line="18" column="26" />
-      </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-dao/pom.xml" timestamp="1527761910238">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -316,40 +304,17 @@
         <mark key="^" line="36" column="8" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/main/resources/spring/applicationContext-content-service.xml" timestamp="1527772367821">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="124" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="16" column="36" />
+      <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/main/resources/spring/applicationContext-content-service.xml" timestamp="1527839807122">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="25" column="1" />
+        <mark key="." line="25" column="1" />
+        <mark key="^" line="25" column="1" />
+      </file>
+      <file name="/fragment.java" timestamp="1527841354316">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="141" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-param-edit.jsp" />
-      <jump line="121" column="32" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-param-list.jsp" />
-      <jump line="131" column="0" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-param-list.jsp" />
-      <jump line="25" column="57" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-param-add.jsp" />
-      <jump line="85" column="10" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-param-add.jsp" />
-      <jump line="40" column="19" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-param-add.jsp" />
-      <jump line="43" column="51" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-param-add.jsp" />
-      <jump line="105" column="4" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/js/common.js" />
-      <jump line="191" column="31" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/js/common.js" />
-      <jump line="192" column="51" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/js/common.js" />
-      <jump line="127" column="47" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/js/common.js" />
-      <jump line="128" column="57" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/js/common.js" />
-      <jump line="130" column="73" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/js/common.js" />
-      <jump line="131" column="75" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/js/common.js" />
-      <jump line="134" column="59" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/js/common.js" />
-      <jump line="62" column="43" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-param-list.jsp" />
-      <jump line="5" column="53" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-param-edit.jsp" />
-      <jump line="6" column="43" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-param-edit.jsp" />
-      <jump line="7" column="34" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-param-edit.jsp" />
-      <jump line="8" column="33" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-param-edit.jsp" />
-      <jump line="150" column="5" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/js/common.js" />
-      <jump line="250" column="0" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/js/common.js" />
-      <jump line="9" column="5" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/js/common.js" />
-      <jump line="107" column="33" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-param-list.jsp" />
-      <jump line="36" column="0" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/java/net/ddns/dzy/e3mall/controller/ItemParamController.java" />
-      <jump line="176" column="22" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-param-list.jsp" />
       <jump line="181" column="0" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-param-list.jsp" />
       <jump line="44" column="12" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-param-edit.jsp" />
       <jump line="117" column="0" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-param-edit.jsp" />
@@ -424,58 +389,84 @@
       <jump line="178" column="0" filename="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.8/mybatis-3.2.8.jar!/org/apache/ibatis/builder/xml/mybatis-3-mapper.dtd" />
       <jump line="1" column="73" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-dao/src/main/resources/net/ddns/dzy/e3mall/manager/mapper/TbContentCategoryMapper.xml" />
       <jump line="12" column="6" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-interface/src/main/java/net/ddns/dzy/e3mall/content/service/ContentService.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/test/java/net/ddns/dzy/e3mall/content/service/JedisTest.java" />
+      <jump line="4" column="12" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/test/java/net/ddns/dzy/e3mall/content/service/JedisTest.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/test/java/net/ddns/dzy/e3mall/content/service/JedisTest.java" />
+      <jump line="15" column="24" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/test/java/net/ddns/dzy/e3mall/content/service/JedisTest.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/test/java/net/ddns/dzy/e3mall/content/service/JedisTest.java" />
+      <jump line="37" column="54" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/test/java/net/ddns/dzy/e3mall/content/service/JedisTest.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/test/java/net/ddns/dzy/e3mall/content/service/JedisTest.java" />
+      <jump line="21" column="45" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/test/java/net/ddns/dzy/e3mall/content/service/JedisTest.java" />
+      <jump line="64" column="24" filename="$USER_HOME$/dev/e3parent/pom.xml" />
+      <jump line="233" column="19" filename="$USER_HOME$/dev/e3parent/pom.xml" />
+      <jump line="21" column="0" filename="$USER_HOME$/dev/e3parent/pom.xml" />
+      <jump line="225" column="17" filename="$USER_HOME$/dev/e3parent/pom.xml" />
+      <jump line="324" column="0" filename="$USER_HOME$/dev/e3parent/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/e3parent/pom.xml" />
+      <jump line="22" column="0" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/test/java/net/ddns/dzy/e3mall/content/service/JedisTest.java" />
+      <jump line="52" column="25" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/test/java/net/ddns/dzy/e3mall/content/service/JedisTest.java" />
+      <jump line="74" column="0" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/test/java/net/ddns/dzy/e3mall/content/service/JedisTest.java" />
+      <jump line="90" column="6" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/test/java/net/ddns/dzy/e3mall/content/service/JedisTest.java" />
+      <jump line="33" column="6" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/test/java/net/ddns/dzy/e3mall/content/service/JedisTest.java" />
+      <jump line="87" column="2" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/test/java/net/ddns/dzy/e3mall/content/service/JedisTest.java" />
+      <jump line="91" column="0" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/test/java/net/ddns/dzy/e3mall/content/service/JedisTest.java" />
+      <jump line="238" column="0" filename="$USER_HOME$/dev/e3parent/pom.xml" />
+      <jump line="47" column="35" filename="$USER_HOME$/dev/e3parent/pom.xml" />
+      <jump line="226" column="17" filename="$USER_HOME$/dev/e3parent/pom.xml" />
+      <jump line="10" column="32" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/test/java/net/ddns/dzy/e3mall/content/service/JedisClientTest.java" />
+      <jump line="16" column="2" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/main/resources/spring/applicationContext-content-redis.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ad1</text>
+        <text>jedisClientPool</text>
       </register>
       <register name="-" type="4">
-        <text>ad1</text>
+        <text>jedisClientPool</text>
       </register>
       <register name="/" type="4">
-        <text>insert</text>
+        <text>redis</text>
       </register>
-      <register name="0" type="4">
-        <text>ad1List</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIEBRdWFsaWZpZXIoImplZGlzQ2xpZW50UG9vbCIpCiAgICBwcml2YXRlIEplZGlzQ2xpZW50IGplZGlzQ2xpZW50Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8IS0tPGR1YmJvOnJlZmVyZW5jZSBpbnRlcmZhY2U9Im5ldC5kZG5zLmR6eS5lM21hbGwubWFuYWdlci5zZXJ2aWNlLkl0ZW1DYXRTZXJ2aWNlIiBpZD0iaXRlbUNhdFNlcnZpY2UiIHRpbWVvdXQ9IjM2MDAwMDAiLz4tLT4KICA8IS0tPGR1YmJvOnJlZmVyZW5jZSBpbnRlcmZhY2U9Im5ldC5kZG5zLmR6eS5lM21hbGwubWFuYWdlci5zZXJ2aWNlLkl0ZW1EZXNjU2VydmljZSIgaWQ9Iml0ZW1EZXNjU2VydmljZSIgdGltZW91dD0iMzYwMDAwMCIvPi0tPgogIDwhLS08ZHViYm86cmVmZXJlbmNlIGludGVyZmFjZT0ibmV0LmRkbnMuZHp5LmUzbWFsbC5tYW5hZ2VyLnNlcnZpY2UuSXRlbVBhcmFtU2VydmljZSIgaWQ9Iml0ZW1QYXJhbVNlcnZpY2UiIHRpbWVvdXQ9IjM2MDAwMDAiLz4tLT4KICA8IS0tPGR1YmJvOnJlZmVyZW5jZSBpbnRlcmZhY2U9Im5ldC5kZG5zLmR6eS5lM21hbGwubWFuYWdlci5zZXJ2aWNlLkNvbnRlbnRDYXRlZ29yeVNlcnZpY2UiIGlkPSJjb250ZW50Q2F0ZWdvcnlTZXJ2aWNlIiB0aW1lb3V0PSIzNjAwMDAwIi8+LS0+CiAgPCEtLTxkdWJibzpyZWZlcmVuY2UgaW50ZXJmYWNlPSJuZXQuZGRucy5kenkuZTNtYWxsLm1hbmFnZXIuc2VydmljZS5Db250ZW50U2VydmljZSIgaWQ9ImNvbnRlbnRTZXJ2aWNlIiB0aW1lb3V0PSIzNjAwMDAwIi8+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNoaWxkQ291bnQ9PTApewo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3JpdGVyaWEuYW5kU3RhdHVzRXF1YWxUbygxKTsK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3JpdGVyaWEuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50Q2F0ZWdvcnlNYXBwZXIuaW5zZXJ0KGNvbnRlbnRDYXRlZ29yeSk7Cg==</text>
+        <text encoding="base64">ICAgICAgPHNldD48L3NldD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvY29uc3RydWN0b3ItYXJnPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb250Cg==</text>
+        <text encoding="base64">ICAgICAgPAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50Q2F0ZWdvcnlNYXBwZXIudXBkYXRlQnlQcmltYXJ5S2V5U2VsZWN0aXZlKHBhcmVudENvbnRlbnRDYXRlZ29yeSk7Cg==</text>
+        <text encoding="base64">ICAgIDwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>insert</last-search>
+      <last-search>redis</last-search>
       <last-offset />
-      <last-pattern>insert</last-pattern>
+      <last-pattern>redis</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>not-null=&quot;true&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -483,9 +474,6 @@
     </search>
     <history>
       <history-search>
-        <entry>append</entry>
-        <entry>select</entry>
-        <entry>selectItemCat</entry>
         <entry>add</entry>
         <entry>close</entry>
         <entry>addGroup</entry>
@@ -503,6 +491,9 @@
         <entry>list</entry>
         <entry>use</entry>
         <entry>insert</entry>
+        <entry>jedis</entry>
+        <entry>service</entry>
+        <entry>redis</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
@@ -520,10 +511,10 @@
         <entry>qa</entry>
         <entry>&quot;w</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>wqa</entry>
         <entry>vs</entry>
-        <entry>q</entry>
         <entry>wq</entry>
+        <entry>q</entry>
+        <entry>wqa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
