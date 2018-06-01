@@ -331,6 +331,7 @@
         <mark key="]" line="68" column="14" />
         <mark key="." line="68" column="14" />
       </file>
+      <file name="$USER_HOME$/dev/e3parent/docker/Dockerfile" timestamp="1527855690354" />
       <file name="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/jedis/JedisClientPool.java" timestamp="1527846869321">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="10" column="48" />
@@ -383,6 +384,12 @@
         <mark key="]" line="25" column="1" />
         <mark key="." line="25" column="1" />
         <mark key="^" line="25" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/e3parent/docker/run.sh" timestamp="1527855680688">
+        <mark key="[" line="1" column="53" />
+        <mark key="]" line="1" column="57" />
+        <mark key="^" line="1" column="57" />
+        <mark key="." line="1" column="57" />
       </file>
       <file name="/fragment.java" timestamp="1527851465672">
         <mark key="[" line="0" column="0" />
@@ -534,7 +541,7 @@
         <text encoding="base64">CUJvb2xlYW4gZXhpc3RzKFN0cmluZyBrZXkpOwoJTG9uZyBleHBpcmUoU3RyaW5nIGtleSwgaW50IHNlY29uZHMpOwoJTG9uZyB0dGwoU3RyaW5nIGtleSk7CglMb25nIGluY3IoU3RyaW5nIGtleSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -586,10 +593,10 @@
         <entry>&quot;w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>vs</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>wqa</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
