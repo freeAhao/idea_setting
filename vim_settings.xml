@@ -267,6 +267,7 @@
         <mark key="^" line="20" column="19" />
         <mark key="." line="20" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/tmp/business-electronically-search-demo/src/main/java/net/ddns/dzy/controller/MainController.java" timestamp="1527855029639" />
       <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/test/java/net/ddns/dzy/e3mall/fastdfs/FastDFSClientTest.java" timestamp="1527690331445">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -351,12 +352,14 @@
       <file name="/tb_content [e3mall@localhost]" timestamp="1527778083850">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/tmp/business-electronically-search-demo/src/main/java/net/ddns/dzy/domain/ProductQueryVo.java" timestamp="1527855022071" />
       <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/java/net/ddns/dzy/e3mall/manager/controller/ContentController.java" timestamp="1527772484432">
         <mark key="[" line="5" column="27" />
         <mark key="]" line="5" column="34" />
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
       </file>
+      <file name="$USER_HOME$/dev/tmp/business-electronically-search-demo/src/main/java/net/ddns/dzy/service/ProductServiceImpl.java" timestamp="1527855005902" />
       <file name="$USER_HOME$/dev/e3parent/e3-portal-web/pom.xml" timestamp="1527783114846">
         <mark key="'" line="107" column="19" />
         <mark key="[" line="18" column="15" />
