@@ -92,7 +92,7 @@
         <mark key="." line="13" column="10" />
         <mark key="^" line="13" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/resources/spring/applicationContext-manager-service.xml" timestamp="1527772362706">
+      <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/resources/spring/applicationContext-manager-service.xml" timestamp="1527856533067">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="^" line="13" column="79" />
@@ -331,7 +331,12 @@
         <mark key="]" line="68" column="14" />
         <mark key="." line="68" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/docker/Dockerfile" timestamp="1527855690354" />
+      <file name="$USER_HOME$/dev/e3parent/docker/Dockerfile" timestamp="1527856374618">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+      </file>
       <file name="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/jedis/JedisClientPool.java" timestamp="1527846869321">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="10" column="48" />
@@ -541,7 +546,7 @@
         <text encoding="base64">CUJvb2xlYW4gZXhpc3RzKFN0cmluZyBrZXkpOwoJTG9uZyBleHBpcmUoU3RyaW5nIGtleSwgaW50IHNlY29uZHMpOwoJTG9uZyB0dGwoU3RyaW5nIGtleSk7CglMb25nIGluY3IoU3RyaW5nIGtleSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -595,8 +600,8 @@
         <entry>vs</entry>
         <entry>q</entry>
         <entry>wqa</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
