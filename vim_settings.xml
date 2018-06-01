@@ -3,12 +3,26 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/resources/spring/applicationContext-manager-transaction.xml" timestamp="1527764062798">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="27" column="81" />
+        <mark key="]" line="27" column="96" />
+        <mark key="." line="27" column="96" />
+        <mark key="^" line="27" column="96" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.7.2/jedis-2.7.2.jar!/redis/clients/util/ClusterNodeInformationParser.class" timestamp="1527837403778" />
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-pojo/src/main/java/net/ddns/dzy/e3mall/pojo/TbItemParam.java" timestamp="1527744164693">
         <mark key="[" line="18" column="52" />
         <mark key="]" line="20" column="34" />
         <mark key="^" line="20" column="34" />
         <mark key="." line="20" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/resources/spring/springmvc-portal.xml" timestamp="1527783176814">
+        <mark key="'" line="39" column="37" />
+        <mark key="[" line="39" column="86" />
+        <mark key="]" line="39" column="87" />
+        <mark key="." line="39" column="87" />
+        <mark key="^" line="39" column="79" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/resources/spring/springmvc.xml" timestamp="1527754434491">
         <mark key="[" line="35" column="0" />
@@ -50,6 +64,13 @@
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="31" />
         <mark key="." line="105" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/test/java/net/ddns/dzy/e3mall/manager/service/PublishManagerServer.java" timestamp="1527772152564">
+        <mark key="'" line="26" column="18" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="35" column="4" />
+        <mark key="^" line="34" column="34" />
+        <mark key="." line="34" column="34" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/java/net/ddns/dzy/e3mall/controller/PageController.java" timestamp="1527746747473">
         <mark key="[" line="20" column="0" />
@@ -160,10 +181,24 @@
         <mark key="]" line="19" column="16" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/test/java/net/ddns/dzy/e3mall/content/service/PublishContentService.java" timestamp="1527772188131">
+        <mark key="'" line="13" column="3" />
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="21" column="34" />
+        <mark key="." line="21" column="34" />
+        <mark key="^" line="21" column="34" />
+      </file>
       <file name="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/utils/FastDFSClient.java" timestamp="1527688019212">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-interface/src/main/java/net/ddns/dzy/e3mall/content/service/ContentService.java" timestamp="1527852874205">
+        <mark key="'" line="14" column="6" />
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="38" column="8" />
+        <mark key="^" line="38" column="8" />
+        <mark key="." line="38" column="8" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/utils/JsonUtil.java" timestamp="1527847174250" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1527776496023">
@@ -177,6 +212,20 @@
         <mark key="]" line="47" column="28" />
         <mark key="." line="47" column="28" />
         <mark key="^" line="47" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-dao/src/main/resources/net/ddns/dzy/e3mall/manager/mapper/TbContentCategoryMapper.xml" timestamp="1527774767041">
+        <mark key="'" line="1" column="73" />
+        <mark key="[" line="104" column="118" />
+        <mark key="]" line="104" column="119" />
+        <mark key="^" line="104" column="119" />
+        <mark key="." line="104" column="119" />
+      </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-content/pom.xml" timestamp="1527764229670">
+        <mark key="'" line="11" column="20" />
+        <mark key="[" line="43" column="19" />
+        <mark key="]" line="43" column="20" />
+        <mark key="." line="43" column="20" />
+        <mark key="^" line="44" column="1" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/main/resources/spring/applicationContext-service.xml" timestamp="1527758265921">
         <mark key="[" line="20" column="41" />
@@ -204,6 +253,13 @@
         <mark key="]" line="5" column="34" />
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-manager-web/pom.xml" timestamp="1527773178148">
+        <mark key="'" line="119" column="8" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="22" column="27" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/resources/spring/applicationContext-dao.xml" timestamp="1527729906919">
         <mark key="[" line="19" column="48" />
@@ -262,12 +318,12 @@
         <mark key="^" line="18" column="26" />
         <mark key="." line="18" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/main/java/net/ddns/dzy/e3mall/content/service/impl/ContentServiceImpl.java" timestamp="1527852644491">
-        <mark key="'" line="98" column="0" />
-        <mark key="[" line="40" column="43" />
-        <mark key="]" line="40" column="62" />
-        <mark key="." line="40" column="62" />
-        <mark key="^" line="40" column="62" />
+      <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/main/java/net/ddns/dzy/e3mall/content/service/impl/ContentServiceImpl.java" timestamp="1527853815669">
+        <mark key="'" line="114" column="0" />
+        <mark key="[" line="26" column="59" />
+        <mark key="]" line="27" column="3" />
+        <mark key="." line="27" column="3" />
+        <mark key="^" line="27" column="3" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/content-edit.jsp" timestamp="1527752295510">
         <mark key="[" line="68" column="14" />
@@ -300,6 +356,13 @@
         <mark key="]" line="5" column="34" />
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-portal-web/pom.xml" timestamp="1527783114846">
+        <mark key="'" line="107" column="19" />
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="26" />
+        <mark key="." line="18" column="26" />
+        <mark key="^" line="18" column="26" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-dao/pom.xml" timestamp="1527761910238">
         <mark key="[" line="20" column="0" />
@@ -426,46 +489,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIEBRdWFsaWZpZXIoImplZGlzQ2xpZW50UG9vbCIpCiAgICBwcml2YXRlIEplZGlzQ2xpZW50IGplZGlzQ2xpZW50Owo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5L+d5a2YCiAgICAgKiBAcGFyYW0gY29udGVudAogICAgICogQHJldHVybgogICAgICovCiAgICBSZXN1bHQgYWRkQ29udGVudChUYkNvbnRlbnQgY29udGVudCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5Yig6ZmkCiAgICAgKiBAcGFyYW0gY29udGVudAogICAgICogQHJldHVybgogICAgICovCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudXRpbC5TdHJpbmdVdGlsczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkK</text>
+        <text encoding="base64">ICAgICAgICBqZWRpc0NsaWVudC5oZGVsKENPTlRFTlRfTElTVF9LRVksICk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8JCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8JCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudXRpbC5TdHJpbmdVdGlsczsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUJvb2xlYW4gZXhpc3RzKFN0cmluZyBrZXkpOwoJTG9uZyBleHBpcmUoU3RyaW5nIGtleSwgaW50IHNlY29uZHMpOwoJTG9uZyB0dGwoU3RyaW5nIGtleSk7CglMb25nIGluY3IoU3RyaW5nIGtleSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBqZWRpc0NsaWVudC4K</text>
+        <text encoding="base64">Ly8JCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8JCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUJvb2xlYW4gZXhpc3RzKFN0cmluZyBrZXkpOwoJTG9uZyBleHBpcmUoU3RyaW5nIGtleSwgaW50IHNlY29uZHMpOwoJTG9uZyB0dGwoU3RyaW5nIGtleSk7CglMb25nIGluY3IoU3RyaW5nIGtleSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
