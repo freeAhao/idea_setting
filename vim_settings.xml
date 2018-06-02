@@ -188,12 +188,12 @@
       <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-add.jsp" timestamp="1527931744458">
         <mark key="'" line="25" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/docker/solorcloud/README.MD" timestamp="1527956591917">
-        <mark key="'" line="2" column="1" />
-        <mark key="[" line="21" column="12" />
-        <mark key="]" line="21" column="11" />
-        <mark key="." line="21" column="11" />
-        <mark key="^" line="21" column="11" />
+      <file name="$USER_HOME$/dev/e3parent/docker/solorcloud/README.MD" timestamp="1527961975078">
+        <mark key="'" line="75" column="12" />
+        <mark key="[" line="56" column="19" />
+        <mark key="]" line="56" column="28" />
+        <mark key="." line="56" column="28" />
+        <mark key="^" line="56" column="28" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/java/net/ddns/dzy/e3mall/manager/service/impl/ContentCategoryServiceImpl.java" timestamp="1527761649062">
         <mark key="[" line="20" column="75" />
@@ -513,10 +513,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="11" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/schema.xml" />
-      <jump line="118" column="25" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/schema.xml" />
-      <jump line="120" column="87" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/schema.xml" />
-      <jump line="122" column="0" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/schema.xml" />
       <jump line="36" column="8" filename="$USER_HOME$/dev/e3parent/e3-content/pom.xml" />
       <jump line="25" column="0" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/pom.xml" />
       <jump line="15" column="0" filename="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/pom.xml" />
@@ -613,52 +609,56 @@
       <jump line="53" column="13" filename="$USER_HOME$/dev/e3parent/e3-search-web/src/main/webapp/WEB-INF/jsp/search.jsp" />
       <jump line="55" column="26" filename="$USER_HOME$/dev/e3parent/e3-search-web/src/main/webapp/WEB-INF/jsp/search.jsp" />
       <jump line="2" column="1" filename="$USER_HOME$/dev/e3parent/docker/solorcloud/README.MD" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/e3parent/docker/solorcloud/README.MD" />
+      <jump line="13" column="4" filename="$USER_HOME$/dev/e3parent/docker/solorcloud/README.MD" />
+      <jump line="23" column="20" filename="$USER_HOME$/dev/e3parent/docker/solorcloud/README.MD" />
+      <jump line="65" column="12" filename="$USER_HOME$/dev/e3parent/docker/solorcloud/README.MD" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>my</text>
+        <text>意</text>
       </register>
       <register name="-" type="4">
-        <text>my</text>
+        <text>意</text>
       </register>
       <register name="/" type="4">
         <text>not-null=&quot;true&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZG9ja2VyIHJ1biAtLW5hbWUgc29scjEgLS1uZXQgc29scm5ldDEgLS1pcCAxMC44OS44OS4xMSAtcCA5OTgzOjg5ODMgLWQgc29sciBzb2xyLWZvcmVncm91bmQgLWYgLXogMTAuODkuODkuMTA6MjE4MQo=</text>
+      <register name="0" type="4">
+        <text>zookeeper1Ip:port</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZG9ja2VyIAo=</text>
+        <text encoding="base64">ICAgICAgICAgCiAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">5Yib5bu6572R57ucCg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">M+WPsHpvb2tlZXBlcue7hOaIkOeahHpvb2tlZXBlcumbhue+pAo=</text>
+        <text encoding="base64">IyBzb2xyIHRvbWNhdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICMgc29scmhvbWUK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW1hZ2VzPSIiCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -710,10 +710,10 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>wqa</entry>
-        <entry>w</entry>
         <entry>s</entry>
         <entry>split</entry>
         <entry>vs</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
