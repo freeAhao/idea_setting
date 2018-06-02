@@ -188,12 +188,12 @@
       <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-add.jsp" timestamp="1527931744458">
         <mark key="'" line="25" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/docker/solorcloud/README.MD" timestamp="1527953597290">
+      <file name="$USER_HOME$/dev/e3parent/docker/solorcloud/README.MD" timestamp="1527956591917">
         <mark key="'" line="2" column="1" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="2" column="1" />
-        <mark key="." line="11" column="0" />
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="11" />
+        <mark key="." line="21" column="11" />
+        <mark key="^" line="21" column="11" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/java/net/ddns/dzy/e3mall/manager/service/impl/ContentCategoryServiceImpl.java" timestamp="1527761649062">
         <mark key="[" line="20" column="75" />
@@ -615,17 +615,17 @@
       <jump line="2" column="1" filename="$USER_HOME$/dev/e3parent/docker/solorcloud/README.MD" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>my</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>my</text>
       </register>
       <register name="/" type="4">
-        <text>price</text>
+        <text>not-null=&quot;true&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvZGVsZXRlIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5QT1NUKQogICAgcHVibGljIFJlc3VsdCBkZWxldGVJdGVtKExvbmdbXSBpZHMpewogICAgICAgIAo=</text>
+        <text encoding="base64">ZG9ja2VyIHJ1biAtLW5hbWUgc29scjEgLS1uZXQgc29scm5ldDEgLS1pcCAxMC44OS44OS4xMSAtcCA5OTgzOjg5ODMgLWQgc29sciBzb2xyLWZvcmVncm91bmQgLWYgLXogMTAuODkuODkuMTA6MjE4MQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -634,37 +634,37 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZG9ja2VyIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">M+WPsHpvb2tlZXBlcue7hOaIkOeahHpvb2tlZXBlcumbhue+pAo=</text>
+        <text encoding="base64">5Yib5bu6572R57ucCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW1hZ2VzPSIiCg==</text>
+        <text encoding="base64">M+WPsHpvb2tlZXBlcue7hOaIkOeahHpvb2tlZXBlcumbhue+pAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaW1hZ2VzOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc29sci5jbGllbnQuc29scmouU29sclF1ZXJ5Owo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW1hZ2VzPSIiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search>price</last-search>
+      <last-search>not-null=&quot;true&quot;</last-search>
       <last-offset />
-      <last-pattern>price</last-pattern>
+      <last-pattern>not-null=&quot;true&quot;</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>not-null=&quot;true&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -672,7 +672,6 @@
     </search>
     <history>
       <history-search>
-        <entry>insert</entry>
         <entry>jedis</entry>
         <entry>service</entry>
         <entry>redis</entry>
@@ -692,13 +691,12 @@
         <entry>0</entry>
         <entry>rest</entry>
         <entry>price</entry>
+        <entry>not-null=&quot;true&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>sp</entry>
         <entry>n</entry>
         <entry>%s/not-null=&quot;true&quot;/ /gc</entry>
         <entry>Q</entry>
-        <entry>split</entry>
         <entry>ws</entry>
         <entry>qw</entry>
         <entry>Wqa</entry>
@@ -709,11 +707,13 @@
         <entry>&quot;w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qa</entry>
-        <entry>vs</entry>
         <entry>q</entry>
         <entry>wq</entry>
         <entry>wqa</entry>
         <entry>w</entry>
+        <entry>s</entry>
+        <entry>split</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
