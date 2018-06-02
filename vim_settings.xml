@@ -188,11 +188,11 @@
       <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-add.jsp" timestamp="1527931744458">
         <mark key="'" line="25" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/docker/solorcloud/README.MD" timestamp="1527962720060">
+      <file name="$USER_HOME$/dev/e3parent/docker/solorcloud/README.MD" timestamp="1527963386632">
         <mark key="'" line="75" column="12" />
-        <mark key="[" line="24" column="16" />
-        <mark key="]" line="24" column="15" />
-        <mark key="." line="24" column="15" />
+        <mark key="[" line="28" column="30" />
+        <mark key="]" line="28" column="31" />
+        <mark key="." line="28" column="31" />
         <mark key="^" line="24" column="15" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/java/net/ddns/dzy/e3mall/manager/service/impl/ContentCategoryServiceImpl.java" timestamp="1527761649062">
