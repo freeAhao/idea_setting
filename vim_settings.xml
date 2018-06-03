@@ -262,10 +262,12 @@
         <mark key="." line="13" column="1" />
         <mark key="^" line="13" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" timestamp="1528021398569">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" timestamp="1528021815333">
+        <mark key="'" line="132" column="0" />
+        <mark key="[" line="87" column="19" />
+        <mark key="]" line="87" column="19" />
+        <mark key="." line="87" column="19" />
+        <mark key="^" line="87" column="19" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/utils/FastDFSClient.java" timestamp="1527928922125">
         <mark key="[" line="2" column="0" />
@@ -541,15 +543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="254" column="22" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/schema.xml" />
-      <jump line="256" column="49" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/schema.xml" />
-      <jump line="255" column="29" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/schema.xml" />
-      <jump line="252" column="65" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/schema.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/solrconfig.xml" />
-      <jump line="122" column="55" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/solrconfig.xml" />
-      <jump line="123" column="69" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/solrconfig.xml" />
-      <jump line="126" column="39" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/solrconfig.xml" />
-      <jump line="127" column="56" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/solrconfig.xml" />
       <jump line="128" column="42" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/solrconfig.xml" />
       <jump line="129" column="29" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/solrconfig.xml" />
       <jump line="130" column="53" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/solrconfig.xml" />
@@ -641,58 +634,67 @@
       <jump line="896" column="33" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/e3parent/docker/e3mall/docker-compose.yml" />
       <jump line="16" column="8" filename="$USER_HOME$/dev/e3parent/docker/e3mall/docker-compose.yml" />
+      <jump line="127" column="42" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
+      <jump line="39" column="23" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
+      <jump line="93" column="25" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
+      <jump line="88" column="29" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
+      <jump line="3348" column="0" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
+      <jump line="13" column="1" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
+      <jump line="2276" column="3501" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
+      <jump line="52" column="59" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
+      <jump line="132" column="0" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gYHRiX2l0ZW1gIFZBTFVFUyAoJzkxMjEwNycsICfliJvnu7QoU2t5d29ydGgpTEVEIDQyRTVESFIgNDLoi7Hlr7gg5rW36YeP5b2x6KeG6LWE5rqQ5pm66IO9572R57uc5bmz5p2/5ray5pm255S16KeG5LqM5Luj5Y2H57qn54mIKOm7keiJsiknLCAn5LqM5Luj5paw5ZOB77yB77yB5pm66IO95Y+M57O757uf77yM5q2j54mI5b2x6KeG6ZqP5b+D55yL77yM5Liw5a+M5a6J5Y2T5bqU55So77yM5aSa5bGP5LqS5Yqo77yBPGEgIHRhcmdldD1cImJsYW5rXCIgIGhyZWY9XCJodHRwOi8vam1hbGwuamQuY29tL3AxMTc1MTQuaHRtbFwiPuKAnOeMm+aIs+i/memHjO+8jOabtOWkmuaDiuWWnOKAnTwvYT4nLCAnMjQ5OTAwJywgJzk5OTk5JywgbnVsbCwgJ2h0dHA6Ly9pbWFnZS5lM21hbGwuY24vamQvZmY3OGZlYTQ3ZDIwNDM5YThlMmJiODM3Y2FlZDczODQuanBnJywgJzc2JywgJzEnLCAnMjAxNS0wMy0wOCAyMToyNzozOScsICcyMDE1LTAzLTA4IDIxOjI3OjM5Jyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>cluster</text>
+        <text>MODE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">UlVOIG15c3FsIC11cm9vdCAtcCR7TVlTUUxfUk9PVF9QQVNTV09SRH0gPCAke1NRTF9GSUxFfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gYHRiX2l0ZW1gIFZBTFVFUyAoJzkxMjEwNycsICfliJvnu7QoU2t5d29ydGgpTEVEIDQyRTVESFIgNDLoi7Hlr7gg5rW36YeP5b2x6KeG6LWE5rqQ5pm66IO9572R57uc5bmz5p2/5ray5pm255S16KeG5LqM5Luj5Y2H57qn54mIKOm7keiJsiknLCAn5LqM5Luj5paw5ZOB77yB77yB5pm66IO95Y+M57O757uf77yM5q2j54mI5b2x6KeG6ZqP5b+D55yL77yM5Liw5a+M5a6J5Y2T5bqU55So77yM5aSa5bGP5LqS5Yqo77yBPGEgIHRhcmdldD1cImJsYW5rXCIgIGhyZWY9XCJodHRwOi8vam1hbGwuamQuY29tL3AxMTc1MTQuaHRtbFwiPuKAnOeMm+aIs+i/memHjO+8jOabtOWkmuaDiuWWnOKAnTwvYT4nLCAnMjQ5OTAwJywgJzk5OTk5JywgbnVsbCwgJ2h0dHA6Ly9pbWFnZS5lM21hbGwuY24vamQvZmY3OGZlYTQ3ZDIwNDM5YThlMmJiODM3Y2FlZDczODQuanBnJywgJzc2JywgJzEnLCAnMjAxNS0wMy0wOCAyMToyNzozOScsICcyMDE1LTAzLTA4IDIxOjI3OjM5Jyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q1JFQVRFIERBVEFCQVNFIGUzbWFsbDsKVVNFIGUzbWFsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIGUzbWFsbDsK</text>
+        <text encoding="base64">Q1JFQVRFIERBVEFCQVNFIGUzbWFsbDsKVVNFIGUzbWFsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q1JFQVRFIERBVEFCQVNFIGUzbWFsbDsK</text>
+        <text encoding="base64">dXNlIGUzbWFsbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RFJPUCBEQVRBQkFTRSBlM21hbGw7Cg==</text>
+        <text encoding="base64">Q1JFQVRFIERBVEFCQVNFIGUzbWFsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOIG15c3FsIC11cm9vdCAtcCR7TVlTUUxfUk9PVF9QQVNTV09SRH0gPCAke1NRTF9GSUxFfQo=</text>
+        <text encoding="base64">RFJPUCBEQVRBQkFTRSBlM21hbGw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RU5WIFNRTF9GSUxFPS9lM21hbGwvZTNtYWxsLnNxbApDT1BZIGUzbWFsbC5zcWwgJHtTUUxfRklMRX0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">UlVOIG15c3FsIC11cm9vdCAtcCR7TVlTUUxfUk9PVF9QQVNTV09SRH0gPCAke1NRTF9GSUxFfQo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">RU5WIFNRTF9GSUxFPS9lM21hbGwvZTNtYWxsLnNxbApDT1BZIGUzbWFsbC5zcWwgJHtTUUxfRklMRX0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIG15c3FsIC11cm9vdCAtcCR7TVlTUUxfUk9PVF9QQVNTV09SRH0gPCAke1NRTF9GSUxFfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>cluster</last-search>
+      <last-search>MODE</last-search>
       <last-offset />
-      <last-pattern>cluster</last-pattern>
+      <last-pattern>MODE</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>not-null=&quot;true&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -700,10 +702,6 @@
     </search>
     <history>
       <history-search>
-        <entry>solr</entry>
-        <entry>build</entry>
-        <entry>default</entry>
-        <entry>df</entry>
         <entry>getHi</entry>
         <entry>set</entry>
         <entry>Hight</entry>
@@ -720,6 +718,10 @@
         <entry>yes</entry>
         <entry>cloud</entry>
         <entry>cluster</entry>
+        <entry>sql-mode</entry>
+        <entry>sql</entry>
+        <entry>mode</entry>
+        <entry>MODE</entry>
       </history-search>
       <history-cmd>
         <entry>n</entry>
