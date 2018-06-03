@@ -218,7 +218,7 @@
         <mark key="^" line="62" column="12" />
         <mark key="." line="62" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/docker/e3mall/docker-compose.yml" timestamp="1528017622336">
+      <file name="$USER_HOME$/dev/e3parent/docker/e3mall/docker-compose.yml" timestamp="1528018730340">
         <mark key="'" line="16" column="8" />
         <mark key="[" line="30" column="12" />
         <mark key="]" line="30" column="13" />
@@ -261,6 +261,11 @@
         <mark key="]" line="20" column="16" />
         <mark key="." line="13" column="1" />
         <mark key="^" line="13" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" timestamp="1528021398569">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/utils/FastDFSClient.java" timestamp="1527928922125">
         <mark key="[" line="2" column="0" />
@@ -422,6 +427,12 @@
         <mark key="]" line="47" column="43" />
         <mark key="." line="47" column="43" />
         <mark key="^" line="47" column="43" />
+      </file>
+      <file name="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/Dockerfile" timestamp="1528020566660">
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="2" column="42" />
+        <mark key="^" line="2" column="42" />
+        <mark key="." line="2" column="42" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/jedis/JedisClientPool.java" timestamp="1527846869321">
         <mark key="[" line="9" column="0" />
@@ -633,49 +644,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICByZWRpczI6CiAgICBpbWFnZTogJ3NoYTI1NjpiNmRkZGI5OTFkZmE1ZjhlNDliMDBkMmQ0ZmYxZTQ2ZTY1OTMxMDFhY2U5OWNjYTBmZWJmMjg3Y2FkYzRmZWJmJwogICAgdm9sdW1lczoKICAgICAgLSAnLi9yZWRpc19jbHVzdGVyLzovY29uZi8nCiAgICAgIC0gJy4vcmVkaXNfY2x1c3Rlci9kYXRhMTovZGF0YScKICAgIHBvcnRzOgogICAgICAtICc2Mzc5OjYzNzknCiAgICBjb21tYW5kOiByZWRpcy1zZXJ2ZXIgL2NvbmYvcmVkaXMuY29uZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>b6dddb991dfa</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>cluster</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICByZWRpczI6CiAgICBpbWFnZTogJ3NoYTI1NjpiNmRkZGI5OTFkZmE1ZjhlNDliMDBkMmQ0ZmYxZTQ2ZTY1OTMxMDFhY2U5OWNjYTBmZWJmMjg3Y2FkYzRmZWJmJwogICAgdm9sdW1lczoKICAgICAgLSAnLi9yZWRpc19jbHVzdGVyLzovY29uZi8nCiAgICAgIC0gJy4vcmVkaXNfY2x1c3Rlci9kYXRhMTovZGF0YScKICAgIHBvcnRzOgogICAgICAtICc2Mzc5OjYzNzknCiAgICBjb21tYW5kOiByZWRpcy1zZXJ2ZXIgL2NvbmYvcmVkaXMuY29uZgo=</text>
+        <text encoding="base64">UlVOIG15c3FsIC11cm9vdCAtcCR7TVlTUUxfUk9PVF9QQVNTV09SRH0gPCAke1NRTF9GSUxFfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZWRpczoKICAgIGltYWdlOiAnc2hhMjU2OmI2ZGRkYjk5MWRmYTVmOGU0OWIwMGQyZDRmZjFlNDZlNjU5MzEwMWFjZTk5Y2NhMGZlYmYyODdjYWRjNGZlYmYnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Q1JFQVRFIERBVEFCQVNFIGUzbWFsbDsKVVNFIGUzbWFsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">dXNlIGUzbWFsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsCg==</text>
+        <text encoding="base64">Q1JFQVRFIERBVEFCQVNFIGUzbWFsbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgCg==</text>
+        <text encoding="base64">RFJPUCBEQVRBQkFTRSBlM21hbGw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgCiAgICAgICAgIAo=</text>
+        <text encoding="base64">UlVOIG15c3FsIC11cm9vdCAtcCR7TVlTUUxfUk9PVF9QQVNTV09SRH0gPCAke1NRTF9GSUxFfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">RU5WIFNRTF9GSUxFPS9lM21hbGwvZTNtYWxsLnNxbApDT1BZIGUzbWFsbC5zcWwgJHtTUUxfRklMRX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">UlVOIG15c3FsIC11cm9vdCAtcCR7TVlTUUxfUk9PVF9QQVNTV09SRH0gPCAke1NRTF9GSUxFfQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -724,13 +735,13 @@
         <entry>&quot;w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qa</entry>
-        <entry>wq</entry>
         <entry>wqa</entry>
         <entry>s</entry>
         <entry>split</entry>
         <entry>vs</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
