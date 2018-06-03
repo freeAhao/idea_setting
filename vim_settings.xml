@@ -188,12 +188,12 @@
       <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-add.jsp" timestamp="1527931744458">
         <mark key="'" line="25" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/docker/solorcloud/README.MD" timestamp="1527966795732">
-        <mark key="'" line="75" column="12" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="45" column="5" />
+      <file name="$USER_HOME$/dev/e3parent/docker/solorcloud/README.MD" timestamp="1528014104963">
+        <mark key="'" line="82" column="12" />
+        <mark key="[" line="61" column="2" />
+        <mark key="]" line="61" column="2" />
+        <mark key="." line="61" column="2" />
+        <mark key="^" line="63" column="9" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/java/net/ddns/dzy/e3mall/manager/service/impl/ContentCategoryServiceImpl.java" timestamp="1527761649062">
         <mark key="[" line="20" column="75" />
@@ -352,7 +352,6 @@
         <mark key="^" line="26" column="90" />
         <mark key="." line="26" column="90" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/java/net/ddns/dzy/e3mall/manager/controller/PicController.java" timestamp="1527944460311" />
       <file name="/dummy.sql" timestamp="1527931791106">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -400,7 +399,6 @@
         <mark key="." line="64" column="34" />
         <mark key="^" line="64" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/main/java/net/ddns/dzy/e3mall/content/service/impl/ContentServiceImpl.java" timestamp="1527944372016" />
       <file name="$USER_HOME$/dev/e3parent/docker/Dockerfile" timestamp="1527856374618">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="1" column="22" />
@@ -615,11 +613,11 @@
       <jump line="65" column="12" filename="$USER_HOME$/dev/e3parent/docker/solorcloud/README.MD" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>conf/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>not-null=&quot;true&quot;</text>
@@ -628,34 +626,34 @@
         <text>zookeeper1Ip:port</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgCiAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgCiAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBzb2xyIHRvbWNhdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgc29scmhvbWUK</text>
+        <text encoding="base64">IyBzb2xyIHRvbWNhdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
