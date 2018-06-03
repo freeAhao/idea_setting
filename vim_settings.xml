@@ -33,6 +33,7 @@
         <mark key="^" line="38" column="117" />
         <mark key="." line="38" column="117" />
       </file>
+      <file name="$USER_HOME$/dev/e3parent/docker/backup/redis-cluster/conf/redis.conf" timestamp="1528015966354" />
       <file name="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/webapp/WEB-INF/web.xml" timestamp="1527868005225">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="8" column="24" />
@@ -161,6 +162,10 @@
         <mark key="." line="26" column="39" />
         <mark key="^" line="26" column="39" />
       </file>
+      <file name="$USER_HOME$/dev/e3parent/docker/backup/redis-cluster/run.sh" timestamp="1528018096941">
+        <mark key="[" line="4" column="126" />
+        <mark key="]" line="4" column="156" />
+      </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/web.xml" timestamp="1527762385243">
         <mark key="[" line="28" column="28" />
         <mark key="]" line="38" column="31" />
@@ -213,6 +218,13 @@
         <mark key="^" line="62" column="12" />
         <mark key="." line="62" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/e3parent/docker/e3mall/docker-compose.yml" timestamp="1528017622336">
+        <mark key="'" line="16" column="8" />
+        <mark key="[" line="30" column="12" />
+        <mark key="]" line="30" column="13" />
+        <mark key="." line="30" column="13" />
+        <mark key="^" line="8" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/resources/spring/applicationContext-search-solr.xml" timestamp="1527925663216">
         <mark key="[" line="9" column="70" />
         <mark key="]" line="9" column="71" />
@@ -238,7 +250,7 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="43" column="104" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/docker/README.MD" timestamp="1527867285993">
+      <file name="$USER_HOME$/dev/e3parent/docker/README.MD" timestamp="1528016134218">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
@@ -469,6 +481,13 @@
         <mark key="." line="18" column="26" />
         <mark key="^" line="18" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" timestamp="1528017551277">
+        <mark key="'" line="896" column="33" />
+        <mark key="[" line="135" column="10" />
+        <mark key="]" line="135" column="11" />
+        <mark key="." line="135" column="11" />
+        <mark key="^" line="135" column="11" />
+      </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-interface/src/main/java/net/ddns/dzy/e3mall/service/ContentService.java" timestamp="1527759102063">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -511,36 +530,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="8" filename="$USER_HOME$/dev/e3parent/e3-content/pom.xml" />
-      <jump line="25" column="0" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/pom.xml" />
-      <jump line="15" column="0" filename="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/pom.xml" />
-      <jump line="12" column="27" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/pom.xml" />
-      <jump line="19" column="16" filename="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/pom.xml" />
-      <jump line="11" column="13" filename="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/resources/net/ddns/dzy/e3mall/search/mapper/ItemMapper.xml" />
-      <jump line="0" column="6" filename="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/resources/net/ddns/dzy/e3mall/search/mapper/ItemMapper.xml" />
-      <jump line="16" column="11" filename="$USER_HOME$/dev/e3parent/pom.xml" />
-      <jump line="49" column="27" filename="$USER_HOME$/dev/e3parent/pom.xml" />
-      <jump line="12" column="25" filename="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/test/java/SolrJTest.java" />
-      <jump line="44" column="0" filename="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/pojo/Result.java" />
-      <jump line="8" column="33" filename="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/resources/spring/applicationContext-search-solr.xml" />
-      <jump line="14" column="15" filename="$USER_HOME$/dev/e3parent/e3-portal-web/pom.xml" />
-      <jump line="18" column="26" filename="$USER_HOME$/dev/e3parent/e3-search-web/pom.xml" />
-      <jump line="28" column="0" filename="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/test/java/SolrJTest.java" />
-      <jump line="13" column="22" filename="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/pojo/SearchItem.java" />
-      <jump line="35" column="4" filename="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/pojo/SearchItem.java" />
-      <jump line="20" column="16" filename="$USER_HOME$/dev/e3parent/e3-common/pom.xml" />
-      <jump line="23" column="31" filename="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/pojo/SearchItem.java" />
-      <jump line="1168" column="65" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/schema.xml" />
-      <jump line="21" column="33" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/schema.xml" />
-      <jump line="54" column="55" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/schema.xml" />
-      <jump line="55" column="67" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/schema.xml" />
-      <jump line="61" column="22" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/schema.xml" />
-      <jump line="78" column="68" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/schema.xml" />
-      <jump line="86" column="63" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/schema.xml" />
-      <jump line="97" column="5" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/schema.xml" />
-      <jump line="159" column="43" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/schema.xml" />
-      <jump line="239" column="48" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/schema.xml" />
-      <jump line="250" column="27" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/schema.xml" />
       <jump line="254" column="22" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/schema.xml" />
       <jump line="256" column="49" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/schema.xml" />
       <jump line="255" column="29" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/schema.xml" />
@@ -611,58 +600,88 @@
       <jump line="13" column="4" filename="$USER_HOME$/dev/e3parent/docker/solorcloud/README.MD" />
       <jump line="23" column="20" filename="$USER_HOME$/dev/e3parent/docker/solorcloud/README.MD" />
       <jump line="65" column="12" filename="$USER_HOME$/dev/e3parent/docker/solorcloud/README.MD" />
+      <jump line="53" column="0" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
+      <jump line="119" column="12" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
+      <jump line="391" column="13" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
+      <jump line="621" column="3" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
+      <jump line="690" column="67" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
+      <jump line="1193" column="10" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
+      <jump line="1204" column="3" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
+      <jump line="1265" column="44" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
+      <jump line="1293" column="54" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
+      <jump line="1300" column="15" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
+      <jump line="133" column="50" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
+      <jump line="155" column="29" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
+      <jump line="810" column="13" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
+      <jump line="811" column="26" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
+      <jump line="813" column="0" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
+      <jump line="815" column="27" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
+      <jump line="817" column="48" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
+      <jump line="819" column="14" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
+      <jump line="821" column="2" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
+      <jump line="827" column="2" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
+      <jump line="860" column="52" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
+      <jump line="870" column="6" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
+      <jump line="872" column="2" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
+      <jump line="875" column="58" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
+      <jump line="884" column="17" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
+      <jump line="891" column="2" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
+      <jump line="895" column="18" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
+      <jump line="896" column="33" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/e3parent/docker/e3mall/docker-compose.yml" />
+      <jump line="16" column="8" filename="$USER_HOME$/dev/e3parent/docker/e3mall/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICByZWRpczI6CiAgICBpbWFnZTogJ3NoYTI1NjpiNmRkZGI5OTFkZmE1ZjhlNDliMDBkMmQ0ZmYxZTQ2ZTY1OTMxMDFhY2U5OWNjYTBmZWJmMjg3Y2FkYzRmZWJmJwogICAgdm9sdW1lczoKICAgICAgLSAnLi9yZWRpc19jbHVzdGVyLzovY29uZi8nCiAgICAgIC0gJy4vcmVkaXNfY2x1c3Rlci9kYXRhMTovZGF0YScKICAgIHBvcnRzOgogICAgICAtICc2Mzc5OjYzNzknCiAgICBjb21tYW5kOiByZWRpcy1zZXJ2ZXIgL2NvbmYvcmVkaXMuY29uZgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>b6dddb991dfa</text>
       </register>
       <register name="/" type="4">
-        <text>not-null=&quot;true&quot;</text>
+        <text>cluster</text>
       </register>
-      <register name="0" type="4">
-        <text>zookeeper1Ip:port</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICByZWRpczI6CiAgICBpbWFnZTogJ3NoYTI1NjpiNmRkZGI5OTFkZmE1ZjhlNDliMDBkMmQ0ZmYxZTQ2ZTY1OTMxMDFhY2U5OWNjYTBmZWJmMjg3Y2FkYzRmZWJmJwogICAgdm9sdW1lczoKICAgICAgLSAnLi9yZWRpc19jbHVzdGVyLzovY29uZi8nCiAgICAgIC0gJy4vcmVkaXNfY2x1c3Rlci9kYXRhMTovZGF0YScKICAgIHBvcnRzOgogICAgICAtICc2Mzc5OjYzNzknCiAgICBjb21tYW5kOiByZWRpcy1zZXJ2ZXIgL2NvbmYvcmVkaXMuY29uZgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICByZWRpczoKICAgIGltYWdlOiAnc2hhMjU2OmI2ZGRkYjk5MWRmYTVmOGU0OWIwMGQyZDRmZjFlNDZlNjU5MzEwMWFjZTk5Y2NhMGZlYmYyODdjYWRjNGZlYmYnCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsCg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgCg==</text>
+        <text encoding="base64">ICBsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgCiAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgCiAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBzb2xyIHRvbWNhdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>not-null=&quot;true&quot;</last-search>
+      <last-search>cluster</last-search>
       <last-offset />
-      <last-pattern>not-null=&quot;true&quot;</last-pattern>
+      <last-pattern>cluster</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>not-null=&quot;true&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -670,10 +689,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jedis</entry>
-        <entry>service</entry>
-        <entry>redis</entry>
-        <entry>id</entry>
         <entry>solr</entry>
         <entry>build</entry>
         <entry>default</entry>
@@ -690,6 +705,10 @@
         <entry>rest</entry>
         <entry>price</entry>
         <entry>not-null=&quot;true&quot;</entry>
+        <entry>dea</entry>
+        <entry>yes</entry>
+        <entry>cloud</entry>
+        <entry>cluster</entry>
       </history-search>
       <history-cmd>
         <entry>n</entry>
@@ -705,12 +724,12 @@
         <entry>&quot;w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qa</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>wqa</entry>
         <entry>s</entry>
         <entry>split</entry>
         <entry>vs</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
