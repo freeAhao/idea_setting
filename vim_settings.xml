@@ -82,6 +82,7 @@
         <mark key="^" line="24" column="13" />
         <mark key="." line="24" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/e3parent/docker/backup/solorcloud/README.MD" timestamp="1528024405730" />
       <file name="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/resources/config/resources.properties" timestamp="1527875328898">
         <mark key="[" line="1" column="10" />
         <mark key="]" line="1" column="13" />
@@ -115,6 +116,7 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
+      <file name="$USER_HOME$/dev/e3parent/docker/backup/run.sh" timestamp="1528025041691" />
       <file name="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/resources/spring/applicationContext-search-dao.xml" timestamp="1527931492289">
         <mark key="[" line="32" column="66" />
         <mark key="]" line="32" column="107" />
@@ -217,12 +219,11 @@
         <mark key="^" line="62" column="12" />
         <mark key="." line="62" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/docker/e3mall/docker-compose.yml" timestamp="1528022546318">
-        <mark key="'" line="17" column="8" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="1" column="1" />
+      <file name="$USER_HOME$/dev/e3parent/docker/e3mall/docker-compose.yml" timestamp="1528025497606">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+        <mark key="^" line="14" column="16" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/resources/spring/applicationContext-search-solr.xml" timestamp="1527925663216">
         <mark key="[" line="9" column="70" />
@@ -644,11 +645,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkOgogICAgICBkb2NrZXJmaWxlOiBtYXJpYWRiL0RvY2tlcmZpbGUKICAgICAgbmV0d29yazoK</text>
+      <register name="&quot;" type="4">
+        <text>6caaff736a97</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>6caaff736a97</text>
       </register>
       <register name="/" type="4">
         <text>tb_item_desc</text>
@@ -687,7 +688,7 @@
         <text encoding="base64">Q1JFQVRFIERBVEFCQVNFIGUzbWFsbDsK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -741,8 +742,8 @@
         <entry>split</entry>
         <entry>vs</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
