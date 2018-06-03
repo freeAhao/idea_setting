@@ -33,7 +33,6 @@
         <mark key="^" line="38" column="117" />
         <mark key="." line="38" column="117" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/docker/backup/redis-cluster/conf/redis.conf" timestamp="1528015966354" />
       <file name="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/webapp/WEB-INF/web.xml" timestamp="1527868005225">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="8" column="24" />
@@ -218,12 +217,12 @@
         <mark key="^" line="62" column="12" />
         <mark key="." line="62" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/docker/e3mall/docker-compose.yml" timestamp="1528018730340">
-        <mark key="'" line="16" column="8" />
-        <mark key="[" line="30" column="12" />
-        <mark key="]" line="30" column="13" />
-        <mark key="." line="30" column="13" />
-        <mark key="^" line="8" column="7" />
+      <file name="$USER_HOME$/dev/e3parent/docker/e3mall/docker-compose.yml" timestamp="1528022546318">
+        <mark key="'" line="17" column="8" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="1" column="1" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/resources/spring/applicationContext-search-solr.xml" timestamp="1527925663216">
         <mark key="[" line="9" column="70" />
@@ -262,9 +261,9 @@
         <mark key="." line="13" column="1" />
         <mark key="^" line="13" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" timestamp="1528021990511">
-        <mark key="'" line="132" column="0" />
-        <mark key="[" line="87" column="19" />
+      <file name="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" timestamp="1528022531979">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="87" column="18" />
         <mark key="]" line="87" column="19" />
         <mark key="." line="87" column="19" />
         <mark key="^" line="87" column="19" />
@@ -430,7 +429,7 @@
         <mark key="." line="47" column="43" />
         <mark key="^" line="47" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/Dockerfile" timestamp="1528020566660">
+      <file name="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/Dockerfile" timestamp="1528022566751">
         <mark key="[" line="2" column="42" />
         <mark key="]" line="2" column="42" />
         <mark key="^" line="2" column="42" />
@@ -543,14 +542,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="42" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/solrconfig.xml" />
-      <jump line="129" column="29" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/solrconfig.xml" />
-      <jump line="130" column="53" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/solrconfig.xml" />
-      <jump line="132" column="51" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/solrconfig.xml" />
-      <jump line="133" column="52" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/solrconfig.xml" />
-      <jump line="842" column="18" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/solrconfig.xml" />
-      <jump line="904" column="18" filename="$USER_HOME$/dev/e3parent/docker/solrhome/collection1/conf/solrconfig.xml" />
-      <jump line="45" column="45" filename="$MAVEN_REPOSITORY$/org/apache/solr/solr-solrj/4.10.3/solr-solrj-4.10.3-sources.jar!/org/apache/solr/client/solrj/response/QueryResponse.java" />
       <jump line="80" column="1" filename="$MAVEN_REPOSITORY$/org/apache/solr/solr-solrj/4.10.3/solr-solrj-4.10.3-sources.jar!/org/apache/solr/client/solrj/response/QueryResponse.java" />
       <jump line="93" column="28" filename="$MAVEN_REPOSITORY$/org/apache/solr/solr-solrj/4.10.3/solr-solrj-4.10.3-sources.jar!/org/apache/solr/client/solrj/response/QueryResponse.java" />
       <jump line="96" column="9" filename="$MAVEN_REPOSITORY$/org/apache/solr/solr-solrj/4.10.3/solr-solrj-4.10.3-sources.jar!/org/apache/solr/client/solrj/response/QueryResponse.java" />
@@ -636,65 +627,73 @@
       <jump line="16" column="8" filename="$USER_HOME$/dev/e3parent/docker/e3mall/docker-compose.yml" />
       <jump line="127" column="42" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
       <jump line="39" column="23" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
-      <jump line="93" column="25" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
       <jump line="88" column="29" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
-      <jump line="3348" column="0" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
       <jump line="13" column="1" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
       <jump line="2276" column="3501" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
       <jump line="52" column="59" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
       <jump line="132" column="0" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
+      <jump line="85" column="22" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
+      <jump line="104" column="14" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
+      <jump line="93" column="33" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
+      <jump line="2247" column="26" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
+      <jump line="2248" column="25" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
+      <jump line="2251" column="16" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
+      <jump line="2566" column="0" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
+      <jump line="2351" column="0" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
+      <jump line="3348" column="0" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJ1aWxkOgogICAgICBkb2NrZXJmaWxlOiBtYXJpYWRiL0RvY2tlcmZpbGUKICAgICAgbmV0d29yazoK</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>MODE</text>
+        <text>tb_item_desc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">UlVOIG15c3FsIC11cm9vdCAtcCR7TVlTUUxfUk9PVF9QQVNTV09SRH0gPCAke1NRTF9GSUxFfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gYHRiX2l0ZW1gIFZBTFVFUyAoJzkxMjEwNycsICfliJvnu7QoU2t5d29ydGgpTEVEIDQyRTVESFIgNDLoi7Hlr7gg5rW36YeP5b2x6KeG6LWE5rqQ5pm66IO9572R57uc5bmz5p2/5ray5pm255S16KeG5LqM5Luj5Y2H57qn54mIKOm7keiJsiknLCAn5LqM5Luj5paw5ZOB77yB77yB5pm66IO95Y+M57O757uf77yM5q2j54mI5b2x6KeG6ZqP5b+D55yL77yM5Liw5a+M5a6J5Y2T5bqU55So77yM5aSa5bGP5LqS5Yqo77yBPGEgIHRhcmdldD1cImJsYW5rXCIgIGhyZWY9XCJodHRwOi8vam1hbGwuamQuY29tL3AxMTc1MTQuaHRtbFwiPuKAnOeMm+aIs+i/memHjO+8jOabtOWkmuaDiuWWnOKAnTwvYT4nLCAnMjQ5OTAwJywgJzk5OTk5JywgbnVsbCwgJ2h0dHA6Ly9pbWFnZS5lM21hbGwuY24vamQvZmY3OGZlYTQ3ZDIwNDM5YThlMmJiODM3Y2FlZDczODQuanBnJywgJzc2JywgJzEnLCAnMjAxNS0wMy0wOCAyMToyNzozOScsICcyMDE1LTAzLTA4IDIxOjI3OjM5Jyk7Cg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkOgogICAgICBkb2NrZXJmaWxlOiBtYXJpYWRiL0RvY2tlcmZpbGUKICAgICAgbmV0d29yazoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmV0d29ya3M6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q1JFQVRFIERBVEFCQVNFIGUzbWFsbDsKVVNFIGUzbWFsbDsK</text>
+        <text encoding="base64">YQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIGUzbWFsbDsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q1JFQVRFIERBVEFCQVNFIGUzbWFsbDsK</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gYHRiX2l0ZW1gIFZBTFVFUyAoJzkxMjEwNycsICfliJvnu7QoU2t5d29ydGgpTEVEIDQyRTVESFIgNDLoi7Hlr7gg5rW36YeP5b2x6KeG6LWE5rqQ5pm66IO9572R57uc5bmz5p2/5ray5pm255S16KeG5LqM5Luj5Y2H57qn54mIKOm7keiJsiknLCAn5LqM5Luj5paw5ZOB77yB77yB5pm66IO95Y+M57O757uf77yM5q2j54mI5b2x6KeG6ZqP5b+D55yL77yM5Liw5a+M5a6J5Y2T5bqU55So77yM5aSa5bGP5LqS5Yqo77yBPGEgIHRhcmdldD1cImJsYW5rXCIgIGhyZWY9XCJodHRwOi8vam1hbGwuamQuY29tL3AxMTc1MTQuaHRtbFwiPuKAnOeMm+aIs+i/memHjO+8jOabtOWkmuaDiuWWnOKAnTwvYT4nLCAnMjQ5OTAwJywgJzk5OTk5JywgbnVsbCwgJ2h0dHA6Ly9pbWFnZS5lM21hbGwuY24vamQvZmY3OGZlYTQ3ZDIwNDM5YThlMmJiODM3Y2FlZDczODQuanBnJywgJzc2JywgJzEnLCAnMjAxNS0wMy0wOCAyMToyNzozOScsICcyMDE1LTAzLTA4IDIxOjI3OjM5Jyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RFJPUCBEQVRBQkFTRSBlM21hbGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIG15c3FsIC11cm9vdCAtcCR7TVlTUUxfUk9PVF9QQVNTV09SRH0gPCAke1NRTF9GSUxFfQo=</text>
+        <text encoding="base64">Q1JFQVRFIERBVEFCQVNFIGUzbWFsbDsKVVNFIGUzbWFsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RU5WIFNRTF9GSUxFPS9lM21hbGwvZTNtYWxsLnNxbApDT1BZIGUzbWFsbC5zcWwgJHtTUUxfRklMRX0K</text>
+        <text encoding="base64">dXNlIGUzbWFsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIG15c3FsIC11cm9vdCAtcCR7TVlTUUxfUk9PVF9QQVNTV09SRH0gPCAke1NRTF9GSUxFfQo=</text>
+        <text encoding="base64">Q1JFQVRFIERBVEFCQVNFIGUzbWFsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>MODE</last-search>
+      <last-search>tb_item_desc</last-search>
       <last-offset />
-      <last-pattern>MODE</last-pattern>
+      <last-pattern>tb_item_desc</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>not-null=&quot;true&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -702,9 +701,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getHi</entry>
-        <entry>set</entry>
-        <entry>Hight</entry>
         <entry>setHi</entry>
         <entry>form</entry>
         <entry>search</entry>
@@ -722,6 +718,9 @@
         <entry>sql</entry>
         <entry>mode</entry>
         <entry>MODE</entry>
+        <entry>tb_item</entry>
+        <entry>item_desc</entry>
+        <entry>tb_item_desc</entry>
       </history-search>
       <history-cmd>
         <entry>n</entry>
