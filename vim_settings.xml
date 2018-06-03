@@ -262,7 +262,7 @@
         <mark key="." line="13" column="1" />
         <mark key="^" line="13" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" timestamp="1528021815333">
+      <file name="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" timestamp="1528021969105">
         <mark key="'" line="132" column="0" />
         <mark key="[" line="87" column="19" />
         <mark key="]" line="87" column="19" />
@@ -645,11 +645,11 @@
       <jump line="132" column="0" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gYHRiX2l0ZW1gIFZBTFVFUyAoJzkxMjEwNycsICfliJvnu7QoU2t5d29ydGgpTEVEIDQyRTVESFIgNDLoi7Hlr7gg5rW36YeP5b2x6KeG6LWE5rqQ5pm66IO9572R57uc5bmz5p2/5ray5pm255S16KeG5LqM5Luj5Y2H57qn54mIKOm7keiJsiknLCAn5LqM5Luj5paw5ZOB77yB77yB5pm66IO95Y+M57O757uf77yM5q2j54mI5b2x6KeG6ZqP5b+D55yL77yM5Liw5a+M5a6J5Y2T5bqU55So77yM5aSa5bGP5LqS5Yqo77yBPGEgIHRhcmdldD1cImJsYW5rXCIgIGhyZWY9XCJodHRwOi8vam1hbGwuamQuY29tL3AxMTc1MTQuaHRtbFwiPuKAnOeMm+aIs+i/memHjO+8jOabtOWkmuaDiuWWnOKAnTwvYT4nLCAnMjQ5OTAwJywgJzk5OTk5JywgbnVsbCwgJ2h0dHA6Ly9pbWFnZS5lM21hbGwuY24vamQvZmY3OGZlYTQ3ZDIwNDM5YThlMmJiODM3Y2FlZDczODQuanBnJywgJzc2JywgJzEnLCAnMjAxNS0wMy0wOCAyMToyNzozOScsICcyMDE1LTAzLTA4IDIxOjI3OjM5Jyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>MODE</text>
