@@ -227,11 +227,11 @@
         <mark key="." line="14" column="16" />
         <mark key="^" line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/resources/spring/applicationContext-search-solr.xml" timestamp="1528084901132">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="11" />
-        <mark key="^" line="6" column="11" />
-        <mark key="." line="6" column="11" />
+      <file name="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/resources/spring/applicationContext-search-solr.xml" timestamp="1528092719593">
+        <mark key="[" line="13" column="58" />
+        <mark key="]" line="13" column="59" />
+        <mark key="^" line="13" column="59" />
+        <mark key="." line="13" column="59" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/test/java/SolrJTest.java" timestamp="1527921343838">
         <mark key="'" line="36" column="0" />
