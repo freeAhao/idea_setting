@@ -84,12 +84,12 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/test/java/net/ddns/dzy/e3mall/manager/service/activemq/ActiveMqTest.java" timestamp="1528120834587">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="60" column="25" />
-        <mark key="]" line="61" column="24" />
-        <mark key="." line="61" column="24" />
-        <mark key="^" line="61" column="24" />
+      <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/test/java/net/ddns/dzy/e3mall/manager/service/activemq/ActiveMqTest.java" timestamp="1528123547065">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="16" column="32" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/docker/solorcloud/README.MD" timestamp="1528014104963">
         <mark key="'" line="82" column="12" />
@@ -565,8 +565,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="27" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/commons/header.jsp" />
-      <jump line="23" column="48" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/commons/header.jsp" />
       <jump line="19" column="9" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/commons/header.jsp" />
       <jump line="0" column="4" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/commons/header.jsp" />
       <jump line="1" column="4" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/commons/header.jsp" />
@@ -665,49 +663,51 @@
       <jump line="74" column="0" filename="$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.11.2/activemq-all-5.11.2.jar!/javax/jms/Session.class" />
       <jump line="16" column="14" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/test/java/net/ddns/dzy/e3mall/manager/service/activemq/ActiveMqTest.java" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/test/java/net/ddns/dzy/e3mall/manager/service/activemq/ActiveMqTest.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/test/java/net/ddns/dzy/e3mall/manager/service/activemq/ActiveMqTest.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/test/java/net/ddns/dzy/e3mall/manager/service/activemq/ActiveMqTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uaW4ucmVhZCgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;hello&quot;</text>
+        <text>this.</text>
       </register>
       <register name="/" type="4">
         <text>activemq</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBUZXN0U2VuZFF1ZXVlKCkgdGhyb3dzIEpNU0V4Y2VwdGlvbiB7CiAgICAgICAgQ29ubmVjdGlvbkZhY3RvcnkgY29ubmVjdGlvbkZhY3RvcnkgPSBuZXcgQWN0aXZlTVFDb25uZWN0aW9uRmFjdG9yeSgidGNwOi8vbG9jYWxob3N0OjYxNjE2Iik7CiAgICAgICAgQ29ubmVjdGlvbiBjb25uZWN0aW9uID0gY29ubmVjdGlvbkZhY3RvcnkuY3JlYXRlQ29ubmVjdGlvbigpOwoKICAgICAgICAvL+esrOS4gOS4quWPguaVsCDmmK/lkKblvIDlkK/kuovliqHvvIzlpoLmnpzlvIDlkK/kuovliqHvvIznrKzkuozkuKrlj4LmlbDml6DmhI/kuYks5LiA6Iis5LiN5byA5ZCv5LqL5Yqh44CCCiAgICAgICAgLy/nrKzkuozkuKrlj4LmlbAg5bqU562U5qih5byP77yM5LiA6Iis6Ieq5Yqo5bqU562U5oiW6ICF5omL5Yqo5bqU562U44CC5LiA6Iis6Ieq5Yqo5bqU562UCiAgICAgICAgU2Vzc2lvbiBzZXNzaW9uID0gY29ubmVjdGlvbi5jcmVhdGVTZXNzaW9uKGZhbHNlLCBTZXNzaW9uLkFVVE9fQUNLTk9XTEVER0UpOwoKICAgICAgICBRdWV1ZSBxdWV1ZSA9IHNlc3Npb24uY3JlYXRlUXVldWUoInRlc3QgcXVldWUiKTsKICAgICAgICBNZXNzYWdlUHJvZHVjZXIgcHJvZHVjZXIgPSBzZXNzaW9uLmNyZWF0ZVByb2R1Y2VyKHF1ZXVlKTsKCiAgICAgICAgLy9UZXh0TWVzc2FnZSB0ZXh0TWVzc2FnZSA9IG5ldyBBY3RpdmVNUVRleHRNZXNzYWdlKCk7CiAgICAgICAgLy90ZXh0TWVzc2FnZS5zZXRUZXh0KCJoZWxsbyBhY3RpdmVtcSIpOwogICAgICAgIFRleHRNZXNzYWdlIHRleHRNZXNzYWdlID0gc2Vzc2lvbi5jcmVhdGVUZXh0TWVzc2FnZSgiaGVsbG8gYWN0aXZlbXEiKTsKICAgICAgICBwcm9kdWNlci5zZW5kKHRleHRNZXNzYWdlKTsKCiAgICAgICAgcHJvZHVjZXIuY2xvc2UoKTsKICAgICAgICBzZXNzaW9uLmNsb3NlKCk7CiAgICAgICAgY29ubmVjdGlvbi5jbG9zZSgpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0VG9waWNQcm9kdWNlcigpIHRocm93cyBFeGNlcHRpb257CiAgICAgICAgQ29ubmVjdGlvbkZhY3RvcnkgY29ubmVjdGlvbkZhY3RvcnkgPSBuZXcgQWN0aXZlTVFDb25uZWN0aW9uRmFjdG9yeSgidGNwOi8vbG9jYWxob3N0OjYxNjE2Iik7CiAgICAgICAgQ29ubmVjdGlvbiBjb25uZWN0aW9uID0gY29ubmVjdGlvbkZhY3RvcnkuY3JlYXRlQ29ubmVjdGlvbigpOwogICAgICAgIGNvbm5lY3Rpb24uc3RhcnQoKTsKCiAgICAgICAgLy/nrKzkuIDkuKrlj4LmlbAg5piv5ZCm5byA5ZCv5LqL5Yqh77yM5aaC5p6c5byA5ZCv5LqL5Yqh77yM56ys5LqM5Liq5Y+C5pWw5peg5oSP5LmJLOS4gOiIrOS4jeW8gOWQr+S6i+WKoeOAggogICAgICAgIC8v56ys5LqM5Liq5Y+C5pWwIOW6lOetlOaooeW8j++8jOS4gOiIrOiHquWKqOW6lOetlOaIluiAheaJi+WKqOW6lOetlOOAguS4gOiIrOiHquWKqOW6lOetlAogICAgICAgIFNlc3Npb24gc2Vzc2lvbiA9IGNvbm5lY3Rpb24uY3JlYXRlU2Vzc2lvbihmYWxzZSwgU2Vzc2lvbi5BVVRPX0FDS05PV0xFREdFKTsKCiAgICAgICAgVG9waWMgdG9waWMgPSBzZXNzaW9uLmNyZWF0ZVRvcGljKCJ0ZXN0IHRvcGljIik7CiAgICAgICAgTWVzc2FnZVByb2R1Y2VyIHByb2R1Y2VyID0gc2Vzc2lvbi5jcmVhdGVQcm9kdWNlcih0b3BpYyk7CgogICAgICAgIC8vVGV4dE1lc3NhZ2UgdGV4dE1lc3NhZ2UgPSBuZXcgQWN0aXZlTVFUZXh0TWVzc2FnZSgpOwogICAgICAgIC8vdGV4dE1lc3NhZ2Uuc2V0VGV4dCgiaGVsbG8gYWN0aXZlbXEiKTsKICAgICAgICBUZXh0TWVzc2FnZSB0ZXh0TWVzc2FnZSA9IHNlc3Npb24uY3JlYXRlVGV4dE1lc3NhZ2UoInRvcGljIG1lc3NhZ2UiKTsKICAgICAgICBwcm9kdWNlci5zZW5kKHRleHRNZXNzYWdlKTsKCiAgICAgICAgcHJvZHVjZXIuY2xvc2UoKTsKICAgICAgICBzZXNzaW9uLmNsb3NlKCk7CiAgICAgICAgY29ubmVjdGlvbi5jbG9zZSgpOwoKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uaW4ucmVhZCgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uZWN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uZWN0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25uZWN0aW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi5raI6LS55LqG5raI5oGv77yaIispOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uaW4ucmVhZCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvL1RleHRNZXNzYWdlIHRleHRNZXNzYWdlID0gbmV3IEFjdGl2ZU1RVGV4dE1lc3NhZ2UoKTsKICAgICAgICAvL3RleHRNZXNzYWdlLnNldFRleHQoImhlbGxvIGFjdGl2ZW1xIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUZXh0TWVzc2FnZSB0ZXh0TWVzc2FnZSA9IHNlc3Npb24uY3JlYXRlVGV4dE1lc3NhZ2UoInRvcGljIG1lc3NhZ2UiKTsKICAgICAgICBwcm9kdWNlci5zZW5kKHRleHRNZXNzYWdlKTsKCiAgICAgICAgcHJvZHVjZXIuY2xvc2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uZWN0aW9uLnN0b3AoKTsK</text>
+        <text encoding="base64">ICAgICAgICBRdWV1ZSBxdWV1ZSA9IChRdWV1ZSkgdGVzdF90b3BpYzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
