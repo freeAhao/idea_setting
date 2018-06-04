@@ -84,12 +84,11 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/test/java/net/ddns/dzy/e3mall/manager/service/activemq/ActiveMqTest.java" timestamp="1528115566804">
-        <mark key="'" line="12" column="3" />
-        <mark key="[" line="15" column="76" />
-        <mark key="]" line="15" column="76" />
-        <mark key="." line="15" column="76" />
-        <mark key="^" line="15" column="76" />
+      <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/test/java/net/ddns/dzy/e3mall/manager/service/activemq/ActiveMqTest.java" timestamp="1528119861964">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/docker/solorcloud/README.MD" timestamp="1528014104963">
         <mark key="'" line="82" column="12" />
@@ -223,6 +222,9 @@
         <mark key="]" line="111" column="9" />
         <mark key="." line="18" column="26" />
         <mark key="^" line="18" column="26" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.11.2/activemq-all-5.11.2.jar!/javax/jms/Session.class" timestamp="1528118237707">
+        <mark key="'" line="74" column="0" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-interface/src/main/java/net/ddns/dzy/e3mall/service/ContentService.java" timestamp="1527759102063">
         <mark key="[" line="2" column="0" />
@@ -562,10 +564,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="495" column="97" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <jump line="518" column="0" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <jump line="49" column="58" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <jump line="6" column="50" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/index.jsp" />
       <jump line="6" column="27" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/commons/header.jsp" />
       <jump line="23" column="48" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/commons/header.jsp" />
       <jump line="19" column="9" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/commons/header.jsp" />
@@ -662,52 +660,56 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/pom.xml" />
       <jump line="60" column="15" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/pom.xml" />
       <jump line="9" column="3" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/test/java/net/ddns/dzy/e3mall/manager/service/activemq/ActiveMqTest.java" />
+      <jump line="58" column="0" filename="$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.11.2/activemq-all-5.11.2.jar!/javax/jms/Session.class" />
+      <jump line="74" column="0" filename="$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.11.2/activemq-all-5.11.2.jar!/javax/jms/Session.class" />
+      <jump line="16" column="14" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/test/java/net/ddns/dzy/e3mall/manager/service/activemq/ActiveMqTest.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/test/java/net/ddns/dzy/e3mall/manager/service/activemq/ActiveMqTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>brokerURL</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>brokerURL</text>
+        <text>test_</text>
       </register>
       <register name="/" type="4">
         <text>activemq</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5hY3RpdmVtcTwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD5hY3RpdmVtcS1hbGw8L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+JHthY3RpdmVtcS52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBUZXN0U2VuZFF1ZXVlKCkgdGhyb3dzIEpNU0V4Y2VwdGlvbiB7CiAgICAgICAgQ29ubmVjdGlvbkZhY3RvcnkgY29ubmVjdGlvbkZhY3RvcnkgPSBuZXcgQWN0aXZlTVFDb25uZWN0aW9uRmFjdG9yeSgidGNwOi8vbG9jYWxob3N0OjYxNjE2Iik7CiAgICAgICAgQ29ubmVjdGlvbiBjb25uZWN0aW9uID0gY29ubmVjdGlvbkZhY3RvcnkuY3JlYXRlQ29ubmVjdGlvbigpOwoKICAgICAgICAvL+esrOS4gOS4quWPguaVsCDmmK/lkKblvIDlkK/kuovliqHvvIzlpoLmnpzlvIDlkK/kuovliqHvvIznrKzkuozkuKrlj4LmlbDml6DmhI/kuYks5LiA6Iis5LiN5byA5ZCv5LqL5Yqh44CCCiAgICAgICAgLy/nrKzkuozkuKrlj4LmlbAg5bqU562U5qih5byP77yM5LiA6Iis6Ieq5Yqo5bqU562U5oiW6ICF5omL5Yqo5bqU562U44CC5LiA6Iis6Ieq5Yqo5bqU562UCiAgICAgICAgU2Vzc2lvbiBzZXNzaW9uID0gY29ubmVjdGlvbi5jcmVhdGVTZXNzaW9uKGZhbHNlLCBTZXNzaW9uLkFVVE9fQUNLTk9XTEVER0UpOwoKICAgICAgICBRdWV1ZSBxdWV1ZSA9IHNlc3Npb24uY3JlYXRlUXVldWUoInRlc3QgcXVldWUiKTsKICAgICAgICBNZXNzYWdlUHJvZHVjZXIgcHJvZHVjZXIgPSBzZXNzaW9uLmNyZWF0ZVByb2R1Y2VyKHF1ZXVlKTsKCiAgICAgICAgLy9UZXh0TWVzc2FnZSB0ZXh0TWVzc2FnZSA9IG5ldyBBY3RpdmVNUVRleHRNZXNzYWdlKCk7CiAgICAgICAgLy90ZXh0TWVzc2FnZS5zZXRUZXh0KCJoZWxsbyBhY3RpdmVtcSIpOwogICAgICAgIFRleHRNZXNzYWdlIHRleHRNZXNzYWdlID0gc2Vzc2lvbi5jcmVhdGVUZXh0TWVzc2FnZSgiaGVsbG8gYWN0aXZlbXEiKTsKICAgICAgICBwcm9kdWNlci5zZW5kKHRleHRNZXNzYWdlKTsKCiAgICAgICAgcHJvZHVjZXIuY2xvc2UoKTsKICAgICAgICBzZXNzaW9uLmNsb3NlKCk7CiAgICAgICAgY29ubmVjdGlvbi5jbG9zZSgpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDb25lZWN0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25uZWN0aW9uLnN0b3AoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPHZlcnNpb24+JHthY3RpdmVtcS52ZXJzaW9ufTwvdmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgICAgICBjb25uZWN0aW9uLmNsb3NlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD48L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPjwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25uZWN0aW9uLnN0YXJ0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBRdWFsaWZpZXIoIiIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWNlci5jbG9zZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWNlci5jbG9zZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL+e8k+WtmOabtOaWsOaXtumXtAo=</text>
+        <text encoding="base64">ICAgICAgICBRdWV1ZSBxdWV1ZSA9IHNlc3Npb24uY3JlYXRlUXVldWUoInRlc3QgcXVldWUiKTsKICAgICAgICBNZXNzYWdlUHJvZHVjZXIgcHJvZHVjZXIgPSBzZXNzaW9uLmNyZWF0ZVByb2R1Y2VyKHF1ZXVlKTsKCiAgICAgICAgLy9UZXh0TWVzc2FnZSB0ZXh0TWVzc2FnZSA9IG5ldyBBY3RpdmVNUVRleHRNZXNzYWdlKCk7CiAgICAgICAgLy90ZXh0TWVzc2FnZS5zZXRUZXh0KCJoZWxsbyBhY3RpdmVtcSIpOwogICAgICAgIFRleHRNZXNzYWdlIHRleHRNZXNzYWdlID0gc2Vzc2lvbi5jcmVhdGVUZXh0TWVzc2FnZSgiaGVsbG8gYWN0aXZlbXEiKTsKICAgICAgICBwcm9kdWNlci5zZW5kKHRleHRNZXNzYWdlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSXRlbU1hcHBlciBpdGVtTWFwcGVyOwo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uLmNyZWF0ZQo=</text>
+      </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -760,9 +762,9 @@
         <entry>s</entry>
         <entry>split</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
