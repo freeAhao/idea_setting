@@ -204,6 +204,7 @@
         <mark key="." line="21" column="3" />
         <mark key="^" line="21" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/main/resources/spring/applicationContext-content-redis.xml" timestamp="1528108975861" />
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/resources/spring/applicationContext-service.xml" timestamp="1527752065813">
         <mark key="[" line="26" column="84" />
         <mark key="]" line="26" column="84" />
