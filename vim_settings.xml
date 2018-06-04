@@ -82,7 +82,7 @@
         <mark key="^" line="24" column="13" />
         <mark key="." line="24" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/docker/backup/solorcloud/README.MD" timestamp="1528024405730" />
+      <file name="$USER_HOME$/dev/e3parent/docker/backup/solorcloud/README.MD" timestamp="1528073000542" />
       <file name="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/resources/config/resources.properties" timestamp="1527875328898">
         <mark key="[" line="1" column="10" />
         <mark key="]" line="1" column="13" />
@@ -116,7 +116,6 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/docker/backup/run.sh" timestamp="1528025041691" />
       <file name="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/resources/spring/applicationContext-search-dao.xml" timestamp="1527931492289">
         <mark key="[" line="32" column="66" />
         <mark key="]" line="32" column="107" />
@@ -255,6 +254,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/e3parent/docker/backup/solorcloud/docker-compose.yml" timestamp="1528075757002">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="73" column="62" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="60" column="61" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-interface/pom.xml" timestamp="1527867552584">
         <mark key="[" line="14" column="0" />
@@ -543,15 +549,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="1" filename="$MAVEN_REPOSITORY$/org/apache/solr/solr-solrj/4.10.3/solr-solrj-4.10.3-sources.jar!/org/apache/solr/client/solrj/response/QueryResponse.java" />
-      <jump line="93" column="28" filename="$MAVEN_REPOSITORY$/org/apache/solr/solr-solrj/4.10.3/solr-solrj-4.10.3-sources.jar!/org/apache/solr/client/solrj/response/QueryResponse.java" />
-      <jump line="96" column="9" filename="$MAVEN_REPOSITORY$/org/apache/solr/solr-solrj/4.10.3/solr-solrj-4.10.3-sources.jar!/org/apache/solr/client/solrj/response/QueryResponse.java" />
-      <jump line="101" column="14" filename="$MAVEN_REPOSITORY$/org/apache/solr/solr-solrj/4.10.3/solr-solrj-4.10.3-sources.jar!/org/apache/solr/client/solrj/response/QueryResponse.java" />
-      <jump line="83" column="42" filename="$MAVEN_REPOSITORY$/org/apache/solr/solr-solrj/4.10.3/solr-solrj-4.10.3-sources.jar!/org/apache/solr/client/solrj/SolrQuery.java" />
-      <jump line="19" column="34" filename="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/pojo/SearchResult.java" />
-      <jump line="52" column="17" filename="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/pojo/SearchResult.java" />
-      <jump line="61" column="0" filename="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/pojo/SearchResult.java" />
-      <jump line="28" column="0" filename="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/java/net/ddns/dzy/e3mall/search/dao/SearchDao.java" />
       <jump line="41" column="12" filename="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/java/net/ddns/dzy/e3mall/search/dao/SearchDao.java" />
       <jump line="28" column="0" filename="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/test/java/net/ddns/dzy/e3mall/search/test/service/impl/SearchServiceImplTest.java" />
       <jump line="15" column="71" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/index.jsp" />
@@ -643,49 +640,58 @@
       <jump line="2351" column="0" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
       <jump line="3348" column="0" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/e3parent/docker/e3mall/mariadb/e3mall.sql" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/e3parent/docker/backup/solorcloud/docker-compose.yml" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/e3parent/docker/backup/solorcloud/docker-compose.yml" />
+      <jump line="22" column="11" filename="$USER_HOME$/dev/e3parent/docker/backup/solorcloud/docker-compose.yml" />
+      <jump line="23" column="5" filename="$USER_HOME$/dev/e3parent/docker/backup/solorcloud/docker-compose.yml" />
+      <jump line="50" column="0" filename="$USER_HOME$/dev/e3parent/docker/backup/solorcloud/docker-compose.yml" />
+      <jump line="48" column="0" filename="$USER_HOME$/dev/e3parent/docker/backup/solorcloud/docker-compose.yml" />
+      <jump line="54" column="0" filename="$USER_HOME$/dev/e3parent/docker/backup/solorcloud/docker-compose.yml" />
+      <jump line="64" column="6" filename="$USER_HOME$/dev/e3parent/docker/backup/solorcloud/docker-compose.yml" />
+      <jump line="55" column="0" filename="$USER_HOME$/dev/e3parent/docker/backup/solorcloud/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>6caaff736a97</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gem9va2VlcGVyMQogICAgICAtIHpvb2tlZXBlcjIKICAgICAgLSB6b29rZWVwZXIzCiAgICBlbnZpcm9ubWVudDoKICAgICAgWktfSE9TVDogem9va2VlcGVyMToyMTgxLHpvb2tlZXBlcjI6MjE4MSx6b29rZWVwZXIzOjIxODEK</text>
       </register>
       <register name="-" type="4">
-        <text>6caaff736a97</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>tb_item_desc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UlVOIG15c3FsIC11cm9vdCAtcCR7TVlTUUxfUk9PVF9QQVNTV09SRH0gPCAke1NRTF9GSUxFfQo=</text>
+        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gem9va2VlcGVyMQogICAgICAtIHpvb2tlZXBlcjIKICAgICAgLSB6b29rZWVwZXIzCiAgICBlbnZpcm9ubWVudDoKICAgICAgWktfSE9TVDogem9va2VlcGVyMToyMTgxLHpvb2tlZXBlcjI6MjE4MSx6b29rZWVwZXIzOjIxODEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkOgogICAgICBkb2NrZXJmaWxlOiBtYXJpYWRiL0RvY2tlcmZpbGUKICAgICAgbmV0d29yazoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bmV0d29ya3M6Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">YQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gYHRiX2l0ZW1gIFZBTFVFUyAoJzkxMjEwNycsICfliJvnu7QoU2t5d29ydGgpTEVEIDQyRTVESFIgNDLoi7Hlr7gg5rW36YeP5b2x6KeG6LWE5rqQ5pm66IO9572R57uc5bmz5p2/5ray5pm255S16KeG5LqM5Luj5Y2H57qn54mIKOm7keiJsiknLCAn5LqM5Luj5paw5ZOB77yB77yB5pm66IO95Y+M57O757uf77yM5q2j54mI5b2x6KeG6ZqP5b+D55yL77yM5Liw5a+M5a6J5Y2T5bqU55So77yM5aSa5bGP5LqS5Yqo77yBPGEgIHRhcmdldD1cImJsYW5rXCIgIGhyZWY9XCJodHRwOi8vam1hbGwuamQuY29tL3AxMTc1MTQuaHRtbFwiPuKAnOeMm+aIs+i/memHjO+8jOabtOWkmuaDiuWWnOKAnTwvYT4nLCAnMjQ5OTAwJywgJzk5OTk5JywgbnVsbCwgJ2h0dHA6Ly9pbWFnZS5lM21hbGwuY24vamQvZmY3OGZlYTQ3ZDIwNDM5YThlMmJiODM3Y2FlZDczODQuanBnJywgJzc2JywgJzEnLCAnMjAxNS0wMy0wOCAyMToyNzozOScsICcyMDE1LTAzLTA4IDIxOjI3OjM5Jyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGxpbmtzOgogICAgICAtIHpvb2tlZXBlcjEKICAgICAgLSB6b29rZWVwZXIyCiAgICAgIC0gem9va2VlcGVyMwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGxpbmtzOgogICAgICAtIHpvb2tlZXBlcjEKICAgICAgLSB6b29rZWVwZXIyCiAgICAgIC0gem9va2VlcGVyMwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbW1hbmQ6IHNvbHItZm9yZWdyb3VuZCAtZiAteiB6b29rZWVwZXIxOjIxODEK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbW1hbmQ6IHNvbHItZm9yZWdyb3VuZCAtZiAteiB6b29rZWVwZXIxOjIxODEK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Q1JFQVRFIERBVEFCQVNFIGUzbWFsbDsKVVNFIGUzbWFsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIGUzbWFsbDsK</text>
+        <text encoding="base64">ICAgIG5hbWU6IGUzX2JhY2tlbmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q1JFQVRFIERBVEFCQVNFIGUzbWFsbDsK</text>
+        <text encoding="base64">I+aQreW7unNvbHJjbG91ZOmbhue+pAoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -740,9 +746,9 @@
         <entry>wqa</entry>
         <entry>s</entry>
         <entry>split</entry>
-        <entry>vs</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
