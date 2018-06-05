@@ -19,12 +19,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/docker/docker-compose.yml" timestamp="1528205117603">
-        <mark key="'" line="48" column="16" />
-        <mark key="[" line="41" column="13" />
-        <mark key="]" line="42" column="14" />
-        <mark key="." line="42" column="14" />
-        <mark key="^" line="42" column="14" />
+      <file name="$USER_HOME$/dev/e3parent/docker/docker-compose.yml" timestamp="1528207187968">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="50" column="21" />
+        <mark key="]" line="50" column="21" />
+        <mark key="." line="50" column="21" />
+        <mark key="^" line="37" column="20" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/resources/spring/applicationContext-manager-activemq.xml" timestamp="1528202440864" />
       <file name="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/utils/FastDFSClient.java" timestamp="1527928922125">
@@ -179,8 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="391" column="13" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
-      <jump line="621" column="3" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
       <jump line="690" column="67" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
       <jump line="1193" column="10" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
       <jump line="1204" column="3" filename="$USER_HOME$/dev/e3parent/docker/e3mall/redis_cluster/redis.conf" />
@@ -279,49 +277,51 @@
       <jump line="21" column="13" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/resources/spring/applicationContext-manager-activemq.xml" />
       <jump line="122" column="0" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/java/net/ddns/dzy/e3mall/manager/service/impl/ItemServiceImpl.java" />
       <jump line="40" column="24" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/java/net/ddns/dzy/e3mall/manager/service/impl/ItemServiceImpl.java" />
+      <jump line="0" column="6" filename="$USER_HOME$/dev/e3parent/docker/docker-compose.yml" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/e3parent/docker/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHN0b3JhZ2U=</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IHN0b3JhZ2U=</text>
       </register>
       <register name="/" type="4">
         <text>addItem</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIOa3u+WKoC/mm7TmlrDllYblk4HliJfooajntKLlvJUK</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAtIFJVTkFTPXN0b3JhZ2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSAK</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxpbmtzOgogICAgICAtIGZhc3RkZnNfdHJhY2tlcjp0cmFja2VyCg==</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSA4MTAwOjgwCg==</text>
+        <text encoding="base64">ICAgICAgLSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxpbmtzOgo=</text>
+        <text encoding="base64">ICAgICAgLSAyMzAwMAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSAK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgPCEtLW1hcHBlciDmiavmj48tLT4KICA8YmVhbiBjbGFzcz0ib3JnLm15YmF0aXMuc3ByaW5nLm1hcHBlci5NYXBwZXJTY2FubmVyQ29uZmlndXJlciI+CiAgICA8cHJvcGVydHkgbmFtZT0iYmFzZVBhY2thZ2UiIHZhbHVlPSJuZXQuZGRucy5kenkuZTNtYWxsLm1hbmFnZXIubWFwcGVyLG5ldC5kZG5zLmR6eS5lM21hbGwuc2VhcmNoLm1hcHBlciIvPgogIDwvYmVhbj4=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGxpbmtzOgogICAgICAtIGZhc3RkZnNfdHJhY2tlcjp0cmFja2VyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSA4MTAwOjgwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8Y29udGVudDpjb21wb25lbnQtc2NhbiBiYXNlLXBhY2thZ2U9Im5ldC5kZG5zLmR6eS5lM21hbGwuc2VhcmNoLm1lc3NhZ2UiLz4K</text>
+        <text encoding="base64">ICAgIGxpbmtzOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
