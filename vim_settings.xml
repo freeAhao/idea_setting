@@ -179,14 +179,12 @@
         <mark key="^" line="22" column="99" />
         <mark key="." line="22" column="88" />
       </file>
-      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/lang/Throwable.java" timestamp="1528160935719" />
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/test/java/net/ddns/dzy/e3mall/manager/service/PublishManagerServerTest.java" timestamp="1527772055837">
         <mark key="[" line="18" column="33" />
         <mark key="]" line="18" column="33" />
         <mark key="^" line="18" column="26" />
         <mark key="." line="18" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/resources/spring/applicationContext-manager-dao.xml" timestamp="1528163953159" />
       <file name="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/java/net/ddns/dzy/e3mall/search/mapper/ItemMapper.java" timestamp="1527917449098">
         <mark key="[" line="11" column="21" />
         <mark key="]" line="11" column="31" />
@@ -450,7 +448,6 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="25" column="69" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/lib/log4j.jar!/org/apache/log4j/DailyRollingFileAppender.class" timestamp="1528161145564" />
       <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/main/resources/spring/applicationContext-transaction.xml" timestamp="1527758383723">
         <mark key="[" line="27" column="81" />
         <mark key="]" line="27" column="87" />
@@ -493,13 +490,18 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/resources/spring/applicationContext-manager-activemq.xml" timestamp="1528175675729">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/jedis/JedisClientCluster.java" timestamp="1527840405008">
         <mark key="[" line="7" column="38" />
         <mark key="]" line="9" column="57" />
         <mark key="." line="9" column="57" />
         <mark key="^" line="9" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528163199237">
+      <file name="/Dummy.txt" timestamp="1528175778635">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -541,7 +543,7 @@
         <mark key="^" line="4" column="19" />
         <mark key="." line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-search-web/src/main/java/net/ddns/dzy/e3mall/search/controller/SearchController.java" timestamp="1528170424408">
+      <file name="$USER_HOME$/dev/e3parent/e3-search-web/src/main/java/net/ddns/dzy/e3mall/search/controller/SearchController.java" timestamp="1528175222095">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
@@ -589,7 +591,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="20" filename="$USER_HOME$/dev/e3parent/e3-search-web/src/main/webapp/WEB-INF/jsp/search.jsp" />
       <jump line="94" column="0" filename="$USER_HOME$/dev/e3parent/e3-search-web/src/main/webapp/WEB-INF/jsp/search.jsp" />
       <jump line="52" column="39" filename="$USER_HOME$/dev/e3parent/e3-search-web/src/main/webapp/WEB-INF/jsp/search.jsp" />
       <jump line="82" column="34" filename="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-edit.jsp" />
@@ -689,10 +690,11 @@
       <jump line="2" column="2" filename="$USER_HOME$/dev/e3parent/docker/docker-compose.yml" />
       <jump line="10" column="7" filename="$USER_HOME$/dev/e3parent/docker/docker-compose.yml" />
       <jump line="37" column="16" filename="$USER_HOME$/dev/e3parent/docker/docker-compose.yml" />
+      <jump line="6" column="11" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/resources/spring/applicationContext-manager-activemq.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobmV3IFJhbmRvbSgpLm5leHRCb29sZWFuKCkpewogICAgICAgICAgICB0aHJvdyBuZXcgU29sclNlcnZlckV4Y2VwdGlvbigi5byC5bi45rWL6K+VIik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -704,34 +706,34 @@
         <text encoding="base64">ICAgIGNvbW1hbmQ6IC9zdGFydHVwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobmV3IFJhbmRvbSgpLm5leHRCb29sZWFuKCkpewogICAgICAgICAgICB0aHJvdyBuZXcgU29sclNlcnZlckV4Y2VwdGlvbigi5byC5bi45rWL6K+VIik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pbnRlbGxpai5pZGUudWkuRWRpdG9yT3B0aW9uc1RvcEhpdFByb3ZpZGVyOwo=</text>
+        <text encoding="base64">ICA8IS0t6L+e5o6l5rGgLS0+CiAgPCEtLemFjee9ruaWh+S7ti0tPgogIDxjb250ZW50OnByb3BlcnR5LXBsYWNlaG9sZGVyIGxvY2F0aW9uPSJjbGFzc3BhdGg6L2NvbmZpZy9kYi5wcm9wZXJ0aWVzIi8+CiAgPGJlYW4gaWQ9ImRhdGFTb3VyY2UiIGNsYXNzPSJjb20uYWxpYmFiYS5kcnVpZC5wb29sLkRydWlkRGF0YVNvdXJjZSIKICAgIGRlc3Ryb3ktbWV0aG9kPSJjbG9zZSI+CiAgICA8cHJvcGVydHkgbmFtZT0idXJsIiB2YWx1ZT0iJHtqZGJjLnVybH0iLz4KICAgIDxwcm9wZXJ0eSBuYW1lPSJ1c2VybmFtZSIgdmFsdWU9IiR7amRiYy51c2VybmFtZX0iLz4KICAgIDxwcm9wZXJ0eSBuYW1lPSJwYXNzd29yZCIgdmFsdWU9IiR7amRiYy5wYXNzd29yZH0iLz4KICAgIDxwcm9wZXJ0eSBuYW1lPSJkcml2ZXJDbGFzc05hbWUiIHZhbHVlPSIke2pkYmMuZHJpdmVyfSIvPgogICAgPHByb3BlcnR5IG5hbWU9Im1heEFjdGl2ZSIgdmFsdWU9IjEwIi8+CiAgICA8cHJvcGVydHkgbmFtZT0ibWluSWRsZSIgdmFsdWU9IjUiLz4KICAgIDwhLS3mo4Dmn6Xpk77mjqXlj6/nlKjmgKctLT4KICAgIDxwcm9wZXJ0eSBuYW1lPSJ2YWxpZGF0aW9uUXVlcnkiIHZhbHVlPSJzZWxlY3QgMSBmcm9tIHRiX2l0ZW0iLz4KICAgIDxwcm9wZXJ0eSBuYW1lPSJ0ZXN0T25Cb3Jyb3ciIHZhbHVlPSJ0cnVlIi8+CiAgICA8IS0taWRsZeaXtuebkea1iyDmj5Dpq5jmgKfog70tLT4KICAgIDxwcm9wZXJ0eSBuYW1lPSJ0ZXN0V2hpbGVJZGxlIiB2YWx1ZT0idHJ1ZSIvPgogIDwvYmVhbj4KCiAgPCEtLW15YmF0aXMtLT4KICA8YmVhbiBpZD0ic3FsU2Vzc2lvbkZhY3RvcnkiIGNsYXNzPSJvcmcubXliYXRpcy5zcHJpbmcuU3FsU2Vzc2lvbkZhY3RvcnlCZWFuIj4KICAgIDxwcm9wZXJ0eSBuYW1lPSJkYXRhU291cmNlIiByZWY9ImRhdGFTb3VyY2UiLz4KICAgIDxwcm9wZXJ0eSBuYW1lPSJjb25maWdMb2NhdGlvbiIgdmFsdWU9ImNsYXNzcGF0aDpteWJhdGlzL215YmF0aXMtY29uZmlnLnhtbCIvPgogIDwvYmVhbj4KCiAgPCEtLW1hcHBlciDmiavmj48tLT4KICA8YmVhbiBjbGFzcz0ib3JnLm15YmF0aXMuc3ByaW5nLm1hcHBlci5NYXBwZXJTY2FubmVyQ29uZmlndXJlciI+CiAgICA8cHJvcGVydHkgbmFtZT0iYmFzZVBhY2thZ2UiIHZhbHVlPSJuZXQuZGRucy5kenkuZTNtYWxsLm1hbmFnZXIubWFwcGVyIi8+CiAgPC9iZWFuPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pbnRlbGxpai5pZGUudWkuRWRpdG9yT3B0aW9uc1RvcEhpdFByb3ZpZGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobmV3IFJhbmRvbSgpLm5leHRCb29sZWFuKCkpewogICAgICAgICAgICB0aHJvdyBuZXcgU29sclNlcnZlckV4Y2VwdGlvbigi5byC5bi45rWL6K+VIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmQ6IAogICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pbnRlbGxpai5pZGUudWkuRWRpdG9yT3B0aW9uc1RvcEhpdFByb3ZpZGVyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pbnRlbGxpai5pZGUudWkuRWRpdG9yT3B0aW9uc1RvcEhpdFByb3ZpZGVyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbW1hbmQ6IAogICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CnZvbHVtZXM6CiAgZGJfZGF0YToK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dm9sdW1lczoKICBkYl9kYXRhOgo=</text>
+        <text encoding="base64">CnZvbHVtZXM6CiAgZGJfZGF0YToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
