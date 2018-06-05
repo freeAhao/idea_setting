@@ -3,21 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/resources/spring/applicationContext-search-activemq.xml" timestamp="1528201726108">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="18" column="51" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/resources/spring/applicationContext-search-activemq.xml" timestamp="1528210997009">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/resources/spring/applicationContext-search-dao.xml" timestamp="1528201914641">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/java/net/ddns/dzy/e3mall/manager/service/impl/ItemServiceImpl.java" timestamp="1528194907259">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/java/net/ddns/dzy/e3mall/manager/service/impl/ItemServiceImpl.java" timestamp="1528212586422">
+        <mark key="[" line="75" column="25" />
+        <mark key="]" line="75" column="28" />
+        <mark key="." line="75" column="28" />
+        <mark key="^" line="75" column="28" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/docker/docker-compose.yml" timestamp="1528209928920">
         <mark key="'" line="8" column="0" />
@@ -26,7 +26,7 @@
         <mark key="." line="33" column="14" />
         <mark key="^" line="33" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/resources/spring/applicationContext-manager-activemq.xml" timestamp="1528202440864" />
+      <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/resources/spring/applicationContext-manager-activemq.xml" timestamp="1528210987737" />
       <file name="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/utils/FastDFSClient.java" timestamp="1527928922125">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -141,12 +141,13 @@
         <mark key="." line="24" column="51" />
         <mark key="^" line="24" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/java/net/ddns/dzy/e3mall/search/message/ItemAddMessageListener.java" timestamp="1528200651595">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/java/net/ddns/dzy/e3mall/search/message/ItemAddMessageListener.java" timestamp="1528212575798">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="29" column="21" />
+        <mark key="^" line="29" column="21" />
+        <mark key="." line="29" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528202826063">
+      <file name="/Dummy.txt" timestamp="1528212376290">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -157,11 +158,11 @@
         <mark key="." line="14" column="8" />
         <mark key="^" line="14" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/java/net/ddns/dzy/e3mall/manager/controller/ItemController.java" timestamp="1528202913068">
-        <mark key="[" line="49" column="42" />
-        <mark key="]" line="49" column="43" />
-        <mark key="." line="49" column="43" />
-        <mark key="^" line="49" column="43" />
+      <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/java/net/ddns/dzy/e3mall/manager/controller/ItemController.java" timestamp="1528212322137">
+        <mark key="[" line="54" column="58" />
+        <mark key="]" line="55" column="15" />
+        <mark key="." line="55" column="15" />
+        <mark key="^" line="55" column="15" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/test/java/net/ddns/dzy/e3mall/search/test/PublishSearchService.java" timestamp="1528201941598">
         <mark key="[" line="17" column="25" />
@@ -174,7 +175,7 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1528194994579">
+      <file name="/fragment.java" timestamp="1528212373476">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -282,46 +283,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDgxMDA6ODAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0b3JhZ2U=</text>
+        <text>item</text>
       </register>
       <register name="/" type="4">
         <text>addItem</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAtIFJVTkFTPXN0b3JhZ2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLmtojotLnmtojmga8iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDgxMDA6ODAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgam1zVGVtcGxhdGUuc2VuZChhZGRJdGVtVG9waWMsIHNlc3Npb24gLT4gc2Vzc2lvbi5jcmVhdGVUZXh0TWVzc2FnZShTdHJpbmcudmFsdWVPZiguZ2V0SWQoKSkpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBqbXNUZW1wbGF0ZS5zZW5kKGFkZEl0ZW1Ub3BpYywgc2Vzc2lvbiAtPiBzZXNzaW9uLmNyZWF0ZVRleHRNZXNzYWdlKFN0cmluZy52YWx1ZU9mKC5nZXRJZCgpKSkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSAK</text>
+        <text encoding="base64">ICAgICAgICBUYkl0ZW0gaXRlbVdpdGhJZCA9IChUYkl0ZW0pIHJlc3VsdC5nZXREYXRhKCk7CiAgICAgICAgaWYgKGl0ZW1XaXRoSWQhPW51bGwpewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSAyMzAwMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLmtojotLnmtojmga8iKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLmtojotLnmtojmga8iKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLmtojotLnmtojmga8iKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLmtojotLnmtojmga8iKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLmtojotLnmtojmga8iKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLmtojotLnmtojmga8iKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxpbmtzOgogICAgICAtIGZhc3RkZnNfdHJhY2tlcjp0cmFja2VyCg==</text>
+        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJicm8iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSA4MTAwOjgwCg==</text>
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDgxMDA6ODAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
