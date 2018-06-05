@@ -19,12 +19,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/docker/docker-compose.yml" timestamp="1528208678875">
+      <file name="$USER_HOME$/dev/e3parent/docker/docker-compose.yml" timestamp="1528209928920">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="50" column="21" />
-        <mark key="]" line="50" column="21" />
-        <mark key="." line="50" column="21" />
-        <mark key="^" line="37" column="20" />
+        <mark key="[" line="32" column="19" />
+        <mark key="]" line="33" column="14" />
+        <mark key="." line="33" column="14" />
+        <mark key="^" line="33" column="14" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/resources/spring/applicationContext-manager-activemq.xml" timestamp="1528202440864" />
       <file name="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/utils/FastDFSClient.java" timestamp="1527928922125">
@@ -281,8 +281,8 @@
       <jump line="8" column="0" filename="$USER_HOME$/dev/e3parent/docker/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHN0b3JhZ2U=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDgxMDA6ODAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHN0b3JhZ2U=</text>
@@ -294,7 +294,7 @@
         <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAtIFJVTkFTPXN0b3JhZ2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAK</text>
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDgxMDA6ODAK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -303,25 +303,25 @@
         <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSAK</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSAyMzAwMAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgLSAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgLSAyMzAwMAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxpbmtzOgogICAgICAtIGZhc3RkZnNfdHJhY2tlcjp0cmFja2VyCg==</text>
+        <text encoding="base64">ICAgICAgLSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSA4MTAwOjgwCg==</text>
+        <text encoding="base64">ICAgIGxpbmtzOgogICAgICAtIGZhc3RkZnNfdHJhY2tlcjp0cmFja2VyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxpbmtzOgo=</text>
+        <text encoding="base64">ICAgICAgLSA4MTAwOjgwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
