@@ -43,7 +43,7 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-item-web/target/test-classes/net/ddns/dzy/e3mall/item/test/out/hello.txt" timestamp="1528263498311" />
+      <file name="$USER_HOME$/dev/e3parent/e3-item-web/target/test-classes/net/ddns/dzy/e3mall/item/test/out/hello.txt" timestamp="1528268082294" />
       <file name="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/resources/spring/applicationContext-search-dao.xml" timestamp="1528201914641">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -178,11 +178,12 @@
         <mark key="^" line="8" column="58" />
         <mark key="." line="8" column="58" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-item-web/src/test/java/net/ddns/dzy/e3mall/item/test/ftl/hello.ftl" timestamp="1528263495186">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="5" column="24" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/dev/e3parent/e3-item-web/src/test/java/net/ddns/dzy/e3mall/item/test/ftl/hello.ftl" timestamp="1528268077600">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="40" column="11" />
+        <mark key="]" line="40" column="13" />
+        <mark key="." line="40" column="13" />
+        <mark key="^" line="40" column="13" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/java/net/ddns/dzy/e3mall/search/mapper/ItemMapper.java" timestamp="1528201901688">
         <mark key="[" line="16" column="15" />
@@ -208,11 +209,11 @@
         <mark key="." line="76" column="45" />
         <mark key="^" line="75" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-item-web/src/test/java/net/ddns/dzy/e3mall/item/test/FreeMarkerTest.java" timestamp="1528263488206">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="50" column="35" />
+      <file name="$USER_HOME$/dev/e3parent/e3-item-web/src/test/java/net/ddns/dzy/e3mall/item/test/FreeMarkerTest.java" timestamp="1528267504582">
+        <mark key="[" line="46" column="29" />
+        <mark key="]" line="46" column="29" />
+        <mark key="." line="46" column="29" />
+        <mark key="^" line="46" column="29" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/jedis/JedisClientPool.java" timestamp="1528260213660">
         <mark key="[" line="89" column="37" />
@@ -270,10 +271,14 @@
       <file name="/fragment.java" timestamp="1528262612757">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-item-web/src/test/java/net/ddns/dzy/e3mall/item/test/ftl/abc.ftl" timestamp="1528268061597">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="3" />
+        <mark key="^" line="1" column="3" />
+        <mark key="." line="1" column="3" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="28" filename="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/java/net/ddns/dzy/e3mall/search/dao/SearchDao.java" />
-      <jump line="64" column="67" filename="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/java/net/ddns/dzy/e3mall/search/dao/SearchDao.java" />
       <jump line="61" column="24" filename="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/java/net/ddns/dzy/e3mall/search/dao/SearchDao.java" />
       <jump line="6" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.4.RELEASE/spring-webmvc-4.2.4.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.properties" />
       <jump line="17" column="36" filename="$USER_HOME$/dev/e3parent/e3-search-web/src/main/resources/log4j.properties" />
@@ -372,49 +377,51 @@
       <jump line="124" column="0" filename="$USER_HOME$/dev/e3parent/e3-item-web/pom.xml" />
       <jump line="43" column="16" filename="$USER_HOME$/dev/e3parent/e3-item-web/pom.xml" />
       <jump line="122" column="18" filename="$USER_HOME$/dev/e3parent/e3-item-web/pom.xml" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/e3parent/e3-item-web/src/test/java/net/ddns/dzy/e3mall/item/test/ftl/hello.ftl" />
+      <jump line="24" column="0" filename="$USER_HOME$/dev/e3parent/e3-item-web/src/test/java/net/ddns/dzy/e3mall/item/test/ftl/hello.ftl" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">JHsuZGF0YV9tb2RlbH0K</text>
+      <register name="&quot;" type="4">
+        <text>spring</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>spring</text>
       </register>
       <register name="/" type="4">
         <text>junit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+CiAgICAgICAgPGFydGlmYWN0SWQ+anVuaXQ8L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+JHtqdW5pdC52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICA8c2NvcGU+dGVzdDwvc2NvcGU+CiAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">IyMjIyMjIyMjIyNwb2pvIyMjIyMjIyMjIyMjCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JHsuZGF0YV9tb2RlbH0K</text>
+        <text encoding="base64">6Z2ebnVsbAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWZpbGVPdXREaXIuZXhpc3RzKCkpewogICAgICAgICAgICBmaWxlT3V0RGlyLm1rZGlyKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlIGZpbGVPdXREaXIgPSBuZXcgRmlsZShGcmVlTWFya2VyVGVzdC5jbGFzcy5nZXRSZXNvdXJjZSgib3V0IikuZ2V0UGF0aCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">JHsubm93P3N0cmluZygieXl5eS5NTS5kZCIpfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZS5wcm9jZXNzKG1hcCwgd3JpdGVyKTsK</text>
+        <text encoding="base64">JHsubWFpbl90ZW1wbGF0ZV9uYW1lfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZXIuY2xvc2UoKTsK</text>
+        <text encoding="base64">JHsubm93fQokey5sYW5nfQokey5sb2NhbGV9CiR7Lm1haW5fdGVtcGxhdGVfbmFtZX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWd1cmF0aW9uLndyCg==</text>
+        <text encoding="base64">JHtpZH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZXIudwo=</text>
+        <text encoding="base64">ICAgICR7aXRlbS50aXRsZX0gLS0tLSBpbmRleDoke2l0ZW1faW5kZXh9IC0tLS0gJHtpdGVtX2hhc19uZXh0P3N0cmluZygi5pyJ5LiL5LiA5LiqIiwi5rKh5pyJ5LiL5LiA5LiqIil9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -468,10 +475,10 @@
         <entry>qa</entry>
         <entry>wqa</entry>
         <entry>s</entry>
-        <entry>split</entry>
-        <entry>vs</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>vs</entry>
+        <entry>split</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
