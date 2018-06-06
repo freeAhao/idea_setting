@@ -40,11 +40,11 @@
         <mark key="^" line="87" column="37" />
         <mark key="." line="87" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-item-web/src/main/webapp/WEB-INF/ftl/item.ftl" timestamp="1528271091112">
-        <mark key="'" line="58" column="40" />
-        <mark key="[" line="361" column="30" />
-        <mark key="]" line="361" column="31" />
-        <mark key="." line="361" column="31" />
+      <file name="$USER_HOME$/dev/e3parent/e3-item-web/src/main/webapp/WEB-INF/ftl/item.ftl" timestamp="1528277306468">
+        <mark key="'" line="363" column="0" />
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
         <mark key="^" line="361" column="30" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/java/net/ddns/dzy/e3mall/search/service/impl/SearchItemServiceImpl.java" timestamp="1528200567583">
@@ -96,12 +96,12 @@
         <mark key="." line="170" column="43" />
         <mark key="^" line="170" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/docker/docker-compose.yml" timestamp="1528274391681">
+      <file name="$USER_HOME$/dev/e3parent/docker/docker-compose.yml" timestamp="1528277931843">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="32" column="19" />
-        <mark key="]" line="33" column="14" />
-        <mark key="." line="33" column="14" />
-        <mark key="^" line="33" column="14" />
+        <mark key="[" line="70" column="5" />
+        <mark key="]" line="71" column="20" />
+        <mark key="." line="71" column="20" />
+        <mark key="^" line="71" column="20" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/resources/spring/applicationContext-manager-activemq.xml" timestamp="1528271746601">
         <mark key="[" line="24" column="0" />
@@ -114,7 +114,7 @@
         <mark key="." line="69" column="45" />
         <mark key="^" line="69" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-search-web/src/main/webapp/WEB-INF/jsp/search.jsp" timestamp="1528249740038">
+      <file name="$USER_HOME$/dev/e3parent/e3-search-web/src/main/webapp/WEB-INF/jsp/search.jsp" timestamp="1528278104295">
         <mark key="'" line="40" column="54" />
         <mark key="[" line="51" column="56" />
         <mark key="]" line="51" column="57" />
@@ -275,11 +275,11 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/docker/nginx/item/152827515270418.html" timestamp="1528276018843">
-        <mark key="[" line="4" column="41" />
-        <mark key="]" line="4" column="55" />
+      <file name="$USER_HOME$/dev/e3parent/docker/nginx/item/152827515270418.html" timestamp="1528277273084">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="26" />
+        <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="55" />
-        <mark key="." line="4" column="55" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-item-web/src/test/java/net/ddns/dzy/e3mall/item/test/ftl/abc.ftl" timestamp="1528268061597">
         <mark key="[" line="1" column="2" />
@@ -289,8 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="13" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/resources/spring/applicationContext-manager-activemq.xml" />
-      <jump line="122" column="0" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/java/net/ddns/dzy/e3mall/manager/service/impl/ItemServiceImpl.java" />
       <jump line="40" column="24" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/java/net/ddns/dzy/e3mall/manager/service/impl/ItemServiceImpl.java" />
       <jump line="0" column="6" filename="$USER_HOME$/dev/e3parent/docker/docker-compose.yml" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/e3parent/docker/docker-compose.yml" />
@@ -389,13 +387,15 @@
       <jump line="15" column="7" filename="$USER_HOME$/dev/e3parent/e3-item-web/src/main/java/net/ddns/dzy/e3mall/item/listener/HtmlGenListener.java" />
       <jump line="5" column="4" filename="$USER_HOME$/dev/e3parent/e3-item-web/src/main/resources/spring/springmvc-item.xml" />
       <jump line="41" column="12" filename="$USER_HOME$/dev/e3parent/e3-item-web/src/main/java/net/ddns/dzy/e3mall/item/listener/HtmlGenListener.java" />
+      <jump line="350" column="32" filename="$USER_HOME$/dev/e3parent/e3-item-web/src/main/webapp/WEB-INF/ftl/item.ftl" />
+      <jump line="363" column="0" filename="$USER_HOME$/dev/e3parent/e3-item-web/src/main/webapp/WEB-INF/ftl/item.ftl" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGNoYXJzZXQ9IlVURi04Ig==</text>
+        <text encoding="base64">IHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNoYXJzZXQ9IlVURi04Ig==</text>
+        <text encoding="base64">IHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIg==</text>
       </register>
       <register name="/" type="4">
         <text>mq</text>
@@ -404,34 +404,34 @@
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSXRlbVNlcnZpY2UgaXRlbVNlcnZpY2U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QENvbXAK</text>
+        <text encoding="base64">ICA8Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJlZU1hcmtlckNvbmZpZ3VyZXIuZ2V0dGUK</text>
+        <text encoding="base64">QENvbXAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVGVtcGxhdGVDb25maQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJlZU1hcmtlckNvbmZpZ3VyZXIuZ2V0dGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVGVtcGxhdGVDb25maQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRnJlZU1hcmtlckNvbmZpZ3VyZXIgZnJlZU1hcmtlckNvbmZpZ3VyZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uZmlndXJhdGlvbiBjb25maWd1cmF0aW9uID0gZnJlZU1hcmtlckNvbmZpZ3VyZXIuZ2V0Q29uZmlndXJhdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRnJlZU1hcmtlckNvbmZpZ3VyZXIgZnJlZU1hcmtlckNvbmZpZ3VyZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZmlndXJhdGlvbi4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29uZmlndXJhdGlvbiBjb25maWd1cmF0aW9uID0gZnJlZU1hcmtlckNvbmZpZ3VyZXIuZ2V0Q29uZmlndXJhdGlvbigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGVtcGxhdGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZmlndXJhdGlvbi4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwIGRhdGEgPSBuZXcgSGFzaE1hcCgpOwogICAgICAgICAgICBkYXRhLnB1dCgiaXRlbSIsbmV3IEl0ZW0oaXRlbSkpOwogICAgICAgICAgICBkYXRhLnB1dCgiaXRlbURlc2MiLGl0ZW1EZXNjLmdldERhdGEoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGVtcGxhdGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
