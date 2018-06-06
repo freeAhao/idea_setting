@@ -22,9 +22,6 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-item-web/src/main/webapp/WEB-INF/jsp/item.jsp" timestamp="1528270665178">
-        <mark key="'" line="159" column="85" />
-      </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/resources/config/resource.properties" timestamp="1528258679336">
         <mark key="[" line="2" column="11" />
         <mark key="]" line="3" column="21" />
@@ -278,6 +275,12 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/e3parent/docker/nginx/item/152827515270418.html" timestamp="1528276018843">
+        <mark key="[" line="4" column="41" />
+        <mark key="]" line="4" column="55" />
+        <mark key="^" line="4" column="55" />
+        <mark key="." line="4" column="55" />
+      </file>
       <file name="$USER_HOME$/dev/e3parent/e3-item-web/src/test/java/net/ddns/dzy/e3mall/item/test/ftl/abc.ftl" timestamp="1528268061597">
         <mark key="[" line="1" column="2" />
         <mark key="]" line="1" column="3" />
@@ -389,10 +392,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.xml</text>
+        <text encoding="base64">IGNoYXJzZXQ9IlVURi04Ig==</text>
       </register>
       <register name="-" type="4">
-        <text>.xml</text>
+        <text encoding="base64">IGNoYXJzZXQ9IlVURi04Ig==</text>
       </register>
       <register name="/" type="4">
         <text>mq</text>
@@ -431,7 +434,7 @@
         <text encoding="base64">ICAgICAgICAgICAgTWFwIGRhdGEgPSBuZXcgSGFzaE1hcCgpOwogICAgICAgICAgICBkYXRhLnB1dCgiaXRlbSIsbmV3IEl0ZW0oaXRlbSkpOwogICAgICAgICAgICBkYXRhLnB1dCgiaXRlbURlc2MiLGl0ZW1EZXNjLmdldERhdGEoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -485,8 +488,8 @@
         <entry>set wrap</entry>
         <entry>set nowrap</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
