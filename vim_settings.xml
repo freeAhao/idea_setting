@@ -426,10 +426,11 @@
         <mark key="]" line="137" column="0" />
         <mark key="." line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-sso-web/src/main/java/net/ddns/dzy/e3mall/sso/controller/TokenController.java" timestamp="1528377554162">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="79" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/dev/e3parent/e3-sso-web/src/main/java/net/ddns/dzy/e3mall/sso/controller/TokenController.java" timestamp="1528380481349">
+        <mark key="[" line="39" column="79" />
+        <mark key="]" line="40" column="25" />
+        <mark key="." line="40" column="25" />
+        <mark key="^" line="40" column="25" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/resources/conf/conf.properties" timestamp="1528203754842">
         <mark key="[" line="1" column="32" />
@@ -448,7 +449,7 @@
         <mark key="^" line="61" column="20" />
         <mark key="." line="61" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528373773630">
+      <file name="/Dummy.txt" timestamp="1528379748219">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -505,7 +506,7 @@
         <mark key="]" line="121" column="0" />
         <mark key="." line="121" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-sso/e3-sso-service/src/main/java/net/ddns/dzy/e3mall/sso/service/impl/TokenServiceImpl.java" timestamp="1528363764303">
+      <file name="$USER_HOME$/dev/e3parent/e3-sso/e3-sso-service/src/main/java/net/ddns/dzy/e3mall/sso/service/impl/TokenServiceImpl.java" timestamp="1528380552525">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
@@ -638,49 +639,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh1c2VybmFtZSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgQENyb3NzT3JpZ2luKG9yaWdpbnMgPSB7Imh0dHA6Ly9sb2NhbGhvc3Q6ODA4MSIsImh0dHA6Ly9sb2NhbGhvc3Q6ODA4MiJ9KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>, String callback</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
         <text>login</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXN1bHQgZ2V0VXNlckJ5VG9rZW4oQFBhdGhWYXJpYWJsZSBTdHJpbmcgdG9rZW4sIFN0cmluZyBjYWxsYmFjayl7Cg==</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiL3VzZXIvdG9rZW4ve3Rva2VufSIpCiAgICBAUmVzcG9uc2VCb2R5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh1c2VybmFtZSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgQENyb3NzT3JpZ2luKG9yaWdpbnMgPSB7Imh0dHA6Ly9sb2NhbGhvc3Q6ODA4MSIsImh0dHA6Ly9sb2NhbGhvc3Q6ODA4MiJ9KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgQENyb3NzT3JpZ2luKG9yaWdpbnMgPSB7Imh0dHA6Ly9sb2NhbGhvc3Q6ODA4MSIsImh0dHA6Ly9sb2NhbGhvc3Q6ODA4MiJ9KQo=</text>
+        <text encoding="base64">Ly8gICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I+WFgeiuuOi3qOWfnwpDT1JTX0RPTUFJTj1odHRwOi8vbG9jYWxob3N0OjgwODEsaHR0cDovL2xvY2FsaG9zdDo4MDgyCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIE1hcHBpbmdKYWNrc29uVmFsdWUgbWFwcGluZ0phY2tzb25WYWx1ZSA9IG5ldyBNYXBwaW5nSmFja3NvblZhbHVlKHJlc3VsdCk7Ci8vICAgICAgICBtYXBwaW5nSmFja3NvblZhbHVlLnNldEpzb25wRnVuY3Rpb24oImNhbGxiYWNrIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPAogICAgPC9tdmM6bWFwcGluZz4K</text>
+        <text encoding="base64">ICAgICAgICBNYXBpbmdKYWNrCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8Cg==</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiL3VzZXIvdG9rZW4ve3Rva2VufSIpCiAgICBAUmVzcG9uc2VCb2R5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBDcm9zc09yaWdpbigpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBqc29uUmVzdWx0ID0gSnNvblV0aWwub2JqZWN0Mkpzb24odXNlclJlc3VsdCk7Ci8vICAgICAgICBpZihTdHJpbmdVdGlscy5pc05vbmVCbGFuayhjYWxsYmFjaykpewovLyAgICAgICAgICAgIHJldHVybiBjYWxsYmFjaysiKCIgKyBqc29uUmVzdWx0ICsgIik7IjsKLy8gICAgICAgIH0KLy8gICAgICAgIHJldHVybiBqc29uUmVzdWx0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBSZXNwb25zZUVudGl0eQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFJlc3RDb24K</text>
+        <text encoding="base64">Ly8gICAgQENyb3NzT3JpZ2luKG9yaWdpbnMgPSB7Imh0dHA6Ly9sb2NhbGhvc3Q6ODA4MSIsImh0dHA6Ly9sb2NhbGhvc3Q6ODA4MiJ9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh1c2VybmFtZSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -734,8 +735,8 @@
         <entry>%s/images/image/g</entry>
         <entry>qa</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
