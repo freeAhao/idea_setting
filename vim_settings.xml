@@ -16,6 +16,9 @@
         <mark key="^" line="8" column="10" />
         <mark key="." line="8" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-item-web/src/main/webapp/WEB-INF/jsp/item.jsp" timestamp="1528384807971">
+        <mark key="'" line="62" column="324" />
+      </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/resources/config/resource.properties" timestamp="1528258679336">
         <mark key="[" line="2" column="11" />
         <mark key="]" line="3" column="21" />
@@ -49,6 +52,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-item-web/src/main/webapp/js/cart.js" timestamp="1528384770732">
+        <mark key="[" line="275" column="39" />
+        <mark key="]" line="275" column="40" />
+        <mark key="." line="275" column="40" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/resources/spring/applicationContext-search-dao.xml" timestamp="1528201914641">
         <mark key="[" line="29" column="0" />
@@ -420,6 +428,11 @@
         <mark key="^" line="61" column="20" />
         <mark key="." line="61" column="20" />
       </file>
+      <file name="/Dummy.txt" timestamp="1528381881815">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/java/net/ddns/dzy/e3mall/search/service/impl/SearchServiceImpl.java" timestamp="1528182687281">
         <mark key="[" line="13" column="15" />
         <mark key="]" line="14" column="8" />
@@ -473,6 +486,11 @@
         <mark key="^" line="43" column="31" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-dao/pom.xml" timestamp="1528383112714" />
+      <file name="$USER_HOME$/dev/e3parent/e3-sso/e3-sso-service/src/main/java/net/ddns/dzy/e3mall/sso/service/impl/TokenServiceImpl.java" timestamp="1528380552525">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/e3parent/e3-sso/e3-sso-service/src/main/resources/log4j.properties" timestamp="1528292611920">
         <mark key="[" line="14" column="44" />
         <mark key="]" line="14" column="50" />
@@ -492,7 +510,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="48" filename="$USER_HOME$/dev/e3parent/e3-sso-web/src/main/webapp/js/reg.js" />
       <jump line="131" column="47" filename="$USER_HOME$/dev/e3parent/e3-sso-web/src/main/webapp/WEB-INF/jsp/register.jsp" />
       <jump line="144" column="12" filename="$USER_HOME$/dev/e3parent/e3-sso-web/src/main/webapp/WEB-INF/jsp/register.jsp" />
       <jump line="188" column="0" filename="$USER_HOME$/dev/e3parent/e3-sso-web/src/main/webapp/WEB-INF/jsp/register.jsp" />
@@ -592,6 +609,7 @@
       <jump line="15" column="15" filename="$USER_HOME$/dev/e3parent/e3-sso-web/pom.xml" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/e3parent/e3-sso-web/pom.xml" />
       <jump line="56" column="15" filename="$USER_HOME$/dev/e3parent/e3-cart-web/pom.xml" />
+      <jump line="62" column="324" filename="$USER_HOME$/dev/e3parent/e3-item-web/src/main/webapp/WEB-INF/jsp/item.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -601,7 +619,7 @@
         <text>sso</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text>加入购物车</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICA8ZGVwZW5kZW5jaWVzPgogICAgPGRlcGVuZGVuY3k+CiAgICAgIDxncm91cElkPm5ldC5kZG5zLmR6eS5lM21hbGw8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmUzLXNzby1pbnRlcmZhY2U8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjEuMC1TTkFQU0hPVDwvdmVyc2lvbj4KICAgIDwvZGVwZW5kZW5jeT4KICAgIDwhLS0gSlNQ55u45YWzIC0tPgogICAgPGRlcGVuZGVuY3k+CiAgICAgIDxncm91cElkPmphdmF4LnNlcnZsZXQ8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmpzdGw8L2FydGlmYWN0SWQ+CiAgICA8L2RlcGVuZGVuY3k+CiAgICA8ZGVwZW5kZW5jeT4KICAgICAgPGdyb3VwSWQ+amF2YXguc2VydmxldDwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+amF2YXguc2VydmxldC1hcGk8L2FydGlmYWN0SWQ+CiAgICAgIDxzY29wZT5wcm92aWRlZDwvc2NvcGU+CiAgICA8L2RlcGVuZGVuY3k+CiAgICA8ZGVwZW5kZW5jeT4KICAgICAgPGdyb3VwSWQ+amF2YXguc2VydmxldC5qc3A8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmphdmF4LnNlcnZsZXQuanNwLWFwaTwvYXJ0aWZhY3RJZD4KICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4KICAgIDwvZGVwZW5kZW5jeT4KICAgIDwhLS0gU3ByaW5nIC0tPgogICAgPGRlcGVuZGVuY3k+CiAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1jb250ZXh0PC9hcnRpZmFjdElkPgogICAgPC9kZXBlbmRlbmN5PgogICAgPGRlcGVuZGVuY3k+CiAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1iZWFuczwvYXJ0aWZhY3RJZD4KICAgIDwvZGVwZW5kZW5jeT4KICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctd2VibXZjPC9hcnRpZmFjdElkPgogICAgPC9kZXBlbmRlbmN5PgogICAgPGRlcGVuZGVuY3k+CiAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1qZGJjPC9hcnRpZmFjdElkPgogICAgPC9kZXBlbmRlbmN5PgogICAgPGRlcGVuZGVuY3k+CiAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1hc3BlY3RzPC9hcnRpZmFjdElkPgogICAgPC9kZXBlbmRlbmN5PgogICAgPGRlcGVuZGVuY3k+CiAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1qbXM8L2FydGlmYWN0SWQ+CiAgICA8L2RlcGVuZGVuY3k+CiAgICA8ZGVwZW5kZW5jeT4KICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yazwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWNvbnRleHQtc3VwcG9ydDwvYXJ0aWZhY3RJZD4KICAgIDwvZGVwZW5kZW5jeT4KICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctdGVzdDwvYXJ0aWZhY3RJZD4KICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgogICAgPC9kZXBlbmRlbmN5PgogICAgPCEtLSBkdWJib+ebuOWFsyAtLT4KICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uYWxpYmFiYTwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+ZHViYm88L2FydGlmYWN0SWQ+CiAgICAgIDxleGNsdXNpb25zPgogICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrPC9ncm91cElkPgogICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nPC9hcnRpZmFjdElkPgogICAgICAgIDwvZXhjbHVzaW9uPgogICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICA8Z3JvdXBJZD5vcmcuamJvc3MubmV0dHk8L2dyb3VwSWQ+CiAgICAgICAgICA8YXJ0aWZhY3RJZD5uZXR0eTwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2V4Y2x1c2lvbj4KICAgICAgPC9leGNsdXNpb25zPgogICAgPC9kZXBlbmRlbmN5PgogICAgPGRlcGVuZGVuY3k+CiAgICAgIDxncm91cElkPm9yZy5hcGFjaGUuem9va2VlcGVyPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD56b29rZWVwZXI8L2FydGlmYWN0SWQ+CiAgICA8L2RlcGVuZGVuY3k+CiAgICA8ZGVwZW5kZW5jeT4KICAgICAgPGdyb3VwSWQ+Y29tLmdpdGh1Yi5zZ3Jvc2NodXBmPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD56a2NsaWVudDwvYXJ0aWZhY3RJZD4KICAgICAgPGV4Y2x1c2lvbnM+CiAgICAgICAgPGV4Y2x1c2lvbj4KICAgICAgICAgIDxncm91cElkPmxvZzRqPC9ncm91cElkPgogICAgICAgICAgPGFydGlmYWN0SWQ+bG9nNGo8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9leGNsdXNpb24+CiAgICAgIDwvZXhjbHVzaW9ucz4KICAgIDwvZGVwZW5kZW5jeT4KICAgIDwhLS10ZXN0LS0+CiAgICA8ZGVwZW5kZW5jeT4KICAgICAgPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmp1bml0PC9hcnRpZmFjdElkPgogICAgICA8c2NvcGU+dGVzdDwvc2NvcGU+CiAgICA8L2RlcGVuZGVuY3k+CiAgPC9kZXBlbmRlbmNpZXM+CgogIDxidWlsZD4KICAgIDxwbHVnaW5zPgogICAgICA8cGx1Z2luPgogICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUudG9tY2F0Lm1hdmVuPC9ncm91cElkPgogICAgICAgIDxhcnRpZmFjdElkPnRvbWNhdDctbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgPHBhdGg+LzwvcGF0aD4KICAgICAgICAgIDxwb3J0PjgwODU8L3BvcnQ+CiAgICAgICAgICA8dXJpRW5jb2Rpbmc+VVRGLTg8L3VyaUVuY29kaW5nPgogICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgPC9wbHVnaW4+CiAgICA8L3BsdWdpbnM+CiAgPC9idWlsZD4K</text>
@@ -637,13 +655,13 @@
         <text encoding="base64">ICA8ZHViYm86c2VydmljZSBpbnRlcmZhY2U9Im5ldC5kZG5zLmR6eS5lM21hbGwuY2FydC5zZXJ2aWNlLkNvbnRlbnRDYXRlZ29yeVNlcnZpY2UiIHJlZj0iY29udGVudENhdGVnb3J5U2VydmljZUltcGwiIHRpbWVvdXQ9IjM2MDAwMDAiLz4K</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search>加入购物车</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern>加入购物车</last-pattern>
       <last-replace>image</last-replace>
       <last-substitute>images</last-substitute>
       <last-dir>1</last-dir>
@@ -651,7 +669,6 @@
     </search>
     <history>
       <history-search>
-        <entry>context</entry>
         <entry encoding="base64">PGZtdDo=</entry>
         <entry>c:forEach</entry>
         <entry>jsp</entry>
@@ -671,6 +688,7 @@
         <entry>key</entry>
         <entry>loginbar</entry>
         <entry>login</entry>
+        <entry>加入购物车</entry>
       </history-search>
       <history-cmd>
         <entry>Wqa</entry>
@@ -690,9 +708,9 @@
         <entry>%s/images/image/g</entry>
         <entry>qa</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wqa</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
