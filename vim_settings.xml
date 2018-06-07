@@ -27,6 +27,11 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-search-web/pom.xml" timestamp="1528373706567">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/resources/spring/applicationContext-search-activemq.xml" timestamp="1528273127307">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="58" />
@@ -52,8 +57,8 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" timestamp="1528364795043">
-        <mark key="'" line="6" column="24" />
+      <file name="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" timestamp="1528374201815">
+        <mark key="'" line="13" column="23" />
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="24" />
         <mark key="^" line="7" column="85" />
@@ -72,11 +77,11 @@
         <mark key="." line="71" column="20" />
         <mark key="^" line="71" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-sso-web/src/main/resources/spring/springmvc-sso.xml" timestamp="1528363084549">
-        <mark key="[" line="40" column="80" />
-        <mark key="]" line="40" column="91" />
-        <mark key="." line="40" column="91" />
-        <mark key="^" line="40" column="91" />
+      <file name="$USER_HOME$/dev/e3parent/e3-sso-web/src/main/resources/spring/springmvc-sso.xml" timestamp="1528377538330">
+        <mark key="[" line="43" column="77" />
+        <mark key="]" line="43" column="120" />
+        <mark key="^" line="43" column="92" />
+        <mark key="." line="43" column="77" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-sso-web/src/main/java/net/ddns/dzy/e3mall/sso/controller/LoginController.java" timestamp="1528361415661">
         <mark key="'" line="30" column="37" />
@@ -123,16 +128,21 @@
         <mark key="^" line="19" column="38" />
         <mark key="." line="19" column="38" />
       </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-sso-web/pom.xml" timestamp="1528373713093">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/e3parent/e3-search/pom.xml" timestamp="1527915969440">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-sso-web/src/main/resources/conf/conf.properties" timestamp="1528353387241">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="1" column="17" />
-        <mark key="." line="1" column="17" />
-        <mark key="^" line="1" column="17" />
+      <file name="$USER_HOME$/dev/e3parent/e3-sso-web/src/main/resources/conf/conf.properties" timestamp="1528377541566">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="11" />
       </file>
       <file name="/a.sql" timestamp="1528252035252">
         <mark key="[" line="0" column="0" />
@@ -201,12 +211,11 @@
         <mark key="^" line="32" column="40" />
         <mark key="." line="32" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-portal-web/pom.xml" timestamp="1528356135345">
+      <file name="$USER_HOME$/dev/e3parent/e3-portal-web/pom.xml" timestamp="1528373685675">
         <mark key="'" line="47" column="16" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="71" />
-        <mark key="^" line="109" column="59" />
-        <mark key="." line="110" column="0" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/resources/conf/FDFSClientConf.conf" timestamp="1528203746904">
         <mark key="[" line="0" column="15" />
@@ -214,12 +223,11 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/js/e3mall.js" timestamp="1528364723216">
+      <file name="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/js/e3mall.js" timestamp="1528377624428">
         <mark key="'" line="0" column="13" />
-        <mark key="[" line="13" column="41" />
-        <mark key="]" line="13" column="41" />
-        <mark key="." line="13" column="41" />
-        <mark key="^" line="13" column="41" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-sso/e3-sso-service/src/main/resources/spring/applicationContext-sso-transaction.xml" timestamp="1528334023807">
         <mark key="[" line="27" column="81" />
@@ -259,7 +267,7 @@
         <mark key="." line="6" column="75" />
         <mark key="^" line="6" column="75" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/index.jsp" timestamp="1528364545761">
+      <file name="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/index.jsp" timestamp="1528374194403">
         <mark key="'" line="518" column="0" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/resources/spring/springmvc-portal.xml" timestamp="1528354889688">
@@ -278,7 +286,8 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-search-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" timestamp="1528362069038">
+      <file name="$USER_HOME$/dev/e3parent/e3-search-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" timestamp="1528375806853">
+        <mark key="'" line="7" column="26" />
         <mark key="[" line="9" column="44" />
         <mark key="]" line="9" column="51" />
         <mark key="." line="9" column="51" />
@@ -377,6 +386,12 @@
         <mark key="." line="41" column="23" />
         <mark key="^" line="41" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-search-web/src/main/webapp/js/e3mall.js" timestamp="1528376438907">
+        <mark key="[" line="7" column="39" />
+        <mark key="]" line="7" column="40" />
+        <mark key="." line="7" column="40" />
+        <mark key="^" line="2" column="39" />
+      </file>
       <file name="/tb_item_cat [e3mall@localhost]" timestamp="1527868818139">
         <mark key="[" line="0" column="0" />
       </file>
@@ -406,11 +421,15 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-sso-web/src/main/java/net/ddns/dzy/e3mall/sso/controller/TokenController.java" timestamp="1528363181051">
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="24" column="14" />
-        <mark key="." line="24" column="14" />
-        <mark key="^" line="24" column="14" />
+      <file name="$USER_HOME$/dev/e3parent/e3-manager-web/pom.xml" timestamp="1528373699829">
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-sso-web/src/main/java/net/ddns/dzy/e3mall/sso/controller/TokenController.java" timestamp="1528377554162">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="79" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/resources/conf/conf.properties" timestamp="1528203754842">
         <mark key="[" line="1" column="32" />
@@ -429,7 +448,7 @@
         <mark key="^" line="61" column="20" />
         <mark key="." line="61" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528363990121">
+      <file name="/Dummy.txt" timestamp="1528373773630">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -480,12 +499,11 @@
         <mark key="." line="43" column="31" />
         <mark key="^" line="43" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-item-web/pom.xml" timestamp="1528357912596">
+      <file name="$USER_HOME$/dev/e3parent/e3-item-web/pom.xml" timestamp="1528373695785">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="71" />
-        <mark key="." line="122" column="57" />
-        <mark key="^" line="122" column="57" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-sso/e3-sso-service/src/main/java/net/ddns/dzy/e3mall/sso/service/impl/TokenServiceImpl.java" timestamp="1528363764303">
         <mark key="[" line="23" column="0" />
@@ -512,14 +530,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1528362752398">
+      <file name="/fragment.java" timestamp="1528373760698">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/main/resources/log4j.properties" />
-      <jump line="20" column="28" filename="$USER_HOME$/dev/e3parent/e3-search-web/src/main/resources/log4j.properties" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/main/resources/log4j.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/resources/log4j.properties" />
       <jump line="21" column="0" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/main/resources/log4j.properties" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/resources/log4j.properties" />
@@ -612,57 +627,60 @@
       <jump line="7" column="57" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" />
       <jump line="11" column="57" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" />
       <jump line="5" column="28" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" />
-      <jump line="33" column="40" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/index.jsp" />
       <jump line="512" column="13" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <jump line="518" column="0" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/index.jsp" />
       <jump line="6" column="24" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" />
       <jump line="116" column="0" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/js/jquery.cookie.js" />
+      <jump line="0" column="15" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" />
+      <jump line="33" column="30" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/index.jsp" />
+      <jump line="518" column="0" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/index.jsp" />
+      <jump line="13" column="23" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" />
+      <jump line="7" column="26" filename="$USER_HOME$/dev/e3parent/e3-search-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zbyAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh1c2VybmFtZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>TT_TOKEN</text>
+        <text>, String callback</text>
       </register>
       <register name="/" type="4">
         <text>login</text>
       </register>
-      <register name="0" type="4">
-        <text>tokenService</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBSZXN1bHQgZ2V0VXNlckJ5VG9rZW4oQFBhdGhWYXJpYWJsZSBTdHJpbmcgdG9rZW4sIFN0cmluZyBjYWxsYmFjayl7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zbyAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh1c2VybmFtZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiJHt9IikKICAgIHByaXZhdGUgU3RyaW5nIFRPS0VOX0tFWTsK</text>
+        <text encoding="base64">Ly8gICAgQENyb3NzT3JpZ2luKG9yaWdpbnMgPSB7Imh0dHA6Ly9sb2NhbGhvc3Q6ODA4MSIsImh0dHA6Ly9sb2NhbGhvc3Q6ODA4MiJ9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">I+WFgeiuuOi3qOWfnwpDT1JTX0RPTUFJTj1odHRwOi8vbG9jYWxob3N0OjgwODEsaHR0cDovL2xvY2FsaG9zdDo4MDgyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5SZXF1ZXN0TWFwcGluZzsK</text>
+        <text encoding="base64">ICAgICAgPAogICAgPC9tdmM6bWFwcGluZz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKHZhbHVlID0gIi91c2VyIikK</text>
+        <text encoding="base64">ICA8Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VySnNvbi4K</text>
+        <text encoding="base64">ICAgIEBDcm9zc09yaWdpbigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBqZWRpc0NsaWVudC4K</text>
+        <text encoding="base64">ICAgICAgICBSZXNwb25zZUVudGl0eQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5kZG5zLmR6eS5lM21hbGwucG9qby5UYlVzZXI7Cg==</text>
+        <text encoding="base64">QFJlc3RDb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIF1dXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -711,13 +729,13 @@
         <entry>set wrap</entry>
         <entry>set nowrap</entry>
         <entry>waq</entry>
-        <entry>q</entry>
         <entry>qa!</entry>
         <entry>wqa</entry>
         <entry>%s/images/image/g</entry>
         <entry>qa</entry>
-        <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
