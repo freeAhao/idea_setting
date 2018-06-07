@@ -70,6 +70,7 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
+      <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/java/net/ddns/dzy/e3mall/manager/service/impl/ItemServiceImpl.java" timestamp="1528380947121" />
       <file name="$USER_HOME$/dev/e3parent/docker/docker-compose.yml" timestamp="1528330818915">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="70" column="5" />
@@ -348,7 +349,7 @@
       <file name="/tb_content_category [e3mall@localhost]" timestamp="1528355141412">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/jedis/JedisClient.java" timestamp="1528260168202">
+      <file name="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/jedis/JedisClient.java" timestamp="1528380695606">
         <mark key="[" line="18" column="4" />
         <mark key="]" line="18" column="7" />
         <mark key="^" line="18" column="7" />
@@ -449,7 +450,7 @@
         <mark key="^" line="61" column="20" />
         <mark key="." line="61" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528379748219">
+      <file name="/Dummy.txt" timestamp="1528381881815">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
