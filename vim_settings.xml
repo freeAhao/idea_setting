@@ -136,6 +136,7 @@
         <mark key="." line="1" column="18" />
         <mark key="^" line="1" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-default-methods/src/main/java/io/github/biezhi/java8/defaultmethods/conflict/App2.java" timestamp="1528640538350" />
       <file name="$USER_HOME$/dev/e3parent/e3-item-web/src/main/resources/conf/conf.properties" timestamp="1528272866688">
         <mark key="[" line="1" column="9" />
         <mark key="]" line="1" column="11" />
@@ -153,6 +154,10 @@
         <mark key="]" line="1" column="17" />
         <mark key="." line="0" column="19" />
         <mark key="^" line="2" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-default-methods/src/main/java/io/github/biezhi/java8/defaultmethods/conflict/A.java" timestamp="1528640509070">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="10" column="4" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-cart-web/src/main/webapp/WEB-INF/jsp/cart.jsp" timestamp="1528450013713">
         <mark key="'" line="65" column="37" />
@@ -476,6 +481,7 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-default-methods/src/main/java/io/github/biezhi/java8/defaultmethods/conflict/App3.java" timestamp="1528640576404" />
       <file name="$USER_HOME$/dev/e3parent/e3-order-web/src/main/java/net/ddns/dzy/e3mall/order/controller/OrderController.java" timestamp="1528507310808">
         <mark key="'" line="31" column="3" />
         <mark key="[" line="68" column="34" />
@@ -641,7 +647,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1998" column="123" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/js/global_index.js" />
       <jump line="2001" column="123" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/js/global_index.js" />
       <jump line="2004" column="124" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/js/global_index.js" />
       <jump line="2007" column="111" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/js/global_index.js" />
@@ -741,19 +746,20 @@
       <jump line="7" column="16" filename="$USER_HOME$/dev/tmp/stream-demo/src/main/java/Project.java" />
       <jump line="23" column="40" filename="$USER_HOME$/dev/tmp/stream-demo/src/main/java/Main.java" />
       <jump line="31" column="17" filename="$USER_HOME$/dev/tmp/stream-demo/src/main/java/Main.java" />
+      <jump line="6" column="16" filename="$USER_HOME$/dev/tmp/learn-java8/java8-default-methods/src/main/java/io/github/biezhi/java8/defaultmethods/conflict/App2.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxjdWxhdG9yLm1vZCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UHJvamVjdCwg</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgPFI+IExpc3Q8Uj4gZ2V0TmFtZXMoTGlzdDxQcm9qZWN0PiBwcm9qZWN0cywKICAgICAgICAgICAgICAgUHJlZGljYXRlPFByb2plY3Q+IHByZWRpY2F0ZSwgRnVuY3Rpb248UHJvamVjdCwgUj4gZnVuY3Rpb24pewogICAgICAgIExpc3Q8Uj4gbmFtZXM9ICBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBmb3IgKFByb2plY3QgcHJvamVjdCA6IHByb2plY3RzKSB7CiAgICAgICAgICAgIGlmIChwcmVkaWNhdGUudGVzdChwcm9qZWN0KSl7CiAgICAgICAgICAgICAgICBuYW1lcy5hZGQoZnVuY3Rpb24uYXBwbHkocHJvamVjdCkpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBuYW1lczsKICAgIH0K</text>
+        <text encoding="base64">ICAgIGRlZmF1bHQgdm9pZCBzYXlIZWxsbygpewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi5L2g5aW977yM5oiR5pivIEphdmEgOCIpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjYWxjdWxhdG9yLm1vZCgpCg==</text>
