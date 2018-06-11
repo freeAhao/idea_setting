@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/lesson3/Example5.java" timestamp="1528728811990">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/tmp/learn-java8/java8-default-methods/src/main/java/io/github/biezhi/java8/defaultmethods/conflict/App2.java" timestamp="1528675935825">
         <mark key="[" line="6" column="18" />
         <mark key="]" line="6" column="18" />
@@ -24,6 +29,8 @@
       <file name="/a.sql" timestamp="1528469573247">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/Function.java" timestamp="1528725438011" />
+      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/lesson3/Example4.java" timestamp="1528726558985" />
       <file name="/tb_order_shipping [e3mall@localhost]" timestamp="1528470070339">
         <mark key="[" line="0" column="0" />
       </file>
@@ -33,7 +40,12 @@
       <file name="/dummy.sql" timestamp="1528470084675">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/stream/Stream.java" timestamp="1528723820591">
+      <file name="$USER_HOME$/dev/tmp/learn-java8/TestThreadSafe/src/main/java/net/ddns/dzy/WriteThread.java" timestamp="1528727744670">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/stream/Stream.java" timestamp="1528727000283">
         <mark key="'" line="368" column="5" />
       </file>
       <file name="$USER_HOME$/dev/tmp/stream-demo/pom.xml" timestamp="1528635734161">
@@ -44,8 +56,13 @@
       <file name="/Dummy.txt" timestamp="1528608732971">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/lesson3/Example1.java" timestamp="1528724571093">
-        <mark key="'" line="39" column="24" />
+      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/lesson3/Example1.java" timestamp="1528724967088">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/tmp/learn-java8/TestThreadSafe/src/main/java/net/ddns/dzy/Test.java" timestamp="1528727910228">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="17" column="22" />
+        <mark key="." line="17" column="22" />
       </file>
       <file name="$USER_HOME$/dev/tmp/learn-java8/java8-default-methods/src/main/java/io/github/biezhi/java8/defaultmethods/UseCalc.java" timestamp="1528638652743">
         <mark key="[" line="13" column="0" />
@@ -57,6 +74,14 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/lesson3/Example3.java" timestamp="1528726398208">
+        <mark key="'" line="6" column="12" />
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-default-methods/src/main/java/io/github/biezhi/java8/defaultmethods/Collection.java" timestamp="1528726835667" />
       <file name="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/lesson2/Example4.java" timestamp="1528690816525">
         <mark key="[" line="18" column="110" />
         <mark key="]" line="19" column="7" />
@@ -66,35 +91,32 @@
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/Collection.java" timestamp="1528723771993">
         <mark key="'" line="603" column="0" />
       </file>
+      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/stream/Collectors.java" timestamp="1528728982526">
+        <mark key="'" line="1183" column="41" />
+      </file>
       <file name="$USER_HOME$/dev/tmp/learn-java8/java8-optional/src/main/java/io/github/biezhi/java8/optional/OptionalDemo.java" timestamp="1528679519025">
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/lesson2/Example7.java" timestamp="1528723704386" />
-      <file name="/fragment.java" timestamp="1528706100387">
+      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/lesson3/Example2.java" timestamp="1528725549459">
+        <mark key="'" line="27" column="43" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/tmp/learn-java8/TestThreadSafe/src/main/java/net/ddns/dzy/ReadThread.java" timestamp="1528727490813">
+        <mark key="[" line="18" column="42" />
+        <mark key="]" line="18" column="42" />
+        <mark key="." line="18" column="42" />
+        <mark key="^" line="18" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/Project.java" timestamp="1528725646748" />
+      <file name="/fragment.java" timestamp="1528728124319">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="275" column="13" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <jump line="0" column="13" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/js/e3mall.js" />
-      <jump line="7" column="57" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" />
-      <jump line="11" column="57" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" />
-      <jump line="5" column="28" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" />
-      <jump line="512" column="13" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <jump line="6" column="24" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" />
-      <jump line="116" column="0" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/js/jquery.cookie.js" />
-      <jump line="0" column="15" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" />
-      <jump line="33" column="30" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <jump line="518" column="0" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <jump line="13" column="23" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" />
-      <jump line="7" column="26" filename="$USER_HOME$/dev/e3parent/e3-search-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" />
-      <jump line="19" column="0" filename="$USER_HOME$/dev/e3parent/e3-content/pom.xml" />
-      <jump line="15" column="0" filename="$USER_HOME$/dev/e3parent/e3-cart/pom.xml" />
-      <jump line="38" column="0" filename="$USER_HOME$/dev/e3parent/e3-cart/pom.xml" />
-      <jump line="25" column="18" filename="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/pom.xml" />
-      <jump line="15" column="15" filename="$USER_HOME$/dev/e3parent/e3-sso-web/pom.xml" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/e3parent/e3-sso-web/pom.xml" />
       <jump line="56" column="15" filename="$USER_HOME$/dev/e3parent/e3-cart-web/pom.xml" />
       <jump line="62" column="324" filename="$USER_HOME$/dev/e3parent/e3-item-web/src/main/webapp/WEB-INF/jsp/item.jsp" />
@@ -176,68 +198,84 @@
       <jump line="603" column="0" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/Collection.java" />
       <jump line="368" column="5" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/stream/Stream.java" />
       <jump line="42" column="34" filename="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/lesson3/Example1.java" />
-      <jump line="39" column="24" filename="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/lesson3/Example1.java" />
+      <jump line="39" column="43" filename="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/lesson3/Example1.java" />
+      <jump line="31" column="0" filename="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/lesson3/Example1.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/lesson3/Example1.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/lesson3/Example1.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/lesson3/Example1.java" />
+      <jump line="144" column="37" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/stream/Collectors.java" />
+      <jump line="146" column="4" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/stream/Collectors.java" />
+      <jump line="1165" column="40" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/stream/Collectors.java" />
+      <jump line="1176" column="41" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/stream/Collectors.java" />
+      <jump line="1183" column="41" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/stream/Collectors.java" />
+      <jump line="27" column="43" filename="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/lesson3/Example2.java" />
+      <jump line="27" column="27" filename="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/lesson3/Example3.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/lesson3/Example3.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/lesson3/Example3.java" />
+      <jump line="25" column="0" filename="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/lesson3/Example3.java" />
+      <jump line="6" column="12" filename="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/lesson3/Example3.java" />
+      <jump line="33" column="33" filename="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/lesson3/Example5.java" />
+      <jump line="31" column="36" filename="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/lesson3/Example5.java" />
+      <jump line="35" column="28" filename="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/lesson3/Example5.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIERvdWJsZSBjb2xsZWN0ID0gcHJvamVjdHMuc3RyZWFtKCkKLy8gICAgICAgICAgICAgICAgLmNvbGxlY3QoYXZlcmFnaW5nSW50KFByb2plY3Q6OmdldFN0YXJzKSk7Ci8vICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY29sbGVjdCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihjb2xsZWN0KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>IntSupplier</text>
+        <text>Arrays.asList(1,2);</text>
       </register>
       <register name="/" type="4">
-        <text>w</text>
+        <text>toMap</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHQgdm9pZCBzYXlIZWxsbygpewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi5L2g5aW977yM5oiR5pivIEphdmEgOCIpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wTGlzdC5hZGQoMSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIERvdWJsZSBjb2xsZWN0ID0gcHJvamVjdHMuc3RyZWFtKCkKLy8gICAgICAgICAgICAgICAgLmNvbGxlY3QoYXZlcmFnaW5nSW50KFByb2plY3Q6OmdldFN0YXJzKSk7Ci8vICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY29sbGVjdCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihjb2xsZWN0KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb25nIGNvbGxlY3QgPSBwcm9qZWN0cy5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy5jb3VudGluZygpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihjb2xsZWN0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY29sbGVjdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb2xsZWN0LmZvckVhY2goU3lzdGVtLm91dDo6cHJpbnRsbik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIOaxguW5s+e+pAo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9qZWN0cy5mb3IK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFByb2plY3QgcHJvamVjdCA6IGNvbGxlY3QpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHByb2plY3QpOwogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFuc2FjdGlvbnMuc3RyZWFtKCkKICAgICAgICAgICAgICAgIC5tYXAoVHJhbnNhY3Rpb246OmdldFZhbHVlKQogICAgICAgICAgICAgICAgLnJlZHVjZSgodHJhbnNhY3Rpb24sIHRyYW5zYWN0aW9uMikgLT4KICAgICAgICAgICAgICAgIHRyYW5zYWN0aW9uPHRyYW5zYWN0aW9uMj8gdHJhbnNhY3Rpb246dHJhbnNhY3Rpb24yKQogICAgICAgICAgICAgICAgLmlmUHJlc2VudChTeXN0ZW0ub3V0OjpwcmludGxuKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgT3B0aW9uYWw6OmdldAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZWR1Y2UoKHRyYW5zYWN0aW9uLCB0cmFuc2FjdGlvbjIpIC0+IHRyYW5zYWN0aW9uPnRyYW5zYWN0aW9uMj90cmFuc2FjdGlvbjI6dHJhbnNhY3Rpb24pCg==</text>
+        <text encoding="base64">ICAgICAgICB5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBPcHRpb25hbEludCBtaW4gPSB0cmFuc2FjdGlvbnMuc3RyZWFtKCkKICAgICAgICAgICAgICAgIC5tYXBUb0ludChUcmFuc2FjdGlvbjo6Z2V0VmFsdWUpCiAgICAgICAgICAgICAgICAubWluKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGVjdXRvclNlcnZpY2UuZXhlY3V0ZShuZXcgV3JpdGVUaHJlYWQoY29weU9uV3JpdGVBcnJheUxpc3QpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>w</last-search>
+      <last-search>toMap</last-search>
       <last-offset />
-      <last-pattern>w</last-pattern>
+      <last-pattern>toMap</last-pattern>
       <last-replace>image</last-replace>
       <last-substitute>images</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>loginbar</entry>
-        <entry>login</entry>
         <entry>加入购物车</entry>
         <entry>加入</entry>
         <entry>店家</entry>
@@ -256,6 +294,8 @@
         <entry>orderForm</entry>
         <entry>order</entry>
         <entry>w</entry>
+        <entry>static</entry>
+        <entry>toMap</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
@@ -272,11 +312,11 @@
         <entry>qa</entry>
         <entry>wqa</entry>
         <entry>Wq</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>?w</entry>
         <entry>vs</entry>
         <entry>W</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
