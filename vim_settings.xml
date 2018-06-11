@@ -129,14 +129,17 @@
         <mark key="." line="32" column="124" />
         <mark key="^" line="32" column="124" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-default-methods/src/main/java/io/github/biezhi/java8/defaultmethods/Calculator.java" timestamp="1528638533616" />
       <file name="$USER_HOME$/dev/e3parent/e3-cart/e3-cart-service/src/main/resources/config/resources.properties" timestamp="1528433683687">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="1" column="18" />
         <mark key="." line="1" column="18" />
         <mark key="^" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-default-methods/src/main/java/io/github/biezhi/java8/defaultmethods/conflict/App2.java" timestamp="1528640538350" />
+      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-default-methods/src/main/java/io/github/biezhi/java8/defaultmethods/conflict/App2.java" timestamp="1528675935825">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/e3parent/e3-item-web/src/main/resources/conf/conf.properties" timestamp="1528272866688">
         <mark key="[" line="1" column="9" />
         <mark key="]" line="1" column="11" />
@@ -278,6 +281,11 @@
         <mark key="." line="27" column="83" />
         <mark key="^" line="27" column="83" />
       </file>
+      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-optional/src/main/java/io/github/biezhi/java8/optional/OptionalDemo.java" timestamp="1528678406578">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/e3parent/e3-sso/e3-sso-interface/src/main/java/net/ddns/dzy/e3mall/sso/service/RegisterService.java" timestamp="1528334017035">
         <mark key="[" line="27" column="11" />
         <mark key="]" line="27" column="17" />
@@ -404,14 +412,12 @@
         <mark key="^" line="187" column="28" />
         <mark key="." line="187" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-default-methods/src/main/java/io/github/biezhi/java8/defaultmethods/Collection.java" timestamp="1528638944945" />
       <file name="$USER_HOME$/dev/e3parent/e3-cart/e3-cart-service/src/main/resources/spring/applicationContext-cart-service.xml" timestamp="1528434436948">
         <mark key="[" line="21" column="79" />
         <mark key="]" line="21" column="89" />
         <mark key="." line="21" column="89" />
         <mark key="^" line="21" column="89" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-default-methods/src/main/java/io/github/biezhi/java8/defaultmethods/CalculatorFactory.java" timestamp="1528638627879" />
       <file name="$USER_HOME$/dev/e3parent/e3-cart/e3-cart-service/src/main/java/net/ddns/dzy/e3mall/cart/service/impl/CartServiceImpl.java" timestamp="1528470004152">
         <mark key="'" line="30" column="27" />
         <mark key="[" line="114" column="20" />
@@ -419,6 +425,7 @@
         <mark key="." line="114" column="22" />
         <mark key="^" line="114" column="22" />
       </file>
+      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/Optional.java" timestamp="1528678393581" />
       <file name="$USER_HOME$/dev/e3parent/e3-cart-web/src/main/resources/conf/conf.properties" timestamp="1528454031159">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="12" />
@@ -457,12 +464,14 @@
         <mark key="^" line="22" column="25" />
         <mark key="." line="22" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-optional/src/main/java/io/github/biezhi/java8/optional/BeforeJava8.java" timestamp="1528676160216" />
       <file name="$USER_HOME$/dev/e3parent/e3-cart-web/src/main/resources/log4j.properties" timestamp="1528442033931">
         <mark key="[" line="10" column="45" />
         <mark key="]" line="10" column="48" />
         <mark key="." line="10" column="48" />
         <mark key="^" line="10" column="48" />
       </file>
+      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/Objects.java" timestamp="1528677369846" />
       <file name="$USER_HOME$/dev/e3parent/e3-sso/e3-sso-service/src/test/java/net/ddns/dzy/e3mall/test/sso/service/PublishSSOService.java" timestamp="1528330608348">
         <mark key="[" line="17" column="34" />
         <mark key="]" line="17" column="35" />
@@ -481,7 +490,6 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-default-methods/src/main/java/io/github/biezhi/java8/defaultmethods/conflict/App3.java" timestamp="1528640576404" />
       <file name="$USER_HOME$/dev/e3parent/e3-order-web/src/main/java/net/ddns/dzy/e3mall/order/controller/OrderController.java" timestamp="1528507310808">
         <mark key="'" line="31" column="3" />
         <mark key="[" line="68" column="34" />
@@ -489,6 +497,7 @@
         <mark key="." line="68" column="57" />
         <mark key="^" line="68" column="57" />
       </file>
+      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-default-methods/src/main/java/io/github/biezhi/java8/defaultmethods/conflict/App.java" timestamp="1528675993894" />
       <file name="$USER_HOME$/dev/e3parent/e3-order-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" timestamp="1528453713820">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="9" column="45" />
@@ -749,11 +758,11 @@
       <jump line="6" column="16" filename="$USER_HOME$/dev/tmp/learn-java8/java8-default-methods/src/main/java/io/github/biezhi/java8/defaultmethods/conflict/App2.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgIE9wdGlvbmFsPFN0cmluZz4gc3RyaW5nT3B0aW9uYWwgPSB1c2VyT3B0aW9uYWwuZmxhdE1hcChVc2VyOjpnZXRPcHRBZGRyZXNzKS5tYXAoQWRkcmVzczo6Z2V0U3RyZWV0KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>.map()</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
@@ -762,34 +771,34 @@
         <text encoding="base64">ICAgIGRlZmF1bHQgdm9pZCBzYXlIZWxsbygpewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi5L2g5aW977yM5oiR5pivIEphdmEgOCIpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxjdWxhdG9yLm1vZCgpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIE9wdGlvbmFsPFN0cmluZz4gc3RyaW5nT3B0aW9uYWwgPSB1c2VyT3B0aW9uYWwuZmxhdE1hcChVc2VyOjpnZXRPcHRBZGRyZXNzKS5tYXAoQWRkcmVzczo6Z2V0U3RyZWV0KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB1c2VyT3B0aW9uYWwuZmxhdE1hcChVc2VyOjpnZXRBZGRyZXNzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lcy5mb3JFYWNoKFN5c3RlbS5vdXQ6OnByaW50bG4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBhZGRyZXNzT3B0aW9uYWwuZ2V0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGZvciAoU3RyaW5nIG5hbWUgOiBuYW1lcykgewovLyAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigibmFtZSA9ICIgKyBuYW1lKTsKLy8gICAgICAgIH0KLy8gICAgICAgIG5hbWVzLmZvckVhY2gobmFtZS0+IFN5c3RlbS5vdXQucHJpbnRsbihuYW1lKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxPcHRpb25hbDxBZGRyZXNzPj4gYWRkcmVzcyA9IHVzZXJPcHRpb25hbC5tYXAoVXNlcjo6Z2V0T3B0QWRkcmVzcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lcy5mb3JFYWNoKFN5c3RlbS5vdXQ6OnByaW50bG4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxBZGRyZXNzPiBhZGRyZXNzID0gdXNlck9wdGlvbmFsLm1hcCh1c2VyMSAtPiB1c2VyMS5nZXRBZGRyZXNzKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBhZGRyZXNzT3B0aW9uYWwubWFwKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHByZWRpY2F0ZS50ZXN0KHByb2plY3QpKXsK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYWxjdWxhdG9yLm1vZCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZXMuYWRkKHByb2plY3QuZ2V0TmFtZSgpKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
