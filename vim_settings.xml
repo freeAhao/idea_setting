@@ -3,52 +3,51 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/blade/blade-core/src/main/java/blade/BladeFilter.java" timestamp="1528812331746" />
-      <file name="$USER_HOME$/dev/blade/blade-core/src/main/java/blade/BladeBase.java" timestamp="1528812279021" />
-      <file name="$USER_HOME$/dev/blade/src/test/resources/app.properties" timestamp="1528813425626" />
-      <file name="$USER_HOME$/dev/blade/src/test/java/netty_hello/DemoController.java" timestamp="1528813168019" />
-      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/mvc/Const.java" timestamp="1528814427422" />
-      <file name="$USER_HOME$/dev/blade/blade-core/src/main/java/blade/IocApplication.java" timestamp="1528812326092" />
-      <file name="$USER_HOME$/dev/blade/src/test/java/netty_hello/WebSocketDemo.java" timestamp="1528813327703" />
-      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/mvc/websocket/WebSocketContext.java" timestamp="1528813321815" />
-      <file name="$USER_HOME$/dev/blade/blade-sql2o/src/main/java/blade/plugin/sql2o/DBConfig.java" timestamp="1528812876861" />
-      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/server/Server.java" timestamp="1528814109123" />
-      <file name="$USER_HOME$/dev/blade/src/test/java/com/blade/event/BeanProcessorTest.java" timestamp="1528813889991" />
-      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/kit/ReflectKit.java" timestamp="1528814536436" />
-      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/kit/json/Ason.java" timestamp="1528814489204" />
-      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/kit/json/DefaultJsonSupport.java" timestamp="1528814583709" />
-      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/ioc/Ioc.java" timestamp="1528811954931" />
-      <file name="$USER_HOME$/dev/blade/src/test/java/com/blade/EnvironmentTest.java" timestamp="1528812022502" />
-      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/Environment.java" timestamp="1528813988548" />
-      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/kit/BladeKit.java" timestamp="1528814223649" />
-      <file name="$USER_HOME$/dev/blade/blade-sql2o/src/main/java/blade/plugin/sql2o/Condition.java" timestamp="1528812867310" />
-      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/kit/IOKit.java" timestamp="1528814012548" />
-      <file name="$USER_HOME$/dev/blade/blade-sql2o/src/main/java/blade/plugin/sql2o/Sql2oPlugin.java" timestamp="1528813025139" />
-      <file name="$USER_HOME$/dev/blade/.travis.yml" timestamp="1528813129171" />
-      <file name="$USER_HOME$/dev/blade/blade-beetl/src/main/java/blade/render/BeetlRender.java" timestamp="1528812135423" />
-      <file name="$USER_HOME$/dev/blade/blade-core/src/main/java/blade/BladeApplication.java" timestamp="1528812186533" />
-      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/kit/json/BeanSerializer.java" timestamp="1528814561005" />
-      <file name="$USER_HOME$/dev/blade/blade-core/src/main/java/blade/RequestHandler.java" timestamp="1528812353811" />
-      <file name="$USER_HOME$/dev/blade/blade-sql2o/src/main/java/blade/plugin/sql2o/Model.java" timestamp="1528812977098" />
-      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/kit/UUID.java" timestamp="1528814034987" />
-      <file name="$USER_HOME$/dev/blade/src/test/java/com/blade/BaseTestCase.java" timestamp="1528811691849" />
+      <file name="$USER_HOME$/dev/netty-chat/pom.xml" timestamp="1528816164767">
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="21" column="25" />
+        <mark key="." line="21" column="25" />
+        <mark key="^" line="21" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/netty-chat/src/main/java/ChatClient.java" timestamp="1528816292869">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="38" />
+        <mark key="^" line="0" column="38" />
+        <mark key="." line="0" column="38" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final.jar!/io/netty/channel/ChannelFuture.class" timestamp="1528816725929" />
+      <file name="$USER_HOME$/dev/netty-chat/src/main/java/net/ddns/dzy/netty/chat/client/ChatClient.java" timestamp="1528816935513">
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="20" column="3" />
+        <mark key="^" line="20" column="3" />
+        <mark key="." line="20" column="3" />
+      </file>
       <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/Blade.java" timestamp="1528814066019">
         <mark key="'" line="890" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/blade/blade-core/src/main/java/blade/Blade.java" timestamp="1528812182444" />
       <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/server/netty/NettyServer.java" timestamp="1528814464715">
         <mark key="[" line="337" column="43" />
         <mark key="]" line="337" column="42" />
         <mark key="^" line="337" column="42" />
         <mark key="." line="337" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/blade/src/test/java/netty_hello/TaskModel.java" timestamp="1528813353575" />
-      <file name="$USER_HOME$/dev/blade/blade-sql2o/src/main/java/blade/plugin/sql2o/kit/MD5.java" timestamp="1528812710355" />
-      <file name="$USER_HOME$/dev/blade/src/test/java/com/blade/BladeTest.java" timestamp="1528811996653" />
-      <file name="$USER_HOME$/dev/blade/src/test/resources/demo_config.txt" timestamp="1528813412514" />
+      <file name="$USER_HOME$/dev/netty-chat/src/main/java/net/ddns/dzy/netty/chat/client/ChatClientInitializer.java" timestamp="1528817155711">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="9" column="41" />
+      </file>
+      <file name="$USER_HOME$/dev/netty-chat/src/test/java/net/ddns/dzy/netty/chat/client/ChatClientTest.java" timestamp="1528817011686">
+        <mark key="[" line="8" column="66" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+      </file>
+      <file name="/fragment.java" timestamp="1528816627052">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="19" filename="$USER_HOME$/dev/e3parent/e3-cart-web/src/main/java/net/ddns/dzy/e3mall/cart/intercepter/LoginIntercepter.java" />
       <jump line="37" column="13" filename="$USER_HOME$/dev/e3parent/e3-cart/e3-cart-service/src/main/java/net/ddns/dzy/e3mall/cart/service/impl/CartServiceImpl.java" />
       <jump line="96" column="0" filename="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/jedis/JedisClientPool.java" />
       <jump line="32" column="27" filename="$USER_HOME$/dev/e3parent/e3-cart/e3-cart-service/src/main/java/net/ddns/dzy/e3mall/cart/service/impl/CartServiceImpl.java" />
@@ -148,49 +147,50 @@
       <jump line="66" column="0" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-mvc/2.0.1/blade-mvc-2.0.1-sources.jar!/com/blade/Blade.java" />
       <jump line="305" column="5" filename="$USER_HOME$/dev/blade/src/main/java/com/blade/Blade.java" />
       <jump line="890" column="0" filename="$USER_HOME$/dev/blade/src/main/java/com/blade/Blade.java" />
+      <jump line="29" column="4" filename="$USER_HOME$/dev/netty-chat/src/main/java/net/ddns/dzy/netty/chat/client/ChatClientInitializer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmFtZS5sZW5ndGgoKSk7Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgaGFuZGxlckFkZGVkKENoYW5uZWxIYW5kbGVyQ29udGV4dCBjaGFubmVsSGFuZGxlckNvbnRleHQpIHRocm93cyBFeGNlcHRpb24gewoKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGhhbmRsZXJSZW1vdmVkKENoYW5uZWxIYW5kbGVyQ29udGV4dCBjaGFubmVsSGFuZGxlckNvbnRleHQpIHRocm93cyBFeGNlcHRpb24gewoKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCB2b2lkIGluaXRDaGFubmVsKFNvY2tldENoYW5uZWwgc29ja2V0Q2hhbm5lbCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgCiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBleGNlcHRpb25DYXVnaHQoQ2hhbm5lbEhhbmRsZXJDb250ZXh0IGNoYW5uZWxIYW5kbGVyQ29udGV4dCwgVGhyb3dhYmxlIHRocm93YWJsZSkgdGhyb3dzIEV4Y2VwdGlvbiB7CgogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>implements</text>
       </register>
       <register name="/" type="4">
         <text>listen</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBQb3N0Um91dGUoInBvc3R1c2VyIikKICAgIEBKU09OCiAgICBwdWJsaWMgUGVyc29uIHNhdmVVc2VyKEBCb2R5UGFyYW0gUGVyc29uIHBlcnNvbikgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwZXJzb24pOwogICAgICAgIHJldHVybiBwZXJzb247CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIDxtYXZlbi5jb21waWxlci5zb3VyY2U+MS44PC9tYXZlbi5jb21waWxlci5zb3VyY2U+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmFtZS5sZW5ndGgoKSk7Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgaGFuZGxlckFkZGVkKENoYW5uZWxIYW5kbGVyQ29udGV4dCBjaGFubmVsSGFuZGxlckNvbnRleHQpIHRocm93cyBFeGNlcHRpb24gewoKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGhhbmRsZXJSZW1vdmVkKENoYW5uZWxIYW5kbGVyQ29udGV4dCBjaGFubmVsSGFuZGxlckNvbnRleHQpIHRocm93cyBFeGNlcHRpb24gewoKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCB2b2lkIGluaXRDaGFubmVsKFNvY2tldENoYW5uZWwgc29ja2V0Q2hhbm5lbCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgCiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBleGNlcHRpb25DYXVnaHQoQ2hhbm5lbEhhbmRsZXJDb250ZXh0IGNoYW5uZWxIYW5kbGVyQ29udGV4dCwgVGhyb3dhYmxlIHRocm93YWJsZSkgdGhyb3dzIEV4Y2VwdGlvbiB7CgogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0Cg==</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0UnVuKCl7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZUl0ZW0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmFtZS5sZW5ndGgoKSk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBAR2V0Um91dGUoInRlc3RwYXJhbSIpCiAgICBwdWJsaWMgdm9pZCBwYXJhbShTdHJpbmcgbmFtZSl7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG5hbWUubGVuZ3RoKCkpOwogICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxTdHJpbmc+IG5hbWVPcHQgPSBPcHRpb25hbC5vZk51bGxhYmxlKG5hbWUpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuYW1lKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmFtZU9wdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lLmlmUHJlc2VudChTeXN0ZW0ub3V0OjpwcmludGxuKTsKICAgICAgICBTdHJpbmcgYWhhbyA9IG5hbWUub3JFbHNlKCJhaGFvIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZUl0ZW0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmFtZS5nZXQoKSk7Cg==</text>
+        <text encoding="base64">ICAgIEAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
