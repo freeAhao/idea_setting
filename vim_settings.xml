@@ -4,71 +4,50 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/dev/blade/blade-core/src/main/java/blade/BladeFilter.java" timestamp="1528812331746" />
-      <file name="$USER_HOME$/dev/tmp/blade-demo/src/main/java/net/ddns/dzy/model/Person.java" timestamp="1528800646088">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="10" column="18" />
-        <mark key="^" line="10" column="18" />
-        <mark key="." line="10" column="18" />
-      </file>
       <file name="$USER_HOME$/dev/blade/blade-core/src/main/java/blade/BladeBase.java" timestamp="1528812279021" />
-      <file name="$USER_HOME$/dev/tmp/blade-demo/src/main/resources/templates/login.html" timestamp="1528799700355">
-        <mark key="[" line="15" column="7" />
-        <mark key="]" line="16" column="24" />
-        <mark key="." line="16" column="24" />
-        <mark key="^" line="16" column="24" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/bladejava/blade-mvc/2.0.1/blade-mvc-2.0.1-sources.jar!/com/blade/Blade.java" timestamp="1528809658762">
-        <mark key="'" line="66" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/bladejava/blade-mvc/2.0.1/blade-mvc-2.0.1-sources.jar!/com/blade/security/web/auth/BasicAuthMiddleware.java" timestamp="1528809539569">
-        <mark key="'" line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/blade/blade-beetl/src/main/java/blade/render/BeetlRender.java" timestamp="1528812135423" />
-      <file name="$USER_HOME$/dev/blade/blade-core/src/main/java/blade/BladeApplication.java" timestamp="1528812186533" />
+      <file name="$USER_HOME$/dev/blade/src/test/resources/app.properties" timestamp="1528813425626" />
+      <file name="$USER_HOME$/dev/blade/src/test/java/netty_hello/DemoController.java" timestamp="1528813168019" />
+      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/mvc/Const.java" timestamp="1528814427422" />
       <file name="$USER_HOME$/dev/blade/blade-core/src/main/java/blade/IocApplication.java" timestamp="1528812326092" />
-      <file name="$USER_HOME$/dev/blade/blade-core/src/main/java/blade/RequestHandler.java" timestamp="1528812353811" />
-      <file name="$USER_HOME$/dev/blade/src/test/java/com/blade/BaseTestCase.java" timestamp="1528811691849" />
-      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/Blade.java" timestamp="1528812005829" />
-      <file name="$USER_HOME$/dev/tmp/java-8-lambdas-exercises/my-test/src/main/java/Answer2.java" timestamp="1528780624633">
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="55" />
-        <mark key="." line="22" column="55" />
-        <mark key="^" line="22" column="55" />
-      </file>
-      <file name="$USER_HOME$/dev/blade/blade-core/src/main/java/blade/Blade.java" timestamp="1528812182444" />
+      <file name="$USER_HOME$/dev/blade/src/test/java/netty_hello/WebSocketDemo.java" timestamp="1528813327703" />
+      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/mvc/websocket/WebSocketContext.java" timestamp="1528813321815" />
+      <file name="$USER_HOME$/dev/blade/blade-sql2o/src/main/java/blade/plugin/sql2o/DBConfig.java" timestamp="1528812876861" />
+      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/server/Server.java" timestamp="1528814109123" />
+      <file name="$USER_HOME$/dev/blade/src/test/java/com/blade/event/BeanProcessorTest.java" timestamp="1528813889991" />
+      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/kit/ReflectKit.java" timestamp="1528814536436" />
+      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/kit/json/Ason.java" timestamp="1528814489204" />
+      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/kit/json/DefaultJsonSupport.java" timestamp="1528814583709" />
       <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/ioc/Ioc.java" timestamp="1528811954931" />
       <file name="$USER_HOME$/dev/blade/src/test/java/com/blade/EnvironmentTest.java" timestamp="1528812022502" />
-      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/lesson2/Example4.java" timestamp="1528690816525">
-        <mark key="[" line="18" column="110" />
-        <mark key="]" line="19" column="7" />
-        <mark key="^" line="19" column="7" />
-        <mark key="." line="19" column="7" />
+      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/Environment.java" timestamp="1528813988548" />
+      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/kit/BladeKit.java" timestamp="1528814223649" />
+      <file name="$USER_HOME$/dev/blade/blade-sql2o/src/main/java/blade/plugin/sql2o/Condition.java" timestamp="1528812867310" />
+      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/kit/IOKit.java" timestamp="1528814012548" />
+      <file name="$USER_HOME$/dev/blade/blade-sql2o/src/main/java/blade/plugin/sql2o/Sql2oPlugin.java" timestamp="1528813025139" />
+      <file name="$USER_HOME$/dev/blade/.travis.yml" timestamp="1528813129171" />
+      <file name="$USER_HOME$/dev/blade/blade-beetl/src/main/java/blade/render/BeetlRender.java" timestamp="1528812135423" />
+      <file name="$USER_HOME$/dev/blade/blade-core/src/main/java/blade/BladeApplication.java" timestamp="1528812186533" />
+      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/kit/json/BeanSerializer.java" timestamp="1528814561005" />
+      <file name="$USER_HOME$/dev/blade/blade-core/src/main/java/blade/RequestHandler.java" timestamp="1528812353811" />
+      <file name="$USER_HOME$/dev/blade/blade-sql2o/src/main/java/blade/plugin/sql2o/Model.java" timestamp="1528812977098" />
+      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/kit/UUID.java" timestamp="1528814034987" />
+      <file name="$USER_HOME$/dev/blade/src/test/java/com/blade/BaseTestCase.java" timestamp="1528811691849" />
+      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/Blade.java" timestamp="1528814066019">
+        <mark key="'" line="890" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/blade-demo/src/main/java/net/ddns/dzy/Application.java" timestamp="1528809728752">
-        <mark key="[" line="12" column="46" />
-        <mark key="]" line="12" column="45" />
-        <mark key="." line="12" column="45" />
-        <mark key="^" line="12" column="45" />
+      <file name="$USER_HOME$/dev/blade/blade-core/src/main/java/blade/Blade.java" timestamp="1528812182444" />
+      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/server/netty/NettyServer.java" timestamp="1528814464715">
+        <mark key="[" line="337" column="43" />
+        <mark key="]" line="337" column="42" />
+        <mark key="^" line="337" column="42" />
+        <mark key="." line="337" column="42" />
       </file>
+      <file name="$USER_HOME$/dev/blade/src/test/java/netty_hello/TaskModel.java" timestamp="1528813353575" />
       <file name="$USER_HOME$/dev/blade/blade-sql2o/src/main/java/blade/plugin/sql2o/kit/MD5.java" timestamp="1528812710355" />
       <file name="$USER_HOME$/dev/blade/src/test/java/com/blade/BladeTest.java" timestamp="1528811996653" />
-      <file name="$USER_HOME$/dev/tmp/learn-java8/TestThreadSafe/src/main/java/net/ddns/dzy/ReadThread.java" timestamp="1528727490813">
-        <mark key="[" line="18" column="42" />
-        <mark key="]" line="18" column="42" />
-        <mark key="." line="18" column="42" />
-        <mark key="^" line="18" column="42" />
-      </file>
-      <file name="$USER_HOME$/dev/blade/blade-sql2o/src/main/java/blade/plugin/sql2o/Condition.java" timestamp="1528812731124" />
-      <file name="$USER_HOME$/dev/tmp/blade-demo/src/main/resources/templates/index.html" timestamp="1528798409592">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-      </file>
+      <file name="$USER_HOME$/dev/blade/src/test/resources/demo_config.txt" timestamp="1528813412514" />
     </filemarks>
     <jumps>
-      <jump line="77" column="18" filename="$USER_HOME$/dev/e3parent/e3-cart-web/src/main/java/net/ddns/dzy/e3mall/cart/controller/CartController.java" />
-      <jump line="50" column="21" filename="$USER_HOME$/dev/e3parent/e3-cart-web/src/main/java/net/ddns/dzy/e3mall/cart/controller/CartController.java" />
       <jump line="28" column="19" filename="$USER_HOME$/dev/e3parent/e3-cart-web/src/main/java/net/ddns/dzy/e3mall/cart/intercepter/LoginIntercepter.java" />
       <jump line="37" column="13" filename="$USER_HOME$/dev/e3parent/e3-cart/e3-cart-service/src/main/java/net/ddns/dzy/e3mall/cart/service/impl/CartServiceImpl.java" />
       <jump line="96" column="0" filename="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/jedis/JedisClientPool.java" />
@@ -167,6 +146,8 @@
       <jump line="78" column="4" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-mvc/2.0.1/blade-mvc-2.0.1-sources.jar!/com/blade/security/web/auth/BasicAuthMiddleware.java" />
       <jump line="46" column="0" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-mvc/2.0.1/blade-mvc-2.0.1-sources.jar!/com/blade/security/web/auth/BasicAuthMiddleware.java" />
       <jump line="66" column="0" filename="$MAVEN_REPOSITORY$/com/bladejava/blade-mvc/2.0.1/blade-mvc-2.0.1-sources.jar!/com/blade/Blade.java" />
+      <jump line="305" column="5" filename="$USER_HOME$/dev/blade/src/main/java/com/blade/Blade.java" />
+      <jump line="890" column="0" filename="$USER_HOME$/dev/blade/src/main/java/com/blade/Blade.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
