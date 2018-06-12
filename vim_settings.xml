@@ -3,11 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final.jar!/io/netty/buffer/ByteBufUtil.class" timestamp="1528830718892" />
+      <file name="$USER_HOME$/dev/netty-chat/src/main/java/client/EchoClient.java" timestamp="1528831073741">
+        <mark key="[" line="45" column="108" />
+        <mark key="]" line="46" column="63" />
+        <mark key="." line="46" column="63" />
+        <mark key="^" line="46" column="63" />
+      </file>
       <file name="$USER_HOME$/dev/netty-chat/pom.xml" timestamp="1528816164767">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="21" column="25" />
         <mark key="." line="21" column="25" />
         <mark key="^" line="21" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/netty-chat/src/main/java/server/EchoServerHandler.java" timestamp="1528830643021">
+        <mark key="[" line="21" column="60" />
+        <mark key="]" line="21" column="60" />
+        <mark key="^" line="20" column="16" />
+        <mark key="." line="21" column="60" />
       </file>
       <file name="$USER_HOME$/dev/netty-chat/src/main/java/ChatClient.java" timestamp="1528816292869">
         <mark key="[" line="0" column="0" />
@@ -16,14 +29,24 @@
         <mark key="." line="0" column="38" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final.jar!/io/netty/channel/ChannelFuture.class" timestamp="1528816725929" />
+      <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final.jar!/io/netty/buffer/ByteBuf.class" timestamp="1528827498649" />
+      <file name="$USER_HOME$/dev/netty-chat/src/main/java/server/EchoServer.java" timestamp="1528830997963">
+        <mark key="[" line="41" column="60" />
+        <mark key="]" line="41" column="59" />
+        <mark key="." line="41" column="59" />
+        <mark key="^" line="41" column="59" />
+      </file>
+      <file name="$USER_HOME$/dev/netty-chat/src/test/java/net/ddns/dzy/netty/chat/client/ChatClientTest.java" timestamp="1528817011686">
+        <mark key="[" line="8" column="66" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+      </file>
       <file name="$USER_HOME$/dev/netty-chat/src/main/java/net/ddns/dzy/netty/chat/client/ChatClient.java" timestamp="1528816935513">
         <mark key="[" line="19" column="25" />
         <mark key="]" line="20" column="3" />
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
-      </file>
-      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/Blade.java" timestamp="1528814066019">
-        <mark key="'" line="890" column="0" />
       </file>
       <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/server/netty/NettyServer.java" timestamp="1528814464715">
         <mark key="[" line="337" column="43" />
@@ -36,25 +59,31 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/netty-chat/src/main/java/pojo/Person.java" timestamp="1528830393401">
+        <mark key="'" line="8" column="13" />
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="42" />
+        <mark key="^" line="8" column="42" />
+        <mark key="." line="8" column="42" />
+      </file>
       <file name="$USER_HOME$/dev/netty-chat/src/main/java/net/ddns/dzy/netty/chat/client/ChatClientInitializer.java" timestamp="1528817155711">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="9" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/netty-chat/src/test/java/net/ddns/dzy/netty/chat/client/ChatClientTest.java" timestamp="1528817011686">
-        <mark key="[" line="8" column="66" />
-        <mark key="]" line="9" column="24" />
-        <mark key="." line="9" column="24" />
-        <mark key="^" line="9" column="24" />
+      <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final.jar!/io/netty/buffer/Unpooled.class" timestamp="1528830706989" />
+      <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final.jar!/io/netty/channel/ChannelInboundHandlerAdapter.class" timestamp="1528827585505" />
+      <file name="$USER_HOME$/dev/netty-chat/src/main/java/client/EchoClientHandler.java" timestamp="1528830675405">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1528816627052">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="0" filename="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/jedis/JedisClientPool.java" />
-      <jump line="32" column="27" filename="$USER_HOME$/dev/e3parent/e3-cart/e3-cart-service/src/main/java/net/ddns/dzy/e3mall/cart/service/impl/CartServiceImpl.java" />
       <jump line="18" column="15" filename="$USER_HOME$/dev/e3parent/e3-cart/pom.xml" />
       <jump line="14" column="2" filename="$USER_HOME$/dev/e3parent/e3-order/pom.xml" />
       <jump line="15" column="15" filename="$USER_HOME$/dev/e3parent/e3-cart-web/pom.xml" />
@@ -153,49 +182,51 @@
       <jump line="890" column="0" filename="$USER_HOME$/dev/blade/src/main/java/com/blade/Blade.java" />
       <jump line="29" column="4" filename="$USER_HOME$/dev/netty-chat/src/main/java/net/ddns/dzy/netty/chat/client/ChatClientInitializer.java" />
       <jump line="14" column="26" filename="$USER_HOME$/dev/netty-chat/src/main/java/Server.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/dev/netty-chat/src/main/java/client/EchoClientHandler.java" />
+      <jump line="6" column="13" filename="$USER_HOME$/dev/netty-chat/src/main/java/pojo/Person.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBFdmVudExvb3BHcm91cCBib3NzR3JvdXAgPSBuZXcgTmlvRXZlbnRMb29wR3JvdXAoKTsKICAgICAgICBFdmVudExvb3BHcm91cCB3b3JrR3JvdXAgPSBuZXcgTmlvRXZlbnRMb29wR3JvdXAoKTsKICAgICAgICBTZXJ2ZXJCb290c3RyYXAgc2VydmVyQm9vdHN0cmFwID0gbmV3IFNlcnZlckJvb3RzdHJhcCgpCiAgICAgICAgICAgICAgICAuZ3JvdXAoYm9zc0dyb3VwLCB3b3JrR3JvdXApCiAgICAgICAgICAgICAgICAuY2hhbm5lbChOaW9TZXJ2ZXJTb2NrZXRDaGFubmVsLmNsYXNzKQogICAgICAgICAgICAgICAgLm9wdGlvbihDaGFubmVsT3B0aW9uLlNPX0JBQ0tMT0csMTAyNCkKICAgICAgICAgICAgICAgIC5vcHRpb24oQ2hhbm5lbE9wdGlvbi5TT19TTkRCVUYsIDMyKjEwMjQpCiAgICAgICAgICAgICAgICAub3B0aW9uKENoYW5uZWxPcHRpb24uU09fUkNWQlVGLCAzMioxMDI0KQogICAgICAgICAgICAgICAgLm9wdGlvbihDaGFubmVsT3B0aW9uLlNPX0tFRVBBTElWRSwgdHJ1ZSkKICAgICAgICAgICAgICAgIC5jaGlsZEhhbmRsZXIobmV3IENoYW5uZWxJbml0aWFsaXplcjxTb2NrZXRDaGFubmVsPigpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwcm90ZWN0ZWQgdm9pZCBpbml0Q2hhbm5lbChTb2NrZXRDaGFubmVsIHNvY2tldENoYW5uZWwpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgICAgICAgICAgICAgICAgICBzb2NrZXRDaGFubmVsLnBpcGVsaW5lKCkuYWRkTGFzdCgpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSkKCg==</text>
+        <text encoding="base64">ICAgICAgICBjdHgud3JpdGVBbmRGbHVzaCgiXHJcbiIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Handler</text>
+        <text>UTF_8</text>
       </register>
       <register name="/" type="4">
         <text>listen</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxtYXZlbi5jb21waWxlci5zb3VyY2U+MS44PC9tYXZlbi5jb21waWxlci5zb3VyY2U+Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdHgud3JpdGVBbmRGbHVzaChVbnBvb2xlZC5jb3BpZWRCdWZmZXIoIk5ldHR5IHJvY2tzISIsIENoYXJzZXQuZGVmYXVsdENoYXJzZXQoKSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBFdmVudExvb3BHcm91cCBib3NzR3JvdXAgPSBuZXcgTmlvRXZlbnRMb29wR3JvdXAoKTsKICAgICAgICBFdmVudExvb3BHcm91cCB3b3JrR3JvdXAgPSBuZXcgTmlvRXZlbnRMb29wR3JvdXAoKTsKICAgICAgICBTZXJ2ZXJCb290c3RyYXAgc2VydmVyQm9vdHN0cmFwID0gbmV3IFNlcnZlckJvb3RzdHJhcCgpCiAgICAgICAgICAgICAgICAuZ3JvdXAoYm9zc0dyb3VwLCB3b3JrR3JvdXApCiAgICAgICAgICAgICAgICAuY2hhbm5lbChOaW9TZXJ2ZXJTb2NrZXRDaGFubmVsLmNsYXNzKQogICAgICAgICAgICAgICAgLm9wdGlvbihDaGFubmVsT3B0aW9uLlNPX0JBQ0tMT0csMTAyNCkKICAgICAgICAgICAgICAgIC5vcHRpb24oQ2hhbm5lbE9wdGlvbi5TT19TTkRCVUYsIDMyKjEwMjQpCiAgICAgICAgICAgICAgICAub3B0aW9uKENoYW5uZWxPcHRpb24uU09fUkNWQlVGLCAzMioxMDI0KQogICAgICAgICAgICAgICAgLm9wdGlvbihDaGFubmVsT3B0aW9uLlNPX0tFRVBBTElWRSwgdHJ1ZSkKICAgICAgICAgICAgICAgIC5jaGlsZEhhbmRsZXIobmV3IENoYW5uZWxJbml0aWFsaXplcjxTb2NrZXRDaGFubmVsPigpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwcm90ZWN0ZWQgdm9pZCBpbml0Q2hhbm5lbChTb2NrZXRDaGFubmVsIHNvY2tldENoYW5uZWwpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgICAgICAgICAgICAgICAgICBzb2NrZXRDaGFubmVsLnBpcGVsaW5lKCkuYWRkTGFzdCgpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSkKCg==</text>
+        <text encoding="base64">ICAgICAgICBjdHgud3JpdGVBbmRGbHVzaCgiXHJcbiIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2ZXJCb290c3RyYXAuZ3JvdXAoYm9zc0dyb3VwLCB3b3JrR3JvdXApOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHBzCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgaGFuZGxlckFkZGVkKENoYW5uZWxIYW5kbGVyQ29udGV4dCBjaGFubmVsSGFuZGxlckNvbnRleHQpIHRocm93cyBFeGNlcHRpb24gewoKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGhhbmRsZXJSZW1vdmVkKENoYW5uZWxIYW5kbGVyQ29udGV4dCBjaGFubmVsSGFuZGxlckNvbnRleHQpIHRocm93cyBFeGNlcHRpb24gewoKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCB2b2lkIGluaXRDaGFubmVsKFNvY2tldENoYW5uZWwgc29ja2V0Q2hhbm5lbCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgCiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBleGNlcHRpb25DYXVnaHQoQ2hhbm5lbEhhbmRsZXJDb250ZXh0IGNoYW5uZWxIYW5kbGVyQ29udGV4dCwgVGhyb3dhYmxlIHRocm93YWJsZSkgdGhyb3dzIEV4Y2VwdGlvbiB7CgogICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0UnVuKCl7CiAgICAgICAgCiAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgY2hhbm5lbFJlYWQwKENoYW5uZWxIYW5kbGVyQ29udGV4dCBjaGFubmVsSGFuZGxlckNvbnRleHQsIEJ5dGVCdWYgYnl0ZUJ1ZikgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJDbGllbnQgcmVjZWl2ZWQ6IiArIGJ5dGVCdWYudG9TdHJpbmcoQ2hhcnNldC5kZWZhdWx0Q2hhcnNldCgpKSk7CiAgICAgICAgY2hhbm5lbEhhbmRsZXJDb250ZXh0LmNsb3NlKCk7CiAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgY2hhbm5lbFJlYWQwKENoYW5uZWxIYW5kbGVyQ29udGV4dCBjaGFubmVsSGFuZGxlckNvbnRleHQsIEJ5dGVCdWYgYnl0ZUJ1ZikgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJDbGllbnQgcmVjZWl2ZWQ6IiArIGJ5dGVCdWYudG9TdHJpbmcoQ2hhcnNldC5kZWZhdWx0Q2hhcnNldCgpKSk7CiAgICAgICAgY2hhbm5lbEhhbmRsZXJDb250ZXh0LmNsb3NlKCk7CiAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhlbGxvIik7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhlbGxvIik7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmFtZS5sZW5ndGgoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhlbGxvIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
