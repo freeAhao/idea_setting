@@ -3,8 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/bladejava/blade-mvc/2.0.1/blade-mvc-2.0.1-sources.jar!/com/blade/exception/BladeException.java" timestamp="1528809691072" />
-      <file name="$MAVEN_REPOSITORY$/com/bladejava/blade-mvc/2.0.1/blade-mvc-2.0.1-sources.jar!/com/blade/server/netty/NettyServer.java" timestamp="1528809234711" />
+      <file name="$USER_HOME$/dev/tmp/blade-demo/src/main/java/net/ddns/dzy/model/Person.java" timestamp="1528800646088">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/tmp/blade-demo/src/main/resources/templates/login.html" timestamp="1528799700355">
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+        <mark key="^" line="16" column="24" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/bladejava/blade-mvc/2.0.1/blade-mvc-2.0.1-sources.jar!/com/blade/Blade.java" timestamp="1528809658762">
+        <mark key="'" line="66" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/bladejava/blade-mvc/2.0.1/blade-mvc-2.0.1-sources.jar!/com/blade/security/web/auth/BasicAuthMiddleware.java" timestamp="1528809539569">
         <mark key="'" line="46" column="0" />
       </file>
@@ -15,7 +28,6 @@
         <mark key="." line="26" column="19" />
         <mark key="^" line="26" column="19" />
       </file>
-      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/lang/annotation/Documented.java" timestamp="1528801074472" />
       <file name="$USER_HOME$/dev/tmp/blade-demo/src/main/java/net/ddns/dzy/controller/IndexController.java" timestamp="1528802927528">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="33" column="42" />
@@ -23,16 +35,29 @@
         <mark key="." line="34" column="30" />
         <mark key="^" line="34" column="30" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/bladejava/blade-mvc/2.0.1/blade-mvc-2.0.1-sources.jar!/com/blade/mvc/annotation/Param.java" timestamp="1528801069953" />
-      <file name="$MAVEN_REPOSITORY$/com/bladejava/blade-mvc/2.0.1/blade-mvc-2.0.1-sources.jar!/com/blade/mvc/hook/WebHook.java" timestamp="1528809553242" />
+      <file name="$USER_HOME$/dev/blade/src/test/java/com/blade/BaseTestCase.java" timestamp="1528811691849" />
+      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/Blade.java" timestamp="1528812005829" />
+      <file name="$USER_HOME$/dev/tmp/java-8-lambdas-exercises/my-test/src/main/java/Answer2.java" timestamp="1528780624633">
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="55" />
+        <mark key="." line="22" column="55" />
+        <mark key="^" line="22" column="55" />
+      </file>
+      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/ioc/Ioc.java" timestamp="1528811954931" />
+      <file name="$USER_HOME$/dev/blade/src/test/java/com/blade/EnvironmentTest.java" timestamp="1528812022502" />
       <file name="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/lesson2/Example4.java" timestamp="1528690816525">
         <mark key="[" line="18" column="110" />
         <mark key="]" line="19" column="7" />
         <mark key="^" line="19" column="7" />
         <mark key="." line="19" column="7" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/bladejava/blade-log/0.0.3/blade-log-0.0.3.jar!/org/slf4j/impl/SimpleLoggerConfiguration.class" timestamp="1528808618088" />
-      <file name="$MAVEN_REPOSITORY$/com/bladejava/blade-mvc/2.0.1/blade-mvc-2.0.1-sources.jar!/com/blade/mvc/http/Response.java" timestamp="1528797618781" />
+      <file name="$USER_HOME$/dev/tmp/blade-demo/src/main/java/net/ddns/dzy/Application.java" timestamp="1528809728752">
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="12" column="45" />
+        <mark key="." line="12" column="45" />
+        <mark key="^" line="12" column="45" />
+      </file>
+      <file name="$USER_HOME$/dev/blade/src/test/java/com/blade/BladeTest.java" timestamp="1528811996653" />
       <file name="$USER_HOME$/dev/tmp/learn-java8/TestThreadSafe/src/main/java/net/ddns/dzy/ReadThread.java" timestamp="1528727490813">
         <mark key="[" line="18" column="42" />
         <mark key="]" line="18" column="42" />
@@ -44,41 +69,6 @@
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/bladejava/blade-log/0.0.3/blade-log-0.0.3.jar!/META-INF/maven/com.bladejava/blade-log/pom.xml" timestamp="1528808569288" />
-      <file name="$USER_HOME$/dev/tmp/blade-demo/src/main/java/net/ddns/dzy/model/Person.java" timestamp="1528800646088">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="10" column="18" />
-        <mark key="^" line="10" column="18" />
-        <mark key="." line="10" column="18" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/bladejava/blade-log/0.0.3/blade-log-0.0.3.jar!/META-INF/maven/com.bladejava/blade-log/pom.properties" timestamp="1528808559230" />
-      <file name="$USER_HOME$/dev/tmp/blade-demo/src/main/resources/templates/login.html" timestamp="1528799700355">
-        <mark key="[" line="15" column="7" />
-        <mark key="]" line="16" column="24" />
-        <mark key="." line="16" column="24" />
-        <mark key="^" line="16" column="24" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/bladejava/blade-mvc/2.0.1/blade-mvc-2.0.1-sources.jar!/com/blade/Blade.java" timestamp="1528809658762">
-        <mark key="'" line="66" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/bladejava/blade-mvc/2.0.1/blade-mvc-2.0.1-sources.jar!/com/blade/mvc/http/Request.java" timestamp="1528797066652" />
-      <file name="$MAVEN_REPOSITORY$/com/bladejava/blade-log/0.0.3/blade-log-0.0.3.jar!/org/slf4j/impl/OutputChoice.class" timestamp="1528808639041" />
-      <file name="$MAVEN_REPOSITORY$/com/bladejava/blade-mvc/2.0.1/blade-mvc-2.0.1-sources.jar!/com/blade/server/Server.java" timestamp="1528808871567" />
-      <file name="$MAVEN_REPOSITORY$/com/bladejava/blade-mvc/2.0.1/blade-mvc-2.0.1-sources.jar!/com/blade/mvc/annotation/Path.java" timestamp="1528798307621" />
-      <file name="$MAVEN_REPOSITORY$/com/bladejava/blade-mvc/2.0.8-R3/blade-mvc-2.0.8-R3-sources.jar!/com/blade/Blade.java" timestamp="1528796516594" />
-      <file name="$USER_HOME$/dev/tmp/java-8-lambdas-exercises/my-test/src/main/java/Answer2.java" timestamp="1528780624633">
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="55" />
-        <mark key="." line="22" column="55" />
-        <mark key="^" line="22" column="55" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/bladejava/blade-mvc/2.0.1/blade-mvc-2.0.1-sources.jar!/com/blade/mvc/route/RouteMatcher.java" timestamp="1528809187125" />
-      <file name="$USER_HOME$/dev/tmp/blade-demo/src/main/java/net/ddns/dzy/Application.java" timestamp="1528809728752">
-        <mark key="[" line="12" column="46" />
-        <mark key="]" line="12" column="45" />
-        <mark key="." line="12" column="45" />
-        <mark key="^" line="12" column="45" />
       </file>
     </filemarks>
     <jumps>
