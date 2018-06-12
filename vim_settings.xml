@@ -57,6 +57,9 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/stream/Stream.java" timestamp="1528780686744">
+        <mark key="'" line="368" column="5" />
+      </file>
       <file name="$USER_HOME$/dev/tmp/stream-demo/pom.xml" timestamp="1528635734161">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="16" column="17" />
@@ -84,10 +87,11 @@
         <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/dev/tmp/java-8-lambdas-exercises/src/main/java/com/insightfullogic/java8/answers/chapter2/package-info.java" timestamp="1528778636162" />
-      <file name="$USER_HOME$/dev/tmp/java-8-lambdas-exercises/my-test/src/main/java/Answer2.java" timestamp="1528778858637">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/dev/tmp/java-8-lambdas-exercises/my-test/src/main/java/Answer2.java" timestamp="1528780624633">
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="55" />
+        <mark key="." line="22" column="55" />
+        <mark key="^" line="22" column="55" />
       </file>
       <file name="$USER_HOME$/dev/tmp/learn-java8/java8-default-methods/src/main/java/io/github/biezhi/java8/defaultmethods/UseCalc.java" timestamp="1528638652743">
         <mark key="[" line="13" column="0" />
@@ -119,6 +123,12 @@
         <mark key="^" line="6" column="12" />
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/concurrent/TimeUnit.java" timestamp="1528762910741" />
+      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/lesson2/Example4.java" timestamp="1528690816525">
+        <mark key="[" line="18" column="110" />
+        <mark key="]" line="19" column="7" />
+        <mark key="^" line="19" column="7" />
+        <mark key="." line="19" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/tmp/learn-java8/java8-datetime-api/src/main/java/io/github/biezhi/datetime/ZoneIdExample.java" timestamp="1528733274728">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -129,6 +139,12 @@
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/tmp/learn-java8/TestThreadSafe/src/main/java/net/ddns/dzy/ReadThread.java" timestamp="1528727490813">
+        <mark key="[" line="18" column="42" />
+        <mark key="]" line="18" column="42" />
+        <mark key="." line="18" column="42" />
+        <mark key="^" line="18" column="42" />
       </file>
       <file name="/fragment.java" timestamp="1528772422929">
         <mark key="[" line="0" column="0" />
@@ -242,11 +258,11 @@
       <jump line="19" column="25" filename="$USER_HOME$/dev/tmp/java-8-lambdas-exercises/my-test/src/main/java/Answer2.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGludGVyZmFjZSBJbnRQcmVkPFQ+IHsKICAgICAgICBib29sZWFuIHRlc3QoVCB2YWx1ZSk7CiAgICB9CgogICAgYm9vbGVhbiBjaGVjayhQcmVkaWNhdGU8SW50ZWdlcj4gcHJlZGljYXRlKXsKICAgICAgICByZXR1cm4gcHJlZGljYXRlLnRlc3QoMSk7CiAgICB9OwoKICAgIGJvb2xlYW4gY2hlY2soSW50UHJlZDxJbnRlZ2VyPiBwcmVkaWNhdGUpewogICAgICAgIHJldHVybiBwcmVkaWNhdGUudGVzdCgxKTsKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aW50ZWdlcnMgLT4gaW50ZWdlcnMuZ2V0KDAp</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text encoding="base64">aW50ZWdlcnMgLT4gaW50ZWdlcnMuZ2V0KDAp</text>
       </register>
       <register name="/" type="4">
         <text>toMap</text>
