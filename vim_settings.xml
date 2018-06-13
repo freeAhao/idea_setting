@@ -10,6 +10,12 @@
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/concurrent/Future.java" timestamp="1528882170441" />
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/concurrent/FutureTask.java" timestamp="1528881890080" />
+      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Synchronized1.java" timestamp="1528890962243">
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="10" column="17" />
+        <mark key="^" line="10" column="17" />
+      </file>
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/concurrent/ExecutorService.java" timestamp="1528881728672" />
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/concurrent/Callable.java" timestamp="1528881838292" />
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/BooleanSupplier.java" timestamp="1528857215956" />
@@ -171,11 +177,11 @@
       <jump line="93" column="45" filename="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Executors3.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGk9MTA7CiAgICAgICAgdGVzdChpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>volatile</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>volatile</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
@@ -184,34 +190,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGxhYmxlKCJ0YXNrMiIsIDEpLAogICAgICAgICAgICAgICAgY2FsbGFibGUoInRhc2szIiwgMyksCiAgICAgICAgICAgICAgICBjYWxsYWJsZSgidGFzazEiLCAyKSwKICAgICAgICAgICAgICAgIGNhbGxhYmxlKCJ0YXNrMiIsIDEpLAogICAgICAgICAgICAgICAgY2FsbGFibGUoInRhc2szIiwgMyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGk9MTA7CiAgICAgICAgdGVzdChpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb3VudCsrOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGk9MTA7CiAgICAgICAgdGVzdChpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaSk7Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgdGVzdChJbnRlZ2VyIGkpewogICAgICAgIGkrKzsKICAgIH0=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaSk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgY291bnQgPSBuZXcgSW50ZWdlclsxMF07Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjb3VudFswXT0gMDsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudCAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaS5oYXNoQ29kZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb3VudCAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
