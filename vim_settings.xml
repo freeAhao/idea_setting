@@ -3,98 +3,59 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/netty-chat/src/main/java/client/EchoClient.java" timestamp="1528831073741">
-        <mark key="[" line="45" column="108" />
-        <mark key="]" line="46" column="63" />
-        <mark key="." line="46" column="63" />
-        <mark key="^" line="46" column="63" />
-      </file>
-      <file name="$USER_HOME$/dev/netty-chat/pom.xml" timestamp="1528816164767">
-        <mark key="[" line="21" column="20" />
-        <mark key="]" line="21" column="25" />
-        <mark key="." line="21" column="25" />
-        <mark key="^" line="21" column="25" />
-      </file>
-      <file name="$USER_HOME$/dev/netty-chat/src/main/java/server/EchoServerHandler.java" timestamp="1528830643021">
-        <mark key="[" line="21" column="60" />
-        <mark key="]" line="21" column="60" />
-        <mark key="^" line="20" column="16" />
-        <mark key="." line="21" column="60" />
-      </file>
+      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/concurrent/Future.java" timestamp="1528882170441" />
+      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/concurrent/FutureTask.java" timestamp="1528881890080" />
+      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/concurrent/ExecutorService.java" timestamp="1528881728672" />
+      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/concurrent/Callable.java" timestamp="1528881838292" />
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/BooleanSupplier.java" timestamp="1528857215956" />
-      <file name="$USER_HOME$/dev/netty-chat/src/main/java/ChatClient.java" timestamp="1528816292869">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="38" />
-        <mark key="^" line="0" column="38" />
-        <mark key="." line="0" column="38" />
-      </file>
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/BiFunction.java" timestamp="1528857169765" />
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/Function.java" timestamp="1528861115506" />
+      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Executors1.java" timestamp="1528880379022">
+        <mark key="'" line="21" column="74" />
+        <mark key="[" line="21" column="89" />
+        <mark key="]" line="21" column="90" />
+        <mark key="^" line="21" column="90" />
+        <mark key="." line="21" column="90" />
+      </file>
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/IntFunction.java" timestamp="1528857272261" />
-      <file name="$USER_HOME$/dev/netty-chat/src/main/java/net/ddns/dzy/netty/chat/client/ChatClient.java" timestamp="1528816935513">
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="20" column="3" />
-        <mark key="^" line="20" column="3" />
-        <mark key="." line="20" column="3" />
+      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/lang/IllegalStateException.java" timestamp="1528880435359" />
+      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Executors3.java" timestamp="1528885455167">
+        <mark key="'" line="11" column="17" />
+        <mark key="[" line="85" column="46" />
+        <mark key="]" line="85" column="47" />
+        <mark key="." line="85" column="47" />
+        <mark key="^" line="52" column="34" />
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/IntUnaryOperator.java" timestamp="1528857292324" />
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/IntBinaryOperator.java" timestamp="1528857300908" />
-      <file name="$USER_HOME$/dev/blade/src/main/java/com/blade/server/netty/NettyServer.java" timestamp="1528814464715">
-        <mark key="[" line="337" column="43" />
-        <mark key="]" line="337" column="42" />
-        <mark key="^" line="337" column="42" />
-        <mark key="." line="337" column="42" />
-      </file>
-      <file name="$USER_HOME$/dev/netty-chat/src/main/java/Server.java" timestamp="1528825890002">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/BinaryOperator.java" timestamp="1528857204243" />
-      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/BiConsumer.java" timestamp="1528857147948" />
-      <file name="$USER_HOME$/dev/netty-chat/src/main/java/pojo/Person.java" timestamp="1528830393401">
-        <mark key="'" line="8" column="13" />
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="8" column="42" />
-        <mark key="^" line="8" column="42" />
-        <mark key="." line="8" column="42" />
+      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Threads1.java" timestamp="1528879825086">
+        <mark key="[" line="15" column="78" />
+        <mark key="]" line="16" column="31" />
+        <mark key="." line="16" column="31" />
+        <mark key="^" line="16" column="31" />
       </file>
+      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/BiConsumer.java" timestamp="1528857147948" />
       <file name="$USER_HOME$/dev/tmp/learn-java8/design-pattern/src/main/java/Strategy.java" timestamp="1528866954214">
         <mark key="[" line="89" column="59" />
         <mark key="]" line="90" column="13" />
         <mark key="^" line="90" column="13" />
         <mark key="." line="90" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/netty-chat/src/main/java/server/EchoServer.java" timestamp="1528830997963">
-        <mark key="[" line="41" column="60" />
-        <mark key="]" line="41" column="59" />
-        <mark key="." line="41" column="59" />
-        <mark key="^" line="41" column="59" />
-      </file>
-      <file name="$USER_HOME$/dev/netty-chat/src/main/java/net/ddns/dzy/netty/chat/client/ChatClientInitializer.java" timestamp="1528817155711">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="9" column="41" />
+      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Executors2.java" timestamp="1528884413792">
+        <mark key="[" line="18" column="65" />
+        <mark key="]" line="18" column="66" />
+        <mark key="." line="18" column="66" />
+        <mark key="^" line="18" column="66" />
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/IntConsumer.java" timestamp="1528857265396" />
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/lang/Integer.java" timestamp="1528857531725" />
-      <file name="$USER_HOME$/dev/netty-chat/src/test/java/net/ddns/dzy/netty/chat/client/ChatClientTest.java" timestamp="1528817011686">
-        <mark key="[" line="8" column="66" />
-        <mark key="]" line="9" column="24" />
-        <mark key="." line="9" column="24" />
-        <mark key="^" line="9" column="24" />
-      </file>
-      <file name="$USER_HOME$/dev/netty-chat/src/main/java/client/EchoClientHandler.java" timestamp="1528830675405">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/IntPredicate.java" timestamp="1528857282604" />
+      <file name="/fragment.java" timestamp="1528882528419">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="110" filename="$USER_HOME$/dev/e3parent/e3-order-web/src/main/webapp/WEB-INF/jsp/success.jsp" />
-      <jump line="38" column="23" filename="$USER_HOME$/dev/e3parent/e3-order-web/src/main/webapp/WEB-INF/jsp/success.jsp" />
       <jump line="89" column="0" filename="$USER_HOME$/dev/e3parent/e3-order-web/src/main/webapp/WEB-INF/jsp/success.jsp" />
       <jump line="13" column="28" filename="$USER_HOME$/dev/tmp/stream-demo/src/main/java/Project.java" />
       <jump line="20" column="31" filename="$USER_HOME$/dev/tmp/stream-demo/src/main/java/Main.java" />
@@ -193,49 +154,51 @@
       <jump line="7" column="0" filename="$USER_HOME$/dev/tmp/learn-java8/design-pattern/src/main/java/Strategy.java" />
       <jump line="13" column="10" filename="$USER_HOME$/dev/tmp/learn-java8/design-pattern/src/main/java/Strategy.java" />
       <jump line="128" column="0" filename="$USER_HOME$/dev/tmp/learn-java8/design-pattern/src/main/java/Strategy.java" />
+      <jump line="21" column="74" filename="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Executors1.java" />
+      <jump line="11" column="17" filename="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Executors3.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>string</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIui/memHjOaJp+ihjOS6huWYmyIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBGdW5jdGlvbjxTaGFwZSxTdHJpbmc+IHJlZENvbG9yID0gc2hhcGUgLT4gc2hhcGUuZHJhdygpKyIgd2l0aCByZWQgY29sb3IiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGxhYmxlKCJ0YXNrMiIsIDEpLAogICAgICAgICAgICAgICAgY2FsbGFibGUoInRhc2szIiwgMyksCiAgICAgICAgICAgICAgICBjYWxsYWJsZSgidGFzazEiLCAyKSwKICAgICAgICAgICAgICAgIGNhbGxhYmxlKCJ0YXNrMiIsIDEpLAogICAgICAgICAgICAgICAgY2FsbGFibGUoInRhc2szIiwgMyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkcmF3KG5ldyBSZWN0YW5nbGUoKSwgOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIui/memHjOaJp+ihjOS6huWYmyIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBkZWNvcmF0b3IoU2hhcGUgc2hhcGUsRnVuY3Rpb248U2hhcGUsU3RyaW5nPiBmdW5jdGlvbil7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhlbGxvIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzaGFwZS5kcmF3KCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZ1bmN0aW9uLmFwcGx5KHNoYXBlKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZXhlY3V0b3IpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0Q29sb3IoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGxhYmxlKCJ0YXNrMyIsIDMpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBGdW5jdGlvbjxTaGFwZSwgU2hhcGU+IHJlZERlY29yYXRvciA9IHNoYXBlIC0+ICBuZXcgUmVkU2hhcGVEZWNvcmF0b3Ioc2hhcGUpOwogICAgICAgIEZ1bmN0aW9uPFNoYXBlLCBTaGFwZT4gYmx1ZURlY29yYXRvciA9IHNoYXBlIC0+ICBuZXcgQmx1ZVNoYXBlRGVjb3JhdG9yKHNoYXBlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICgpIC0+ICJ0YXNrMSIsCiAgICAgICAgICAgICAgICAoKSAtPiAidGFzazIiLAogICAgICAgICAgICAgICAgKCkgLT4gInRhc2szIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hhcGUuZHJhdygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wYXJhbGxlbCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRlY29yYXRvcihuZXcgUmVjdGFuZ2xlKCkscmVkU2hhcGVEZWNvcmF0b3IuY29tcG9zZShibHVlU2hhcGVEZWNvcmF0b3IpKTsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBGdW5jdGlvbjxTaGFwZSxTdHJpbmc+IHJlZFNoYXBlRGVjb3JhdG9yID0gc2hhcGUgLT4gewogICAgICAgICAgICByZXR1cm4gIndpdGggcmVkIGNvbG9yIjsKICAgICAgICB9OwogICAgICAgIEZ1bmN0aW9uPFN0cmluZyxTdHJpbmc+IGJsdWVTaGFwZURlY29yYXRvciA9IHNoYXBlIC0+IHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHNoYXBlKTsKICAgICAgICAgICAgcmV0dXJuICJ3aXRoIGJsdWUgY29sb3IiOwogICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
