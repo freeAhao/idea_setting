@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Lock1.java" timestamp="1528888555835">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/concurrent/Future.java" timestamp="1528882170441" />
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/concurrent/FutureTask.java" timestamp="1528881890080" />
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/concurrent/ExecutorService.java" timestamp="1528881728672" />
@@ -19,15 +24,18 @@
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/IntFunction.java" timestamp="1528857272261" />
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/lang/IllegalStateException.java" timestamp="1528880435359" />
-      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Executors3.java" timestamp="1528885455167">
-        <mark key="'" line="11" column="17" />
-        <mark key="[" line="85" column="46" />
-        <mark key="]" line="85" column="47" />
-        <mark key="." line="85" column="47" />
-        <mark key="^" line="52" column="34" />
+      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Executors3.java" timestamp="1528887241135">
+        <mark key="[" line="92" column="48" />
+        <mark key="]" line="92" column="49" />
+        <mark key="." line="92" column="49" />
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/IntUnaryOperator.java" timestamp="1528857292324" />
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/IntBinaryOperator.java" timestamp="1528857300908" />
+      <file name="$USER_HOME$/dev/netty-chat/src/main/java/Server.java" timestamp="1528825890002">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/BinaryOperator.java" timestamp="1528857204243" />
       <file name="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Threads1.java" timestamp="1528879825086">
         <mark key="[" line="15" column="78" />
@@ -49,17 +57,18 @@
         <mark key="^" line="18" column="66" />
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/IntConsumer.java" timestamp="1528857265396" />
-      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/lang/Integer.java" timestamp="1528857531725" />
+      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/lang/Integer.java" timestamp="1528888053012" />
+      <file name="$USER_HOME$/dev/netty-chat/src/main/java/client/EchoClientHandler.java" timestamp="1528830675405">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/IntPredicate.java" timestamp="1528857282604" />
       <file name="/fragment.java" timestamp="1528882528419">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="0" filename="$USER_HOME$/dev/e3parent/e3-order-web/src/main/webapp/WEB-INF/jsp/success.jsp" />
-      <jump line="13" column="28" filename="$USER_HOME$/dev/tmp/stream-demo/src/main/java/Project.java" />
-      <jump line="20" column="31" filename="$USER_HOME$/dev/tmp/stream-demo/src/main/java/Main.java" />
-      <jump line="24" column="0" filename="$USER_HOME$/dev/tmp/stream-demo/src/main/java/Main.java" />
       <jump line="5" column="26" filename="$USER_HOME$/dev/tmp/stream-demo/src/main/java/Main.java" />
       <jump line="4" column="43" filename="$USER_HOME$/dev/tmp/stream-demo/src/main/java/Main.java" />
       <jump line="8" column="19" filename="$USER_HOME$/dev/tmp/stream-demo/src/main/java/Main.java" />
@@ -156,13 +165,17 @@
       <jump line="128" column="0" filename="$USER_HOME$/dev/tmp/learn-java8/design-pattern/src/main/java/Strategy.java" />
       <jump line="21" column="74" filename="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Executors1.java" />
       <jump line="11" column="17" filename="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Executors3.java" />
+      <jump line="80" column="36" filename="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Executors3.java" />
+      <jump line="109" column="0" filename="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Executors3.java" />
+      <jump line="91" column="49" filename="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Executors3.java" />
+      <jump line="93" column="45" filename="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Executors3.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIui/memHjOaJp+ihjOS6huWYmyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGk9MTA7CiAgICAgICAgdGVzdChpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
@@ -171,34 +184,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGxhYmxlKCJ0YXNrMiIsIDEpLAogICAgICAgICAgICAgICAgY2FsbGFibGUoInRhc2szIiwgMyksCiAgICAgICAgICAgICAgICBjYWxsYWJsZSgidGFzazEiLCAyKSwKICAgICAgICAgICAgICAgIGNhbGxhYmxlKCJ0YXNrMiIsIDEpLAogICAgICAgICAgICAgICAgY2FsbGFibGUoInRhc2szIiwgMyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIui/memHjOaJp+ihjOS6huWYmyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGk9MTA7CiAgICAgICAgdGVzdChpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhlbGxvIik7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgdGVzdChJbnRlZ2VyIGkpewogICAgICAgIGkrKzsKICAgIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZXhlY3V0b3IpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGxhYmxlKCJ0YXNrMyIsIDMpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICgpIC0+ICJ0YXNrMSIsCiAgICAgICAgICAgICAgICAoKSAtPiAidGFzazIiLAogICAgICAgICAgICAgICAgKCkgLT4gInRhc2szIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wYXJhbGxlbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgY291bnQgPSBuZXcgSW50ZWdlclsxMF07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuCg==</text>
+        <text encoding="base64">ICAgICAgICBjb3VudFswXT0gMDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QK</text>
+        <text encoding="base64">ICAgICAgICBjb3VudCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaS5oYXNoQ29kZSgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
