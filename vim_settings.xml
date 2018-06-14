@@ -8,20 +8,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/concurrent/Future.java" timestamp="1528882170441" />
-      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/concurrent/FutureTask.java" timestamp="1528881890080" />
       <file name="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Synchronized1.java" timestamp="1528891723801">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="17" />
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/concurrent/ExecutorService.java" timestamp="1528881728672" />
-      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/ConcurrentUtils.java" timestamp="1528891922743" />
-      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/concurrent/Callable.java" timestamp="1528881838292" />
-      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/BooleanSupplier.java" timestamp="1528857215956" />
-      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/BiFunction.java" timestamp="1528857169765" />
-      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/Function.java" timestamp="1528861115506" />
       <file name="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Executors1.java" timestamp="1528880379022">
         <mark key="'" line="21" column="74" />
         <mark key="[" line="21" column="89" />
@@ -29,25 +21,18 @@
         <mark key="^" line="21" column="90" />
         <mark key="." line="21" column="90" />
       </file>
-      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/IntFunction.java" timestamp="1528857272261" />
-      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/lang/IllegalStateException.java" timestamp="1528880435359" />
       <file name="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Executors3.java" timestamp="1528887241135">
         <mark key="[" line="92" column="48" />
         <mark key="]" line="92" column="49" />
         <mark key="." line="92" column="49" />
       </file>
-      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/IntUnaryOperator.java" timestamp="1528857292324" />
-      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/IntBinaryOperator.java" timestamp="1528857300908" />
-      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Lock2.java" timestamp="1528891904456" />
-      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Synchronized2.java" timestamp="1528891734049" />
-      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/BinaryOperator.java" timestamp="1528857204243" />
+      <file name="$USER_HOME$/dev/tmp/java-8-lambdas-exercises/my-test/src/main/java/Answer2.java" timestamp="1528993966619" />
       <file name="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Threads1.java" timestamp="1528879825086">
         <mark key="[" line="15" column="78" />
         <mark key="]" line="16" column="31" />
         <mark key="." line="16" column="31" />
         <mark key="^" line="16" column="31" />
       </file>
-      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/BiConsumer.java" timestamp="1528857147948" />
       <file name="$USER_HOME$/dev/tmp/learn-java8/design-pattern/src/main/java/Strategy.java" timestamp="1528866954214">
         <mark key="[" line="89" column="59" />
         <mark key="]" line="90" column="13" />
@@ -60,9 +45,6 @@
         <mark key="." line="18" column="66" />
         <mark key="^" line="18" column="66" />
       </file>
-      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/IntConsumer.java" timestamp="1528857265396" />
-      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/lang/Integer.java" timestamp="1528888053012" />
-      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/function/IntPredicate.java" timestamp="1528857282604" />
       <file name="/fragment.java" timestamp="1528882528419">
         <mark key="[" line="0" column="0" />
       </file>
@@ -213,7 +195,7 @@
         <text encoding="base64">ICAgICAgICBjb3VudCAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q!</text>
       </register>
     </registers>
     <search>
@@ -249,7 +231,6 @@
         <entry>public</entry>
       </history-search>
       <history-cmd>
-        <entry>ew</entry>
         <entry>wa</entry>
         <entry>&quot;w</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -269,6 +250,7 @@
         <entry>wq</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
