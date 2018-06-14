@@ -19,6 +19,7 @@
         <mark key="]" line="92" column="49" />
         <mark key="." line="92" column="49" />
       </file>
+      <file name="$USER_HOME$/dev/tmp/java-8-lambdas-exercises/my-test/src/main/resources/hello.html" timestamp="1528997546849" />
       <file name="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Executors1.java" timestamp="1528880379022">
         <mark key="'" line="21" column="74" />
         <mark key="[" line="21" column="89" />
@@ -38,11 +39,11 @@
         <mark key="^" line="90" column="13" />
         <mark key="." line="90" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/java-8-lambdas-exercises/my-test/src/main/java/Answer2.java" timestamp="1528997289382">
+      <file name="$USER_HOME$/dev/tmp/java-8-lambdas-exercises/my-test/src/main/java/Answer2.java" timestamp="1528997644866">
         <mark key="'" line="0" column="27" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Executors2.java" timestamp="1528884413792">
         <mark key="[" line="18" column="65" />
@@ -50,7 +51,6 @@
         <mark key="." line="18" column="66" />
         <mark key="^" line="18" column="66" />
       </file>
-      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/lang/ThreadLocal.java" timestamp="1528997281974" />
       <file name="/fragment.java" timestamp="1528996350892">
         <mark key="[" line="0" column="0" />
       </file>
@@ -159,7 +159,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWRMb2NhbC53aXRoSW5pdGlhbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAwL28K</text>
       </register>
       <register name="-" type="4">
         <text>volatile</text>
@@ -171,7 +171,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGxhYmxlKCJ0YXNrMiIsIDEpLAogICAgICAgICAgICAgICAgY2FsbGFibGUoInRhc2szIiwgMyksCiAgICAgICAgICAgICAgICBjYWxsYWJsZSgidGFzazEiLCAyKSwKICAgICAgICAgICAgICAgIGNhbGxhYmxlKCJ0YXNrMiIsIDEpLAogICAgICAgICAgICAgICAgY2FsbGFibGUoInRhc2szIiwgMyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWRMb2NhbC53aXRoSW5pdGlhbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAwL28K</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -180,28 +180,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaGVsbG8pOwo=</text>
+        <text encoding="base64">ICAgICAgICAwL28K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAwbwo=</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWRMb2NhbC53aXRoSW5pdGlhbCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvMC8xMjMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaGVsbG8pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhlbGxvIiwgIiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAwbwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQcmludAo=</text>
+        <text encoding="base64">ICAgICAgICBvMC8xMjMK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wqa</text>
       </register>
     </registers>
     <search>
@@ -248,7 +248,6 @@
         <entry>qa!</entry>
         <entry>%s/images/image/g</entry>
         <entry>qa</entry>
-        <entry>wqa</entry>
         <entry>Wq</entry>
         <entry>q</entry>
         <entry>?w</entry>
@@ -257,6 +256,7 @@
         <entry>W</entry>
         <entry>q!</entry>
         <entry>w</entry>
+        <entry>wqa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
