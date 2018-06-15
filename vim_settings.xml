@@ -8,16 +8,70 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/blog/pom.xml" timestamp="1529030390008">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Executors3.java" timestamp="1528887241135">
+        <mark key="[" line="92" column="48" />
+        <mark key="]" line="92" column="49" />
+        <mark key="." line="92" column="49" />
+      </file>
+      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Synchronized1.java" timestamp="1528891723801">
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="10" column="17" />
+        <mark key="^" line="10" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/blog/src/main/resources/app.properties" timestamp="1529028181245">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/blog/src/main/java/net/ddns/dzy/blog/model/Blog.java" timestamp="1529030752263">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/tmp/java-8-lambdas-exercises/my-test/src/main/java/Answer2.java" timestamp="1528997644866">
+        <mark key="'" line="0" column="27" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/blog/src/main/java/net/ddns/dzy/blog/common/Result.java" timestamp="1529030913246">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/webjars/bootstrap/4.1.1/bootstrap-4.1.1.jar!/META-INF/resources/webjars/bootstrap/4.1.1/webjars-requirejs.js" timestamp="1529028354206" />
+      <file name="$USER_HOME$/dev/resume/src/main/java/net/ddns/dzy/resume/ResumeApplication.java" timestamp="1529026555714" />
+      <file name="$USER_HOME$/dev/blog/src/main/resources/templates/index.html" timestamp="1529029609276">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="25" column="6" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="5" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/blog/src/main/java/net/ddns/dzy/blog/controller/admin/BlogController.java" timestamp="1529030796839">
+        <mark key="[" line="25" column="21" />
+        <mark key="]" line="25" column="24" />
+        <mark key="." line="25" column="24" />
+        <mark key="^" line="25" column="24" />
+      </file>
       <file name="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Threads1.java" timestamp="1528879825086">
         <mark key="[" line="15" column="78" />
         <mark key="]" line="16" column="31" />
         <mark key="." line="16" column="31" />
         <mark key="^" line="16" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Executors3.java" timestamp="1528887241135">
-        <mark key="[" line="92" column="48" />
-        <mark key="]" line="92" column="49" />
-        <mark key="." line="92" column="49" />
+      <file name="$USER_HOME$/dev/blog/src/main/java/net/ddns/dzy/blog/controller/admin/PageController.java" timestamp="1529029233644">
+        <mark key="[" line="14" column="33" />
+        <mark key="]" line="14" column="33" />
+        <mark key="." line="14" column="33" />
+        <mark key="^" line="14" column="33" />
       </file>
       <file name="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Executors1.java" timestamp="1528880379022">
         <mark key="'" line="21" column="74" />
@@ -26,23 +80,11 @@
         <mark key="^" line="21" column="90" />
         <mark key="." line="21" column="90" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Synchronized1.java" timestamp="1528891723801">
-        <mark key="[" line="10" column="19" />
-        <mark key="]" line="10" column="17" />
-        <mark key="." line="10" column="17" />
-        <mark key="^" line="10" column="17" />
-      </file>
       <file name="$USER_HOME$/dev/tmp/learn-java8/design-pattern/src/main/java/Strategy.java" timestamp="1528866954214">
         <mark key="[" line="89" column="59" />
         <mark key="]" line="90" column="13" />
         <mark key="^" line="90" column="13" />
         <mark key="." line="90" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/tmp/java-8-lambdas-exercises/my-test/src/main/java/Answer2.java" timestamp="1528997644866">
-        <mark key="'" line="0" column="27" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Executors2.java" timestamp="1528884413792">
         <mark key="[" line="18" column="65" />
@@ -50,15 +92,37 @@
         <mark key="." line="18" column="66" />
         <mark key="^" line="18" column="66" />
       </file>
-      <file name="$USER_HOME$/dev/resume/src/main/java/net/ddns/dzy/resume/ResumeApplication.java" timestamp="1529026555714" />
-      <file name="/fragment.java" timestamp="1528996350892">
+      <file name="$USER_HOME$/dev/blog/src/main/java/net/ddns/dzy/blog/BlogApplication.java" timestamp="1529028025155">
+        <mark key="[" line="11" column="50" />
+        <mark key="]" line="11" column="49" />
+        <mark key="." line="11" column="49" />
+        <mark key="^" line="11" column="49" />
+      </file>
+      <file name="$USER_HOME$/dev/blog/src/main/resources/templates/admin/index.html" timestamp="1529030111167">
+        <mark key="'" line="0" column="6" />
+        <mark key="[" line="24" column="50" />
+        <mark key="]" line="24" column="59" />
+        <mark key="." line="24" column="59" />
+        <mark key="^" line="24" column="59" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/bladejava/blade-mvc/2.0.8-R3/blade-mvc-2.0.8-R3-sources.jar!/com/blade/mvc/http/Request.java" timestamp="1529029095707" />
+      <file name="/fragment.java" timestamp="1529026955085">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/blog/src/main/java/net/ddns/dzy/blog/service/BlogService.java" timestamp="1529030860069">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="32" />
+        <mark key="^" line="11" column="32" />
+        <mark key="." line="11" column="32" />
+      </file>
+      <file name="$USER_HOME$/dev/blog/src/main/java/net/ddns/dzy/blog/controller/IndexController.java" timestamp="1529029113238">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="14" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="19" filename="$USER_HOME$/dev/tmp/stream-demo/src/main/java/Main.java" />
-      <jump line="7" column="23" filename="$USER_HOME$/dev/tmp/stream-demo/src/main/java/Main.java" />
-      <jump line="15" column="8" filename="$USER_HOME$/dev/tmp/stream-demo/src/main/java/Main.java" />
       <jump line="9" column="33" filename="$USER_HOME$/dev/tmp/stream-demo/src/main/java/Main.java" />
       <jump line="32" column="29" filename="$USER_HOME$/dev/tmp/stream-demo/src/main/java/Main.java" />
       <jump line="30" column="47" filename="$USER_HOME$/dev/tmp/stream-demo/src/main/java/Main.java" />
@@ -156,52 +220,55 @@
       <jump line="93" column="45" filename="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/Executors3.java" />
       <jump line="16" column="0" filename="$USER_HOME$/dev/tmp/java-8-lambdas-exercises/my-test/src/main/java/Answer2.java" />
       <jump line="0" column="27" filename="$USER_HOME$/dev/tmp/java-8-lambdas-exercises/my-test/src/main/java/Answer2.java" />
+      <jump line="0" column="14" filename="$USER_HOME$/dev/blog/src/main/resources/templates/index.html" />
+      <jump line="25" column="0" filename="$USER_HOME$/dev/blog/src/main/resources/templates/index.html" />
+      <jump line="9" column="6" filename="$USER_HOME$/dev/blog/src/main/resources/templates/admin/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAwL28K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>volatile</text>
+        <text>add blog</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGxhYmxlKCJ0YXNrMiIsIDEpLAogICAgICAgICAgICAgICAgY2FsbGFibGUoInRhc2szIiwgMyksCiAgICAgICAgICAgICAgICBjYWxsYWJsZSgidGFzazEiLCAyKSwKICAgICAgICAgICAgICAgIGNhbGxhYmxlKCJ0YXNrMiIsIDEpLAogICAgICAgICAgICAgICAgY2FsbGFibGUoInRhc2szIiwgMyksCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRGF0ZSBjcmVhdGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAwL28K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAwL28K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWRMb2NhbC53aXRoSW5pdGlhbCgpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBCbG9nKCkgewogICAgICAgIAogICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB0aXRsZSDmoIfpopgKICAgICAqIEBwYXJhbSBjb250ZW50IOWGheWuuQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaGVsbG8pOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygidGl0bGUgPSB7fSIsIHRpdGxlKTsKICAgICAgICBsb2dnZXIuaW5mbygiY29udGVudCA9IHt9IiwgY29udGVudCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAwbwo=</text>
+        <text encoding="base64">QERhdGEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvMC8xMjMK</text>
+        <text encoding="base64">QERhdGEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -251,12 +318,12 @@
         <entry>Wq</entry>
         <entry>?w</entry>
         <entry>vs</entry>
-        <entry>wq</entry>
         <entry>W</entry>
         <entry>q!</entry>
-        <entry>w</entry>
         <entry>wqa</entry>
         <entry>q</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
