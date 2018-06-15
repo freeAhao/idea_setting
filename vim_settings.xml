@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/pojo/EasyUITreeNode.java" timestamp="1529077987099" />
       <file name="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/index.jsp" timestamp="1529092511616">
         <mark key="'" line="36" column="32" />
         <mark key="[" line="53" column="13" />
@@ -18,7 +17,6 @@
         <mark key="." line="29" column="99" />
         <mark key="^" line="29" column="99" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/browserconfig.xml" timestamp="1529076782964" />
       <file name="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/resources/conf/conf.properties" timestamp="1529083376393">
         <mark key="'" line="4" column="8" />
         <mark key="[" line="8" column="18" />
@@ -29,33 +27,24 @@
       <file name="/tb_item [e3mall@localhost]" timestamp="1529083057756">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-mbg/pom.xml" timestamp="1529086599812" />
       <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/main/java/net/ddns/dzy/e3mall/content/service/impl/ContentCategoryServiceImpl.java" timestamp="1529087651592">
         <mark key="[" line="82" column="63" />
         <mark key="]" line="83" column="94" />
         <mark key="^" line="83" column="94" />
         <mark key="." line="83" column="94" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-mbg/src/main/resources/generatorConfig.xml" timestamp="1529086488324" />
       <file name="/tb_content_category [e3mall@localhost]" timestamp="1529088094205">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/java/net/ddns/dzy/e3mall/manager/controller/ItemCatController.java" timestamp="1529078562399" />
-      <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-service/src/main/resources/spring/applicationContext-manager-service.xml" timestamp="1529079190224" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/af4c2e2a-c990-4e00-83b4-73f668f4527b/console_1.sql" timestamp="1529083924588">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/web.xml" timestamp="1529091286192" />
-      <file name="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/web.xml" timestamp="1529076895892" />
       <file name="/t_blog [@localhost]" timestamp="1529036010765">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-mbg/src/main/java/net/ddns/dzy/e3mall/mapper/TbContentCategoryMapper.java" timestamp="1529087823238" />
-      <file name="$USER_HOME$/dev/e3parent/docker/docker-compose.yml" timestamp="1529077440951" />
-      <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/resources/spring/springmvc-manager.xml" timestamp="1529091274992" />
       <file name="$USER_HOME$/dev/e3parent/e3-common/pom.xml" timestamp="1529091522961">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="94" column="0" />
@@ -68,8 +57,6 @@
         <mark key="." line="55" column="22" />
         <mark key="^" line="55" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/test/java/net/ddns/dzy/e3mall/content/service/PublishContentService.java" timestamp="1529077830779" />
-      <file name="$USER_HOME$/dev/e3parent/e3-mbg/src/main/java/net/ddns/dzy/e3mall/pojo/TbItemCat.java" timestamp="1529086474421" />
       <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-interface/src/main/java/net/ddns/dzy/e3mall/content/service/ContentService.java" timestamp="1529089267772">
         <mark key="'" line="7" column="21" />
         <mark key="[" line="60" column="73" />
@@ -98,14 +85,12 @@
         <mark key="]" line="95" column="18" />
         <mark key="." line="278" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-interface/src/main/java/net/ddns/dzy/e3mall/content/service/ContentCategoryService.java" timestamp="1529077801667" />
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-dao/src/main/resources/net/ddns/dzy/e3mall/manager/mapper/TbContentCategoryMapper.xml" timestamp="1529087889997">
         <mark key="[" line="2" column="39" />
         <mark key="]" line="2" column="46" />
         <mark key="^" line="2" column="46" />
         <mark key="." line="2" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/site.webmanifest" timestamp="1529076819093" />
       <file name="/a.sql" timestamp="1529088336350">
         <mark key="[" line="0" column="0" />
       </file>
@@ -115,13 +100,11 @@
         <mark key="^" line="22" column="19" />
         <mark key="." line="166" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/java/net/ddns/dzy/e3mall/manager/controller/ContentCategoryController.java" timestamp="1529077820251" />
       <file name="$USER_HOME$/dev/e3parent/e3-manager-web/pom.xml" timestamp="1529091644202">
         <mark key="[" line="112" column="0" />
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-pojo/src/main/java/net/ddns/dzy/e3mall/pojo/TbContent.java" timestamp="1529080168358" />
       <file name="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/java/net/ddns/dzy/e3mall/portal/controller/IndexController.java" timestamp="1529088891506">
         <mark key="[" line="46" column="27" />
         <mark key="]" line="46" column="34" />
@@ -130,6 +113,9 @@
       </file>
       <file name="/dummy.sql" timestamp="1529088094563">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/blog/pom.xml" timestamp="1529095388029">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1529080336074">
         <mark key="[" line="0" column="0" />
@@ -154,19 +140,15 @@
         <mark key="." line="26" column="52" />
         <mark key="^" line="26" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/java/net/ddns/dzy/e3mall/manager/controller/ItemController.java" timestamp="1529091390473" />
       <file name="/tb_content [e3mall@localhost]" timestamp="1529086066829">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-mbg/src/main/java/net/ddns/dzy/e3mall/pojo/TbContentCategory.java" timestamp="1529086514884" />
-      <file name="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/pojo/EasyUiDataGridResult.java" timestamp="1529091413137" />
       <file name="$USER_HOME$/dev/e3parent/static_html/app/index.html" timestamp="1529091863528">
         <mark key="[" line="47" column="15" />
         <mark key="]" line="47" column="15" />
         <mark key="." line="47" column="15" />
         <mark key="^" line="47" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/content.jsp" timestamp="1529092010525" />
       <file name="/fragment.java" timestamp="1529091086642">
         <mark key="[" line="0" column="0" />
       </file>
@@ -178,8 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="28" filename="$USER_HOME$/dev/tmp/learn-java8/java8-stream/src/main/java/io/github/biezhi/java8/stream/lesson3/Example5.java" />
-      <jump line="11" column="22" filename="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/CachedThreadPool.java" />
       <jump line="19" column="3" filename="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/CachedThreadPool.java" />
       <jump line="10" column="26" filename="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/ThreadPoolDemo.java" />
       <jump line="23" column="8" filename="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/ThreadPoolDemo.java" />
@@ -278,6 +258,8 @@
       <jump line="285" column="24" filename="$USER_HOME$/dev/e3parent/pom.xml" />
       <jump line="42" column="28" filename="$USER_HOME$/dev/e3parent/pom.xml" />
       <jump line="36" column="32" filename="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/index.jsp" />
+      <jump line="39" column="30" filename="$USER_HOME$/dev/blog/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/blog/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
