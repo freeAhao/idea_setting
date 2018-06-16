@@ -38,6 +38,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1529140077308">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/resources/spring/springmvc-portal.xml" timestamp="1529079308299">
         <mark key="'" line="22" column="19" />
         <mark key="[" line="29" column="86" />
@@ -56,6 +59,11 @@
         <mark key="]" line="2" column="46" />
         <mark key="^" line="2" column="46" />
         <mark key="." line="2" column="46" />
+      </file>
+      <file name="$USER_HOME$/dev/blog/spring-boot/hello-world/gradle/wrapper/gradle-wrapper.properties" timestamp="1529141375910">
+        <mark key="[" line="5" column="68" />
+        <mark key="]" line="5" column="69" />
+        <mark key="." line="5" column="69" />
       </file>
       <file name="/a.sql" timestamp="1529088336350">
         <mark key="[" line="0" column="0" />
@@ -96,6 +104,13 @@
       <file name="/Dummy.txt" timestamp="1529136701684">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/blog/spring-boot/hello-world/src/test/java/net/ddns/dzy/initstart/controller/HelloControllerTest.java" timestamp="1529141037566">
+        <mark key="'" line="14" column="80" />
+        <mark key="[" line="21" column="15" />
+        <mark key="]" line="22" column="20" />
+        <mark key="." line="22" column="20" />
+        <mark key="^" line="22" column="20" />
+      </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/index.jsp" timestamp="1529091351369">
         <mark key="'" line="8" column="49" />
         <mark key="[" line="23" column="30" />
@@ -125,6 +140,7 @@
       <file name="/tb_content_category [e3mall@localhost]" timestamp="1529088094205">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/blog/spring-boot/hello-world/src/test/java/net/ddns/dzy/initstart/ApplicationTests.java" timestamp="1529140409004" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/af4c2e2a-c990-4e00-83b4-73f668f4527b/console_1.sql" timestamp="1529083924588">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="5" />
@@ -137,19 +153,27 @@
       <file name="/t_blog [@localhost]" timestamp="1529036010765">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/init/build.gradle" timestamp="1529138999003">
-        <mark key="'" line="10" column="0" />
+      <file name="$USER_HOME$/dev/blog/spring-boot/hello-world/src/main/java/net/ddns/dzy/initstart/controller/HelloController.java" timestamp="1529140903019">
+        <mark key="'" line="5" column="2" />
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="15" column="27" />
+        <mark key="^" line="15" column="27" />
+        <mark key="." line="15" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/blog/spring-boot/init/build.gradle" timestamp="1529139388903">
+        <mark key="'" line="29" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/5.0.7.RELEASE/a27f8bef36683aaab1a41f93e74b72b28377b2be/spring-test-5.0.7.RELEASE-sources.jar!/org/springframework/test/context/junit4/SpringRunner.java" timestamp="1529140415732" />
       <file name="$USER_HOME$/dev/e3parent/static_html/app/index.html" timestamp="1529091863528">
         <mark key="[" line="47" column="15" />
         <mark key="]" line="47" column="15" />
         <mark key="." line="47" column="15" />
         <mark key="^" line="47" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1529091086642">
+      <file name="/fragment.java" timestamp="1529140654625">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/main/resources/log4j.properties" timestamp="1529090400422">
@@ -166,10 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="26" filename="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/ThreadPoolDemo.java" />
-      <jump line="23" column="8" filename="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/ThreadPoolDemo.java" />
-      <jump line="17" column="11" filename="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/ThreadPoolDemo.java" />
-      <jump line="74" column="0" filename="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/ThreadPoolDemo.java" />
       <jump line="19" column="0" filename="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/ThreadPoolDemo.java" />
       <jump line="73" column="55" filename="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/ThreadPoolDemo.java" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/ThreadPoolDemo.java" />
@@ -266,13 +286,17 @@
       <jump line="39" column="30" filename="$USER_HOME$/dev/blog/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/blog/pom.xml" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/blog/spring-boot/init/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/blog/spring-boot/init/build.gradle" />
+      <jump line="29" column="0" filename="$USER_HOME$/dev/blog/spring-boot/init/build.gradle" />
+      <jump line="4" column="2" filename="$USER_HOME$/dev/blog/spring-boot/hello-world/src/main/java/net/ddns/dzy/initstart/controller/HelloController.java" />
+      <jump line="12" column="80" filename="$USER_HOME$/dev/blog/spring-boot/hello-world/src/test/java/net/ddns/dzy/initstart/controller/HelloControllerTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>equalTo</text>
       </register>
       <register name="-" type="4">
-        <text>够</text>
+        <text>equalTo</text>
       </register>
       <register name="/" type="4">
         <text>jackson</text>
@@ -281,40 +305,37 @@
         <text encoding="base64">ICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgPGdyb3VwSWQ+Y29tLmZhc3RlcnhtbC5qYWNrc29uLmNvcmU8L2dyb3VwSWQ+CiAgICAgICAgPGFydGlmYWN0SWQ+amFja3Nvbi1kYXRhYmluZDwvYXJ0aWZhY3RJZD4KICAgICAgICA8dmVyc2lvbj4ke2phY2tzb24udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXJ0aQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">amFyewoJZW5hCn0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGphciB7CgkJZW5hCgl9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPHZlcnNpb24+JHtqYWNrc29uLnZlcnNpb259PC92ZXJzaW9uPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="8">
-        <text>#
-#
-#
-#</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5TZXJ2aWNlOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">QFNlcnZpY2UK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">YXJ0aQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">amFyewoJZW5hCn0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBzdHJpbmdMaXN0TWFwOwo=</text>
+        <text encoding="base64">ICAgIGphciB7CgkJZW5hCgl9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -367,9 +388,9 @@
         <entry>q!</entry>
         <entry>wqa</entry>
         <entry>vs</entry>
-        <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
