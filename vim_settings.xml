@@ -125,6 +125,11 @@
         <mark key="." line="58" column="50" />
         <mark key="^" line="58" column="50" />
       </file>
+      <file name="$USER_HOME$/dev/blog/spring-boot/hello-world/build.gradle" timestamp="1529153552185">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-service/src/main/java/net/ddns/dzy/e3mall/content/service/impl/ContentCategoryServiceImpl.java" timestamp="1529087651592">
         <mark key="[" line="82" column="63" />
         <mark key="]" line="83" column="94" />
@@ -292,11 +297,11 @@
       <jump line="12" column="80" filename="$USER_HOME$/dev/blog/spring-boot/hello-world/src/test/java/net/ddns/dzy/initstart/controller/HelloControllerTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>equalTo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWNvbXBpbGUoZ3JvdXA6ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QnLCBuYW1lOiAnc3ByaW5nLWJvb3Qtc3RhcnRlci10aHltZWxlYWYnLCB2ZXJzaW9uOiAnMi4wLjMuUkVMRUFTRScpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>equalTo</text>
+        <text encoding="base64">dmVyc2lvbjog</text>
       </register>
       <register name="/" type="4">
         <text>jackson</text>
@@ -305,37 +310,37 @@
         <text encoding="base64">ICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgPGdyb3VwSWQ+Y29tLmZhc3RlcnhtbC5qYWNrc29uLmNvcmU8L2dyb3VwSWQ+CiAgICAgICAgPGFydGlmYWN0SWQ+amFja3Nvbi1kYXRhYmluZDwvYXJ0aWZhY3RJZD4KICAgICAgICA8dmVyc2lvbj4ke2phY2tzb24udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CWNvbXBpbGUoZ3JvdXA6ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QnLCBuYW1lOiAnc3ByaW5nLWJvb3Qtc3RhcnRlci10aHltZWxlYWYnLCB2ZXJzaW9uOiAnMi4wLjMuUkVMRUFTRScpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CWV4dCBbJ3RoeW1lbGVhZi52ZXJzaW9uJ10gPSAnMy4wLjMuUkVMRUFTRScKCWV4dCBbJ3RoeW1lbGVhZi1sYXlvdXQtJ10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Qvc3ByaW5nLWJvb3Qtc3RhcnRlci10aHltZWxlYWYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5TZXJ2aWNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFNlcnZpY2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXJ0aQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">amFyewoJZW5hCn0K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5TZXJ2aWNlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGphciB7CgkJZW5hCgl9Cg==</text>
+        <text encoding="base64">QFNlcnZpY2UK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -389,8 +394,8 @@
         <entry>wqa</entry>
         <entry>vs</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
