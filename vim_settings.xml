@@ -26,7 +26,6 @@
         <mark key="." line="60" column="109" />
         <mark key="^" line="60" column="109" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/init/gradle/wrapper/gradle-wrapper.properties" timestamp="1529136100342" />
       <file name="$USER_HOME$/dev/e3parent/e3-portal-web/src/main/webapp/WEB-INF/jsp/index.jsp" timestamp="1529092511616">
         <mark key="'" line="36" column="32" />
         <mark key="[" line="53" column="13" />
@@ -138,11 +137,11 @@
       <file name="/t_blog [@localhost]" timestamp="1529036010765">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/init/build.gradle" timestamp="1529136405348">
+      <file name="$USER_HOME$/dev/blog/spring-boot/init/build.gradle" timestamp="1529138999003">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/static_html/app/index.html" timestamp="1529091863528">
         <mark key="[" line="47" column="15" />
@@ -270,7 +269,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YXJ0aQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>够</text>
@@ -282,37 +281,37 @@
         <text encoding="base64">ICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgPGdyb3VwSWQ+Y29tLmZhc3RlcnhtbC5qYWNrc29uLmNvcmU8L2dyb3VwSWQ+CiAgICAgICAgPGFydGlmYWN0SWQ+amFja3Nvbi1kYXRhYmluZDwvYXJ0aWZhY3RJZD4KICAgICAgICA8dmVyc2lvbj4ke2phY2tzb24udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXJ0aQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">amFyewoJZW5hCn0K</text>
+        <text encoding="base64">YXJ0aQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGphciB7CgkJZW5hCgl9Cg==</text>
+        <text encoding="base64">amFyewoJZW5hCn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPHZlcnNpb24+JHtqYWNrc29uLnZlcnNpb259PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgIGphciB7CgkJZW5hCgl9Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgPHZlcnNpb24+JHtqYWNrc29uLnZlcnNpb259PC92ZXJzaW9uPgo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>#
 #
 #
 #</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBzdHJpbmdMaXN0TWFwOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBzdHJpbmdMaXN0TWFwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
