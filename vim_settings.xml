@@ -122,7 +122,6 @@
         <mark key="." line="26" column="52" />
         <mark key="^" line="26" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-cart/e3-cart-service/src/main/resources/log4j.properties" timestamp="1529096781147" />
       <file name="/tb_content_category [e3mall@localhost]" timestamp="1529088094205">
         <mark key="[" line="0" column="0" />
       </file>
@@ -159,6 +158,7 @@
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/e3parent/pagehelper/pom.xml" timestamp="1529123922859" />
     </filemarks>
     <jumps>
       <jump line="19" column="3" filename="$USER_HOME$/dev/tmp/learn-java8/java8-concurrent/src/main/java/io/github/biezhi/java8/concurrent/CachedThreadPool.java" />
