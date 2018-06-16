@@ -67,9 +67,6 @@
       <file name="/a.sql" timestamp="1529088336350">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.0.7.RELEASE/49134fcdaea19522741b2d940c4e5e5bee06c613/spring-webmvc-5.0.7.RELEASE-sources.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurer.java" timestamp="1529172362070">
-        <mark key="'" line="228" column="24" />
-      </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/hello-world/src/main/resources/messages_en.properties" timestamp="1529172739713">
         <mark key="[" line="6" column="8" />
         <mark key="]" line="6" column="7" />
@@ -102,10 +99,10 @@
       <file name="/dummy.sql" timestamp="1529088094563">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529175603139">
+      <file name="/Dummy.txt" timestamp="1529191740746">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/hello-world/src/test/java/net/ddns/dzy/initstart/controller/HelloControllerTest.java" timestamp="1529141037566">
+      <file name="$USER_HOME$/dev/blog/spring-boot/hello-world/src/test/java/net/ddns/dzy/initstart/controller/HelloControllerTest.java" timestamp="1529191573580">
         <mark key="'" line="12" column="80" />
         <mark key="[" line="21" column="15" />
         <mark key="]" line="22" column="20" />
@@ -126,11 +123,11 @@
         <mark key="." line="58" column="50" />
         <mark key="^" line="58" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/hello-world/build.gradle" timestamp="1529171740797">
-        <mark key="[" line="31" column="11" />
-        <mark key="]" line="31" column="14" />
-        <mark key="." line="31" column="14" />
-        <mark key="^" line="31" column="14" />
+      <file name="$USER_HOME$/dev/blog/spring-boot/hello-world/build.gradle" timestamp="1529191710526">
+        <mark key="[" line="29" column="67" />
+        <mark key="]" line="29" column="67" />
+        <mark key="." line="29" column="67" />
+        <mark key="^" line="29" column="67" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/hello-world/src/main/resources/templates/fragments/header.html" timestamp="1529179599472">
         <mark key="[" line="9" column="0" />
@@ -159,6 +156,7 @@
       <file name="/t_blog [@localhost]" timestamp="1529036010765">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/blog/spring-boot/hello-world/src/main/java/net/ddns/dzy/initstart/controller/HelloController.java" timestamp="1529191588956" />
       <file name="$USER_HOME$/dev/blog/spring-boot/hello-world/src/main/resources/messages.properties" timestamp="1529174162850">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="4" column="11" />
@@ -171,7 +169,7 @@
         <mark key="." line="10" column="58" />
         <mark key="^" line="10" column="58" />
       </file>
-      <file name="/fragment.java" timestamp="1529175603129">
+      <file name="/fragment.java" timestamp="1529191349085">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/hello-world/src/main/resources/templates/users/view.html" timestamp="1529180555276">
@@ -284,11 +282,11 @@
       <jump line="6" column="0" filename="$USER_HOME$/dev/blog/spring-boot/hello-world/src/main/java/net/ddns/dzy/initstart/controller/UserController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5IdHRwU3RhdHVzOwo=</text>
+      <register name="&quot;" type="4">
+        <text>, version: '2.0.3.RELEASE')</text>
       </register>
       <register name="-" type="4">
-        <text>Success</text>
+        <text>, version: '2.0.3.RELEASE')</text>
       </register>
       <register name="/" type="4">
         <text>Reso</text>
@@ -296,35 +294,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICA8aDMgdGg6aWY9IiR7bXNnU3VjY2Vzc30iPua2iOaBrzwvaDM+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5IdHRwU3RhdHVzOwo=</text>
+      <register name="1" type="8">
+        <text>', name: '
+', name: '</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpCg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">Z3JvdXA6IApncm91cDog</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">amF2YXguCg==</text>
+        <text encoding="base64">Ci8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLm1hcmlhZGIuamRiYy9tYXJpYWRiLWphdmEtY2xpZW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QEVudGl0eQo=</text>
+        <text encoding="base64">Ly8gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Qvc3ByaW5nLWJvb3Qtc3RhcnRlci1kYXRhLWpwYQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRVc2VyQnlJZChtb2RlbCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmRhdGEnLCBuYW1lOiAnc3ByaW5nLWRhdGEtanBhJywgdmVyc2lvbjogJzIuMC4zLlJFTEVBU0UnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyUmVwb3NpdG9yeS4K</text>
+        <text encoding="base64">Ly8gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuc3ByaW5nZnJhbWV3b3JrLmRhdGEvc3ByaW5nLWRhdGEtanBhCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gInJlZGlyZWN0Oi91c2Vycy8iOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5IdHRwU3RhdHVzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
