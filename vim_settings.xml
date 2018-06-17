@@ -39,7 +39,6 @@
         <mark key="^" line="22" column="66" />
         <mark key="." line="22" column="66" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/jpa/src/main/java/net/ddns/dzy/initstart/app/exception/NoSuchUserException.java" timestamp="1529235236940" />
       <file name="$USER_HOME$/dev/blog/spring-boot/hello-world/src/main/resources/messages_en.properties" timestamp="1529172739713">
         <mark key="[" line="6" column="8" />
         <mark key="]" line="6" column="7" />
@@ -76,7 +75,6 @@
         <mark key="." line="22" column="51" />
         <mark key="^" line="22" column="51" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.2.Final/604e1101cb261c61200bfd655dfc1aa5aeca36d6/hibernate-jpa-2.1-api-1.0.2.Final-sources.jar!/javax/persistence/GenerationType.java" timestamp="1529207611823" />
       <file name="$USER_HOME$/dev/blog/spring-boot/hello-world/src/test/java/net/ddns/dzy/initstart/controller/HelloControllerTest.java" timestamp="1529191573580">
         <mark key="'" line="12" column="80" />
         <mark key="[" line="21" column="15" />
@@ -90,7 +88,6 @@
         <mark key="^" line="19" column="48" />
         <mark key="." line="19" column="18" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.8.RELEASE/5c19af63b5acb0eab39066684e813d5ecd9d03b7/spring-data-commons-2.0.8.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class" timestamp="1529194046449" />
       <file name="$USER_HOME$/dev/blog/spring-boot/jpa/src/main/resources/a.properties" timestamp="1529214196438">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -124,6 +121,18 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/blog/spring-boot/elasticsearch/settings.gradle" timestamp="1529240955016">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
+        <mark key="^" line="0" column="32" />
+      </file>
+      <file name="$USER_HOME$/dev/blog/spring-boot/elasticsearch/build.gradle" timestamp="1529241066356">
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="31" column="38" />
+        <mark key="." line="31" column="38" />
+        <mark key="^" line="31" column="38" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/jpa/src/main/java/net/ddns/dzy/initstart/app/AppConfig.java" timestamp="1529192968622">
         <mark key="'" line="18" column="0" />
@@ -231,7 +240,6 @@
       <file name="/tb_content [e3mall@localhost]" timestamp="1529086066829">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/hello-world/src/main/java/net/ddns/dzy/initstart/controller/HelloController.java" timestamp="1529191588956" />
       <file name="$USER_HOME$/dev/blog/spring-boot/hello-world/src/main/resources/messages.properties" timestamp="1529174162850">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="4" column="11" />
@@ -353,16 +361,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>org.springframework.boot:spring-boot-starter-data-elasticsearch</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>org.springframework.boot:spring-boot-starter-data-elasticsearch</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8aDQ+PGEgaHJlZj0iLi9mb3JtLmh0bWwiIHRoOmhyZWY9IkB7L3VzZXJzL21vZGlmeS99KyR7dXNlck1vZGVsLnVzZXIuaWR9Ij7kv67mlLk8L2E+PC9oND4K</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUoJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLWRhdGEtZWxhc3RpY3NlYXJjaCcpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
@@ -395,7 +403,7 @@
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -447,10 +455,10 @@
         <entry>q!</entry>
         <entry>wqa</entry>
         <entry>vs</entry>
-        <entry>q</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
