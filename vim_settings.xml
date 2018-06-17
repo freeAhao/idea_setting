@@ -68,6 +68,7 @@
         <mark key="." line="22" column="51" />
         <mark key="^" line="22" column="51" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.2.Final/604e1101cb261c61200bfd655dfc1aa5aeca36d6/hibernate-jpa-2.1-api-1.0.2.Final-sources.jar!/javax/persistence/GenerationType.java" timestamp="1529207594248" />
       <file name="$USER_HOME$/dev/blog/spring-boot/hello-world/src/test/java/net/ddns/dzy/initstart/controller/HelloControllerTest.java" timestamp="1529191573580">
         <mark key="'" line="12" column="80" />
         <mark key="[" line="21" column="15" />
@@ -185,6 +186,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1529192903085">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/blog/spring-boot/jpa/src/main/resources/application.properties" timestamp="1529207223097">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="6" column="29" />
+        <mark key="^" line="6" column="29" />
+        <mark key="." line="6" column="29" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/webapp/WEB-INF/jsp/index.jsp" timestamp="1529091351369">
         <mark key="'" line="8" column="49" />
