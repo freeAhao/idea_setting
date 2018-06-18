@@ -16,11 +16,11 @@
       <file name="/a.dummy" timestamp="1529140077308">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/index.html" timestamp="1529364376973">
-        <mark key="'" line="348" column="0" />
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/index.html" timestamp="1529365522193">
+        <mark key="'" line="350" column="51" />
         <mark key="[" line="159" column="52" />
         <mark key="]" line="159" column="52" />
-        <mark key="^" line="159" column="58" />
+        <mark key="^" line="159" column="55" />
         <mark key="." line="159" column="52" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/elasticsearch/src/main/resources/application.properties" timestamp="1529355980301">
@@ -34,6 +34,9 @@
         <mark key="]" line="38" column="43" />
         <mark key="." line="38" column="43" />
         <mark key="^" line="38" column="43" />
+      </file>
+      <file name="chrome-extension://bcjindcccaagfpapjjmafapmmgkkhgoa/js/content.js" timestamp="1529365253864">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/tb_item [e3mall@localhost]" timestamp="1529354802920">
         <mark key="[" line="0" column="0" />
@@ -69,7 +72,7 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="42" />
       </file>
-      <file name="/JavaScript Console" timestamp="1529364343425">
+      <file name="/JavaScript Console" timestamp="1529365513388">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1529352612791">
@@ -78,7 +81,7 @@
       <file name="/dummy.sql" timestamp="1529088094563">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529363903904">
+      <file name="/Dummy.txt" timestamp="1529365195683">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/tb_content [e3mall@localhost]" timestamp="1529086066829">
@@ -90,7 +93,7 @@
         <mark key="." line="28" column="26" />
         <mark key="^" line="28" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1529363903892">
+      <file name="/fragment.java" timestamp="1529365195677">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/error.html" timestamp="1529363107927">
@@ -99,8 +102,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="14" filename="$USER_HOME$/dev/blog/src/main/resources/templates/index.html" />
-      <jump line="25" column="0" filename="$USER_HOME$/dev/blog/src/main/resources/templates/index.html" />
       <jump line="9" column="6" filename="$USER_HOME$/dev/blog/src/main/resources/templates/admin/index.html" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/blog/src/main/java/net/ddns/dzy/blog/common/Result.java" />
       <jump line="26" column="46" filename="$USER_HOME$/dev/blog/src/main/java/net/ddns/dzy/blog/common/Result.java" />
@@ -199,13 +200,15 @@
       <jump line="171" column="14" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/index.html" />
       <jump line="19" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/index.html" />
       <jump line="348" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/index.html" />
+      <jump line="159" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/index.html" />
+      <jump line="350" column="51" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IGFhYQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IGFhYQ==</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
