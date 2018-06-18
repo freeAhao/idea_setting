@@ -44,13 +44,14 @@
         <mark key="^" line="22" column="66" />
         <mark key="." line="22" column="66" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/elasticsearch/src/main/resources/application.properties" timestamp="1529298153682">
+      <file name="$USER_HOME$/dev/blog/spring-boot/elasticsearch/src/main/resources/application.properties" timestamp="1529351906839">
         <mark key="[" line="19" column="40" />
-        <mark key="]" line="19" column="49" />
-        <mark key="." line="19" column="49" />
-        <mark key="^" line="19" column="49" />
+        <mark key="]" line="19" column="40" />
+        <mark key="." line="19" column="40" />
+        <mark key="^" line="19" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/elasticsearch/src/test/java/net/ddns/dzy/initstart/app/repository/es/EsBlogRepositoryTest.java" timestamp="1529298726302">
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.8.RELEASE/33fd91acb8935df722e05e0870a683ac1d3076a7/spring-data-commons-2.0.8.RELEASE-sources.jar!/org/springframework/data/domain/PageRequest.java" timestamp="1529351701038" />
+      <file name="$USER_HOME$/dev/blog/spring-boot/elasticsearch/src/test/java/net/ddns/dzy/initstart/app/repository/es/EsBlogRepositoryTest.java" timestamp="1529351258926">
         <mark key="[" line="41" column="55" />
         <mark key="]" line="41" column="56" />
         <mark key="." line="41" column="56" />
@@ -92,7 +93,6 @@
         <mark key="." line="22" column="51" />
         <mark key="^" line="22" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/elasticsearch/gradlew" timestamp="1529291083170" />
       <file name="$USER_HOME$/dev/blog/spring-boot/hello-world/src/test/java/net/ddns/dzy/initstart/controller/HelloControllerTest.java" timestamp="1529191573580">
         <mark key="'" line="12" column="80" />
         <mark key="[" line="21" column="15" />
@@ -100,7 +100,6 @@
         <mark key="." line="22" column="20" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.0.3.RELEASE/b0105bd8a48ceb60a10e0c6c80855a259f0f68b4/spring-boot-autoconfigure-2.0.3.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/elasticsearch/ElasticsearchDataAutoConfiguration.java" timestamp="1529295143390" />
       <file name="$USER_HOME$/dev/blog/spring-boot/jpa/src/main/java/net/ddns/dzy/initstart/app/domain/User.java" timestamp="1529193799723">
         <mark key="[" line="19" column="18" />
         <mark key="]" line="19" column="18" />
@@ -113,11 +112,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/elasticsearch/src/main/java/net/ddns/dzy/initstart/app/repository/es/EsBlogRepository.java" timestamp="1529296196709">
-        <mark key="[" line="15" column="150" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="0" />
+      <file name="$USER_HOME$/dev/blog/spring-boot/elasticsearch/src/main/java/net/ddns/dzy/initstart/app/repository/es/EsBlogRepository.java" timestamp="1529351344589">
+        <mark key="[" line="20" column="28" />
+        <mark key="]" line="20" column="28" />
+        <mark key="." line="20" column="28" />
+        <mark key="^" line="20" column="34" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/hello-world/build.gradle" timestamp="1529192590295">
         <mark key="[" line="29" column="0" />
@@ -139,7 +138,6 @@
       <file name="/tb_content_category [e3mall@localhost]" timestamp="1529088094205">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.0.3.RELEASE/b0105bd8a48ceb60a10e0c6c80855a259f0f68b4/spring-boot-autoconfigure-2.0.3.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration.java" timestamp="1529297447049" />
       <file name="/t_blog [@localhost]" timestamp="1529036010765">
         <mark key="[" line="0" column="0" />
       </file>
@@ -178,7 +176,6 @@
         <mark key="." line="21" column="34" />
         <mark key="^" line="21" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/elasticsearch/src/test/java/net/ddns/dzy/initstart/ApplicationTests.java" timestamp="1529296349916" />
       <file name="$USER_HOME$/dev/e3parent/e3-content/e3-content-interface/src/main/java/net/ddns/dzy/e3mall/content/service/ContentService.java" timestamp="1529089267772">
         <mark key="'" line="7" column="21" />
         <mark key="[" line="60" column="73" />
@@ -235,6 +232,7 @@
       <file name="/dummy.sql" timestamp="1529088094563">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.8.RELEASE/33fd91acb8935df722e05e0870a683ac1d3076a7/spring-data-commons-2.0.8.RELEASE-sources.jar!/org/springframework/data/domain/AbstractPageRequest.java" timestamp="1529351576974" />
       <file name="/Dummy.txt" timestamp="1529192903085">
         <mark key="[" line="0" column="0" />
       </file>
@@ -264,7 +262,7 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.0.3.RELEASE/b0105bd8a48ceb60a10e0c6c80855a259f0f68b4/spring-boot-autoconfigure-2.0.3.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/elasticsearch/ElasticsearchProperties.java" timestamp="1529295108725" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.0.3.RELEASE/b0105bd8a48ceb60a10e0c6c80855a259f0f68b4/spring-boot-autoconfigure-2.0.3.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/elasticsearch/ElasticsearchProperties.java" timestamp="1529351815566" />
       <file name="/tb_content [e3mall@localhost]" timestamp="1529086066829">
         <mark key="[" line="0" column="0" />
       </file>
@@ -274,8 +272,7 @@
         <mark key="^" line="66" column="57" />
         <mark key="." line="66" column="57" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.0.3.RELEASE/b0105bd8a48ceb60a10e0c6c80855a259f0f68b4/spring-boot-autoconfigure-2.0.3.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/elasticsearch/ElasticsearchAutoConfiguration.java" timestamp="1529295138430" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.8.RELEASE/33fd91acb8935df722e05e0870a683ac1d3076a7/spring-data-commons-2.0.8.RELEASE-sources.jar!/org/springframework/data/domain/Pageable.java" timestamp="1529296159595" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.8.RELEASE/33fd91acb8935df722e05e0870a683ac1d3076a7/spring-data-commons-2.0.8.RELEASE-sources.jar!/org/springframework/data/domain/Pageable.java" timestamp="1529351472525" />
       <file name="$USER_HOME$/dev/blog/spring-boot/hello-world/src/main/resources/messages.properties" timestamp="1529174162850">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="4" column="11" />
@@ -397,10 +394,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>手</text>
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text>手</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
