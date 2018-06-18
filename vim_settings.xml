@@ -70,11 +70,10 @@
         <mark key="^" line="22" column="66" />
         <mark key="." line="22" column="66" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/elasticsearch/src/main/resources/application.properties" timestamp="1529291486311">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="0" />
+      <file name="$USER_HOME$/dev/blog/spring-boot/elasticsearch/src/main/resources/application.properties" timestamp="1529294472560">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="/a.sql" timestamp="1529088336350">
         <mark key="[" line="0" column="0" />
@@ -367,8 +366,8 @@
       <jump line="12" column="0" filename="$USER_HOME$/dev/blog/spring-boot/jpa/src/main/java/net/ddns/dzy/initstart/Application.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UudXJsPWpkYmM6bWFyaWFkYjovL2xvY2FsaG9zdDozMzA2L2Jsb2c/dXNlU1NMPWZhbHNlJnNlcnZlclRpbWV6b25lPVVUQyZjaGFyYWN0ZXJFbmNvZGluZz11dGYtOApzcHJpbmcuZGF0YXNvdXJjZS51c2VybmFtZT1yb290CnNwcmluZy5kYXRhc291cmNlLnBhc3N3b3JkPXJvb3QKc3ByaW5nLmRhdGFzb3VyY2UuZHJpdmVyLWNsYXNzLW5hbWU9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZQo=</text>
       </register>
       <register name="-" type="4">
         <text>org.springframework.boot:spring-boot-starter-data-elasticsearch</text>
@@ -379,38 +378,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUoJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLWRhdGEtZWxhc3RpY3NlYXJjaCcpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UudXJsPWpkYmM6bWFyaWFkYjovL2xvY2FsaG9zdDozMzA2L2Jsb2c/dXNlU1NMPWZhbHNlJnNlcnZlclRpbWV6b25lPVVUQyZjaGFyYWN0ZXJFbmNvZGluZz11dGYtOApzcHJpbmcuZGF0YXNvdXJjZS51c2VybmFtZT1yb290CnNwcmluZy5kYXRhc291cmNlLnBhc3N3b3JkPXJvb3QKc3ByaW5nLmRhdGFzb3VyY2UuZHJpdmVyLWNsYXNzLW5hbWU9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UudXJsPWpkYmM6bWFyaWFkYjovL2xvY2FsaG9zdDozMzA2L2Jsb2c/dXNlU1NMPWZhbHNlJnNlcnZlclRpbWV6b25lPVVUQyZjaGFyYWN0ZXJFbmNvZGluZz11dGYtOApzcHJpbmcuZGF0YXNvdXJjZS51c2VybmFtZT1yb290CnNwcmluZy5kYXRhc291cmNlLnBhc3N3b3JkPXJvb3QKc3ByaW5nLmRhdGFzb3VyY2UuZHJpdmVyLWNsYXNzLW5hbWU9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8aDMgdGg6dGV4dD0iJHt0aXRsZX0iPuWIm+W7uueUqOaItzwvaDM+CiAgPGZvcm0gYWN0aW9uPSIjIiBtZXRob2Q9InBvc3QiIHRoOmFjdGlvbj0iQHsvdXNlcnMvfSIgdGg6b2JqZWN0PSIke3VzZXJNb2RlbC51c2VyfSI+CiAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJpZCIgdGg6dmFsdWU9Iip7aWR9Ij4KICAgIOeUqOaIt+WQjTogPGJyPgogICAgPGlucHV0IHR5cGU9InRleHQiIG5hbWU9Im5hbWUiIHRoOnZhbHVlPSIqe25hbWV9Ij4KICAgIDxicj4KICAgIOmCrueusTogPGJyPgogICAgPGlucHV0IHR5cGU9ImVtYWlsIiBuYW1lPSJlbWFpbCIgdGg6dmFsdWU9Iip7ZW1haWx9Ij4KICAgIDxicj4KICAgIDxpbnB1dCB0eXBlPSJzdWJtaXQiIHRoOnZhbHVlPSIke3VzZXJNb2RlbC51c2VyLmlkfT8n5L+u5pS5Jzon5re75YqgJyI+CiAgPC9mb3JtPgogIDxoMyB0aDp0ZXh0PSIke21zZ1N1Y2Nlc3N9Ij5tc2c8L2gzPgogIDxoMyB0aDppZj0iJHt2aWV3fSI+PGEgaHJlZj0iLi92aWV3Lmh0bWwiIHRoOmhyZWY9IiR7dmlld30iPueCueWHu+afpeeci1tbJHt2aWV3fV1dPC9hPjwvaDM+Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8c3R5bGU+CiAgICBzZWN0aW9uIHsKICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgICB3aWR0aDogNTB2dzsKICAgICAgbWFyZ2luOiAyZW0gYXV0byAyZW0gYXV0bzsKICAgIH0KICA8L3N0eWxlPgo=</text>
+        <text encoding="base64">ICA8aDMgdGg6dGV4dD0iJHt0aXRsZX0iPuWIm+W7uueUqOaItzwvaDM+CiAgPGZvcm0gYWN0aW9uPSIjIiBtZXRob2Q9InBvc3QiIHRoOmFjdGlvbj0iQHsvdXNlcnMvfSIgdGg6b2JqZWN0PSIke3VzZXJNb2RlbC51c2VyfSI+CiAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJpZCIgdGg6dmFsdWU9Iip7aWR9Ij4KICAgIOeUqOaIt+WQjTogPGJyPgogICAgPGlucHV0IHR5cGU9InRleHQiIG5hbWU9Im5hbWUiIHRoOnZhbHVlPSIqe25hbWV9Ij4KICAgIDxicj4KICAgIOmCrueusTogPGJyPgogICAgPGlucHV0IHR5cGU9ImVtYWlsIiBuYW1lPSJlbWFpbCIgdGg6dmFsdWU9Iip7ZW1haWx9Ij4KICAgIDxicj4KICAgIDxpbnB1dCB0eXBlPSJzdWJtaXQiIHRoOnZhbHVlPSIke3VzZXJNb2RlbC51c2VyLmlkfT8n5L+u5pS5Jzon5re75YqgJyI+CiAgPC9mb3JtPgogIDxoMyB0aDp0ZXh0PSIke21zZ1N1Y2Nlc3N9Ij5tc2c8L2gzPgogIDxoMyB0aDppZj0iJHt2aWV3fSI+PGEgaHJlZj0iLi92aWV3Lmh0bWwiIHRoOmhyZWY9IiR7dmlld30iPueCueWHu+afpeeci1tbJHt2aWV3fV1dPC9hPjwvaDM+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3ByaW5nLmF1dG9jb25maWd1cmUuZXhjbHVkZT0K</text>
+        <text encoding="base64">ICA8c3R5bGU+CiAgICBzZWN0aW9uIHsKICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgICB3aWR0aDogNTB2dzsKICAgICAgbWFyZ2luOiAyZW0gYXV0byAyZW0gYXV0bzsKICAgIH0KICA8L3N0eWxlPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbmdib290Cg==</text>
+        <text encoding="base64">c3ByaW5nLmF1dG9jb25maWd1cmUuZXhjbHVkZT0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGh5bWVsZWFmLgo=</text>
+        <text encoding="base64">cHJpbmdib290Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBtdmMK</text>
+        <text encoding="base64">dGh5bWVsZWFmLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW5kZXgK</text>
+        <text encoding="base64">IyBtdmMK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -463,9 +462,9 @@
         <entry>wqa</entry>
         <entry>vs</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
