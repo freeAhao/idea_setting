@@ -9,26 +9,30 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-item-web/src/main/resources/spring/applicationContext-item-activemq.xml" timestamp="1529354729187" />
+      <file name="$USER_HOME$/dev/blog/spring-boot/elasticsearch/src/main/java/net/ddns/dzy/initstart/app/controller/BlogController.java" timestamp="1529356638773">
+        <mark key="'" line="24" column="14" />
+        <mark key="[" line="24" column="5" />
+        <mark key="]" line="24" column="14" />
+        <mark key="^" line="24" column="14" />
+        <mark key="." line="24" column="14" />
+      </file>
       <file name="/a.dummy" timestamp="1529140077308">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/elasticsearch/src/main/resources/application.properties" timestamp="1529351906839">
+      <file name="$USER_HOME$/dev/blog/spring-boot/elasticsearch/src/main/resources/application.properties" timestamp="1529355980301">
         <mark key="[" line="19" column="40" />
-        <mark key="]" line="19" column="40" />
-        <mark key="." line="19" column="40" />
+        <mark key="]" line="19" column="48" />
+        <mark key="." line="19" column="48" />
         <mark key="^" line="19" column="48" />
-      </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-item-web/src/main/webapp/WEB-INF/jsp/item.jsp" timestamp="1529353141187">
-        <mark key="'" line="140" column="30" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.8.RELEASE/33fd91acb8935df722e05e0870a683ac1d3076a7/spring-data-commons-2.0.8.RELEASE-sources.jar!/org/springframework/data/domain/PageRequest.java" timestamp="1529351701038" />
       <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/java/net/ddns/dzy/e3mall/manager/controller/SearchItemController.java" timestamp="1529352660611" />
       <file name="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/resources/spring/applicationContext-search-activemq.xml" timestamp="1529354526113" />
-      <file name="$USER_HOME$/dev/blog/spring-boot/elasticsearch/src/test/java/net/ddns/dzy/initstart/app/repository/es/EsBlogRepositoryTest.java" timestamp="1529351258926">
-        <mark key="[" line="41" column="55" />
-        <mark key="]" line="41" column="56" />
-        <mark key="." line="41" column="56" />
-        <mark key="^" line="40" column="31" />
+      <file name="$USER_HOME$/dev/blog/spring-boot/elasticsearch/src/test/java/net/ddns/dzy/initstart/app/repository/es/EsBlogRepositoryTest.java" timestamp="1529356199052">
+        <mark key="[" line="38" column="43" />
+        <mark key="]" line="38" column="43" />
+        <mark key="." line="38" column="43" />
+        <mark key="^" line="38" column="43" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-item-web/src/main/webapp/WEB-INF/ftl/item.ftl" timestamp="1529355000993" />
       <file name="/tb_item [e3mall@localhost]" timestamp="1529354802920">
@@ -73,14 +77,14 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.8.RELEASE/33fd91acb8935df722e05e0870a683ac1d3076a7/spring-data-commons-2.0.8.RELEASE-sources.jar!/org/springframework/data/domain/AbstractPageRequest.java" timestamp="1529351576974" />
       <file name="$USER_HOME$/dev/e3parent/e3-search/e3-search-service/src/main/java/net/ddns/dzy/e3mall/search/message/ItemAddMessageListener.java" timestamp="1529354580541" />
-      <file name="/Dummy.txt" timestamp="1529192903085">
+      <file name="/Dummy.txt" timestamp="1529355740277">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/e3parent/e3-common/src/main/java/net/ddns/dzy/e3mall/common/pojo/SearchItem.java" timestamp="1529353175813" />
       <file name="$USER_HOME$/dev/e3parent/e3-item-web/src/main/java/net/ddns/dzy/e3mall/item/pojo/Item.java" timestamp="1529353162180" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.2.4.RELEASE/spring-tx-4.2.4.RELEASE.jar!/org/springframework/transaction/config/spring-tx-4.2.xsd" timestamp="1529352492378" />
       <file name="$USER_HOME$/dev/e3parent/e3-manager-web/src/main/java/net/ddns/dzy/e3mall/manager/controller/ItemController.java" timestamp="1529354416500" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.0.3.RELEASE/b0105bd8a48ceb60a10e0c6c80855a259f0f68b4/spring-boot-autoconfigure-2.0.3.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/elasticsearch/ElasticsearchProperties.java" timestamp="1529351815566" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.0.3.RELEASE/b0105bd8a48ceb60a10e0c6c80855a259f0f68b4/spring-boot-autoconfigure-2.0.3.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/elasticsearch/ElasticsearchProperties.java" timestamp="1529355732605" />
       <file name="/tb_content [e3mall@localhost]" timestamp="1529086066829">
         <mark key="[" line="0" column="0" />
       </file>
@@ -93,12 +97,11 @@
       <file name="$USER_HOME$/dev/e3parent/e3-cart-web/src/main/java/net/ddns/dzy/e3mall/cart/interceptor/LoginInterceptor.java" timestamp="1529355496476" />
       <file name="$USER_HOME$/dev/e3parent/e3-manager/e3-manager-interface/src/main/java/net/ddns/dzy/e3mall/manager/service/ItemService.java" timestamp="1529354042578" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.8.RELEASE/33fd91acb8935df722e05e0870a683ac1d3076a7/spring-data-commons-2.0.8.RELEASE-sources.jar!/org/springframework/data/domain/Pageable.java" timestamp="1529351472525" />
-      <file name="/fragment.java" timestamp="1529296273819">
+      <file name="/fragment.java" timestamp="1529355740362">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="4" filename="$USER_HOME$/dev/tmp/learn-java8/design-pattern/src/main/java/Strategy.java" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/tmp/learn-java8/design-pattern/src/main/java/Strategy.java" />
       <jump line="13" column="10" filename="$USER_HOME$/dev/tmp/learn-java8/design-pattern/src/main/java/Strategy.java" />
       <jump line="128" column="0" filename="$USER_HOME$/dev/tmp/learn-java8/design-pattern/src/main/java/Strategy.java" />
@@ -198,13 +201,14 @@
       <jump line="25" column="28" filename="$USER_HOME$/dev/blog/spring-boot/elasticsearch/src/main/java/net/ddns/dzy/initstart/app/domain/es/EsBlog.java" />
       <jump line="8" column="10" filename="$USER_HOME$/dev/e3parent/e3-item-web/src/main/webapp/WEB-INF/jsp/item.jsp" />
       <jump line="140" column="30" filename="$USER_HOME$/dev/e3parent/e3-item-web/src/main/webapp/WEB-INF/jsp/item.jsp" />
+      <jump line="24" column="14" filename="$USER_HOME$/dev/blog/spring-boot/elasticsearch/src/main/java/net/ddns/dzy/initstart/app/controller/BlogController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+      <register name="&quot;" type="4">
+        <text>RequestMapping</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>RequestMapping</text>
       </register>
       <register name="/" type="4">
         <text>images</text>
@@ -213,37 +217,37 @@
         <text encoding="base64">ICAgICAgICBlc0Jsb2dSZXBvc2l0b3J5LnNhdmUobmV3IEVzQmxvZyggIuihjOWuqyIsICLlr6XokL3lj6TooYzlrqvvvIzlrqvoirHlr4Llr57nuqLjgILnmb3lpLTlrqvlpbPlnKjvvIzpl7LlnZDor7TnjoTlrpfjgIIiKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBFc0Jsb2coU3RyaW5nIHRpdGxlLFN0cmluZyBjb250ZW50KXsKICAgICAgICB0aGlzLnRpdGxlPXRpdGxlOwogICAgICAgIHRoaXMuc3VtbWVyeT1jb250ZW50LnN1YnN0cmluZygwLGNvbnRlbnQubGVuZ3RoKCk+MTA/MTA6Y29udGVudC5sZW5ndGgoKSk7CiAgICAgICAgdGhpcy5jb250ZW50PWNvbnRlbnQ7CiAgICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuTWF0Y2hlckFzc2VydC4qOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBFc0Jsb2coU3RyaW5nIHRpdGxlLFN0cmluZyBjb250ZW50KXsKICAgICAgICB0aGlzLnRpdGxlPXRpdGxlOwogICAgICAgIHRoaXMuc3VtbWVyeT1jb250ZW50LnN1YnN0cmluZygwLGNvbnRlbnQubGVuZ3RoKCk+MTA/MTA6Y29udGVudC5sZW5ndGgoKSk7CiAgICAgICAgdGhpcy5jb250ZW50PWNvbnRlbnQ7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGJsb2dzLmdldFRvdGFsRWxlbWVudHMoKSkuaXNFcXVhbFRvKCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuTWF0Y2hlckFzc2VydC4qOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBibG9ncy4K</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGJsb2dzLmdldFRvdGFsRWxlbWVudHMoKSkuaXNFcXVhbFRvKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgUGFnZWFibGUoKTsK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -297,8 +301,8 @@
         <entry>W</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>vs</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
