@@ -15,12 +15,12 @@
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/UserController.java" timestamp="1529375617463">
         <mark key="'" line="22" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/list.html" timestamp="1529376345244">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="21" column="21" />
-        <mark key="]" line="21" column="20" />
-        <mark key="." line="21" column="20" />
-        <mark key="^" line="21" column="20" />
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/list.html" timestamp="1529379643426">
+        <mark key="'" line="101" column="23" />
+        <mark key="[" line="32" column="78" />
+        <mark key="]" line="32" column="78" />
+        <mark key="." line="32" column="78" />
+        <mark key="^" line="32" column="116" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/users/list.html" timestamp="1529375579558">
         <mark key="[" line="51" column="37" />
@@ -47,12 +47,12 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" timestamp="1529376653465">
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" timestamp="1529379004957">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="39" column="41" />
-        <mark key="]" line="39" column="47" />
-        <mark key="." line="39" column="47" />
-        <mark key="^" line="39" column="47" />
+        <mark key="[" line="29" column="45" />
+        <mark key="]" line="29" column="47" />
+        <mark key="." line="29" column="47" />
+        <mark key="^" line="29" column="47" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/users/form.html" timestamp="1529372415641">
         <mark key="'" line="24" column="0" />
@@ -61,17 +61,11 @@
         <mark key="." line="28" column="24" />
         <mark key="^" line="28" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/form.html" timestamp="1529371657836">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="35" column="40" />
-      </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/elasticsearch/src/main/resources/application.properties" timestamp="1529355980301">
-        <mark key="[" line="19" column="40" />
-        <mark key="]" line="19" column="48" />
-        <mark key="." line="19" column="48" />
-        <mark key="^" line="19" column="48" />
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/form.html" timestamp="1529377901654">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="26" />
+        <mark key="." line="21" column="26" />
+        <mark key="^" line="21" column="26" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/build.gradle" timestamp="1529376071867">
         <mark key="[" line="39" column="0" />
@@ -81,27 +75,21 @@
       <file name="/a.sql" timestamp="1529088336350">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/footer.html" timestamp="1529375701913">
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/footer.html" timestamp="1529378788221">
         <mark key="[" line="27" column="16" />
-        <mark key="]" line="27" column="15" />
-        <mark key="." line="27" column="15" />
-        <mark key="^" line="27" column="15" />
+        <mark key="]" line="27" column="26" />
+        <mark key="." line="27" column="26" />
+        <mark key="^" line="27" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/elasticsearch/src/test/java/net/ddns/dzy/initstart/app/repository/es/EsBlogRepositoryTest.java" timestamp="1529356199052">
-        <mark key="[" line="38" column="43" />
-        <mark key="]" line="38" column="43" />
-        <mark key="." line="38" column="43" />
-        <mark key="^" line="38" column="43" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1529375722880">
+      <file name="/JavaScript Console" timestamp="1529379177783">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/html.html" timestamp="1529376435217">
-        <mark key="'" line="10" column="23" />
-        <mark key="[" line="21" column="186" />
-        <mark key="]" line="21" column="186" />
-        <mark key="." line="21" column="186" />
-        <mark key="^" line="21" column="186" />
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/html.html" timestamp="1529379294677">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="24" column="24" />
+        <mark key="]" line="25" column="1" />
+        <mark key="." line="25" column="1" />
+        <mark key="^" line="25" column="1" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/users/view.html" timestamp="1529372399322">
         <mark key="'" line="0" column="0" />
@@ -125,7 +113,7 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1529352612881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529366564209">
+      <file name="/Dummy.txt" timestamp="1529380045471">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/index.html" timestamp="1529367480936">
@@ -138,34 +126,24 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/elasticsearch/src/main/java/net/ddns/dzy/initstart/app/repository/es/EsBlogRepository.java" timestamp="1529351344589">
-        <mark key="[" line="20" column="28" />
-        <mark key="]" line="20" column="28" />
-        <mark key="." line="20" column="28" />
-        <mark key="^" line="20" column="34" />
-      </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/nav.html" timestamp="1529372531192">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="89" column="6" />
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/nav.html" timestamp="1529379059698">
+        <mark key="[" line="23" column="17" />
+        <mark key="]" line="23" column="26" />
+        <mark key="." line="23" column="26" />
+        <mark key="^" line="23" column="26" />
       </file>
       <file name="/tb_content_category [e3mall@localhost]" timestamp="1529088094205">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/view.html" timestamp="1529371314299">
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/view.html" timestamp="1529377866101">
         <mark key="'" line="58" column="23" />
-        <mark key="[" line="35" column="26" />
-        <mark key="]" line="35" column="31" />
-        <mark key="." line="35" column="31" />
-        <mark key="^" line="35" column="31" />
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="26" />
+        <mark key="." line="21" column="26" />
+        <mark key="^" line="21" column="26" />
       </file>
       <file name="/tb_content [e3mall@localhost]" timestamp="1529086066829">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/e3parent/e3-item-web/src/main/java/net/ddns/dzy/e3mall/item/controller/ItemDetailController.java" timestamp="1529355350089">
-        <mark key="[" line="28" column="21" />
-        <mark key="]" line="28" column="26" />
-        <mark key="." line="28" column="26" />
-        <mark key="^" line="28" column="26" />
       </file>
       <file name="/t_blog [@localhost]" timestamp="1529036010765">
         <mark key="[" line="0" column="0" />
@@ -176,30 +154,25 @@
         <mark key="]" line="401" column="6" />
         <mark key="." line="176" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/fragments/nav.html" timestamp="1529375149758">
-        <mark key="'" line="98" column="46" />
-        <mark key="[" line="46" column="77" />
-        <mark key="]" line="46" column="77" />
-        <mark key="." line="46" column="77" />
-        <mark key="^" line="46" column="60" />
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/fragments/nav.html" timestamp="1529379225764">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="37" column="28" />
+        <mark key="]" line="37" column="28" />
+        <mark key="." line="37" column="28" />
+        <mark key="^" line="37" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/fragments/header.html" timestamp="1529374810439">
-        <mark key="'" line="191" column="29" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="38" column="18" />
-        <mark key="." line="40" column="62" />
-        <mark key="^" line="40" column="62" />
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/fragments/header.html" timestamp="1529378170612">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="8" />
+        <mark key="." line="9" column="8" />
+        <mark key="^" line="9" column="24" />
       </file>
-      <file name="/fragment.java" timestamp="1529366564192">
+      <file name="/fragment.java" timestamp="1529380045420">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="19" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/index.html" />
-      <jump line="97" column="18" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/index.html" />
-      <jump line="136" column="19" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/index.html" />
-      <jump line="138" column="18" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/index.html" />
-      <jump line="139" column="19" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/index.html" />
       <jump line="140" column="18" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/index.html" />
       <jump line="154" column="19" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/index.html" />
       <jump line="132" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/list.html" />
@@ -227,7 +200,6 @@
       <jump line="124" column="2" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/list.html" />
       <jump line="85" column="22" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/list.html" />
       <jump line="73" column="30" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/list.html" />
-      <jump line="87" column="41" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/list.html" />
       <jump line="17" column="31" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/list.html" />
       <jump line="24" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/form.html" />
       <jump line="26" column="34" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" />
@@ -244,7 +216,6 @@
       <jump line="23" column="25" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/nav.html" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/nav.html" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/html.html" />
-      <jump line="72" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/list.html" />
       <jump line="46" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/view.html" />
       <jump line="33" column="4" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/form.html" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/form.html" />
@@ -295,58 +266,65 @@
       <jump line="23" column="23" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/footer.html" />
       <jump line="21" column="149" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/html.html" />
       <jump line="10" column="23" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/html.html" />
+      <jump line="32" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/fragments/header.html" />
+      <jump line="26" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/html.html" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/html.html" />
+      <jump line="37" column="20" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/list.html" />
+      <jump line="72" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/list.html" />
+      <jump line="87" column="23" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/list.html" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/fragments/nav.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>secondary</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>secondary</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>href</text>
+        <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1zbSBidG4tb3V0bGluZS1zZWNvbmRhcnkiIGhyZWY9IiMiPuazqOWGjCA8aSBjbGFzcz0iZmEgZmEtcmVnaXN0ZXJlZCIgYXV0by1oaWRkZW49InRydWUiPjwvaT48L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iY2FyZCI+CiAgICAgICAgPGRpdiBjbGFzcz0iY2FyZC1oZWFkZXIiPgogICAgICAgICAgRmVhdHVyZWQKICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJjYXJkLWJvZHkiPgogICAgICAgICAgPGg1IGNsYXNzPSJjYXJkLXRpdGxlIj5TcGVjaWFsIHRpdGxlIHRyZWF0bWVudDwvaDU+CiAgICAgICAgICA8cCBjbGFzcz0iY2FyZC10ZXh0Ij5XaXRoIHN1cHBvcnRpbmcgdGV4dCBiZWxvdyBhcyBhIG5hdHVyYWwgbGVhZC1pbiB0byBhZGRpdGlvbmFsIGNvbnRlbnQuPC9wPgogICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSI+R28gc29tZXdoZXJlPC9hPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Imh0dCI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiBocmVmPSIuL2Zvcm0uaHRtbCIgdGg6aHJlZj0iQHsvdXNlcnMvZm9ybX0iPuWIm+W7uueUqOaItzwvYT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJvcmcud2ViamFycyIgJSAiZm9udC1hd2Vzb21lIiAlICI1LjAuMTMiCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIOazqOWGjAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8Y29weT48L2NvcHk+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1zbSBidG4tb3V0bGluZS1wcmltYXJ5IiBocmVmPSIjIj7nmbvlvZUgPGkgY2xhc3M9ImZhIGZhLXNpZ24taW4tYWx0Ij48L2k+PC9hPgogICAgICAgIDxhIGNsYXNzPSJidG4gYnRuLXNtIGJ0bi1vdXRsaW5lLXN1Y2Nlc3MiIGhyZWY9IiMiPuazqOWGjCA8aSBjbGFzcz0iZmEgZmEtcmVnaXN0ZXJlZCIgYXV0by1oaWRkZW49InRydWUiPjwvaT48L2E+CiAgICAgICAgPGEgY2xhc3M9ImJ0biBidG4tc20gYnRuLW91dGxpbmUtZGFuZ2VyIiBocmVmPSIjIj7ms6jplIAgPGkgY2xhc3M9ImZhIGZhLXNpZ24tb3V0LWFsdCIgYXV0by1oaWRkZW49InRydWUiPjwvaT48L2E+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8bGkgY2xhc3M9Im5hdi1pdGVtIj4KICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgaHJlZj0iIyI+566h55CGIDxzcGFuIGNsYXNzPSJzci1vbmx5Ij4oY3VycmVudCk8L3NwYW4+PC9hPgogICAgICAgIDwvbGk+Cg==</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8bGkgY2xhc3M9Im5hdi1pdGVtIj4KICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgaHJlZj0iIyI+5oiR55qEIDxzcGFuIGNsYXNzPSJzci1vbmx5Ij4oY3VycmVudCk8L3NwYW4+PC9hPgogICAgICAgIDwvbGk+Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iY2FyZCI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsaSBjbGFzcz0ibmF2LWl0ZW0iPgogICAgICAgICAgICA8YSBjbGFzcz0ibmF2LWxpbmsiIGhyZWY9IiMiPkxpbms8L2E+CiAgICAgICAgICA8L2xpPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDJlbTsK</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iY2FyZC1oZWFkZXIiPgogICAgICAgIEZlYXR1cmVkCiAgICAgIDwvZGl2PgogICAgICA8ZGl2IGNsYXNzPSJjYXJkLWJvZHkiPgogICAgICAgIDxoNSBjbGFzcz0iY2FyZC10aXRsZSI+U3BlY2lhbCB0aXRsZSB0cmVhdG1lbnQ8L2g1PgogICAgICAgIDxwIGNsYXNzPSJjYXJkLXRleHQiPldpdGggc3VwcG9ydGluZyB0ZXh0IGJlbG93IGFzIGEgbmF0dXJhbCBsZWFkLWluIHRvIGFkZGl0aW9uYWwgY29udGVudC48L3A+CiAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSI+R28gc29tZXdoZXJlPC9hPgogICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>href</last-search>
+      <last-search>nav</last-search>
       <last-offset />
-      <last-pattern>href</last-pattern>
+      <last-pattern>nav</last-pattern>
       <last-replace>image</last-replace>
       <last-substitute>images</last-substitute>
       <last-dir>1</last-dir>
@@ -354,26 +332,26 @@
     </search>
     <history>
       <history-search>
-        <entry>th</entry>
-        <entry>th::fragment</entry>
         <entry>blog-post</entry>
         <entry>html</entry>
         <entry>style</entry>
         <entry>sec</entry>
-        <entry>section</entry>
         <entry>main</entry>
         <entry>static</entry>
         <entry>header</entry>
-        <entry>head</entry>
         <entry>submit</entry>
         <entry>text</entry>
         <entry>over</entry>
         <entry>page</entry>
-        <entry>nav</entry>
         <entry>blog</entry>
         <entry>table</entry>
         <entry>delete</entry>
         <entry>href</entry>
+        <entry>head</entry>
+        <entry>form</entry>
+        <entry>section</entry>
+        <entry>footer</entry>
+        <entry>nav</entry>
       </history-search>
       <history-cmd>
         <entry>&quot;w</entry>
@@ -392,9 +370,9 @@
         <entry>vs</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wqa</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>wa</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
