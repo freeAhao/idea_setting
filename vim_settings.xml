@@ -48,12 +48,10 @@
         <mark key="." line="27" column="31" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.0.3.RELEASE/b0105bd8a48ceb60a10e0c6c80855a259f0f68b4/spring-boot-autoconfigure-2.0.3.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java" timestamp="1529384033483" />
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" timestamp="1529393756541">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="47" column="35" />
-        <mark key="]" line="47" column="38" />
-        <mark key="^" line="47" column="38" />
-        <mark key="." line="47" column="38" />
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" timestamp="1529399571423">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/login.html" timestamp="1529393513877">
         <mark key="'" line="9" column="21" />
@@ -126,11 +124,11 @@
         <mark key="." line="28" column="24" />
         <mark key="^" line="28" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/MainController.java" timestamp="1529396514316">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="22" column="20" />
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/MainController.java" timestamp="1529397892941">
+        <mark key="[" line="15" column="40" />
+        <mark key="]" line="15" column="40" />
+        <mark key="^" line="15" column="51" />
+        <mark key="." line="15" column="40" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/form.html" timestamp="1529377901654">
         <mark key="[" line="21" column="21" />
@@ -199,12 +197,17 @@
       <file name="/Dummy.txt" timestamp="1529380045471">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/nav.html" timestamp="1529392600396">
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/index.html" timestamp="1529369334643">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/nav.html" timestamp="1529397981948">
         <mark key="'" line="27" column="25" />
-        <mark key="[" line="37" column="50" />
-        <mark key="]" line="37" column="51" />
-        <mark key="." line="37" column="51" />
-        <mark key="^" line="37" column="51" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="76" column="7" />
+        <mark key="." line="34" column="60" />
+        <mark key="^" line="34" column="60" />
       </file>
       <file name="/tb_content [e3mall@localhost]" timestamp="1529086066829">
         <mark key="[" line="0" column="0" />
@@ -248,11 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="24" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/footer.html" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/footer.html" />
-      <jump line="24" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/footer.html" />
-      <jump line="29" column="23" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/footer.html" />
-      <jump line="51" column="17" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/form.html" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/form.html" />
       <jump line="25" column="18" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/form.html" />
       <jump line="53" column="29" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/form.html" />
@@ -348,58 +346,63 @@
       <jump line="16" column="18" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/nav.html" />
       <jump line="27" column="25" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/nav.html" />
       <jump line="16" column="9" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/AuthController.java" />
+      <jump line="20" column="20" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/MainController.java" />
+      <jump line="46" column="50" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" />
+      <jump line="47" column="69" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" />
+      <jump line="50" column="110" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" />
+      <jump line="67" column="16" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gInJlZGlyZWN0OiAvaW5kZXg/b3JkZXI9IitvcmRlcisiIjsK</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXY+PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>tag</text>
+        <text>li</text>
       </register>
       <register name="/" type="4">
-        <text>nav</text>
+        <text>span</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocHJpbmNpcGFsIT1udWxsKXsKICAgICAgICAgICAgbW9kZWwuYWRkQXR0cmlidXRlKCJlcnJvck1zZyIsIuaCqOW3sueZu+W9lSIpOwogICAgICAgICAgICByZXR1cm4gImFjY2Vzcy1kZW5pZWQiOwogICAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text>d-inline-block</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gInJlZGlyZWN0OiAvaW5kZXg/b3JkZXI9IitvcmRlcisiIjsK</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXY+PC9kaXY+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRhZyA9ICIgKyB0YWcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvdWw+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxuYXYgY2xhc3M9Im5hdi1pdGVtIGRyb3Bkb3duIj4KICAgICAgICAgICAgPGEgY2xhc3M9Im5hdi1saW5rIGRyb3Bkb3duLXRvZ2dsZSIgaHJlZj0iIyIgaWQ9Im5hdmJhckRyb3Bkb3duIiByb2xlPSJidXR0b24iIGRhdGEtdG9nZ2xlPSJkcm9wZG93biIKICAgICAgICAgICAgICAgYXJpYS1oYXNwb3B1cD0idHJ1ZSIgYXJpYS1leHBhbmRlZD0iZmFsc2UiPgogICAgICAgICAgICAgIERyb3Bkb3duCiAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iZHJvcGRvd24tbWVudSIgYXJpYS1sYWJlbGxlZGJ5PSJuYXZiYXJEcm9wZG93biI+CiAgICAgICAgICAgICAgPGEgY2xhc3M9ImRyb3Bkb3duLWl0ZW0iIGhyZWY9IiMiPkFjdGlvbjwvYT4KICAgICAgICAgICAgICA8YSBjbGFzcz0iZHJvcGRvd24taXRlbSIgaHJlZj0iIyI+QW5vdGhlciBhY3Rpb248L2E+CiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZHJvcGRvd24tZGl2aWRlciI+PC9kaXY+CiAgICAgICAgICAgICAgPGEgY2xhc3M9ImRyb3Bkb3duLWl0ZW0iIGhyZWY9IiMiPlNvbWV0aGluZyBlbHNlIGhlcmU8L2E+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9uYXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSBkcm9wZG93biI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBQYWdlPEVzQmxvZz4gZXNCbG9ncyA9IGVzQmxvZ1JlcG9zaXRvcnkKICAgICAgICAgICAgICAgIC5maW5kRGlzdGluY3RCeVRpdGxlQ29udGFpbmluZ09yU3VtbWVyeUNvbnRhaW5pbmdPckNvbnRlbnRDb250YWluaW5nKAogICAgICAgICAgICAgICAgICAgICAgICB0aXRsZSwKICAgICAgICAgICAgICAgICAgICAgICAgc3VtbWVyeSwKICAgICAgICAgICAgICAgICAgICAgICAgY29udGVudCwKICAgICAgICAgICAgICAgICAgICAgICAgUGFnZVJlcXVlc3Qub2YocGFnZUluZGV4LCBwYWdlU2l6ZSkpOwogICAgICAgIHJldHVybiBlc0Jsb2dzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9saT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAicGFnZVNpemUiLCBkZWZhdWx0VmFsdWUgPSAiMTAiKSBpbnQgcGFnZVNpemUpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9saT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAiY29udGVudCIpIFN0cmluZyBjb250ZW50LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJwYWdlSW5kZXgiLCBkZWZhdWx0VmFsdWUgPSAiMCIpIGludCBwYWdlSW5kZXgsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAic3VtbWVyeSIpIFN0cmluZyBzdW1tZXJ5LAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvdWw+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocHJpbmNpcGFsLmdldE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9saT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>nav</last-search>
+      <last-search>span</last-search>
       <last-offset />
-      <last-pattern>nav</last-pattern>
+      <last-pattern>span</last-pattern>
       <last-replace>image</last-replace>
       <last-substitute>images</last-substitute>
       <last-dir>1</last-dir>
@@ -407,7 +410,6 @@
     </search>
     <history>
       <history-search>
-        <entry>over</entry>
         <entry>page</entry>
         <entry>blog</entry>
         <entry>table</entry>
@@ -427,6 +429,7 @@
         <entry>index</entry>
         <entry>#</entry>
         <entry>nav</entry>
+        <entry>span</entry>
       </history-search>
       <history-cmd>
         <entry>&quot;w</entry>
