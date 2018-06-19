@@ -3,17 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/static/css/blog.css" timestamp="1529374619475">
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/static/css/blog.css" timestamp="1529387340046">
         <mark key="'" line="145" column="1" />
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="1" column="18" />
-        <mark key="." line="1" column="18" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/File Header.txt.ft" timestamp="1529352614595">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/UserController.java" timestamp="1529375617463">
-        <mark key="'" line="22" column="20" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/list.html" timestamp="1529379643426">
         <mark key="'" line="101" column="23" />
@@ -28,8 +25,12 @@
         <mark key="^" line="51" column="51" />
         <mark key="." line="51" column="51" />
       </file>
-      <file name="/tb_item_cat [e3mall@localhost]" timestamp="1529078520519">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/register.html" timestamp="1529391181896">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="47" column="13" />
+        <mark key="]" line="47" column="32" />
+        <mark key="." line="47" column="32" />
+        <mark key="^" line="47" column="32" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/fragments/footer.html" timestamp="1529375874685">
         <mark key="[" line="25" column="31" />
@@ -40,20 +41,84 @@
       <file name="/a.dummy" timestamp="1529140077308">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/index.html" timestamp="1529368335718">
-        <mark key="'" line="104" column="22" />
-        <mark key="[" line="17" column="15" />
-        <mark key="]" line="17" column="18" />
-        <mark key="." line="17" column="18" />
-        <mark key="^" line="17" column="18" />
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/index.html" timestamp="1529388109962">
+        <mark key="'" line="92" column="22" />
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="27" column="31" />
+        <mark key="." line="27" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" timestamp="1529379004957">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="29" column="45" />
-        <mark key="]" line="29" column="47" />
-        <mark key="." line="29" column="47" />
-        <mark key="^" line="29" column="47" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.0.3.RELEASE/b0105bd8a48ceb60a10e0c6c80855a259f0f68b4/spring-boot-autoconfigure-2.0.3.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java" timestamp="1529384033483" />
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" timestamp="1529393756541">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="47" column="35" />
+        <mark key="]" line="47" column="38" />
+        <mark key="^" line="47" column="38" />
+        <mark key="." line="47" column="38" />
       </file>
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/login.html" timestamp="1529393513877">
+        <mark key="'" line="9" column="21" />
+        <mark key="[" line="47" column="21" />
+        <mark key="]" line="48" column="15" />
+        <mark key="." line="48" column="15" />
+        <mark key="^" line="48" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/config/Security.java" timestamp="1529383380636">
+        <mark key="[" line="6" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/blog/spring-boot/elasticsearch/src/main/resources/application.properties" timestamp="1529355980301">
+        <mark key="[" line="19" column="40" />
+        <mark key="]" line="19" column="48" />
+        <mark key="." line="19" column="48" />
+        <mark key="^" line="19" column="48" />
+      </file>
+      <file name="$USER_HOME$/dev/blog/spring-boot/elasticsearch/src/test/java/net/ddns/dzy/initstart/app/repository/es/EsBlogRepositoryTest.java" timestamp="1529356199052">
+        <mark key="[" line="38" column="43" />
+        <mark key="]" line="38" column="43" />
+        <mark key="." line="38" column="43" />
+        <mark key="^" line="38" column="43" />
+      </file>
+      <file name="chrome-extension://bcjindcccaagfpapjjmafapmmgkkhgoa/js/content.js" timestamp="1529365253864">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/tb_item [e3mall@localhost]" timestamp="1529354802920">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1529352612881">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/blog/spring-boot/elasticsearch/src/main/java/net/ddns/dzy/initstart/app/repository/es/EsBlogRepository.java" timestamp="1529351344589">
+        <mark key="[" line="20" column="28" />
+        <mark key="]" line="20" column="28" />
+        <mark key="." line="20" column="28" />
+        <mark key="^" line="20" column="34" />
+      </file>
+      <file name="/tb_content_category [e3mall@localhost]" timestamp="1529088094205">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.6.RELEASE/770ec2d4130de96a496b28aa4df34dc63b90dde6/spring-security-core-5.0.6.RELEASE-sources.jar!/org/springframework/security/access/expression/SecurityExpressionRoot.java" timestamp="1529388373364" />
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/view.html" timestamp="1529377866101">
+        <mark key="'" line="58" column="23" />
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="26" />
+        <mark key="." line="21" column="26" />
+        <mark key="^" line="21" column="26" />
+      </file>
+      <file name="/t_blog [@localhost]" timestamp="1529036010765">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.0.6.RELEASE/333233b50e69128b8ba56c39e1e6698276954bf0/spring-security-config-5.0.6.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/EnableWebSecurity.java" timestamp="1529395251015" />
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/config/SecurityConfig.java" timestamp="1529395596528">
+        <mark key="'" line="19" column="17" />
+        <mark key="[" line="30" column="29" />
+        <mark key="]" line="30" column="29" />
+        <mark key="." line="30" column="29" />
+        <mark key="^" line="24" column="48" />
+      </file>
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/Application.java" timestamp="1529384026850" />
+      <file name="/tb_item_cat [e3mall@localhost]" timestamp="1529078520519">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.0.6.RELEASE/333233b50e69128b8ba56c39e1e6698276954bf0/spring-security-config-5.0.6.RELEASE-sources.jar!/org/springframework/security/config/annotation/method/configuration/GlobalMethodSecurityConfiguration.java" timestamp="1529394669660" />
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/users/form.html" timestamp="1529372415641">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="28" column="23" />
@@ -61,16 +126,36 @@
         <mark key="." line="28" column="24" />
         <mark key="^" line="28" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/MainController.java" timestamp="1529396514316">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="22" column="20" />
+      </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/form.html" timestamp="1529377901654">
         <mark key="[" line="21" column="21" />
         <mark key="]" line="21" column="26" />
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/build.gradle" timestamp="1529376071867">
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/build.gradle" timestamp="1529383150419">
+        <mark key="[" line="35" column="41" />
+        <mark key="]" line="36" column="20" />
+        <mark key="." line="36" column="20" />
+        <mark key="^" line="36" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/AuthController.java" timestamp="1529396478420">
+        <mark key="'" line="18" column="9" />
         <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
+        <mark key="]" line="42" column="9" />
         <mark key="." line="39" column="0" />
+        <mark key="^" line="38" column="58" />
+      </file>
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/BlogController.java" timestamp="1529396823561">
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="31" column="17" />
+        <mark key="." line="31" column="17" />
+        <mark key="^" line="31" column="17" />
       </file>
       <file name="/a.sql" timestamp="1529088336350">
         <mark key="[" line="0" column="0" />
@@ -81,7 +166,7 @@
         <mark key="." line="27" column="26" />
         <mark key="^" line="27" column="26" />
       </file>
-      <file name="/JavaScript Console" timestamp="1529379177783">
+      <file name="/JavaScript Console" timestamp="1529386811312">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/html.html" timestamp="1529379294677">
@@ -98,61 +183,44 @@
         <mark key="." line="28" column="24" />
         <mark key="^" line="28" column="24" />
       </file>
-      <file name="chrome-extension://bcjindcccaagfpapjjmafapmmgkkhgoa/js/content.js" timestamp="1529365253864">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.0.6.RELEASE/333233b50e69128b8ba56c39e1e6698276954bf0/spring-security-config-5.0.6.RELEASE-sources.jar!/org/springframework/security/config/annotation/method/configuration/EnableReactiveMethodSecurity.java" timestamp="1529394327650" />
       <file name="/HTML File.txt.ft" timestamp="1529352612791">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/tb_item [e3mall@localhost]" timestamp="1529354802920">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1529088094563">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/ActionScript File Header.txt.ft" timestamp="1529352612881">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/access-denied.html" timestamp="1529396393711">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="20" />
+        <mark key="." line="29" column="20" />
+        <mark key="^" line="29" column="20" />
       </file>
       <file name="/Dummy.txt" timestamp="1529380045471">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/index.html" timestamp="1529367480936">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/index.html" timestamp="1529369334643">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/nav.html" timestamp="1529379059698">
-        <mark key="[" line="23" column="17" />
-        <mark key="]" line="23" column="26" />
-        <mark key="." line="23" column="26" />
-        <mark key="^" line="23" column="26" />
-      </file>
-      <file name="/tb_content_category [e3mall@localhost]" timestamp="1529088094205">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/view.html" timestamp="1529377866101">
-        <mark key="'" line="58" column="23" />
-        <mark key="[" line="21" column="21" />
-        <mark key="]" line="21" column="26" />
-        <mark key="." line="21" column="26" />
-        <mark key="^" line="21" column="26" />
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/nav.html" timestamp="1529392600396">
+        <mark key="'" line="27" column="25" />
+        <mark key="[" line="37" column="50" />
+        <mark key="]" line="37" column="51" />
+        <mark key="." line="37" column="51" />
+        <mark key="^" line="37" column="51" />
       </file>
       <file name="/tb_content [e3mall@localhost]" timestamp="1529086066829">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/t_blog [@localhost]" timestamp="1529036010765">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/e3parent/e3-item-web/src/main/java/net/ddns/dzy/e3mall/item/controller/ItemDetailController.java" timestamp="1529355350089">
+        <mark key="[" line="28" column="21" />
+        <mark key="]" line="28" column="26" />
+        <mark key="." line="28" column="26" />
+        <mark key="^" line="28" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" timestamp="1529368153338">
-        <mark key="'" line="0" column="13" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="401" column="6" />
-        <mark key="." line="176" column="40" />
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" timestamp="1529387035484">
+        <mark key="'" line="14" column="33" />
+        <mark key="[" line="27" column="28" />
+        <mark key="]" line="27" column="29" />
+        <mark key="." line="27" column="29" />
+        <mark key="^" line="31" column="48" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/fragments/nav.html" timestamp="1529379225764">
         <mark key="'" line="8" column="0" />
@@ -168,43 +236,18 @@
         <mark key="." line="9" column="8" />
         <mark key="^" line="9" column="24" />
       </file>
-      <file name="/fragment.java" timestamp="1529380045420">
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/config/AppConfig.java" timestamp="1529396195596" />
+      <file name="/fragment.java" timestamp="1529396516393">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/error.html" timestamp="1529392359461">
+        <mark key="[" line="28" column="47" />
+        <mark key="]" line="28" column="47" />
+        <mark key="." line="28" column="47" />
+        <mark key="^" line="28" column="47" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="18" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/index.html" />
-      <jump line="154" column="19" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/index.html" />
-      <jump line="132" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/list.html" />
-      <jump line="102" column="15" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/view.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/list.html" />
-      <jump line="7" column="13" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/form.html" />
-      <jump line="130" column="7" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/form.html" />
-      <jump line="30" column="2" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/form.html" />
-      <jump line="17" column="1" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/form.html" />
-      <jump line="115" column="6" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/form.html" />
-      <jump line="17" column="8" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" />
-      <jump line="18" column="7" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" />
-      <jump line="24" column="16" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/nav.html" />
-      <jump line="173" column="21" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/view.html" />
-      <jump line="70" column="7" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/view.html" />
-      <jump line="164" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/view.html" />
-      <jump line="43" column="18" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/view.html" />
-      <jump line="78" column="10" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/form.html" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/form.html" />
-      <jump line="65" column="22" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/form.html" />
-      <jump line="40" column="2" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/list.html" />
-      <jump line="46" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/list.html" />
-      <jump line="81" column="8" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/list.html" />
-      <jump line="30" column="6" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/list.html" />
-      <jump line="124" column="2" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/list.html" />
-      <jump line="85" column="22" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/list.html" />
-      <jump line="73" column="30" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/list.html" />
-      <jump line="17" column="31" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/list.html" />
-      <jump line="24" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/form.html" />
-      <jump line="26" column="34" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" />
-      <jump line="68" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" />
       <jump line="10" column="24" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/footer.html" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/footer.html" />
       <jump line="24" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/footer.html" />
@@ -273,49 +316,81 @@
       <jump line="72" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/list.html" />
       <jump line="87" column="23" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/list.html" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/fragments/nav.html" />
+      <jump line="14" column="17" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/config/SecurityConfig.java" />
+      <jump line="29" column="14" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" />
+      <jump line="27" column="37" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" />
+      <jump line="42" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" />
+      <jump line="54" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" />
+      <jump line="61" column="18" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" />
+      <jump line="67" column="26" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" />
+      <jump line="72" column="6" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" />
+      <jump line="0" column="7" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" />
+      <jump line="1" column="29" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" />
+      <jump line="4" column="18" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" />
+      <jump line="5" column="20" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" />
+      <jump line="11" column="15" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" />
+      <jump line="12" column="66" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" />
+      <jump line="14" column="33" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" />
+      <jump line="13" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" />
+      <jump line="18" column="6" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" />
+      <jump line="9" column="21" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/login.html" />
+      <jump line="23" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" />
+      <jump line="25" column="13" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/MainController.java" />
+      <jump line="8" column="2" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/AuthController.java" />
+      <jump line="32" column="11" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/register.html" />
+      <jump line="38" column="65" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/register.html" />
+      <jump line="35" column="69" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/register.html" />
+      <jump line="70" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/register.html" />
+      <jump line="53" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/AuthController.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/AuthController.java" />
+      <jump line="25" column="16" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/nav.html" />
+      <jump line="16" column="18" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/nav.html" />
+      <jump line="27" column="25" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/nav.html" />
+      <jump line="16" column="9" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/AuthController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gInJlZGlyZWN0OiAvaW5kZXg/b3JkZXI9IitvcmRlcisiIjsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>tag</text>
       </register>
       <register name="/" type="4">
         <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iY2FyZCI+CiAgICAgICAgPGRpdiBjbGFzcz0iY2FyZC1oZWFkZXIiPgogICAgICAgICAgRmVhdHVyZWQKICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJjYXJkLWJvZHkiPgogICAgICAgICAgPGg1IGNsYXNzPSJjYXJkLXRpdGxlIj5TcGVjaWFsIHRpdGxlIHRyZWF0bWVudDwvaDU+CiAgICAgICAgICA8cCBjbGFzcz0iY2FyZC10ZXh0Ij5XaXRoIHN1cHBvcnRpbmcgdGV4dCBiZWxvdyBhcyBhIG5hdHVyYWwgbGVhZC1pbiB0byBhZGRpdGlvbmFsIGNvbnRlbnQuPC9wPgogICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSI+R28gc29tZXdoZXJlPC9hPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICBpZiAocHJpbmNpcGFsIT1udWxsKXsKICAgICAgICAgICAgbW9kZWwuYWRkQXR0cmlidXRlKCJlcnJvck1zZyIsIuaCqOW3sueZu+W9lSIpOwogICAgICAgICAgICByZXR1cm4gImFjY2Vzcy1kZW5pZWQiOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gInJlZGlyZWN0OiAvaW5kZXg/b3JkZXI9IitvcmRlcisiIjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiBocmVmPSIuL2Zvcm0uaHRtbCIgdGg6aHJlZj0iQHsvdXNlcnMvZm9ybX0iPuWIm+W7uueUqOaItzwvYT4K</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRhZyA9ICIgKyB0YWcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBzCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1zbSBidG4tb3V0bGluZS1wcmltYXJ5IiBocmVmPSIjIj7nmbvlvZUgPGkgY2xhc3M9ImZhIGZhLXNpZ24taW4tYWx0Ij48L2k+PC9hPgogICAgICAgIDxhIGNsYXNzPSJidG4gYnRuLXNtIGJ0bi1vdXRsaW5lLXN1Y2Nlc3MiIGhyZWY9IiMiPuazqOWGjCA8aSBjbGFzcz0iZmEgZmEtcmVnaXN0ZXJlZCIgYXV0by1oaWRkZW49InRydWUiPjwvaT48L2E+CiAgICAgICAgPGEgY2xhc3M9ImJ0biBidG4tc20gYnRuLW91dGxpbmUtZGFuZ2VyIiBocmVmPSIjIj7ms6jplIAgPGkgY2xhc3M9ImZhIGZhLXNpZ24tb3V0LWFsdCIgYXV0by1oaWRkZW49InRydWUiPjwvaT48L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgICBQYWdlPEVzQmxvZz4gZXNCbG9ncyA9IGVzQmxvZ1JlcG9zaXRvcnkKICAgICAgICAgICAgICAgIC5maW5kRGlzdGluY3RCeVRpdGxlQ29udGFpbmluZ09yU3VtbWVyeUNvbnRhaW5pbmdPckNvbnRlbnRDb250YWluaW5nKAogICAgICAgICAgICAgICAgICAgICAgICB0aXRsZSwKICAgICAgICAgICAgICAgICAgICAgICAgc3VtbWVyeSwKICAgICAgICAgICAgICAgICAgICAgICAgY29udGVudCwKICAgICAgICAgICAgICAgICAgICAgICAgUGFnZVJlcXVlc3Qub2YocGFnZUluZGV4LCBwYWdlU2l6ZSkpOwogICAgICAgIHJldHVybiBlc0Jsb2dzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAicGFnZVNpemUiLCBkZWZhdWx0VmFsdWUgPSAiMTAiKSBpbnQgcGFnZVNpemUpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iY2FyZCI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAiY29udGVudCIpIFN0cmluZyBjb250ZW50LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJwYWdlSW5kZXgiLCBkZWZhdWx0VmFsdWUgPSAiMCIpIGludCBwYWdlSW5kZXgsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAic3VtbWVyeSIpIFN0cmluZyBzdW1tZXJ5LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iY2FyZC1oZWFkZXIiPgogICAgICAgIEZlYXR1cmVkCiAgICAgIDwvZGl2PgogICAgICA8ZGl2IGNsYXNzPSJjYXJkLWJvZHkiPgogICAgICAgIDxoNSBjbGFzcz0iY2FyZC10aXRsZSI+U3BlY2lhbCB0aXRsZSB0cmVhdG1lbnQ8L2g1PgogICAgICAgIDxwIGNsYXNzPSJjYXJkLXRleHQiPldpdGggc3VwcG9ydGluZyB0ZXh0IGJlbG93IGFzIGEgbmF0dXJhbCBsZWFkLWluIHRvIGFkZGl0aW9uYWwgY29udGVudC48L3A+CiAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSI+R28gc29tZXdoZXJlPC9hPgogICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocHJpbmNpcGFsLmdldE5hbWUoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -332,15 +407,6 @@
     </search>
     <history>
       <history-search>
-        <entry>blog-post</entry>
-        <entry>html</entry>
-        <entry>style</entry>
-        <entry>sec</entry>
-        <entry>main</entry>
-        <entry>static</entry>
-        <entry>header</entry>
-        <entry>submit</entry>
-        <entry>text</entry>
         <entry>over</entry>
         <entry>page</entry>
         <entry>blog</entry>
@@ -348,9 +414,18 @@
         <entry>delete</entry>
         <entry>href</entry>
         <entry>head</entry>
-        <entry>form</entry>
-        <entry>section</entry>
         <entry>footer</entry>
+        <entry>section</entry>
+        <entry>input</entry>
+        <entry>p</entry>
+        <entry>users</entry>
+        <entry>primary</entry>
+        <entry>form</entry>
+        <entry>sec</entry>
+        <entry>onsubmit</entry>
+        <entry>home</entry>
+        <entry>index</entry>
+        <entry>#</entry>
         <entry>nav</entry>
       </history-search>
       <history-cmd>
@@ -369,10 +444,10 @@
         <entry>W</entry>
         <entry>vs</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>wqa</entry>
-        <entry>wq</entry>
         <entry>wa</entry>
         <entry>q</entry>
+        <entry>wq</entry>
+        <entry>wqa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
