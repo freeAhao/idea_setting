@@ -24,11 +24,18 @@
         <mark key="." line="47" column="32" />
         <mark key="^" line="47" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/game-server/pom.xml" timestamp="1530445713102">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="12" column="25" />
-        <mark key="^" line="12" column="25" />
-        <mark key="." line="12" column="25" />
+      <file name="$USER_HOME$/dev/tmp/game-server/pom.xml" timestamp="1530446160821">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="13" column="14" />
+        <mark key="." line="13" column="14" />
+        <mark key="^" line="13" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Image2Ascii.java" timestamp="1530451238825">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="79" column="35" />
+        <mark key="]" line="79" column="42" />
+        <mark key="." line="79" column="42" />
+        <mark key="^" line="79" column="42" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/index.html" timestamp="1529403735523">
         <mark key="'" line="92" column="22" />
@@ -70,6 +77,12 @@
         <mark key="]" line="42" column="9" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="38" column="58" />
+      </file>
+      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/game/Game.java" timestamp="1530448952480">
+        <mark key="[" line="38" column="48" />
+        <mark key="]" line="38" column="48" />
+        <mark key="." line="38" column="48" />
+        <mark key="^" line="31" column="19" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.8.RELEASE/33fd91acb8935df722e05e0870a683ac1d3076a7/spring-data-commons-2.0.8.RELEASE-sources.jar!/org/springframework/data/domain/Slice.java" timestamp="1529461873497">
         <mark key="'" line="75" column="49" />
@@ -114,11 +127,12 @@
         <mark key="." line="41" column="29" />
         <mark key="^" line="41" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net.ddns.dzy.net/GameClient.java" timestamp="1530445654601">
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="22" column="18" />
-        <mark key="." line="22" column="18" />
-        <mark key="^" line="24" column="8" />
+      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net.ddns.dzy.net/GameClient.java" timestamp="1530449090659">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="40" column="42" />
+        <mark key="]" line="40" column="81" />
+        <mark key="." line="40" column="81" />
+        <mark key="^" line="40" column="81" />
       </file>
       <file name="/Dummy.txt" timestamp="1529459454170">
         <mark key="[" line="0" column="0" />
@@ -187,7 +201,14 @@
         <mark key="." line="9" column="8" />
         <mark key="^" line="9" column="24" />
       </file>
-      <file name="/fragment.java" timestamp="1529470111985">
+      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net.ddns.dzy.net/GameServer.java" timestamp="1530449051874">
+        <mark key="'" line="20" column="24" />
+        <mark key="[" line="37" column="62" />
+        <mark key="]" line="37" column="64" />
+        <mark key="." line="37" column="64" />
+        <mark key="^" line="37" column="64" />
+      </file>
+      <file name="/fragment.java" timestamp="1530448591897">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/config/SecurityConfig.java" timestamp="1529468479555">
@@ -199,20 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/list.html" />
-      <jump line="87" column="23" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/list.html" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/fragments/nav.html" />
-      <jump line="14" column="17" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/config/SecurityConfig.java" />
-      <jump line="29" column="14" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" />
-      <jump line="27" column="37" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" />
-      <jump line="42" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" />
-      <jump line="54" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" />
-      <jump line="61" column="18" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" />
-      <jump line="67" column="26" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" />
-      <jump line="72" column="6" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" />
-      <jump line="0" column="7" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" />
-      <jump line="1" column="29" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" />
-      <jump line="4" column="18" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" />
       <jump line="5" column="20" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" />
       <jump line="11" column="15" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" />
       <jump line="12" column="66" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" />
@@ -299,49 +306,63 @@
       <jump line="112" column="30" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/UserController.java" />
       <jump line="27" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/UserController.java" />
       <jump line="56" column="15" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/admin/users/form.html" />
+      <jump line="15" column="13" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net.ddns.dzy.net/GameClient.java" />
+      <jump line="17" column="22" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net.ddns.dzy.net/GameClient.java" />
+      <jump line="46" column="12" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net.ddns.dzy.net/GameClient.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net.ddns.dzy.net/GameClient.java" />
+      <jump line="6" column="23" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net.ddns.dzy.net/GameServer.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net.ddns.dzy.net/GameServer.java" />
+      <jump line="43" column="70" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net.ddns.dzy.net/GameServer.java" />
+      <jump line="28" column="18" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net.ddns.dzy.net/GameServer.java" />
+      <jump line="20" column="24" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net.ddns.dzy.net/GameServer.java" />
+      <jump line="0" column="24" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Image2Ascii.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Image2Ascii.java" />
+      <jump line="29" column="38" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Image2Ascii.java" />
+      <jump line="33" column="30" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Image2Ascii.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Image2Ascii.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;/home/ahao/Desktop/2.jpg&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;/home/ahao/Desktop/2.jpg&quot;</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxtYXZlbi5jb21waWxlci5zb3VyY2U+MS44PC9tYXZlbi5jb21waWxlci5zb3VyY2U+Cg==</text>
+      <register name="0" type="4">
+        <text>)+&quot;:&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChVbmtub3duSG9zdEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfSBjYXRjaCAoU29ja2V0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb25zb2xlIGNvbnNvbGUgPSBTeXN0ZW0uY29uc29sZSgpOwogICAgICAgIGNvbnNvbGUuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgIH0gY2F0Y2ggKFVua25vd25Ib3N0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb25zb2xlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pcEFkZHJlc3MgPSBJbmV0QWRkcmVzcy5nZXRCeU5hbWUoaXBBZGRyZXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICBUZXJtaW5hbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgdGg6aWY9IiR7dXNlck1vZGVsLnVzZXIuaWR9Ij4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHNiLmxlbmd0aCgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgdGg6aWY9IiR7dXNlck1vZGVsLnVzZXIuaWR9Ij4K</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWZmZXIgc2IgPSBuZXcgU3RyaW5nQnVmZmVyKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgdGg6aWY9IiR7dXNlck1vZGVsLnVzZXIuaWR9Ij4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZ0J1ZmZlciBzYiA9IG5ldyBTdHJpbmdCdWZmZXIoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHN0ckNoYXIocGl4dmFsKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbC1tZC00Ij4KICAgICAgPGRpdiBjbGFzcz0iY2FyZCI+CiAgICAgICAgPGRpdiBjbGFzcz0iY2FyZC1oZWFkZXIiPgogICAgICAgICAgRmVhdHVyZWQKICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJjYXJkLWJvZHkiPgogICAgICAgICAgPGg1IGNsYXNzPSJjYXJkLXRpdGxlIj5TcGVjaWFsIHRpdGxlIHRyZWF0bWVudDwvaDU+CiAgICAgICAgICA8cCBjbGFzcz0iY2FyZC10ZXh0Ij5XaXRoIHN1cHBvcnRpbmcgdGV4dCBiZWxvdyBhcyBhIG5hdHVyYWwgbGVhZC1pbiB0byBhZGRpdGlvbmFsIGNvbnRlbnQuPC9wPgogICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSI+R28gc29tZXdoZXJlPC9hPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0iY2FyZCI+CiAgICAgICAgPGRpdiBjbGFzcz0iY2FyZC1oZWFkZXIiPgogICAgICAgICAgRmVhdHVyZWQKICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJjYXJkLWJvZHkiPgogICAgICAgICAgPGg1IGNsYXNzPSJjYXJkLXRpdGxlIj5TcGVjaWFsIHRpdGxlIHRyZWF0bWVudDwvaDU+CiAgICAgICAgICA8cCBjbGFzcz0iY2FyZC10ZXh0Ij5XaXRoIHN1cHBvcnRpbmcgdGV4dCBiZWxvdyBhcyBhIG5hdHVyYWwgbGVhZC1pbiB0byBhZGRpdGlvbmFsIGNvbnRlbnQuPC9wPgogICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSI+R28gc29tZXdoZXJlPC9hPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0iY2FyZCI+CiAgICAgICAgPGRpdiBjbGFzcz0iY2FyZC1oZWFkZXIiPgogICAgICAgICAgRmVhdHVyZWQKICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJjYXJkLWJvZHkiPgogICAgICAgICAgPGg1IGNsYXNzPSJjYXJkLXRpdGxlIj5TcGVjaWFsIHRpdGxlIHRyZWF0bWVudDwvaDU+CiAgICAgICAgICA8cCBjbGFzcz0iY2FyZC10ZXh0Ij5XaXRoIHN1cHBvcnRpbmcgdGV4dCBiZWxvdyBhcyBhIG5hdHVyYWwgbGVhZC1pbiB0byBhZGRpdGlvbmFsIGNvbnRlbnQuPC9wPgogICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSI+R28gc29tZXdoZXJlPC9hPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBwcm50d3J0ID0gbmV3IFByaW50V3JpdGVyKGZpbGV3cnQgPSBuZXcgRmlsZVdyaXRlcigiYXNjaWlhcnQudHh0IiwKLy8gICAgICAgICAgICAgICAgICAgIHRydWUpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
