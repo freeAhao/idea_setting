@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/UserController.java" timestamp="1529470152786">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="112" column="27" />
+        <mark key="]" line="112" column="42" />
+        <mark key="." line="112" column="42" />
+        <mark key="^" line="112" column="42" />
+      </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/list.html" timestamp="1529379643426">
         <mark key="'" line="101" column="23" />
         <mark key="[" line="32" column="78" />
@@ -17,6 +24,12 @@
         <mark key="." line="47" column="32" />
         <mark key="^" line="47" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/tmp/game-server/pom.xml" timestamp="1530445713102">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="12" column="25" />
+        <mark key="^" line="12" column="25" />
+        <mark key="." line="12" column="25" />
+      </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/index.html" timestamp="1529403735523">
         <mark key="'" line="92" column="22" />
         <mark key="[" line="25" column="33" />
@@ -30,41 +43,6 @@
         <mark key="]" line="48" column="15" />
         <mark key="." line="48" column="15" />
         <mark key="^" line="48" column="15" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.5/9fd59f6f22326a4241f9524fdfd66a1f34824054/httpclient-4.5.5-sources.jar!/org/apache/http/impl/conn/DefaultHttpClientConnectionOperator.java" timestamp="1529451343605" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.0.7.RELEASE/49134fcdaea19522741b2d940c4e5e5bee06c613/spring-webmvc-5.0.7.RELEASE-sources.jar!/org/springframework/web/servlet/view/RedirectView.java" timestamp="1529463901773" />
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/view.html" timestamp="1529377866101">
-        <mark key="'" line="58" column="23" />
-        <mark key="[" line="21" column="21" />
-        <mark key="]" line="21" column="26" />
-        <mark key="." line="21" column="26" />
-        <mark key="^" line="21" column="26" />
-      </file>
-      <file name="$USER_HOME$/dev/tmp/http-client-demo/src/test/java/HttpClientTest.java" timestamp="1529456524470">
-        <mark key="'" line="111" column="8" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/application.properties" timestamp="1529468469795">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/config/SecurityConfig.java" timestamp="1529468479555">
-        <mark key="'" line="19" column="17" />
-        <mark key="[" line="32" column="40" />
-        <mark key="]" line="32" column="40" />
-        <mark key="." line="32" column="40" />
-        <mark key="^" line="32" column="55" />
-      </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/UserController.java" timestamp="1529470152786">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="112" column="27" />
-        <mark key="]" line="112" column="42" />
-        <mark key="." line="112" column="42" />
-        <mark key="^" line="112" column="42" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/users/form.html" timestamp="1529372415641">
         <mark key="'" line="24" column="0" />
@@ -136,6 +114,12 @@
         <mark key="." line="41" column="29" />
         <mark key="^" line="41" column="29" />
       </file>
+      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net.ddns.dzy.net/GameClient.java" timestamp="1530445654601">
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="22" column="18" />
+        <mark key="." line="22" column="18" />
+        <mark key="^" line="24" column="8" />
+      </file>
       <file name="/Dummy.txt" timestamp="1529459454170">
         <mark key="[" line="0" column="0" />
       </file>
@@ -144,6 +128,13 @@
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/view.html" timestamp="1529377866101">
+        <mark key="'" line="58" column="23" />
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="26" />
+        <mark key="." line="21" column="26" />
+        <mark key="^" line="21" column="26" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/admin/users/form.html" timestamp="1529470923631">
         <mark key="'" line="56" column="15" />
@@ -159,6 +150,12 @@
         <mark key="." line="25" column="19" />
         <mark key="^" line="25" column="37" />
       </file>
+      <file name="$USER_HOME$/dev/tmp/http-client-demo/src/test/java/HttpClientTest.java" timestamp="1529456524470">
+        <mark key="'" line="111" column="8" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/fragments/nav.html" timestamp="1529379225764">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="37" column="28" />
@@ -166,7 +163,6 @@
         <mark key="." line="37" column="28" />
         <mark key="^" line="37" column="33" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.8.RELEASE/33fd91acb8935df722e05e0870a683ac1d3076a7/spring-data-commons-2.0.8.RELEASE-sources.jar!/org/springframework/data/domain/Page.java" timestamp="1529461461935" />
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/service/UserService.java" timestamp="1529469281835">
         <mark key="[" line="13" column="8" />
         <mark key="]" line="13" column="36" />
@@ -178,6 +174,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/application.properties" timestamp="1529468469795">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/fragments/header.html" timestamp="1529378170612">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="9" column="8" />
@@ -187,6 +189,13 @@
       </file>
       <file name="/fragment.java" timestamp="1529470111985">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/config/SecurityConfig.java" timestamp="1529468479555">
+        <mark key="'" line="19" column="17" />
+        <mark key="[" line="32" column="40" />
+        <mark key="]" line="32" column="40" />
+        <mark key="." line="32" column="40" />
+        <mark key="^" line="32" column="55" />
       </file>
     </filemarks>
     <jumps>
@@ -292,47 +301,47 @@
       <jump line="56" column="15" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/admin/users/form.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgdGg6aWY9IiR7dXNlck1vZGVsLnVzZXIuaWR9Ij4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>user.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgdGg6aWY9Iip7aWR9Ij4K</text>
+        <text encoding="base64">ICAgIDxtYXZlbi5jb21waWxlci5zb3VyY2U+MS44PC9tYXZlbi5jb21waWxlci5zb3VyY2U+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgdGg6aWY9IiR7dXNlck1vZGVsLnVzZXIuaWR9Ij4K</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChVbmtub3duSG9zdEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfSBjYXRjaCAoU29ja2V0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgdGg6aWY9IiR7dXNlck1vZGVsLnVzZXIuaWR9Ij4K</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgIH0gY2F0Y2ggKFVua25vd25Ib3N0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgdGg6aWY9IiR7dXNlck1vZGVsLnVzZXIuaWR9Ij4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pcEFkZHJlc3MgPSBJbmV0QWRkcmVzcy5nZXRCeU5hbWUoaXBBZGRyZXNzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgdGg6aWY9IiR7dXNlck1vZGVsLnVzZXIuaWR9Ij4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbC1tZC00Ij4KICAgICAgPGRpdiBjbGFzcz0iY2FyZCI+CiAgICAgICAgPGRpdiBjbGFzcz0iY2FyZC1oZWFkZXIiPgogICAgICAgICAgRmVhdHVyZWQKICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJjYXJkLWJvZHkiPgogICAgICAgICAgPGg1IGNsYXNzPSJjYXJkLXRpdGxlIj5TcGVjaWFsIHRpdGxlIHRyZWF0bWVudDwvaDU+CiAgICAgICAgICA8cCBjbGFzcz0iY2FyZC10ZXh0Ij5XaXRoIHN1cHBvcnRpbmcgdGV4dCBiZWxvdyBhcyBhIG5hdHVyYWwgbGVhZC1pbiB0byBhZGRpdGlvbmFsIGNvbnRlbnQuPC9wPgogICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSI+R28gc29tZXdoZXJlPC9hPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0iY2FyZCI+CiAgICAgICAgPGRpdiBjbGFzcz0iY2FyZC1oZWFkZXIiPgogICAgICAgICAgRmVhdHVyZWQKICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJjYXJkLWJvZHkiPgogICAgICAgICAgPGg1IGNsYXNzPSJjYXJkLXRpdGxlIj5TcGVjaWFsIHRpdGxlIHRyZWF0bWVudDwvaDU+CiAgICAgICAgICA8cCBjbGFzcz0iY2FyZC10ZXh0Ij5XaXRoIHN1cHBvcnRpbmcgdGV4dCBiZWxvdyBhcyBhIG5hdHVyYWwgbGVhZC1pbiB0byBhZGRpdGlvbmFsIGNvbnRlbnQuPC9wPgogICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSI+R28gc29tZXdoZXJlPC9hPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0iY2FyZCI+CiAgICAgICAgPGRpdiBjbGFzcz0iY2FyZC1oZWFkZXIiPgogICAgICAgICAgRmVhdHVyZWQKICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJjYXJkLWJvZHkiPgogICAgICAgICAgPGg1IGNsYXNzPSJjYXJkLXRpdGxlIj5TcGVjaWFsIHRpdGxlIHRyZWF0bWVudDwvaDU+CiAgICAgICAgICA8cCBjbGFzcz0iY2FyZC10ZXh0Ij5XaXRoIHN1cHBvcnRpbmcgdGV4dCBiZWxvdyBhcyBhIG5hdHVyYWwgbGVhZC1pbiB0byBhZGRpdGlvbmFsIGNvbnRlbnQuPC9wPgogICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSI+R28gc29tZXdoZXJlPC9hPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgdGg6aWY9IiR7dXNlck1vZGVsLnVzZXIuaWR9Ij4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgdGg6aWY9IiR7dXNlck1vZGVsLnVzZXIuaWR9Ij4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlci5zZXRQYXNzd29yZChEaWdlc3RVdGlscy5tZDVEaWdlc3QodXNlci5nZXRQYXNzd29yZCgpLmdldEJ5dGVzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUlNBU2lnbmF0dXJlLk1ENXdpdGhSU0EuZW4K</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbC1tZC00Ij4KICAgICAgPGRpdiBjbGFzcz0iY2FyZCI+CiAgICAgICAgPGRpdiBjbGFzcz0iY2FyZC1oZWFkZXIiPgogICAgICAgICAgRmVhdHVyZWQKICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJjYXJkLWJvZHkiPgogICAgICAgICAgPGg1IGNsYXNzPSJjYXJkLXRpdGxlIj5TcGVjaWFsIHRpdGxlIHRyZWF0bWVudDwvaDU+CiAgICAgICAgICA8cCBjbGFzcz0iY2FyZC10ZXh0Ij5XaXRoIHN1cHBvcnRpbmcgdGV4dCBiZWxvdyBhcyBhIG5hdHVyYWwgbGVhZC1pbiB0byBhZGRpdGlvbmFsIGNvbnRlbnQuPC9wPgogICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSI+R28gc29tZXdoZXJlPC9hPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0iY2FyZCI+CiAgICAgICAgPGRpdiBjbGFzcz0iY2FyZC1oZWFkZXIiPgogICAgICAgICAgRmVhdHVyZWQKICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJjYXJkLWJvZHkiPgogICAgICAgICAgPGg1IGNsYXNzPSJjYXJkLXRpdGxlIj5TcGVjaWFsIHRpdGxlIHRyZWF0bWVudDwvaDU+CiAgICAgICAgICA8cCBjbGFzcz0iY2FyZC10ZXh0Ij5XaXRoIHN1cHBvcnRpbmcgdGV4dCBiZWxvdyBhcyBhIG5hdHVyYWwgbGVhZC1pbiB0byBhZGRpdGlvbmFsIGNvbnRlbnQuPC9wPgogICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSI+R28gc29tZXdoZXJlPC9hPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0iY2FyZCI+CiAgICAgICAgPGRpdiBjbGFzcz0iY2FyZC1oZWFkZXIiPgogICAgICAgICAgRmVhdHVyZWQKICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJjYXJkLWJvZHkiPgogICAgICAgICAgPGg1IGNsYXNzPSJjYXJkLXRpdGxlIj5TcGVjaWFsIHRpdGxlIHRyZWF0bWVudDwvaDU+CiAgICAgICAgICA8cCBjbGFzcz0iY2FyZC10ZXh0Ij5XaXRoIHN1cHBvcnRpbmcgdGV4dCBiZWxvdyBhcyBhIG5hdHVyYWwgbGVhZC1pbiB0byBhZGRpdGlvbmFsIGNvbnRlbnQuPC9wPgogICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSI+R28gc29tZXdoZXJlPC9hPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlci5zZXRQYXNzd29yZChNRDVFbmNvZGVyLmVuY29kZSh1c2VyLmdldFBhc3N3b3JkKCkuZ2V0Qnl0ZXMoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
