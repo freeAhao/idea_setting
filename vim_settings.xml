@@ -44,6 +44,12 @@
         <mark key="." line="25" column="33" />
         <mark key="^" line="25" column="33" />
       </file>
+      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/image/BufferedImage.java" timestamp="1530592258214">
+        <mark key="'" line="1431" column="17" />
+      </file>
+      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/image/Raster.java" timestamp="1530592343510">
+        <mark key="'" line="539" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/login.html" timestamp="1529393513877">
         <mark key="'" line="9" column="21" />
         <mark key="[" line="47" column="21" />
@@ -58,12 +64,11 @@
         <mark key="." line="28" column="24" />
         <mark key="^" line="28" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/ImageUtils.java" timestamp="1530589051814">
-        <mark key="'" line="48" column="4" />
-        <mark key="[" line="43" column="22" />
-        <mark key="]" line="44" column="7" />
-        <mark key="." line="44" column="7" />
-        <mark key="^" line="44" column="7" />
+      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/ImageUtils.java" timestamp="1530590911537">
+        <mark key="'" line="46" column="4" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/dev/tmp/http-client-demo/build.gradle" timestamp="1529448065406">
         <mark key="[" line="13" column="14" />
@@ -94,12 +99,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.8.RELEASE/33fd91acb8935df722e05e0870a683ac1d3076a7/spring-data-commons-2.0.8.RELEASE-sources.jar!/org/springframework/data/domain/Slice.java" timestamp="1529461873497">
         <mark key="'" line="75" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/ddmlib/Demo.java" timestamp="1530588894094">
-        <mark key="'" line="18" column="24" />
-        <mark key="[" line="36" column="34" />
-        <mark key="]" line="37" column="49" />
-        <mark key="." line="37" column="49" />
-        <mark key="^" line="37" column="49" />
+      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/ddmlib/Demo.java" timestamp="1530591737987">
+        <mark key="'" line="19" column="24" />
+        <mark key="[" line="39" column="55" />
+        <mark key="]" line="39" column="64" />
+        <mark key="." line="39" column="64" />
+        <mark key="^" line="39" column="64" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/service/UserServiceImpl.java" timestamp="1529470592158">
         <mark key="[" line="41" column="88" />
@@ -127,6 +132,12 @@
         <mark key="]" line="34" column="24" />
         <mark key="." line="34" column="24" />
         <mark key="^" line="34" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/ImageJDemo.java" timestamp="1530592565240">
+        <mark key="[" line="22" column="45" />
+        <mark key="]" line="22" column="77" />
+        <mark key="." line="22" column="77" />
+        <mark key="^" line="22" column="77" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/test/java/net/ddns/dzy/initstart/app/service/UserServiceImplTest.java" timestamp="1529470463629">
         <mark key="[" line="36" column="60" />
@@ -170,6 +181,9 @@
         <mark key="]" line="65" column="29" />
         <mark key="^" line="47" column="56" />
         <mark key="." line="65" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/net/imagej/ij/1.51h/ij-1.51h.jar!/ij/ImageStack.class" timestamp="1530591680794">
+        <mark key="'" line="115" column="16" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/index.html" timestamp="1529403885663">
         <mark key="'" line="14" column="33" />
@@ -218,34 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" />
-      <jump line="9" column="21" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/login.html" />
-      <jump line="23" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" />
-      <jump line="25" column="13" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/MainController.java" />
-      <jump line="8" column="2" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/AuthController.java" />
-      <jump line="32" column="11" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/register.html" />
-      <jump line="38" column="65" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/register.html" />
-      <jump line="35" column="69" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/register.html" />
-      <jump line="70" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/register.html" />
-      <jump line="53" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/AuthController.java" />
-      <jump line="46" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/AuthController.java" />
-      <jump line="25" column="16" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/nav.html" />
-      <jump line="16" column="18" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/nav.html" />
-      <jump line="27" column="25" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/nav.html" />
-      <jump line="16" column="9" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/AuthController.java" />
-      <jump line="20" column="20" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/MainController.java" />
-      <jump line="46" column="50" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" />
-      <jump line="47" column="69" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" />
-      <jump line="50" column="110" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" />
-      <jump line="67" column="16" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" />
-      <jump line="118" column="6" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/UserController.java" />
-      <jump line="119" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/UserController.java" />
-      <jump line="64" column="23" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/UserController.java" />
-      <jump line="31" column="77" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/admin/users/form.html" />
-      <jump line="3" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/admin/users/form.html" />
-      <jump line="39" column="0" filename="$USER_HOME$/dev/tmp/http-client-demo/src/test/java/HttpClientTest.java" />
-      <jump line="23" column="0" filename="$USER_HOME$/dev/tmp/http-client-demo/src/test/java/HttpClientTest.java" />
-      <jump line="94" column="1" filename="$USER_HOME$/dev/tmp/http-client-demo/src/test/java/HttpClientTest.java" />
       <jump line="100" column="0" filename="$USER_HOME$/dev/tmp/http-client-demo/src/test/java/HttpClientTest.java" />
       <jump line="111" column="8" filename="$USER_HOME$/dev/tmp/http-client-demo/src/test/java/HttpClientTest.java" />
       <jump line="25" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/admin/users/list.html" />
@@ -318,58 +304,86 @@
       <jump line="57" column="29" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Image2Ascii.java" />
       <jump line="45" column="29" filename="$MAVEN_REPOSITORY$/com/android/tools/ddms/ddmlib/25.3.0/ddmlib-25.3.0-sources.jar!/com/android/ddmlib/RawImage.java" />
       <jump line="44" column="4" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/ImageUtils.java" />
+      <jump line="46" column="4" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/ImageUtils.java" />
+      <jump line="49" column="29" filename="$MAVEN_REPOSITORY$/net/imagej/ij/1.51h/ij-1.51h.jar!/ij/ImageStack.class" />
+      <jump line="69" column="16" filename="$MAVEN_REPOSITORY$/net/imagej/ij/1.51h/ij-1.51h.jar!/ij/ImageStack.class" />
+      <jump line="111" column="16" filename="$MAVEN_REPOSITORY$/net/imagej/ij/1.51h/ij-1.51h.jar!/ij/ImageStack.class" />
+      <jump line="112" column="13" filename="$MAVEN_REPOSITORY$/net/imagej/ij/1.51h/ij-1.51h.jar!/ij/ImageStack.class" />
+      <jump line="115" column="16" filename="$MAVEN_REPOSITORY$/net/imagej/ij/1.51h/ij-1.51h.jar!/ij/ImageStack.class" />
+      <jump line="1431" column="17" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/image/BufferedImage.java" />
+      <jump line="253" column="40" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/image/Raster.java" />
+      <jump line="544" column="47" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/image/Raster.java" />
+      <jump line="638" column="34" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/image/Raster.java" />
+      <jump line="700" column="34" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/image/Raster.java" />
+      <jump line="770" column="34" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/image/Raster.java" />
+      <jump line="830" column="34" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/image/Raster.java" />
+      <jump line="839" column="23" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/image/Raster.java" />
+      <jump line="868" column="37" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/image/Raster.java" />
+      <jump line="869" column="37" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/image/Raster.java" />
+      <jump line="888" column="26" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/image/Raster.java" />
+      <jump line="911" column="22" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/image/Raster.java" />
+      <jump line="72" column="55" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/image/Raster.java" />
+      <jump line="115" column="55" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/image/Raster.java" />
+      <jump line="137" column="14" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/image/Raster.java" />
+      <jump line="140" column="14" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/image/Raster.java" />
+      <jump line="143" column="14" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/image/Raster.java" />
+      <jump line="146" column="14" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/image/Raster.java" />
+      <jump line="207" column="8" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/image/Raster.java" />
+      <jump line="316" column="8" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/image/Raster.java" />
+      <jump line="317" column="8" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/image/Raster.java" />
+      <jump line="539" column="12" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/image/Raster.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text>imageStack</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>imageStack</text>
       </register>
       <register name="/" type="4">
-        <text>password</text>
+        <text>int[]</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9uZyAgICAgYmVnaW4gICAgICAgICAgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBCdWZmZXJlZEltYWdlIGltYWdlID0gSW1hZ2VVdGlscy5yYXdUb0J1ZmZlcmVkKHJhd0ltYWdlKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICA8ZGVwZW5kZW5jeT4KICAgICAgPGdyb3VwSWQ+bmV0LmltYWdlajwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+aWo8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjEuNTFoPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICBieXRlW10gYSA9IG5ldyBieXRlWzEwMjRdOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8cmVwb3NpdG9yaWVzPgogICAgPHJlcG9zaXRvcnk+CiAgICAgIDwKICAgIDwvcmVwb3NpdG9yeT4KICA8L3JlcG9zaXRvcmllcz4K</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZVN0YWNrLmFkZFNsaWNlKG5ldyBCeXRlUHJvY2Vzc29yKGltYWdlLmdldFdpZHRoKCksIGltYWdlLmdldEhlaWdodCgpLCBpbWFnZS5nZXREYXRhKCkuZ2V0UGl4ZWwoMCwgMCxhKSkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8cmVwb3J0aW5nPjwvcmVwb3J0aW5nPgo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBhID0gbmV3IGludFtde307Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5uZXQuaW1hZ2VqPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5pajwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+MS41MmQ8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICBCeXRlQXJyYXlPdXRwdXRTdHJlYW0gYnl0ZUFycmF5T3V0cHV0U3RyZWFtID0gbmV3IEJ5dGVBcnJheU91dHB1dFN0cmVhbSgpOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIEltYWdlSU8ud3JpdGUoaW1hZ2UsICJqcGciLCBieXRlQXJyYXlPdXRwdXRTdHJlYW0pOwogICAgICAgICAgICBieXRlQXJyYXlPdXRwdXRTdHJlYW0uZmx1c2goKTsKICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5uZXQuaW1hZ2VqPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5pbWFnZWo8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjIuMC4wLXJjLTY2PC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL2F3dAo=</text>
+        <text encoding="base64">ICAgICAgICBieXRlQXJyYXlPdXRwdXRTdHJlYW0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBCdWZmZXJlZEltYWdlIGJ1ZmZlcmVkSW1hZ2UgPSByYXdUb0J1ZmZlcmVkKHJhd0ltYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXhpdCgwKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZVBsdXMuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>password</last-search>
+      <last-search>int[]</last-search>
       <last-offset />
-      <last-pattern>password</last-pattern>
+      <last-pattern>int[]</last-pattern>
       <last-replace>image</last-replace>
       <last-substitute>images</last-substitute>
       <last-dir>1</last-dir>
@@ -377,11 +391,6 @@
     </search>
     <history>
       <history-search>
-        <entry>userList</entry>
-        <entry>is</entry>
-        <entry>script</entry>
-        <entry>userModel</entry>
-        <entry>userMode</entry>
         <entry>form</entry>
         <entry>search</entry>
         <entry>action</entry>
@@ -397,6 +406,11 @@
         <entry>create</entry>
         <entry>save</entry>
         <entry>password</entry>
+        <entry>add</entry>
+        <entry>get</entry>
+        <entry>byte</entry>
+        <entry>int</entry>
+        <entry>int[]</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
