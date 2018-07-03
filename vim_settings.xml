@@ -49,7 +49,6 @@
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/image/Raster.java" timestamp="1530592343510">
         <mark key="'" line="539" column="12" />
       </file>
-      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/Image.java" timestamp="1530610751795" />
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/login.html" timestamp="1529393513877">
         <mark key="'" line="9" column="21" />
         <mark key="[" line="47" column="21" />
@@ -64,7 +63,7 @@
         <mark key="." line="28" column="24" />
         <mark key="^" line="28" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/ImageUtils.java" timestamp="1530610773044">
+      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/ImageUtils.java" timestamp="1530619727837">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="16" column="63" />
         <mark key="]" line="16" column="63" />
@@ -163,12 +162,12 @@
       <file name="$MAVEN_REPOSITORY$/com/android/tools/ddms/ddmlib/25.3.0/ddmlib-25.3.0-sources.jar!/com/android/ddmlib/RawImage.java" timestamp="1530588427475">
         <mark key="'" line="45" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Render.java" timestamp="1530612331989">
-        <mark key="'" line="88" column="0" />
-        <mark key="[" line="52" column="34" />
-        <mark key="]" line="52" column="34" />
-        <mark key="." line="52" column="34" />
-        <mark key="^" line="52" column="34" />
+      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Render.java" timestamp="1530623262238">
+        <mark key="'" line="32" column="43" />
+        <mark key="[" line="64" column="33" />
+        <mark key="]" line="64" column="35" />
+        <mark key="." line="64" column="35" />
+        <mark key="^" line="64" column="35" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/view.html" timestamp="1529377866101">
         <mark key="'" line="58" column="23" />
@@ -194,12 +193,11 @@
         <mark key="." line="25" column="19" />
         <mark key="^" line="25" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" timestamp="1530612538927">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="137" column="56" />
-        <mark key="]" line="138" column="68" />
-        <mark key="." line="138" column="68" />
-        <mark key="^" line="138" column="68" />
+      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" timestamp="1530623089799">
+        <mark key="'" line="27" column="18" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/fragments/nav.html" timestamp="1529379225764">
         <mark key="'" line="8" column="0" />
@@ -245,29 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/application.properties" />
-      <jump line="31" column="22" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/admin/users/list.html" />
-      <jump line="36" column="76" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/admin/users/list.html" />
-      <jump line="33" column="33" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/admin/users/list.html" />
-      <jump line="57" column="25" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/admin/users/list.html" />
-      <jump line="70" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/admin/users/form.html" />
-      <jump line="96" column="27" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/UserController.java" />
-      <jump line="88" column="24" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/UserController.java" />
-      <jump line="87" column="24" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/UserController.java" />
-      <jump line="91" column="4" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/UserController.java" />
-      <jump line="112" column="30" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/UserController.java" />
-      <jump line="27" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/controller/UserController.java" />
-      <jump line="56" column="15" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/admin/users/form.html" />
-      <jump line="15" column="13" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net.ddns.dzy.net/GameClient.java" />
-      <jump line="17" column="22" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net.ddns.dzy.net/GameClient.java" />
-      <jump line="46" column="12" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net.ddns.dzy.net/GameClient.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net.ddns.dzy.net/GameClient.java" />
-      <jump line="6" column="23" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net.ddns.dzy.net/GameServer.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net.ddns.dzy.net/GameServer.java" />
-      <jump line="43" column="70" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net.ddns.dzy.net/GameServer.java" />
-      <jump line="28" column="18" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net.ddns.dzy.net/GameServer.java" />
-      <jump line="20" column="24" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net.ddns.dzy.net/GameServer.java" />
-      <jump line="0" column="24" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Image2Ascii.java" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Image2Ascii.java" />
       <jump line="43" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/ddmlib/Demo.java" />
       <jump line="7" column="13" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Image2Ascii.java" />
@@ -314,30 +289,23 @@
       <jump line="29" column="35" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Image2Ascii.java" />
       <jump line="33" column="17" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Image2Ascii.java" />
       <jump line="26" column="24" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Image2Ascii.java" />
-      <jump line="40" column="19" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
       <jump line="57" column="16" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/ImageUtils.java" />
       <jump line="31" column="36" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
       <jump line="42" column="67" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
       <jump line="65" column="20" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/ddmlib/Demo.java" />
       <jump line="16" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/ddmlib/Demo.java" />
-      <jump line="21" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
-      <jump line="53" column="39" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
       <jump line="25" column="59" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
-      <jump line="27" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
       <jump line="105" column="23" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
       <jump line="23" column="38" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
-      <jump line="103" column="37" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
       <jump line="123" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
-      <jump line="89" column="15" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Render.java" />
       <jump line="91" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Render.java" />
       <jump line="132" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
       <jump line="21" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/ImageUtils.java" />
       <jump line="27" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/ImageUtils.java" />
-      <jump line="69" column="27" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
       <jump line="128" column="16" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
       <jump line="55" column="26" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
       <jump line="52" column="35" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
@@ -345,49 +313,84 @@
       <jump line="58" column="22" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
       <jump line="51" column="24" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
       <jump line="84" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
+      <jump line="45" column="8" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Render.java" />
+      <jump line="19" column="71" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Render.java" />
+      <jump line="27" column="16" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
+      <jump line="153" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
+      <jump line="96" column="31" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Render.java" />
+      <jump line="18" column="32" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Render.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
+      <jump line="79" column="33" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
+      <jump line="47" column="17" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
+      <jump line="103" column="9" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
+      <jump line="20" column="22" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
+      <jump line="89" column="33" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Render.java" />
+      <jump line="74" column="29" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
+      <jump line="40" column="27" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
+      <jump line="28" column="20" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
+      <jump line="159" column="6" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
+      <jump line="53" column="41" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
+      <jump line="69" column="40" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
+      <jump line="77" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
+      <jump line="138" column="29" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
+      <jump line="165" column="2" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
+      <jump line="78" column="22" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
+      <jump line="80" column="23" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
+      <jump line="93" column="20" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
+      <jump line="104" column="8" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Render.java" />
+      <jump line="32" column="43" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Render.java" />
+      <jump line="75" column="33" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
+      <jump line="37" column="18" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wbGF5ZXIucmVzaXplSW1hZ2UoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>10</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
         <text>draw</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pbWFnZUljb24uc2V0SW1hZ2UoaW1hZ2UyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJkcmF3IGltYWdlIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wbGF5ZXIucmVzaXplSW1hZ2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCByZXNpemVJbWFnZSgpIHsKICAgICAgICB0aGlzLmxhYmVsLnNldFNpemUodGhpcy5nZXRTaXplKCkpOwogICAgICAgIHRoaXMucGFuZWwuc2V0U2l6ZSh0aGlzLmdldFNpemUoKSk7CiAgICB9CgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgID0gcmVuZGVyLmdldEltYWdlKCk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAod2lkdGggPT0gLTEgfHwgaGVpZ2h0ID09IC0xKXsKICAgICAgICAgICAgaW50IHdpZHRoID0gaW1hZ2Uud2lkdGgvMjsKICAgICAgICAgICAgaW50IGhlaWdodCA9aW1hZ2UuaGVpZ2h0LzI7CiAgICAgICAgICAgIHRoaXMuc2V0U2l6ZSh3aWR0aCxoZWlnaHQrMjApOwogICAgICAgIH0K</text>
+      <register name="3" type="4">
+        <text>else{
+            draw(image2);
+            image = render.getImage();
+            image2=null;
+            System.out.println(&quot;draw image2&quot;);
+        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHRoaXMuYWRkQ29tcG9uZW50TGlzdGVuZXIobmV3IFBsYXllckNvbXBvbmVudExpc3RlbmVyKHRoaXMpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQnVmZmVyZWRJbWFnZSAgaW1hZ2UyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmltYWdlSWNvbi5zZXRJbWFnZShpbWFnZSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSlBhbmVsIHBhbmVsOwogICAgcHJpdmF0ZSBKTGFiZWwgICAgbGFiZWw7CiAgICBwcml2YXRlIEltYWdlSWNvbiBpbWFnZUljb247Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmltYWdlPW51bGw7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHRoaXMuYWRkKHBhbmVsKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHRoaXMucGFuZWwuc2V0U2l6ZSh0aGlzLmdldFNpemUoKSk7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -404,8 +407,6 @@
     </search>
     <history>
       <history-search>
-        <entry>name</entry>
-        <entry>input</entry>
         <entry>h2</entry>
         <entry>span</entry>
         <entry>row</entry>
@@ -423,6 +424,8 @@
         <entry>reisize</entry>
         <entry>Com</entry>
         <entry>height</entry>
+        <entry>render</entry>
+        <entry>init</entry>
         <entry>draw</entry>
       </history-search>
       <history-cmd>
