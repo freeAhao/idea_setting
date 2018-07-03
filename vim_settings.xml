@@ -36,6 +36,12 @@
         <mark key="^" line="101" column="59" />
         <mark key="." line="101" column="59" />
       </file>
+      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Server.java" timestamp="1530624834862">
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="20" column="30" />
+        <mark key="^" line="20" column="30" />
+        <mark key="." line="20" column="30" />
+      </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/index.html" timestamp="1529403735523">
         <mark key="'" line="92" column="22" />
         <mark key="[" line="25" column="33" />
@@ -162,11 +168,11 @@
       <file name="$MAVEN_REPOSITORY$/com/android/tools/ddms/ddmlib/25.3.0/ddmlib-25.3.0-sources.jar!/com/android/ddmlib/RawImage.java" timestamp="1530588427475">
         <mark key="'" line="45" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Render.java" timestamp="1530623881223">
+      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Render.java" timestamp="1530624686605">
         <mark key="'" line="32" column="43" />
-        <mark key="[" line="64" column="33" />
-        <mark key="]" line="64" column="34" />
-        <mark key="." line="64" column="34" />
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="13" />
+        <mark key="." line="15" column="13" />
         <mark key="^" line="64" column="35" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/view.html" timestamp="1529377866101">
@@ -345,11 +351,11 @@
       <jump line="37" column="34" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFNpemUoaW1hZ2UuZ2V0V2lkdGgoKSwgaW1hZ2UuZ2V0SGVpZ2h0KCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>draw</text>
@@ -358,18 +364,21 @@
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJkcmF3IGltYWdlIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFNpemUoaW1hZ2UuZ2V0V2lkdGgoKSwgaW1hZ2UuZ2V0SGVpZ2h0KCkpOwo=</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBTZXQ8QnVmZmVyZWRJbWFnZT4gIGJ1ZmZlcmVkSW1hZ2VTZXQgID0gbmV3IExpbmtlZEhhc2hTZXQ8PigpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFNpemUoaW1hZ2UuZ2V0V2lkdGgoKSwgaW1hZ2UuZ2V0SGVpZ2h0KCkpOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiIpOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgID0gcmVuZGVyLmdldEltYWdlKCk7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>else{
             draw(image2);
             image = render.getImage();
@@ -377,20 +386,17 @@
             System.out.println(&quot;draw image2&quot;);
         }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Ly8gICAgICAgIHRoaXMuYWRkQ29tcG9uZW50TGlzdGVuZXIobmV3IFBsYXllckNvbXBvbmVudExpc3RlbmVyKHRoaXMpKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQnVmZmVyZWRJbWFnZSAgaW1hZ2UyOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgSlBhbmVsIHBhbmVsOwogICAgcHJpdmF0ZSBKTGFiZWwgICAgbGFiZWw7CiAgICBwcml2YXRlIEltYWdlSWNvbiBpbWFnZUljb247Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRoaXMuYWRkKHBhbmVsKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHRoaXMuYWRkKHBhbmVsKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
