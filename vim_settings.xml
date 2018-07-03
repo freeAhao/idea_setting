@@ -24,10 +24,10 @@
         <mark key="." line="47" column="32" />
         <mark key="^" line="47" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/game-server/pom.xml" timestamp="1530583631265">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/dev/tmp/game-server/pom.xml" timestamp="1530589584338">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Image2Ascii.java" timestamp="1530586108860">
         <mark key="'" line="60" column="29" />
@@ -57,11 +57,12 @@
         <mark key="." line="28" column="24" />
         <mark key="^" line="28" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/ImageUtils.java" timestamp="1530587065035">
-        <mark key="[" line="21" column="51" />
-        <mark key="]" line="21" column="51" />
-        <mark key="." line="21" column="51" />
-        <mark key="^" line="21" column="51" />
+      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/ImageUtils.java" timestamp="1530589051814">
+        <mark key="'" line="48" column="4" />
+        <mark key="[" line="43" column="22" />
+        <mark key="]" line="44" column="7" />
+        <mark key="." line="44" column="7" />
+        <mark key="^" line="44" column="7" />
       </file>
       <file name="$USER_HOME$/dev/tmp/http-client-demo/build.gradle" timestamp="1529448065406">
         <mark key="[" line="13" column="14" />
@@ -89,12 +90,15 @@
         <mark key="." line="38" column="48" />
         <mark key="^" line="31" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/ddmlib/Demo.java" timestamp="1530587194420">
-        <mark key="'" line="17" column="24" />
-        <mark key="[" line="23" column="20" />
-        <mark key="]" line="23" column="20" />
-        <mark key="." line="23" column="20" />
-        <mark key="^" line="23" column="20" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.8.RELEASE/33fd91acb8935df722e05e0870a683ac1d3076a7/spring-data-commons-2.0.8.RELEASE-sources.jar!/org/springframework/data/domain/Slice.java" timestamp="1529461873497">
+        <mark key="'" line="75" column="49" />
+      </file>
+      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/ddmlib/Demo.java" timestamp="1530588894094">
+        <mark key="'" line="18" column="24" />
+        <mark key="[" line="36" column="34" />
+        <mark key="]" line="37" column="49" />
+        <mark key="." line="37" column="49" />
+        <mark key="^" line="37" column="49" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/java/net/ddns/dzy/initstart/app/service/UserServiceImpl.java" timestamp="1529470592158">
         <mark key="[" line="41" column="88" />
@@ -147,12 +151,11 @@
       <file name="/Dummy.txt" timestamp="1529459454170">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/nav.html" timestamp="1529466657897">
-        <mark key="'" line="27" column="25" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar!/sun/awt/SunToolkit.class" timestamp="1530588663490" />
+      <file name="$MAVEN_REPOSITORY$/com/android/tools/ddms/ddmlib/25.3.0/ddmlib-25.3.0-sources.jar!/com/android/ddmlib/RawImage.java" timestamp="1530588427475">
+        <mark key="'" line="45" column="29" />
       </file>
+      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/javax/swing/ImageIcon.java" timestamp="1530588712043" />
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/users/view.html" timestamp="1529377866101">
         <mark key="'" line="58" column="23" />
         <mark key="[" line="21" column="21" />
@@ -174,12 +177,6 @@
         <mark key="." line="25" column="19" />
         <mark key="^" line="25" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/http-client-demo/src/test/java/HttpClientTest.java" timestamp="1529456524470">
-        <mark key="'" line="111" column="8" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
-      </file>
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/Optional.java" timestamp="1530586545228" />
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/fragments/nav.html" timestamp="1529379225764">
         <mark key="'" line="8" column="0" />
@@ -198,12 +195,6 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/application.properties" timestamp="1529468469795">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/fragments/header.html" timestamp="1529378170612">
         <mark key="'" line="32" column="0" />
@@ -231,8 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" />
-      <jump line="18" column="6" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" />
       <jump line="9" column="21" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/login.html" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/fragments/header.html" />
@@ -331,49 +320,51 @@
       <jump line="7" column="13" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Image2Ascii.java" />
       <jump line="18" column="16" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Image2Ascii.java" />
       <jump line="57" column="29" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Image2Ascii.java" />
+      <jump line="45" column="29" filename="$MAVEN_REPOSITORY$/com/android/tools/ddms/ddmlib/25.3.0/ddmlib-25.3.0-sources.jar!/com/android/ddmlib/RawImage.java" />
+      <jump line="44" column="4" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/ImageUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICA8ZGVwZW5kZW5jeT4KICAgICAgPGdyb3VwSWQ+bmV0LmltYWdlajwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+aWo8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjEuNTFoPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>-1</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGNvbnZlcnRUb0FzY2lpKFJhd0ltYWdlIGltYWdlKXsKICAgICAgICBpbnQgd2lkdGggPSBpbWFnZS53aWR0aDsKICAgICAgICBpbnQgaGVpZ2h0ID0gaW1hZ2UuaGVpZ2h0OwogICAgICAgIHRoaXMuaW1nID0gbmV3IEJ1ZmZlcmVkSW1hZ2Uod2lkdGgsIGhlaWdodCwgQnVmZmVyZWRJbWFnZS5UWVBFX0lOVF9SR0IpOwogICAgICAgIGludCBpbmRleCA9IDA7CiAgICAgICAgY29udmVydFRvQXNjaWkoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9uZyAgICAgYmVnaW4gICAgICAgICAgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN5cwo=</text>
+        <text encoding="base64">CiAgICA8ZGVwZW5kZW5jeT4KICAgICAgPGdyb3VwSWQ+bmV0LmltYWdlajwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+aWo8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjEuNTFoPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTdHJpbmcuZm9ybWF0KCJyID0gJXMsIGc9JXMsIGI9JXMiLCB4LCB5LCB2YWx1ZSkpOwo=</text>
+        <text encoding="base64">ICA8cmVwb3NpdG9yaWVzPgogICAgPHJlcG9zaXRvcnk+CiAgICAgIDwKICAgIDwvcmVwb3NpdG9yeT4KICA8L3JlcG9zaXRvcmllcz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pZlByZXNlbnQoKTsK</text>
+        <text encoding="base64">ICA8cmVwb3J0aW5nPjwvcmVwb3J0aW5nPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZm9ybWF0bmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5uZXQuaW1hZ2VqPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5pajwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+MS41MmQ8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IK</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5uZXQuaW1hZ2VqPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5pbWFnZWo8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjIuMC4wLXJjLTY2PC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZmlsZVBhdGguZW5kKQo=</text>
+        <text encoding="base64">ICAgICAgICAvL2F3dAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBCdWZmZXJlZEltYWdlIGJ1ZmZlcmVkSW1hZ2UgPSByYXdUb0J1ZmZlcmVkKHJhd0ltYWdlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXhpdCgwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgaW1hZ2UyQXNjaWkuY29udmVydFRvQXNjaWkoc2NyZWVuc2hvdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN5cwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -426,11 +417,11 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wa</entry>
         <entry>wqa</entry>
-        <entry>W</entry>
         <entry>q</entry>
         <entry>vs</entry>
         <entry>wq</entry>
         <entry>we</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
