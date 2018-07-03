@@ -24,7 +24,7 @@
         <mark key="." line="47" column="32" />
         <mark key="^" line="47" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/game-server/pom.xml" timestamp="1530589584338">
+      <file name="$USER_HOME$/dev/tmp/game-server/pom.xml" timestamp="1530589607246">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
@@ -325,7 +325,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICA8ZGVwZW5kZW5jeT4KICAgICAgPGdyb3VwSWQ+bmV0LmltYWdlajwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+aWo8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjEuNTFoPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>h</text>
@@ -337,34 +337,34 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9uZyAgICAgYmVnaW4gICAgICAgICAgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICA8ZGVwZW5kZW5jeT4KICAgICAgPGdyb3VwSWQ+bmV0LmltYWdlajwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+aWo8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjEuNTFoPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8cmVwb3NpdG9yaWVzPgogICAgPHJlcG9zaXRvcnk+CiAgICAgIDwKICAgIDwvcmVwb3NpdG9yeT4KICA8L3JlcG9zaXRvcmllcz4K</text>
+        <text encoding="base64">CiAgICA8ZGVwZW5kZW5jeT4KICAgICAgPGdyb3VwSWQ+bmV0LmltYWdlajwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+aWo8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjEuNTFoPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8cmVwb3J0aW5nPjwvcmVwb3J0aW5nPgo=</text>
+        <text encoding="base64">ICA8cmVwb3NpdG9yaWVzPgogICAgPHJlcG9zaXRvcnk+CiAgICAgIDwKICAgIDwvcmVwb3NpdG9yeT4KICA8L3JlcG9zaXRvcmllcz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5uZXQuaW1hZ2VqPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5pajwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+MS41MmQ8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICA8cmVwb3J0aW5nPjwvcmVwb3J0aW5nPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5uZXQuaW1hZ2VqPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5pbWFnZWo8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjIuMC4wLXJjLTY2PC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5uZXQuaW1hZ2VqPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5pajwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+MS41MmQ8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL2F3dAo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5uZXQuaW1hZ2VqPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5pbWFnZWo8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjIuMC4wLXJjLTY2PC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBCdWZmZXJlZEltYWdlIGJ1ZmZlcmVkSW1hZ2UgPSByYXdUb0J1ZmZlcmVkKHJhd0ltYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICAvL2F3dAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXhpdCgwKTsK</text>
+        <text encoding="base64">ICAgICAgICBCdWZmZXJlZEltYWdlIGJ1ZmZlcmVkSW1hZ2UgPSByYXdUb0J1ZmZlcmVkKHJhd0ltYWdlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN5cwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXhpdCgwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
