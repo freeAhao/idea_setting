@@ -24,11 +24,11 @@
         <mark key="." line="47" column="32" />
         <mark key="^" line="47" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/game-server/pom.xml" timestamp="1530589756587">
-        <mark key="[" line="25" column="19" />
-        <mark key="]" line="25" column="19" />
-        <mark key="." line="25" column="19" />
-        <mark key="^" line="25" column="19" />
+      <file name="$USER_HOME$/dev/tmp/game-server/pom.xml" timestamp="1530601693286">
+        <mark key="'" line="27" column="20" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="48" column="17" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Image2Ascii.java" timestamp="1530586108860">
         <mark key="'" line="60" column="29" />
@@ -64,11 +64,11 @@
         <mark key="." line="28" column="24" />
         <mark key="^" line="28" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/ImageUtils.java" timestamp="1530590911537">
-        <mark key="'" line="46" column="4" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/ImageUtils.java" timestamp="1530601466877">
+        <mark key="'" line="16" column="2" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/dev/tmp/http-client-demo/build.gradle" timestamp="1529448065406">
         <mark key="[" line="13" column="14" />
@@ -133,11 +133,10 @@
         <mark key="." line="34" column="24" />
         <mark key="^" line="34" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/ImageJDemo.java" timestamp="1530592565240">
-        <mark key="[" line="22" column="45" />
-        <mark key="]" line="22" column="77" />
-        <mark key="." line="22" column="77" />
-        <mark key="^" line="22" column="77" />
+      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/ImageJDemo.java" timestamp="1530600787202">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/test/java/net/ddns/dzy/initstart/app/service/UserServiceImplTest.java" timestamp="1529470463629">
         <mark key="[" line="36" column="60" />
@@ -192,6 +191,12 @@
         <mark key="." line="25" column="19" />
         <mark key="^" line="25" column="37" />
       </file>
+      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Player.java" timestamp="1530601494073">
+        <mark key="[" line="30" column="43" />
+        <mark key="]" line="31" column="7" />
+        <mark key="." line="31" column="7" />
+        <mark key="^" line="31" column="7" />
+      </file>
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/Optional.java" timestamp="1530586545228" />
       <file name="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/webapp/templates/fragments/nav.html" timestamp="1529379225764">
         <mark key="'" line="8" column="0" />
@@ -232,11 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="0" filename="$USER_HOME$/dev/tmp/http-client-demo/src/test/java/HttpClientTest.java" />
-      <jump line="111" column="8" filename="$USER_HOME$/dev/tmp/http-client-demo/src/test/java/HttpClientTest.java" />
-      <jump line="25" column="0" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/admin/users/list.html" />
-      <jump line="52" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.8.RELEASE/33fd91acb8935df722e05e0870a683ac1d3076a7/spring-data-commons-2.0.8.RELEASE-sources.jar!/org/springframework/data/domain/Slice.java" />
-      <jump line="54" column="43" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.8.RELEASE/33fd91acb8935df722e05e0870a683ac1d3076a7/spring-data-commons-2.0.8.RELEASE-sources.jar!/org/springframework/data/domain/Slice.java" />
       <jump line="58" column="5" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.8.RELEASE/33fd91acb8935df722e05e0870a683ac1d3076a7/spring-data-commons-2.0.8.RELEASE-sources.jar!/org/springframework/data/domain/Slice.java" />
       <jump line="75" column="49" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.8.RELEASE/33fd91acb8935df722e05e0870a683ac1d3076a7/spring-data-commons-2.0.8.RELEASE-sources.jar!/org/springframework/data/domain/Slice.java" />
       <jump line="73" column="118" filename="$USER_HOME$/dev/blog/spring-boot/bootstrap/src/main/resources/templates/admin/users/list.html" />
@@ -332,13 +332,18 @@
       <jump line="316" column="8" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/image/Raster.java" />
       <jump line="317" column="8" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/image/Raster.java" />
       <jump line="539" column="12" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/image/Raster.java" />
+      <jump line="16" column="2" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/ImageUtils.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/dev/tmp/game-server/pom.xml" />
+      <jump line="42" column="0" filename="$USER_HOME$/dev/tmp/game-server/pom.xml" />
+      <jump line="15" column="0" filename="$USER_HOME$/dev/tmp/game-server/pom.xml" />
+      <jump line="27" column="20" filename="$USER_HOME$/dev/tmp/game-server/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>imageStack</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICA8cmVwb3NpdG9yaWVzPgogICAgPHJlcG9zaXRvcnk+CiAgICAgIDxpZD5hcGFjaGUuc25hcHNob3RzPC9pZD4KICAgICAgPG5hbWU+QXBhY2hlIERldmVsb3BtZW50IFNuYXBzaG90IFJlcG9zaXRvcnk8L25hbWU+CiAgICAgIDx1cmw+aHR0cHM6Ly9yZXBvc2l0b3J5LmFwYWNoZS5vcmcvY29udGVudC9yZXBvc2l0b3JpZXMvc25hcHNob3RzLzwvdXJsPgogICAgICA8cmVsZWFzZXM+CiAgICAgICAgPGVuYWJsZWQ+ZmFsc2U8L2VuYWJsZWQ+CiAgICAgIDwvcmVsZWFzZXM+CiAgICAgIDxzbmFwc2hvdHM+CiAgICAgICAgPGVuYWJsZWQ+dHJ1ZTwvZW5hYmxlZD4KICAgICAgPC9zbmFwc2hvdHM+CiAgICA8L3JlcG9zaXRvcnk+CiAgPC9yZXBvc2l0b3JpZXM+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>imageStack</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>int[]</text>
@@ -347,34 +352,34 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9uZyAgICAgYmVnaW4gICAgICAgICAgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBCdWZmZXJlZEltYWdlIGltYWdlID0gSW1hZ2VVdGlscy5yYXdUb0J1ZmZlcmVkKHJhd0ltYWdlKTsK</text>
+        <text encoding="base64">ICA8cmVwb3NpdG9yaWVzPgogICAgPHJlcG9zaXRvcnk+CiAgICAgIDxpZD5hcGFjaGUuc25hcHNob3RzPC9pZD4KICAgICAgPG5hbWU+QXBhY2hlIERldmVsb3BtZW50IFNuYXBzaG90IFJlcG9zaXRvcnk8L25hbWU+CiAgICAgIDx1cmw+aHR0cHM6Ly9yZXBvc2l0b3J5LmFwYWNoZS5vcmcvY29udGVudC9yZXBvc2l0b3JpZXMvc25hcHNob3RzLzwvdXJsPgogICAgICA8cmVsZWFzZXM+CiAgICAgICAgPGVuYWJsZWQ+ZmFsc2U8L2VuYWJsZWQ+CiAgICAgIDwvcmVsZWFzZXM+CiAgICAgIDxzbmFwc2hvdHM+CiAgICAgICAgPGVuYWJsZWQ+dHJ1ZTwvZW5hYmxlZD4KICAgICAgPC9zbmFwc2hvdHM+CiAgICA8L3JlcG9zaXRvcnk+CiAgPC9yZXBvc2l0b3JpZXM+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBieXRlW10gYSA9IG5ldyBieXRlWzEwMjRdOwo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmNvbW1vbnM8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtaW1hZ2luZzwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+MS4wLVNOQVBTSE9UPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZVN0YWNrLmFkZFNsaWNlKG5ldyBCeXRlUHJvY2Vzc29yKGltYWdlLmdldFdpZHRoKCksIGltYWdlLmdldEhlaWdodCgpLCBpbWFnZS5nZXREYXRhKCkuZ2V0UGl4ZWwoMCwgMCxhKSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBhID0gbmV3IGludFtde307Cg==</text>
+        <text encoding="base64">ICA8cmVwb3NpdG9yeT4KICAgIDxpZD5hcGFjaGUuc25hcHNob3RzPC9pZD4KICAgIDxuYW1lPkFwYWNoZSBEZXZlbG9wbWVudCBTbmFwc2hvdCBSZXBvc2l0b3J5PC9uYW1lPgogICAgPHVybD5odHRwczovL3JlcG9zaXRvcnkuYXBhY2hlLm9yZy9jb250ZW50L3JlcG9zaXRvcmllcy9zbmFwc2hvdHMvPC91cmw+CiAgICA8cmVsZWFzZXM+CiAgICAgIDxlbmFibGVkPmZhbHNlPC9lbmFibGVkPgogICAgPC9yZWxlYXNlcz4KICAgIDxzbmFwc2hvdHM+CiAgICAgIDxlbmFibGVkPnRydWU8L2VuYWJsZWQ+CiAgICA8L3NuYXBzaG90cz4KICA8L3JlcG9zaXRvcnk+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBCeXRlQXJyYXlPdXRwdXRTdHJlYW0gYnl0ZUFycmF5T3V0cHV0U3RyZWFtID0gbmV3IEJ5dGVBcnJheU91dHB1dFN0cmVhbSgpOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIEltYWdlSU8ud3JpdGUoaW1hZ2UsICJqcGciLCBieXRlQXJyYXlPdXRwdXRTdHJlYW0pOwogICAgICAgICAgICBieXRlQXJyYXlPdXRwdXRTdHJlYW0uZmx1c2goKTsKICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmNvbW1vbnM8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtaW1hZ2luZzwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+MS4wLVNOQVBTSE9UPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZS5yZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBieXRlQXJyYXlPdXRwdXRTdHJlYW0K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmxhYmVsLmFkZChpbWFnZUljb24pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZVBsdXMuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -420,7 +425,6 @@
         <entry>waq</entry>
         <entry>qa!</entry>
         <entry>%s/images/image/g</entry>
-        <entry>qa</entry>
         <entry>Wq</entry>
         <entry>?w</entry>
         <entry>q!</entry>
@@ -432,6 +436,7 @@
         <entry>wq</entry>
         <entry>we</entry>
         <entry>W</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
