@@ -92,12 +92,12 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="15" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Client.java" timestamp="1530682917480">
+      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Client.java" timestamp="1530684054005">
         <mark key="'" line="87" column="0" />
-        <mark key="[" line="110" column="36" />
-        <mark key="]" line="110" column="36" />
-        <mark key="." line="110" column="36" />
-        <mark key="^" line="110" column="36" />
+        <mark key="[" line="117" column="45" />
+        <mark key="]" line="117" column="45" />
+        <mark key="." line="117" column="45" />
+        <mark key="^" line="117" column="45" />
       </file>
       <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net.ddns.dzy.net/GameServer.java" timestamp="1530449051874">
         <mark key="'" line="20" column="24" />
@@ -138,7 +138,7 @@
         <mark key="." line="28" column="24" />
         <mark key="^" line="28" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/ImageUtils.java" timestamp="1530682855646">
+      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/ImageUtils.java" timestamp="1530684101957">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -168,6 +168,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.8.RELEASE/33fd91acb8935df722e05e0870a683ac1d3076a7/spring-data-commons-2.0.8.RELEASE-sources.jar!/org/springframework/data/domain/Slice.java" timestamp="1529461873497">
         <mark key="'" line="75" column="49" />
       </file>
+      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/com/sun/imageio/plugins/jpeg/JPEGImageReader.java" timestamp="1530684080085" />
       <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/ddmlib/Demo.java" timestamp="1530607397817">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="17" column="20" />
@@ -383,17 +384,17 @@
       <jump line="84" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Client.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBCdWZmZXJlZEltYWdlIGltYWdlID0gcmF3VG9CdWZmZXJlZChyYXdJbWFnZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>bitmapToImage(bytes, &quot;jpeg&quot;);</text>
       </register>
       <register name="-" type="4">
-        <text>rawImage</text>
+        <text>bitmapToImage(bytes, &quot;jpeg&quot;);</text>
       </register>
       <register name="/" type="4">
         <text>reader</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBzYXZlSW1hZ2UoUmF3SW1hZ2UgcmF3SW1hZ2UsIFN0cmluZyBmaWxlUGF0aCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgQnVmZmVyZWRJbWFnZSBpbWFnZSA9IHJhd1RvQnVmZmVyZWQocmF3SW1hZ2UpOwogICAgICAgIFN0cmluZ1tdICAgICAgd3JpdGVyRm9ybWF0TmFtZXMgPSBJbWFnZUlPLmdldFdyaXRlckZvcm1hdE5hbWVzKCk7CiAgICAgICAgU3RyaW5nICAgICAgICBmb3JtYXRuYW1lID0gZmlsZVBhdGguc3Vic3RyaW5nKGZpbGVQYXRoLmxhc3RJbmRleE9mKCIuIikrMSk7CiAgICAgICAgQXJyYXlzLnN0cmVhbSh3cml0ZXJGb3JtYXROYW1lcykKICAgICAgICAgICAgICAgIC5maWx0ZXIocyAtPiBzLmVxdWFscyhmb3JtYXRuYW1lKSkKICAgICAgICAgICAgICAgIC5maW5kRmlyc3QoKQogICAgICAgICAgICAgICAgLm9yRWxzZVRocm93KCgpIC0+IG5ldyBFeGNlcHRpb24oIuaXoOazleS/neWtmOS4uiIrIGZpbGVQYXRoKSk7CiAgICAgICAgSW1hZ2VJTy53cml0ZShpbWFnZSwgZm9ybWF0bmFtZSwgbmV3IEZpbGUoZmlsZVBhdGgpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuaWh+S7tuS/neWtmOWIsCIgKyBmaWxlUGF0aCk7CiAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIEJ5dGVBcnJheUlucHV0U3RyZWFtIGluYiAgICAgICAgPSBuZXcgQnl0ZUFycmF5SW5wdXRTdHJlYW0oZGF0YSk7Ci8vICAgICAgICBJbWFnZVJlYWRlciAgICAgICAgICByZHIgICAgICAgID0gKEltYWdlUmVhZGVyKSBJbWFnZUlPLmdldEltYWdlUmVhZGVyc0J5Rm9ybWF0TmFtZShmb3JtYXQpLm5leHQoKTsKLy8gICAgICAgIEltYWdlSW5wdXRTdHJlYW0gICAgIGltYWdlSW5wdXQgPSBJbWFnZUlPLmNyZWF0ZUltYWdlSW5wdXRTdHJlYW0oaW5iKTsKLy8gICAgICAgIHJkci5zZXRJbnB1dChpbWFnZUlucHV0KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBCdWZmZXJlZEltYWdlIGltYWdlID0gcmF3VG9CdWZmZXJlZChyYXdJbWFnZSk7Cg==</text>
