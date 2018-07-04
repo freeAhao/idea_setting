@@ -67,11 +67,11 @@
       <file name="$MAVEN_REPOSITORY$/com/android/tools/ddms/ddmlib/25.3.0/ddmlib-25.3.0-sources.jar!/com/android/ddmlib/RawImage.java" timestamp="1530588427475">
         <mark key="'" line="45" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/Server.java" timestamp="1530673225066">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="7" column="18" />
-        <mark key="." line="7" column="18" />
-        <mark key="^" line="7" column="18" />
+      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/Server.java" timestamp="1530674473341">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="101" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="28" column="39" />
       </file>
       <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Render.java" timestamp="1530624686605">
         <mark key="'" line="32" column="43" />
@@ -92,11 +92,11 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="15" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Client.java" timestamp="1530671555440">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-        <mark key="^" line="89" column="15" />
+      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Client.java" timestamp="1530676314965">
+        <mark key="[" line="102" column="41" />
+        <mark key="]" line="103" column="25" />
+        <mark key="." line="103" column="25" />
+        <mark key="^" line="103" column="25" />
       </file>
       <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net.ddns.dzy.net/GameServer.java" timestamp="1530449051874">
         <mark key="'" line="20" column="24" />
@@ -119,11 +119,11 @@
         <mark key="." line="112" column="42" />
         <mark key="^" line="112" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/Client.java" timestamp="1530673164219">
-        <mark key="[" line="33" column="34" />
-        <mark key="]" line="33" column="37" />
-        <mark key="." line="33" column="37" />
-        <mark key="^" line="33" column="37" />
+      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/Client.java" timestamp="1530674795474">
+        <mark key="[" line="37" column="42" />
+        <mark key="]" line="38" column="36" />
+        <mark key="." line="38" column="36" />
+        <mark key="^" line="38" column="36" />
       </file>
       <file name="$USER_HOME$/dev/tmp/game-server/pom.xml" timestamp="1530601753709">
         <mark key="[" line="29" column="0" />
@@ -381,47 +381,47 @@
       <jump line="91" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Client.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTQo=</text>
+      <register name="&quot;" type="4">
+        <text>创建</text>
       </register>
       <register name="-" type="4">
-        <text>=null</text>
+        <text>创建</text>
       </register>
       <register name="/" type="4">
         <text>socket</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh3cml0ZXI9PW51bGwpewogICAgICAgICAgICAgICAgICAgIHdyaXRlciA9IG5ldyBCdWZmZXJlZFdyaXRlcihuZXcgT3V0cHV0U3RyZWFtV3JpdGVyKHNvY2tldC5nZXRPdXRwdXRTdHJlYW0oKSkpOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXBBZGRyZXNzID0gSW5ldEFkZHJlc3MuZ2V0QnlOYW1lKCIxOTIuMTY4LjMxLjEzOSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlci53cml0ZSgicGluZyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0cmltCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE91dHB1dFN0cmVhbSBvdXRwdXRTdHJlYW0gPSBzb2NrZXQuZ2V0T3V0cHV0U3RyZWFtKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE91dHB1dFN0cmVhbSBvdXRwdXRTdHJlYW0gPSBzb2NrZXQuZ2V0T3V0cHV0U3RyZWFtKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInNlbmQgaGVsbG8iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY2l2ZU1lc3NhZ2UoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBpbmdQb25nKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgcGluZ1BvbmcoKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIHdyaXRlci5wcmludGxuKCJwaW5nIik7CiAgICAgICAgd3JpdGVyLmZsdXNoKCk7CiAgICAgICAgU3RyaW5nIHJlcyA9IHJlYWRlci5yZWFkTGluZSgpLnRyaW0oKTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ5dGVbXSBieXRlcyA9ICJoZWxsbyIuZ2V0Qnl0ZXMoKTsKICAgICAgICAgICAgICAgIERhdGFncmFtUGFja2V0IHBhY2tldCA9IG5ldyBEYXRhZ3JhbVBhY2tldChieXRlcywgYnl0ZXMubGVuZ3RoLCBpcEFkZHJlc3MsIDIyMjIyKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVzLmVxdWFsc0lnbm9yZUNhc2UoInBvbmciKSl7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzb2NrZXQuc2VuZChwYWNrZXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
