@@ -92,12 +92,12 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="15" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Client.java" timestamp="1530681540439">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="100" column="47" />
-        <mark key="]" line="101" column="37" />
-        <mark key="." line="101" column="37" />
-        <mark key="^" line="101" column="37" />
+      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Client.java" timestamp="1530682917480">
+        <mark key="'" line="87" column="0" />
+        <mark key="[" line="110" column="36" />
+        <mark key="]" line="110" column="36" />
+        <mark key="." line="110" column="36" />
+        <mark key="^" line="110" column="36" />
       </file>
       <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net.ddns.dzy.net/GameServer.java" timestamp="1530449051874">
         <mark key="'" line="20" column="24" />
@@ -138,11 +138,12 @@
         <mark key="." line="28" column="24" />
         <mark key="^" line="28" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/ImageUtils.java" timestamp="1530619727837">
+      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/ImageUtils.java" timestamp="1530682855646">
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="16" column="63" />
-        <mark key="]" line="16" column="63" />
-        <mark key="." line="16" column="63" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="44" column="51" />
       </file>
       <file name="$USER_HOME$/dev/tmp/http-client-demo/build.gradle" timestamp="1529448065406">
         <mark key="[" line="13" column="14" />
@@ -382,47 +383,47 @@
       <jump line="84" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Client.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>BufferedInputStream</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBCdWZmZXJlZEltYWdlIGltYWdlID0gcmF3VG9CdWZmZXJlZChyYXdJbWFnZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>BufferedInputStream</text>
+        <text>rawImage</text>
       </register>
       <register name="/" type="4">
         <text>reader</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXBBZGRyZXNzID0gSW5ldEFkZHJlc3MuZ2V0QnlOYW1lKCIxOTIuMTY4LjMxLjEzOSIpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBzYXZlSW1hZ2UoUmF3SW1hZ2UgcmF3SW1hZ2UsIFN0cmluZyBmaWxlUGF0aCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgQnVmZmVyZWRJbWFnZSBpbWFnZSA9IHJhd1RvQnVmZmVyZWQocmF3SW1hZ2UpOwogICAgICAgIFN0cmluZ1tdICAgICAgd3JpdGVyRm9ybWF0TmFtZXMgPSBJbWFnZUlPLmdldFdyaXRlckZvcm1hdE5hbWVzKCk7CiAgICAgICAgU3RyaW5nICAgICAgICBmb3JtYXRuYW1lID0gZmlsZVBhdGguc3Vic3RyaW5nKGZpbGVQYXRoLmxhc3RJbmRleE9mKCIuIikrMSk7CiAgICAgICAgQXJyYXlzLnN0cmVhbSh3cml0ZXJGb3JtYXROYW1lcykKICAgICAgICAgICAgICAgIC5maWx0ZXIocyAtPiBzLmVxdWFscyhmb3JtYXRuYW1lKSkKICAgICAgICAgICAgICAgIC5maW5kRmlyc3QoKQogICAgICAgICAgICAgICAgLm9yRWxzZVRocm93KCgpIC0+IG5ldyBFeGNlcHRpb24oIuaXoOazleS/neWtmOS4uiIrIGZpbGVQYXRoKSk7CiAgICAgICAgSW1hZ2VJTy53cml0ZShpbWFnZSwgZm9ybWF0bmFtZSwgbmV3IEZpbGUoZmlsZVBhdGgpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuaWh+S7tuS/neWtmOWIsCIgKyBmaWxlUGF0aCk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQml0bWFwCg==</text>
+        <text encoding="base64">ICAgICAgICBCdWZmZXJlZEltYWdlIGltYWdlID0gcmF3VG9CdWZmZXJlZChyYXdJbWFnZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQml0bWFwRGVjb2RlciBiaXRtYXBEZWNvZGVyID0gbmV3IEJpdG1hcERlY29kZXIoKTsKICAgICAgICAgICAgYml0bWFwRGVjb2Rlci4K</text>
+        <text encoding="base64">ICAgICAgICBieXRlW10gZGF0YSA9IG5ldyBieXRlWzEwMjRdOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBtZXNzYWdlID0gcmVhZGVyLnJlYWRMaW5lKCkudHJpbSgpOwovLyAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihtZXNzYWdlKTsKICAgICAgICAgICAgSW1hZ2VJbnB1dFN0cmVhbSBpbWFnZUlucHV0U3RyZWFtID0gSW1hZ2VJTy5jcmVhdGVJbWFnZUlucHV0U3RyZWFtKHJlYWRlci5yZWFkKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxMDAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VJbnB1dFN0cmVhbS5yZWFkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cmltCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVhZGVyLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY2l2ZU1lc3NhZ2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBJbWFnZUlvLmNyZWF0ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
