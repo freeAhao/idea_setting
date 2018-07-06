@@ -17,10 +17,10 @@
         <mark key="." line="47" column="32" />
         <mark key="^" line="47" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Image2Ascii.java" timestamp="1530605446703">
+      <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Image2Ascii.java" timestamp="1530847600479">
         <mark key="'" line="26" column="24" />
-        <mark key="[" line="101" column="35" />
-        <mark key="]" line="101" column="59" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="73" column="18" />
         <mark key="^" line="101" column="59" />
         <mark key="." line="101" column="59" />
       </file>
@@ -50,8 +50,6 @@
         <mark key="." line="48" column="15" />
         <mark key="^" line="48" column="15" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/android/tools/ddms/ddmlib/25.3.0/ddmlib-25.3.0-sources.jar!/com/android/ddmlib/AdbHelper.java" timestamp="1530665392120" />
-      <file name="$MAVEN_REPOSITORY$/com/android/tools/ddms/ddmlib/25.3.0/ddmlib-25.3.0-sources.jar!/com/android/ddmlib/IDevice.java" timestamp="1530665174691" />
       <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/game/Game.java" timestamp="1530448952480">
         <mark key="[" line="38" column="48" />
         <mark key="]" line="38" column="48" />
@@ -63,7 +61,6 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/android/tools/ddms/ddmlib/25.3.0/ddmlib-25.3.0-sources.jar!/com/android/ddmlib/Device.java" timestamp="1530665365880" />
       <file name="$MAVEN_REPOSITORY$/com/android/tools/ddms/ddmlib/25.3.0/ddmlib-25.3.0-sources.jar!/com/android/ddmlib/RawImage.java" timestamp="1530588427475">
         <mark key="'" line="45" column="29" />
       </file>
@@ -168,7 +165,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.8.RELEASE/33fd91acb8935df722e05e0870a683ac1d3076a7/spring-data-commons-2.0.8.RELEASE-sources.jar!/org/springframework/data/domain/Slice.java" timestamp="1529461873497">
         <mark key="'" line="75" column="49" />
       </file>
-      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/com/sun/imageio/plugins/jpeg/JPEGImageReader.java" timestamp="1530684080085" />
       <file name="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/ddmlib/Demo.java" timestamp="1530607397817">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="17" column="20" />
@@ -384,8 +380,8 @@
       <jump line="84" column="0" filename="$USER_HOME$/dev/tmp/game-server/src/main/java/net/ddns/dzy/image/Client.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>bitmapToImage(bytes, &quot;jpeg&quot;);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyID0gIiAiOwogICAgICAgIGlmIChnID49IDI0MCkgewogICAgICAgICAgICBzdHIgPSAiQCI7CiAgICAgICAgfSBlbHNlIGlmIChnID49IDIxMCkgewogICAgICAgICAgICBzdHIgPSAiIyI7CiAgICAgICAgfSBlbHNlIGlmIChnID49IDE5MCkgewogICAgICAgICAgICBzdHIgPSAiOCI7CiAgICAgICAgfSBlbHNlIGlmIChnID49IDE3MCkgewogICAgICAgICAgICBzdHIgPSAiKyI7CiAgICAgICAgfSBlbHNlIGlmIChnID49IDEyMCkgewogICAgICAgICAgICBzdHIgPSAiJiI7CiAgICAgICAgfSBlbHNlIGlmIChnID49IDExMCkgewogICAgICAgICAgICBzdHIgPSAiXiI7CiAgICAgICAgfSBlbHNlIGlmIChnID49IDgwKSB7CiAgICAgICAgICAgIHN0ciA9ICIqIjsKICAgICAgICB9IGVsc2UgaWYgKGcgPj0gNjApIHsKICAgICAgICAgICAgc3RyID0gIi4iOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHN0ciA9ICIgIjsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHN0cjsK</text>
       </register>
       <register name="-" type="4">
         <text>bitmapToImage(bytes, &quot;jpeg&quot;);</text>
@@ -394,7 +390,7 @@
         <text>reader</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEJ5dGVBcnJheUlucHV0U3RyZWFtIGluYiAgICAgICAgPSBuZXcgQnl0ZUFycmF5SW5wdXRTdHJlYW0oZGF0YSk7Ci8vICAgICAgICBJbWFnZVJlYWRlciAgICAgICAgICByZHIgICAgICAgID0gKEltYWdlUmVhZGVyKSBJbWFnZUlPLmdldEltYWdlUmVhZGVyc0J5Rm9ybWF0TmFtZShmb3JtYXQpLm5leHQoKTsKLy8gICAgICAgIEltYWdlSW5wdXRTdHJlYW0gICAgIGltYWdlSW5wdXQgPSBJbWFnZUlPLmNyZWF0ZUltYWdlSW5wdXRTdHJlYW0oaW5iKTsKLy8gICAgICAgIHJkci5zZXRJbnB1dChpbWFnZUlucHV0KTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyID0gIiAiOwogICAgICAgIGlmIChnID49IDI0MCkgewogICAgICAgICAgICBzdHIgPSAiQCI7CiAgICAgICAgfSBlbHNlIGlmIChnID49IDIxMCkgewogICAgICAgICAgICBzdHIgPSAiIyI7CiAgICAgICAgfSBlbHNlIGlmIChnID49IDE5MCkgewogICAgICAgICAgICBzdHIgPSAiOCI7CiAgICAgICAgfSBlbHNlIGlmIChnID49IDE3MCkgewogICAgICAgICAgICBzdHIgPSAiKyI7CiAgICAgICAgfSBlbHNlIGlmIChnID49IDEyMCkgewogICAgICAgICAgICBzdHIgPSAiJiI7CiAgICAgICAgfSBlbHNlIGlmIChnID49IDExMCkgewogICAgICAgICAgICBzdHIgPSAiXiI7CiAgICAgICAgfSBlbHNlIGlmIChnID49IDgwKSB7CiAgICAgICAgICAgIHN0ciA9ICIqIjsKICAgICAgICB9IGVsc2UgaWYgKGcgPj0gNjApIHsKICAgICAgICAgICAgc3RyID0gIi4iOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHN0ciA9ICIgIjsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHN0cjsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBCdWZmZXJlZEltYWdlIGltYWdlID0gcmF3VG9CdWZmZXJlZChyYXdJbWFnZSk7Cg==</text>
