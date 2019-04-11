@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/java/com/haichuang/teacher/util/Result.java" timestamp="1554887096800" />
       <file name="/ysorg.op [ysorg@localhost]" timestamp="1554797795700">
         <mark key="[" line="0" column="0" />
       </file>
@@ -13,16 +12,12 @@
         <mark key="." line="11" column="17" />
         <mark key="^" line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/java/com/haichuang/teacher/model/ExamQuestionDetail.java" timestamp="1554883845595" />
       <file name="/ysorg.member [ysorg@localhost]" timestamp="1554797793726">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/java/com/haichuang/teacher/dao/ExamQuestionDetailMapper.java" timestamp="1554883792574" />
       <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/pom.xml" timestamp="1554884710806">
         <mark key="'" line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/java/com/haichuang/teacher/config/MVCConfiguration.java" timestamp="1554886121745" />
-      <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/webapp/js/index.js" timestamp="1554887165007" />
       <file name="/a.sql" timestamp="1554797813080">
         <mark key="[" line="0" column="0" />
       </file>
@@ -42,11 +37,10 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/java/com/haichuang/teacher/controller/mgr/SetController.java" timestamp="1554886944574" />
       <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/webapp/index.html" timestamp="1554886807229">
         <mark key="'" line="175" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/java/com/haichuang/teacher/model/ExamQuestion.java" timestamp="1554883918107" />
+      <file name="$USER_HOME$/Documents/ys易尚/易尚教育(过啦啦)/guolala0403/admin_guolala_net/index.php" timestamp="1554948448171" />
       <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/java/com/haichuang/teacher/controller/mgr/QuestionController.java" timestamp="1554886202849">
         <mark key="'" line="314" column="0" />
       </file>
@@ -60,7 +54,6 @@
       <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/webapp/login.html" timestamp="1554430437163">
         <mark key="'" line="121" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/java/com/haichuang/teacher/service/impl/QuestionSvc.java" timestamp="1554883789221" />
       <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/java/com/haichuang/teacher/filter/MemberLoginFilter.java" timestamp="1554886274444">
         <mark key="[" line="24" column="69" />
         <mark key="]" line="25" column="7" />
@@ -72,8 +65,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/java/com/haichuang/teacher/dao/mapper/PointMapper.xml" timestamp="1554883751317" />
-      <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/java/com/haichuang/teacher/dao/mapper/ExamQuestionDetailMapper.xml" timestamp="1554883826340" />
       <file name="/fragment.java" timestamp="1554884562451">
         <mark key="[" line="0" column="0" />
       </file>
