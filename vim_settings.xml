@@ -9,8 +9,17 @@
       <file name="/ysorg.op [ysorg@localhost]" timestamp="1554797795700">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cde018f6-8dc6-45e1-92c7-6bc8e8416819/console_5.sql" timestamp="1556009889656">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/java/com/haichuang/teacher/controller/mgr/MemberController.java" timestamp="1555641007942">
         <mark key="'" line="105" column="0" />
+      </file>
+      <file name="/exam_question_detail [teacher@localhost]" timestamp="1556008332931">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/test_exam [teacher@localhost]" timestamp="1555636588498">
         <mark key="[" line="0" column="0" />
@@ -27,7 +36,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="22" />
       </file>
-      <file name="/teacher.exam_question_detail [teacher@localhost]" timestamp="1556003174424">
+      <file name="/teacher.exam_question_detail [teacher@localhost]" timestamp="1556008862499">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/ysorg.member [ysorg@localhost]" timestamp="1554797793726">
@@ -56,7 +65,7 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/dummy.sql" timestamp="1556006125744">
+      <file name="/dummy.sql" timestamp="1556009766981">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/webapp/js/lib/distpicker.data.js" timestamp="1555642289489">
@@ -64,10 +73,13 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="4020" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1556003199341">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1556009720322">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
+      </file>
+      <file name="/teacher.exam_question [teacher@localhost]" timestamp="1556008837688">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1554884562567">
         <mark key="[" line="0" column="0" />
@@ -78,7 +90,7 @@
       <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/webapp/index.html" timestamp="1554886807229">
         <mark key="'" line="175" column="69" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cde018f6-8dc6-45e1-92c7-6bc8e8416819/console_3.sql" timestamp="1556006094030">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cde018f6-8dc6-45e1-92c7-6bc8e8416819/console_3.sql" timestamp="1556008351825">
         <mark key="[" line="0" column="46" />
         <mark key="]" line="0" column="44" />
         <mark key="^" line="0" column="44" />
@@ -93,11 +105,20 @@
       <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/java/com/haichuang/teacher/controller/mgr/QuestionController.java" timestamp="1555391759599">
         <mark key="'" line="158" column="18" />
       </file>
+      <file name="/teacher.test_exam_question [teacher@localhost]" timestamp="1556009766879">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/java/com/haichuang/teacher/controller/mgr/OpController.java" timestamp="1555318410209">
         <mark key="'" line="51" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/webapp/login.html" timestamp="1554430437163">
         <mark key="'" line="121" column="27" />
+      </file>
+      <file name="/teacher.exam_config [teacher@localhost]" timestamp="1556008565498">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cde018f6-8dc6-45e1-92c7-6bc8e8416819/console_4.sql" timestamp="1556009584959">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/java/com/haichuang/teacher/controller/mgr/CourseController.java" timestamp="1555318467592">
         <mark key="'" line="91" column="48" />
@@ -105,7 +126,7 @@
       <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/java/com/haichuang/teacher/dao/mapper/SubjectMapper.xml" timestamp="1555475193262">
         <mark key="'" line="22" column="36" />
       </file>
-      <file name="/teacher.test_exam [teacher@localhost]" timestamp="1555480020598">
+      <file name="/teacher.test_exam [teacher@localhost]" timestamp="1556008987437">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/teacher.area [teacher@localhost]" timestamp="1555642973124">
@@ -225,10 +246,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>post</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>post</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>511682</text>
