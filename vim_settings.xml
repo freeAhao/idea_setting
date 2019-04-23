@@ -15,7 +15,6 @@
       <file name="/test_exam [teacher@localhost]" timestamp="1555636588498">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/java/com/haichuang/teacher/dao/mapper/AreaMapper.xml" timestamp="1555641404904" />
       <file name="/teacher.subject [teacher@localhost]" timestamp="1555475200223">
         <mark key="[" line="0" column="0" />
       </file>
@@ -27,6 +26,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="22" />
+      </file>
+      <file name="/teacher.exam_question_detail [teacher@localhost]" timestamp="1556003174424">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/ysorg.member [ysorg@localhost]" timestamp="1554797793726">
         <mark key="[" line="0" column="0" />
@@ -54,7 +56,7 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/dummy.sql" timestamp="1555643689778">
+      <file name="/dummy.sql" timestamp="1556003177788">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/webapp/js/lib/distpicker.data.js" timestamp="1555642289489">
@@ -62,7 +64,7 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="4020" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1555643218230">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1556003199341">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
@@ -101,7 +103,6 @@
       <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/java/com/haichuang/teacher/dao/mapper/SubjectMapper.xml" timestamp="1555475193262">
         <mark key="'" line="22" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/webapp/page/member/pos-detail.html" timestamp="1555637372035" />
       <file name="/teacher.test_exam [teacher@localhost]" timestamp="1555480020598">
         <mark key="[" line="0" column="0" />
       </file>
