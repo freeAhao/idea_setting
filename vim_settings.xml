@@ -6,6 +6,12 @@
       <file name="/teacher.member [teacher@localhost]" timestamp="1556516316369">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/index.html" timestamp="1557714051732">
+        <mark key="'" line="806" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="/fc8973e0/cde018f6-8dc6-45e1-92c7-6bc8e8416819/schema/teacher/routine/removeDeletedQuestion@().sql" timestamp="1556163109000">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -44,6 +50,12 @@
         <mark key="]" line="34" column="110" />
         <mark key="." line="34" column="110" />
         <mark key="^" line="34" column="110" />
+      </file>
+      <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/.gitignore" timestamp="1557714028415">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="6" column="9" />
+        <mark key="." line="6" column="9" />
+        <mark key="^" line="6" column="9" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cde018f6-8dc6-45e1-92c7-6bc8e8416819/console_6.sql" timestamp="1556161162758">
         <mark key="[" line="0" column="0" />
@@ -170,7 +182,6 @@
       <file name="/area [teacher@localhost]" timestamp="1556431235008">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/java/com/haichuang/teacher/model/MallComm.java" timestamp="1557712934481" />
       <file name="/teacher.addr [teacher@localhost]" timestamp="1556516580506">
         <mark key="[" line="0" column="0" />
       </file>
@@ -185,8 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="325" column="27" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/webapp/index.html" />
-      <jump line="334" column="27" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/webapp/index.html" />
       <jump line="343" column="27" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/webapp/index.html" />
       <jump line="352" column="27" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/webapp/index.html" />
       <jump line="361" column="27" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/webapp/index.html" />
@@ -285,10 +294,12 @@
       <jump line="195" column="0" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/webapp/page/mall/comm-detail.html" />
       <jump line="67" column="38" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/webapp/page/mall/comm-detail.html" />
       <jump line="190" column="100" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/webapp/page/mall/comm-detail.html" />
+      <jump line="81" column="36" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/index.html" />
+      <jump line="806" column="0" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcmV0dXJuIDA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>select deletedtestexamquestions.EXAM_QUESTION_ID from deletedtestexamquestions</text>
@@ -300,34 +311,34 @@
         <text>select deletedtestexamquestions.EXAM_QUESTION_ID from deletedtestexamquestions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcmV0dXJuIDA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlYwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdoZXJlIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ki5pbWwKb3V0Cmdlbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcmV0dXJuIDA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSAK</text>
+        <text encoding="base64">ICAgIGRlYwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlbAo=</text>
+        <text encoding="base64">ICAgIHdoZXJlIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
