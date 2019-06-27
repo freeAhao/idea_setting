@@ -97,10 +97,6 @@
       <file name="/teacher.excercise_record [teacher@localhost]" timestamp="1556160272396">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/tmp/latke-demo/src/main/java/latke/demo/processor/RegisterProcessor.java" timestamp="1558686450211">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="24" column="35" />
-      </file>
       <file name="/teacher.pack_order [teacher@localhost]" timestamp="1556160285503">
         <mark key="[" line="0" column="0" />
       </file>
@@ -125,10 +121,10 @@
       <file name="/teacher.system_code [teacher@localhost]" timestamp="1556160297545">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" timestamp="1561628522533">
+      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" timestamp="1561629659104">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
+        <mark key="[" line="90" column="38" />
+        <mark key="]" line="90" column="493" />
         <mark key="." line="81" column="0" />
         <mark key="^" line="81" column="43" />
       </file>
@@ -153,6 +149,7 @@
         <mark key="." line="52" column="36" />
         <mark key="^" line="52" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/somethingCool/Cknife/ReadMe.txt" timestamp="1561629417159" />
       <file name="/teacher.exam_question_detail [teacher@localhost]" timestamp="1556162128860">
         <mark key="[" line="0" column="0" />
       </file>
@@ -350,8 +347,8 @@
       <jump line="82" column="34" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/model/RightTableModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8JCWNvbmZpZy5zZXRWYWx1ZSgiUEhQX1JFQURESUNUIiwgIlFHbHVhVjl6WlhRb0ltUnBjM0JzWVhsZlpYSnliM0p6SWl3Z0lqQWlLVHNLUUhObGRGOTBhVzFsWDJ4cGJXbDBLREFwT3dvdkwwQnpaWFJmYldGbmFXTmZjWFZ2ZEdWelgzSjFiblJwYldVb01DazdDbVZqYUc4b0lpMCUyYmZDSXBPd29rUkNBOUlHSmhjMlUyTkY5a1pXTnZaR1VvSkY5UVQxTlVXeUo2TVNKZEtUc0tKRVlnUFNCQWIzQmxibVJwY2lna1JDazdDbWxtSUNna1JpQTlQU0JPVlV4TUtTQjdDaUFnSUNCbFkyaHZLQ0pGVWxKUFVqb3ZMeUJRWVhSb0lDSWdMaVJFTGlJZ1RtOTBJRVp2ZFc1a0lFOXlJRTV2SUZCbGNtMXBjM05wYjI0aElpazdDbjBnWld4elpTQjdDaUFnSUNBa1RTQTlJRTVWVEV3N0NpQWdJQ0FrVENBOUlFNVZURXc3Q2lBZ0lDQjNhR2xzWlNBb0pFNGdQU0JBY21WaFpHUnBjaWdrUmlrcElIc0tJQ0FnSUNBZ0lDQWtVQ0E5SUNSRUlDNGdJaThpSUM0Z0pFNDdDaUFnSUNBZ0lDQWdKRlFnUFNCQVpHRjBaU2dpV1MxdExXUWdTRHBwT25NaUxDQkFabWxzWlcxMGFXMWxLQ1JRS1NrN0NpQWdJQ0FnSUNBZ1FDUkZJRDBnYzNWaWMzUnlLR0poYzJWZlkyOXVkbVZ5ZENoQVptbHNaWEJsY20xektDUlFLU3dnTVRBc0lEZ3BMQ0F0TkNrN0NpQWdJQ0FnSUNBZ0pGSWdQU0FpWEhRaUlDNGdKRlFnTGlBaVhIUWlJQzRnUUdacGJHVnphWHBsS0NSUUtTQXVJQ0pjZENJZ0xpQWtSU0F1SUNJZ0lqc0tJQ0FnSUNBZ0lDQnBaaUFvUUdselgyUnBjaWdrVUNrcElDUk5JQzQ5SUNST0lDNGdJaThpSUM0Z0pGSTdDaUFnSUNBZ0lDQWdaV3h6WlNBa1RDQXVQU0FrVGlBdUlDUlNPd29nSUNBZ2ZRb2dJQ0FnWldOb2J5QWtUU0F1SUNSTU93b2dJQ0FnUUdOc2IzTmxaR2x5S0NSR0tUc0tmUXBsWTJodktDSjhQQzBpS1RzS1pHbGxLQ2s3Iik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>QGluaV9zZXQoImRpc3BsYXlfZXJyb3JzIiwiMCIpO0BzZXRfdGltZV9saW1pdCgwKTtAc2V0X21hZ2ljX3F1b3Rlc19ydW50aW1lKDApO2VjaG8oIi0%2BfCIpOzskcD1iYXNlNjRfZGVjb2RlKCRfUE9TVFsiejEiXSk7JHM9YmFzZTY0X2RlY29kZSgkX1BPU1RbInoyIl0pOyRkPWRpcm5hbWUoJF9TRVJWRVJbIlNDUklQVF9GSUxFTkFNRSJdKTskYz1zdWJzdHIoJGQsMCwxKT09Ii8iPyItYyBcInskc31cIiI6Ii9jIFwieyRzfVwiIjskcj0ieyRwfSB7JGN9IjtAc3lzdGVtKCRyLiIgMj4mMSIsJHJldCk7cHJpbnQgKCRyZXQhPTApPyIKcmV0PXskcmV0fQoiOiIiOztlY2hvKCJ8PC0iKTtkaWUoKTs%3D</text>
       </register>
       <register name="-" type="4">
         <text>QGluaV9zZXQoImRpc3BsYXlfZXJyb3JzIiwgIjAiKTsKQHNldF90aW1lX2xpbWl0KDApOwplY2hvKCItPnwiKTsKJEQgPSBiYXNlNjRfZGVjb2RlKCRfUE9TVFsiejEiXSk7CiRGID0gQG9wZW5kaXIoJEQpOwppZiAoJEYgPT0gTlVMTCkgewogICAgZWNobygiRVJST1I6Ly8gUGF0aCAiIC4gJEQgLiAiIE5vdCBGb3VuZCBPciBObyBQZXJtaXNzaW9uISIpOwp9IGVsc2UgewogICAgJE0gPSBOVUxMOwogICAgJEwgPSBOVUxMOwogICAgd2hpbGUgKCROID0gQHJlYWRkaXIoJEYpKSB7CiAgICAgICAgJFAgPSAkRCAuICIvIiAuICROOwogICAgICAgICRUID0gQGRhdGUoIlktbS1kIEg6aTpzIiwgQGZpbGVtdGltZSgkUCkpOwogICAgICAgIEAkRSA9IHN1YnN0cihiYXNlX2NvbnZlcnQoQGZpbGVwZXJtcygkUCksIDEwLCA4KSwgLTQpOwogICAgICAgICRSID0gIlx0IiAuICRUIC4gIlx0IiAuIEBmaWxlc2l6ZSgkUCkgLiAiXHQiIC4gJEUgLiAiXG4iIC4gIiAiOwogICAgICAgIGlmIChAaXNfZGlyKCRQKSkgJE0gLj0gJE4gLiAiLyIgLiAkUjsKICAgICAgICBlbHNlICRMIC49ICROIC4gJFI7CiAgICB9CiAgICBlY2hvICRNIC4gJEw7CiAgICBAY2xvc2VkaXIoJEYpOwp9CmVjaG8oInw8LSIpOwpkaWUoKTs%3d</text>
