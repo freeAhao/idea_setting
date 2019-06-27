@@ -118,12 +118,12 @@
       <file name="/teacher.system_code [teacher@localhost]" timestamp="1556160297545">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" timestamp="1561615403412">
+      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" timestamp="1561616986850">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="80" column="41" />
-        <mark key="]" line="80" column="682" />
-        <mark key="." line="77" column="42" />
-        <mark key="^" line="79" column="37" />
+        <mark key="[" line="81" column="41" />
+        <mark key="]" line="81" column="913" />
+        <mark key="." line="81" column="41" />
+        <mark key="^" line="81" column="40" />
       </file>
       <file name="/teacher.pos [teacher@localhost]" timestamp="1556516282512">
         <mark key="[" line="0" column="0" />
@@ -162,7 +162,7 @@
       <file name="/a.sql" timestamp="1556516236855">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/somethingCool/Cknife/Config.ini" timestamp="1561614967980">
+      <file name="$USER_HOME$/workspace/somethingCool/Cknife/Config.ini" timestamp="1561617296586">
         <mark key="'" line="45" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/README.md" timestamp="1557732287535">
@@ -337,17 +337,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJcHJpbnQK</text>
+      <register name="&quot;" type="4">
+        <text>QGluaV9zZXQoImRpc3BsYXlfZXJyb3JzIiwiMCIpO0BzZXRfdGltZV9saW1pdCgwKTtAc2V0X21hZ2ljX3F1b3Rlc19ydW50aW1lKDApO2VjaG8oIi0%2BfCIpOzskRD1iYXNlNjRfZGVjb2RlKCRfUE9TVFsiejEiXSk7JEY9QG9wZW5kaXIoJEQpO2lmKCRGPT1OVUxMKXtlY2hvKCJFUlJPUjovLyBQYXRoIE5vdCBGb3VuZCBPciBObyBQZXJtaXNzaW9uISIpO31lbHNleyRNPU5VTEw7JEw9TlVMTDt3aGlsZSgkTj1AcmVhZGRpcigkRikpeyRQPSRELiIvIi4kTjskVD1AZGF0ZSgiWS1tLWQgSDppOnMiLEBmaWxlbXRpbWUoJFApKTtAJEU9c3Vic3RyKGJhc2VfY29udmVydChAZmlsZXBlcm1zKCRQKSwxMCw4KSwtNCk7JFI9Ilx0Ii4kVC4iXHQiLkBmaWxlc2l6ZSgkUCkuIlx0Ii4kRS4iCiI7aWYoQGlzX2RpcigkUCkpJE0uPSROLiIvIi4kUjtlbHNlICRMLj0kTi4kUjt9ZWNobyAkTS4kTDtAY2xvc2VkaXIoJEYpO307ZWNobygifDwtIik7ZGllKCk7</text>
       </register>
       <register name="-" type="4">
-        <text>\u0001</text>
+        <text>QGluaV9zZXQoImRpc3BsYXlfZXJyb3JzIiwiMCIpO0BzZXRfdGltZV9saW1pdCgwKTtAc2V0X21hZ2ljX3F1b3Rlc19ydW50aW1lKDApO2VjaG8oIi0%2BfCIpOzskRD1iYXNlNjRfZGVjb2RlKCRfUE9TVFsiejEiXSk7JEY9QG9wZW5kaXIoJEQpO2lmKCRGPT1OVUxMKXtlY2hvKCJFUlJPUjovLyBQYXRoIE5vdCBGb3VuZCBPciBObyBQZXJtaXNzaW9uISIpO31lbHNleyRNPU5VTEw7JEw9TlVMTDt3aGlsZSgkTj1AcmVhZGRpcigkRikpeyRQPSRELiIvIi4kTjskVD1AZGF0ZSgiWS1tLWQgSDppOnMiLEBmaWxlbXRpbWUoJFApKTtAJEU9c3Vic3RyKGJhc2VfY29udmVydChAZmlsZXBlcm1zKCRQKSwxMCw4KSwtNCk7JFI9Ilx0Ii4kVC4iXHQiLkBmaWxlc2l6ZSgkUCkuIlx0Ii4kRS4iCiI7aWYoQGlzX2RpcigkUCkpJE0uPSROLiIvIi4kUjtlbHNlICRMLj0kTi4kUjt9ZWNobyAkTS4kTDtAY2xvc2VkaXIoJEYpO307ZWNobygifDwtIik7ZGllKCk7</text>
       </register>
       <register name="/" type="4">
         <text>PHP_READ</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQljb25maWcuc2V0VmFsdWUoIlBIUF9NQUtFIiwgIkBldmFsXHUwMDAxKGJhc2U2NF9kZWNvZGUoJF9QT1NUW2FjdGlvbl0pKTsiKTsK</text>
+        <text encoding="base64">CQljb25maWcuc2V0VmFsdWUoIlBIUF9SRUFERElDVCIsICJRR2x1YVY5elpYUW9JbVJwYzNCc1lYbGZaWEp5YjNKeklpd2lNQ0lwTzBCelpYUmZkR2x0WlY5c2FXMXBkQ2d3S1R0QWMyVjBYMjFoWjJsalgzRjFiM1JsYzE5eWRXNTBhVzFsS0RBcE8yVmphRzhvSWkwJTJCZkNJcE96c2tSRDFpWVhObE5qUmZaR1ZqYjJSbEtDUmZVRTlUVkZzaWVqRWlYU2s3SkVZOVFHOXdaVzVrYVhJb0pFUXBPMmxtS0NSR1BUMU9WVXhNS1h0bFkyaHZLQ0pGVWxKUFVqb3ZMeUJRWVhSb0lFNXZkQ0JHYjNWdVpDQlBjaUJPYnlCUVpYSnRhWE56YVc5dUlTSXBPMzFsYkhObGV5Uk5QVTVWVEV3N0pFdzlUbFZNVER0M2FHbHNaU2drVGoxQWNtVmhaR1JwY2lna1Jpa3BleVJRUFNSRUxpSXZJaTRrVGpza1ZEMUFaR0YwWlNnaVdTMXRMV1FnU0RwcE9uTWlMRUJtYVd4bGJYUnBiV1VvSkZBcEtUdEFKRVU5YzNWaWMzUnlLR0poYzJWZlkyOXVkbVZ5ZENoQVptbHNaWEJsY20xektDUlFLU3d4TUN3NEtTd3ROQ2s3SkZJOUlseDBJaTRrVkM0aVhIUWlMa0JtYVd4bGMybDZaU2drVUNrdUlseDBJaTRrUlM0aUNpSTdhV1lvUUdselgyUnBjaWdrVUNrcEpFMHVQU1JPTGlJdklpNGtVanRsYkhObElDUk1MajBrVGk0a1VqdDlaV05vYnlBa1RTNGtURHRBWTJ4dmMyVmthWElvSkVZcE8zMDdaV05vYnlnaWZEd3RJaWs3WkdsbEtDazciKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJcHJpbnQK</text>
@@ -392,7 +392,7 @@
         <text encoding="base64">Ly8gICAgICAgIGZpbmFsIE1hcDxTdHJpbmcsIE9iamVjdD4gZGF0YU1vZGVsID0gY29udGV4dC5nZXRSZW5kZXJlcigpLmdldFJlbmRlckRhdGFNb2RlbCgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>qa!</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -446,8 +446,8 @@
         <entry>vs</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>qa!</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
