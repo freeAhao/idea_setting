@@ -125,7 +125,7 @@
       <file name="/teacher.system_code [teacher@localhost]" timestamp="1556160297545">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" timestamp="1561627123408">
+      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" timestamp="1561628522533">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
@@ -216,7 +216,7 @@
       <file name="/teacher.order_detail [teacher@localhost]" timestamp="1556160282225">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/ui/MainFrame.java" timestamp="1561626986179">
+      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/ui/MainFrame.java" timestamp="1561628556757">
         <mark key="[" line="12" column="45" />
         <mark key="]" line="12" column="46" />
         <mark key="^" line="12" column="46" />
@@ -459,8 +459,8 @@
         <entry>vs</entry>
         <entry>q</entry>
         <entry>qa!</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
