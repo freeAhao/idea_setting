@@ -32,8 +32,12 @@
         <mark key="." line="58" column="1" />
         <mark key="^" line="58" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" timestamp="1561615714952">
+      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" timestamp="1561620150321">
         <mark key="'" line="141" column="18" />
+        <mark key="[" line="440" column="23" />
+        <mark key="]" line="440" column="23" />
+        <mark key="." line="440" column="23" />
+        <mark key="^" line="440" column="23" />
       </file>
       <file name="/teacher.excercise_book [teacher@localhost]" timestamp="1556160269986">
         <mark key="[" line="0" column="0" />
@@ -118,10 +122,10 @@
       <file name="/teacher.system_code [teacher@localhost]" timestamp="1556160297545">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" timestamp="1561616986850">
+      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" timestamp="1561619177285">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="81" column="41" />
-        <mark key="]" line="81" column="913" />
+        <mark key="]" line="81" column="907" />
         <mark key="." line="81" column="41" />
         <mark key="^" line="81" column="40" />
       </file>
@@ -140,7 +144,7 @@
       <file name="/teacher.teacher [teacher@localhost]" timestamp="1556160306355">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/Common.java" timestamp="1561618041097">
+      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/Common.java" timestamp="1561619167269">
         <mark key="[" line="51" column="66" />
         <mark key="]" line="52" column="36" />
         <mark key="." line="52" column="36" />
@@ -158,7 +162,7 @@
       <file name="/ysorg.member [ysorg@localhost]" timestamp="1554797793726">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/ui/panel/FileManagerPanel.java" timestamp="1561614607031" />
+      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/ui/panel/FileManagerPanel.java" timestamp="1561620219087" />
       <file name="/a.sql" timestamp="1556516236855">
         <mark key="[" line="0" column="0" />
       </file>
@@ -230,7 +234,7 @@
       <file name="/teacher.test_record [teacher@localhost]" timestamp="1556161783550">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1561613181560">
+      <file name="/fragment.java" timestamp="1561619298506">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -338,16 +342,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>QGluaV9zZXQoImRpc3BsYXlfZXJyb3JzIiwiMCIpO0BzZXRfdGltZV9saW1pdCgwKTtAc2V0X21hZ2ljX3F1b3Rlc19ydW50aW1lKDApO2VjaG8oIi0%2BfCIpOzskRD1iYXNlNjRfZGVjb2RlKCRfUE9TVFsiejEiXSk7JEY9QG9wZW5kaXIoJEQpO2lmKCRGPT1OVUxMKXtlY2hvKCJFUlJPUjovLyBQYXRoIE5vdCBGb3VuZCBPciBObyBQZXJtaXNzaW9uISIpO31lbHNleyRNPU5VTEw7JEw9TlVMTDt3aGlsZSgkTj1AcmVhZGRpcigkRikpeyRQPSRELiIvIi4kTjskVD1AZGF0ZSgiWS1tLWQgSDppOnMiLEBmaWxlbXRpbWUoJFApKTtAJEU9c3Vic3RyKGJhc2VfY29udmVydChAZmlsZXBlcm1zKCRQKSwxMCw4KSwtNCk7JFI9Ilx0Ii4kVC4iXHQiLkBmaWxlc2l6ZSgkUCkuIlx0Ii4kRS4iCiI7aWYoQGlzX2RpcigkUCkpJE0uPSROLiIvIi4kUjtlbHNlICRMLj0kTi4kUjt9ZWNobyAkTS4kTDtAY2xvc2VkaXIoJEYpO307ZWNobygifDwtIik7ZGllKCk7</text>
+        <text>this.doAction(&quot;readdict&quot;, path);</text>
       </register>
       <register name="-" type="4">
-        <text>QGluaV9zZXQoImRpc3BsYXlfZXJyb3JzIiwiMCIpO0BzZXRfdGltZV9saW1pdCgwKTtAc2V0X21hZ2ljX3F1b3Rlc19ydW50aW1lKDApO2VjaG8oIi0%2BfCIpOzskRD1iYXNlNjRfZGVjb2RlKCRfUE9TVFsiejEiXSk7JEY9QG9wZW5kaXIoJEQpO2lmKCRGPT1OVUxMKXtlY2hvKCJFUlJPUjovLyBQYXRoIE5vdCBGb3VuZCBPciBObyBQZXJtaXNzaW9uISIpO31lbHNleyRNPU5VTEw7JEw9TlVMTDt3aGlsZSgkTj1AcmVhZGRpcigkRikpeyRQPSRELiIvIi4kTjskVD1AZGF0ZSgiWS1tLWQgSDppOnMiLEBmaWxlbXRpbWUoJFApKTtAJEU9c3Vic3RyKGJhc2VfY29udmVydChAZmlsZXBlcm1zKCRQKSwxMCw4KSwtNCk7JFI9Ilx0Ii4kVC4iXHQiLkBmaWxlc2l6ZSgkUCkuIlx0Ii4kRS4iCiI7aWYoQGlzX2RpcigkUCkpJE0uPSROLiIvIi4kUjtlbHNlICRMLj0kTi4kUjt9ZWNobyAkTS4kTDtAY2xvc2VkaXIoJEYpO307ZWNobygifDwtIik7ZGllKCk7</text>
+        <text>this.doAction(&quot;readdict&quot;, path);</text>
       </register>
       <register name="/" type="4">
         <text>PHP_READ</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQljb25maWcuc2V0VmFsdWUoIlBIUF9SRUFERElDVCIsICJRR2x1YVY5elpYUW9JbVJwYzNCc1lYbGZaWEp5YjNKeklpd2lNQ0lwTzBCelpYUmZkR2x0WlY5c2FXMXBkQ2d3S1R0QWMyVjBYMjFoWjJsalgzRjFiM1JsYzE5eWRXNTBhVzFsS0RBcE8yVmphRzhvSWkwJTJCZkNJcE96c2tSRDFpWVhObE5qUmZaR1ZqYjJSbEtDUmZVRTlUVkZzaWVqRWlYU2s3SkVZOVFHOXdaVzVrYVhJb0pFUXBPMmxtS0NSR1BUMU9WVXhNS1h0bFkyaHZLQ0pGVWxKUFVqb3ZMeUJRWVhSb0lFNXZkQ0JHYjNWdVpDQlBjaUJPYnlCUVpYSnRhWE56YVc5dUlTSXBPMzFsYkhObGV5Uk5QVTVWVEV3N0pFdzlUbFZNVER0M2FHbHNaU2drVGoxQWNtVmhaR1JwY2lna1Jpa3BleVJRUFNSRUxpSXZJaTRrVGpza1ZEMUFaR0YwWlNnaVdTMXRMV1FnU0RwcE9uTWlMRUJtYVd4bGJYUnBiV1VvSkZBcEtUdEFKRVU5YzNWaWMzUnlLR0poYzJWZlkyOXVkbVZ5ZENoQVptbHNaWEJsY20xektDUlFLU3d4TUN3NEtTd3ROQ2s3SkZJOUlseDBJaTRrVkM0aVhIUWlMa0JtYVd4bGMybDZaU2drVUNrdUlseDBJaTRrUlM0aUNpSTdhV1lvUUdselgyUnBjaWdrVUNrcEpFMHVQU1JPTGlJdklpNGtVanRsYkhObElDUk1MajBrVGk0a1VqdDlaV05vYnlBa1RTNGtURHRBWTJ4dmMyVmthWElvSkVZcE8zMDdaV05vYnlnaWZEd3RJaWs3WkdsbEtDazciKTsK</text>
+        <text encoding="base64">CQlTdHJpbmcgdG1wID0gdGhpcy5kb0FjdGlvbigicmVhZGRpY3QiLCBwYXRoKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJcHJpbnQK</text>
