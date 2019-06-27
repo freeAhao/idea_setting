@@ -32,7 +32,7 @@
         <mark key="." line="58" column="1" />
         <mark key="^" line="58" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" timestamp="1561607446743">
+      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" timestamp="1561613304109">
         <mark key="'" line="141" column="18" />
       </file>
       <file name="/teacher.excercise_book [teacher@localhost]" timestamp="1556160269986">
@@ -62,7 +62,7 @@
         <mark key="." line="25" column="32" />
         <mark key="^" line="25" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/Request.java" timestamp="1561604678939" />
+      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/Request.java" timestamp="1561613713505" />
       <file name="/teacher.deletedtestexamquestions [teacher@localhost]" timestamp="1556163253054">
         <mark key="[" line="0" column="0" />
       </file>
@@ -118,12 +118,12 @@
       <file name="/teacher.system_code [teacher@localhost]" timestamp="1556160297545">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" timestamp="1561607777449">
-        <mark key="'" line="77" column="25" />
-        <mark key="[" line="78" column="38" />
-        <mark key="]" line="78" column="713" />
-        <mark key="." line="78" column="38" />
-        <mark key="^" line="78" column="37" />
+      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" timestamp="1561613983473">
+        <mark key="'" line="76" column="23" />
+        <mark key="[" line="77" column="42" />
+        <mark key="]" line="77" column="42" />
+        <mark key="." line="77" column="42" />
+        <mark key="^" line="79" column="37" />
       </file>
       <file name="/teacher.pos [teacher@localhost]" timestamp="1556516282512">
         <mark key="[" line="0" column="0" />
@@ -140,7 +140,7 @@
       <file name="/teacher.teacher [teacher@localhost]" timestamp="1556160306355">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/Common.java" timestamp="1561605677603" />
+      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/Common.java" timestamp="1561613340489" />
       <file name="/teacher.exam_question_detail [teacher@localhost]" timestamp="1556162128860">
         <mark key="[" line="0" column="0" />
       </file>
@@ -153,9 +153,12 @@
       <file name="/ysorg.member [ysorg@localhost]" timestamp="1554797793726">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/ui/panel/FileManagerPanel.java" timestamp="1561604752288" />
+      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/ui/panel/FileManagerPanel.java" timestamp="1561613244709" />
       <file name="/a.sql" timestamp="1556516236855">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/somethingCool/Cknife/Config.ini" timestamp="1561613894422">
+        <mark key="'" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/README.md" timestamp="1557732287535">
         <mark key="[" line="0" column="11" />
@@ -222,13 +225,11 @@
       <file name="/teacher.test_record [teacher@localhost]" timestamp="1556161783550">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1558686507268">
+      <file name="/fragment.java" timestamp="1561613181560">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="306" column="15" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/index_new.html" />
-      <jump line="347" column="17" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/index_new.html" />
       <jump line="23" column="41" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/index_new.html" />
       <jump line="28" column="17" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/page/member/member_new.html" />
       <jump line="188" column="7" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/index_new.html" />
@@ -327,19 +328,21 @@
       <jump line="146" column="18" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" />
       <jump line="148" column="42" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" />
       <jump line="77" column="25" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/somethingCool/Cknife/Config.ini" />
+      <jump line="76" column="23" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>QGluaV9zZXQoImRpc3BsYXlfZXJyb3JzIiwiMCIpOwpAc2V0X3RpbWVfbGltaXQoMCk7Ci8vQHNldF9tYWdpY19xdW90ZXNfcnVudGltZSgwKTsKZWNobygiLT58Iik7CiREPWRpcm5hbWUoJF9TRVJWRVJbIlNDUklQVF9GSUxFTkFNRSJdKTsKaWYoJEQ9PSIiKSREPWRpcm5hbWUoJF9TRVJWRVJbIlBBVEhfVFJBTlNMQVRFRCJdKTsKJFI9InskRH1cdCI7CmlmKHN1YnN0cigkRCwwLDEpIT0iLyIpewogICAgZm9yZWFjaChyYW5nZSgiQSIsIloiKSBhcyAkTCkKICAgICAgICBpZihpc19kaXIoInskTH06IikpCiAgICAgICAgICAgICRSLj0ieyRMfToiOwp9CiRSLj0iXHQiOwokdT0oZnVuY3Rpb25fZXhpc3RzKCdwb3NpeF9nZXRlZ2lkJykpP0Bwb3NpeF9nZXRwd3VpZChAcG9zaXhfZ2V0ZXVpZCgpKTonJzsKJHVzcj0oJHUpPyR1WyduYW1lJ106QGdldF9jdXJyZW50X3VzZXIoKTsKJFIuPXBocF91bmFtZSgpOwokUi49Iih7JHVzcn0pIjsKcHJpbnQgJFI7CmVjaG8oInw8LSIpOwpkaWUoKTsK</text>
+        <text>\u0001</text>
       </register>
       <register name="-" type="4">
-        <text>QGluaV9zZXQoImRpc3BsYXlfZXJyb3JzIiwiMCIpOyBAc2V0X3RpbWVfbGltaXQoMCk7IC8vQHNldF9tYWdpY19xdW90ZXNfcnVudGltZSgwKTsgZWNobygiLT58Iik7ICREPWRpcm5hbWUoJF9TRVJWRVJbIlNDUklQVF9GSUxFTkFNRSJdKTsgaWYoJEQ9PSIiKSREPWRpcm5hbWUoJF9TRVJWRVJbIlBBVEhfVFJBTlNMQVRFRCJdKTsgJFI9InskRH1cdCI7IGlmKHN1YnN0cigkRCwwLDEpIT0iLyIpeyBmb3JlYWNoKHJhbmdlKCJBIiwiWiIpIGFzICRMKSBpZihpc19kaXIoInskTH06IikpICRSLj0ieyRMfToiOyB9ICRSLj0iXHQiOyAkdT0oZnVuY3Rpb25fZXhpc3RzKCdwb3NpeF9nZXRlZ2lkJykpP0Bwb3NpeF9nZXRwd3VpZChAcG9zaXhfZ2V0ZXVpZCgpKTonJzsgJHVzcj0oJHUpPyR1WyduYW1lJ106QGdldF9jdXJyZW50X3VzZXIoKTsgJFIuPXBocF91bmFtZSgpOyAkUi49Iih7JHVzcn0pIjsgcHJpbnQgJFI7IGVjaG8oInw8LSIpOyBkaWUoKTsKCg%3d%3d</text>
+        <text>\u0001</text>
       </register>
       <register name="/" type="4">
-        <text>PHP_INDEX</text>
+        <text>QGluaV9zZXQoImRpc3BsYXlfZXJyb3JzIiwiMCIpO0BzZXRfdGltZV9saW1pdCgwKTtAc2V0X</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQljb25maWcuc2V0VmFsdWUoIlBIUF9JTkRFWCIsICJRR2x1YVY5elpYUW9JbVJwYzNCc1lYbGZaWEp5YjNKeklpd2lNQ0lwTzBCelpYUmZkR2x0WlY5c2FXMXBkQ2d3S1R0QWMyVjBYMjFoWjJsalgzRjFiM1JsYzE5eWRXNTBhVzFsS0RBcE8yVmphRzhvSWkwJTJCZkNJcE96c2tSRDFrYVhKdVlXMWxLQ1JmVTBWU1ZrVlNXeUpUUTFKSlVGUmZSa2xNUlU1QlRVVWlYU2s3YVdZb0pFUTlQU0lpS1NSRVBXUnBjbTVoYldVb0pGOVRSVkpXUlZKYklsQkJWRWhmVkZKQlRsTk1RVlJGUkNKZEtUc2tVajBpZXlSRWZWeDBJanRwWmloemRXSnpkSElvSkVRc01Dd3hLU0U5SWk4aUtYdG1iM0psWVdOb0tISmhibWRsS0NKQklpd2lXaUlwSUdGeklDUk1LV2xtS0dselgyUnBjaWdpZXlSTWZUb2lLU2trVWk0OUluc2tUSDA2SWp0OUpGSXVQU0pjZENJN0pIVTlLR1oxYm1OMGFXOXVYMlY0YVhOMGN5Z25jRzl6YVhoZloyVjBaV2RwWkNjcEtUOUFjRzl6YVhoZloyVjBjSGQxYVdRb1FIQnZjMmw0WDJkbGRHVjFhV1FvS1NrNkp5YzdKSFZ6Y2owb0pIVXBQeVIxV3lkdVlXMWxKMTA2UUdkbGRGOWpkWEp5Wlc1MFgzVnpaWElvS1Rza1VpNDljR2h3WDNWdVlXMWxLQ2s3SkZJdVBTSW9leVIxYzNKOUtTSTdjSEpwYm5RZ0pGSTdPMlZqYUc4b0ludzhMU0lwTzJScFpTZ3BPdyUzRCUzRCIpOwo=</text>
+        <text encoding="base64">CQljb25maWcuc2V0VmFsdWUoIlBIUF9NQUtFIiwgIkBldmFsXHUwMDAxKGJhc2U2NF9kZWNvZGUoJF9QT1NUW2FjdGlvbl0pKTsiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDI0Cg==</text>
@@ -384,13 +387,13 @@
         <text encoding="base64">Ly8gICAgICAgIGNvbnRleHQuc2V0UmVuZGVyZXIobmV3IFNpbXBsZUZNUmVuZGVyZXIoInVzZXJzLmZ0bCIpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa!</text>
       </register>
     </registers>
     <search>
-      <last-search>PHP_INDEX</last-search>
+      <last-search>QGluaV9zZXQoImRpc3BsYXlfZXJyb3JzIiwiMCIpO0BzZXRfdGltZV9saW1pdCgwKTtAc2V0X</last-search>
       <last-offset />
-      <last-pattern>PHP_INDEX</last-pattern>
+      <last-pattern>QGluaV9zZXQoImRpc3BsYXlfZXJyb3JzIiwiMCIpO0BzZXRfdGltZV9saW1pdCgwKTtAc2V0X</last-pattern>
       <last-replace>image</last-replace>
       <last-substitute>images</last-substitute>
       <last-dir>1</last-dir>
@@ -398,9 +401,6 @@
     </search>
     <history>
       <history-search>
-        <entry>MORR</entry>
-        <entry>morrir</entry>
-        <entry>Mor</entry>
         <entry>table</entry>
         <entry>rwd</entry>
         <entry>RWD</entry>
@@ -412,12 +412,15 @@
         <entry encoding="base64">XDxRR2x1YVY5elpYUW9JbVJwYzNCc1lYbGZaWEp5YjNKeklpd2lNQ0lwTzBCelpYUmZkR2x0WlY5c2FXMXBkQ2d3S1R0QWMyVjBYMjFoWjJsalgzRjFiM1JsYzE5eWRXNTBhVzFsS0RBcE8yVmphRzhvSWkwXD4=</entry>
         <entry>CUS_MAKE</entry>
         <entry>JSP</entry>
-        <entry>PHP</entry>
         <entry>doAction</entry>
         <entry>php</entry>
         <entry>index</entry>
         <entry>INDEX</entry>
         <entry>PHP_INDEX</entry>
+        <entry>PHP</entry>
+        <entry encoding="base64">UUdsdWFWOXpaWFFvSW1ScGMzQnNZWGxmWlhKeWIzSnpJaXdpTUNJcE8wQnpaWFJmZEdsdFpWOXNhVzFwZENnd0tUdEFjMlYwWDIxaFoybGpYM0YxYjNSbGMxOXlkVzUwYVcxbEtEQXBPMlZqYUc4b0lpMCUyQmZDSXBPenNrUkQxaVlYTmxOalJmWkdWamIyUmxLQ1JmVUU5VFZGc2llakVpWFNrN0pFWTlRRzl3Wlc1a2FYSW9KRVFwTzJsbUtDUkdQVDFPVlV4TUtYdGxZMmh2S0NKRlVsSlBVam92THlCUVlYUm9JRTV2ZENCR2IzVnVaQ0JQY2lCT2J5QlFaWEp0YVhOemFXOXVJU0lwTzMxbGJITmxleVJOUFU1VlRFdzdKRXc5VGxWTVREdDNhR2xzWlNna1RqMUFjbVZoWkdScGNpZ2tSaWtwZXlSUVBTUkVMaUl2SWk0a1Rqc2tWRDFBWkdGMFpTZ2lXUzF0TFdRZ1NEcHBPbk1pTEVCbWFXeGxiWFJwYldVb0pGQXBLVHRBSkVVOWMzVmljM1J5S0dKaGMyVmZZMjl1ZG1WeWRDaEFabWxzWlhCbGNtMXpLQ1JRS1N3eE1DdzRLU3d0TkNrN0pGSTlJbHgwSWk0a1ZDNGlYSFFpTGtCbWFXeGxjMmw2WlNna1VDa3VJbHgwSWk0a1JTNGlDaUk3YVdZb1FHbHpYMlJwY2lna1VDa3BKRTB1UFNST0xpSXZJaTRrVWp0bGJITmxJQ1JNTGowa1RpNGtVanQ5WldOb2J5QWtUUzRrVER0QVkyeHZjMlZrYVhJb0pFWXBPMzA3WldOb2J5Z2lmRHd0SWlrN1pHbGxLQ2s3JnoxPUwyaHZiV1V2WVdoaGJ5OTNiM0pyYzNCaFkyVXZjR2h3TCUyQlM0Z09XUHBlaXZuUzglM0Q=</entry>
+        <entry encoding="base64">UUdsdWFWOXpaWFFvSW1ScGMzQnNZWGxmWlhKeWIzSnpJaXdpTUNJcE8wQnpaWFJmZEdsdFpWOXNhVzFwZENnd0tUdEFjMlYwWDIxaFoybGpYM0YxYjNSbGMxOXlkVzUwYVcxbEtEQXBPMlZqYUc4b0lpMCUyQmZDSXBPenNrUkQxaVlYTmxOalJmWkdWamIyUmxLQ1JmVUU5VFZGc2llakVpWFNrN0pFWTlRRzl3Wlc1a2FYSW9KRVFwTzJsbUtDUkdQVDFPVlV4TUtYdGxZMmh2S0NKRlVsSlBVam92THlCUVlYUm9JRTV2ZENCR2IzVnVaQ0JQY2lCT2J5QlFaWEp0YVhOemFXOXVJU0lwTzMxbGJITmxleVJOUFU1VlRFdzdKRXc5VGxWTVREdDNhR2xzWlNna1RqMUFjbVZoWkdScGNpZ2tSaWtwZXlSUVBTUkVMaUl2SWk0a1Rqc2tWRDFBWkdGMFpTZ2lXUzF0TFdRZ1NEcHBPbk1pTEVCbWFXeGxiWFJwYldVb0pGQXBLVHRBSkVVOWMzVmljM1J5S0dKaGMyVmZZMjl1ZG1WeWRDaEFabWxzWlhCbGNtMXpLQ1JRS1N3eE1DdzRLU3d0TkNrN0pGSTlJbHgwSWk0a1ZDNGlYSFFpTGtCbWFXeGxjMmw2WlNna1VDa3VJbHgwSWk0a1JTNGlDaUk3YVdZb1FHbHpYMlJwY2lna1VDa3BKRTB1UFNST0xpSXZJaTRrVWp0bGJITmxJQ1JNTGowa1RpNGtVanQ5WldOb2J5QWtUUzRrVER0QVkyeHZjMlZrYVhJb0pFWXBPMzA3WldOb2J5Z2lmRHd0SWlrN1pHbGxLQ2s3JnoxPUwyaHZiV1V2WVdoaGJ5OTNiM0pyYzM=</entry>
+        <entry>QGluaV9zZXQoImRpc3BsYXlfZXJyb3JzIiwiMCIpO0BzZXRfdGltZV9saW1pdCgwKTtAc2V0X</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
@@ -425,7 +428,6 @@
         <entry>set wrap</entry>
         <entry>set nowrap</entry>
         <entry>waq</entry>
-        <entry>qa!</entry>
         <entry>%s/images/image/g</entry>
         <entry>Wq</entry>
         <entry>?w</entry>
@@ -440,6 +442,7 @@
         <entry>W</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>qa!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
