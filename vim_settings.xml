@@ -32,6 +32,9 @@
         <mark key="." line="58" column="1" />
         <mark key="^" line="58" column="1" />
       </file>
+      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" timestamp="1561604800036">
+        <mark key="'" line="439" column="26" />
+      </file>
       <file name="/teacher.excercise_book [teacher@localhost]" timestamp="1556160269986">
         <mark key="[" line="0" column="0" />
       </file>
@@ -59,6 +62,7 @@
         <mark key="." line="25" column="32" />
         <mark key="^" line="25" column="32" />
       </file>
+      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/Request.java" timestamp="1561604678939" />
       <file name="/teacher.deletedtestexamquestions [teacher@localhost]" timestamp="1556163253054">
         <mark key="[" line="0" column="0" />
       </file>
@@ -74,14 +78,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cde018f6-8dc6-45e1-92c7-6bc8e8416819/console_7.sql" timestamp="1556162456086">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/Safe.java" timestamp="1561602294370" />
       <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/TeacherCertificate_Server/src/main/resources/application.yml" timestamp="1557900033948">
         <mark key="[" line="14" column="68" />
         <mark key="]" line="16" column="11" />
         <mark key="." line="16" column="11" />
         <mark key="^" line="16" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/ui/AddDialog.java" timestamp="1561601909725" />
       <file name="/teacher.excercise_record [teacher@localhost]" timestamp="1556160272396">
         <mark key="[" line="0" column="0" />
       </file>
@@ -113,10 +115,10 @@
       <file name="/teacher.system_code [teacher@localhost]" timestamp="1556160297545">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" timestamp="1561602417934">
-        <mark key="'" line="87" column="38" />
-        <mark key="[" line="87" column="38" />
-        <mark key="]" line="87" column="493" />
+      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" timestamp="1561603572108">
+        <mark key="'" line="224" column="13" />
+        <mark key="[" line="76" column="37" />
+        <mark key="]" line="76" column="79" />
       </file>
       <file name="/teacher.pos [teacher@localhost]" timestamp="1556516282512">
         <mark key="[" line="0" column="0" />
@@ -133,6 +135,7 @@
       <file name="/teacher.teacher [teacher@localhost]" timestamp="1556160306355">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/Common.java" timestamp="1561604849432" />
       <file name="/teacher.exam_question_detail [teacher@localhost]" timestamp="1556162128860">
         <mark key="[" line="0" column="0" />
       </file>
@@ -145,6 +148,7 @@
       <file name="/ysorg.member [ysorg@localhost]" timestamp="1554797793726">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/ui/panel/FileManagerPanel.java" timestamp="1561604752288" />
       <file name="/a.sql" timestamp="1556516236855">
         <mark key="[" line="0" column="0" />
       </file>
@@ -192,7 +196,6 @@
       <file name="/teacher.order_detail [teacher@localhost]" timestamp="1556160282225">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/ui/MainFrame.java" timestamp="1561602124361" />
       <file name="/teacher.test_exam_question [teacher@localhost]" timestamp="1556162424217">
         <mark key="[" line="0" column="0" />
       </file>
@@ -202,7 +205,6 @@
       <file name="/teacher.addr [teacher@localhost]" timestamp="1556516580506">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/ui/Cknife.java" timestamp="1561602088959" />
       <file name="/teacher.test_exam [teacher@localhost]" timestamp="1556162425784">
         <mark key="[" line="0" column="0" />
       </file>
@@ -220,12 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="0" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/index_new.html" />
-      <jump line="29" column="30" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/page/sort/tree-sort.html" />
-      <jump line="42" column="7" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/page/sort/tree-sort.html" />
-      <jump line="40" column="25" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/page/sort/tree-sort.html" />
-      <jump line="43" column="37" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/page/sort/tree-sort.html" />
-      <jump line="44" column="24" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/page/sort/tree-sort.html" />
       <jump line="48" column="19" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/page/sort/tree-sort.html" />
       <jump line="248" column="61" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/index_new.html" />
       <jump line="392" column="15" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/index.html" />
@@ -320,16 +316,22 @@
       <jump line="44" column="41" filename="$USER_HOME$/dev/tmp/latke-demo/pom.xml" />
       <jump line="40" column="31" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" />
       <jump line="87" column="38" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" />
+      <jump line="266" column="52" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
+      <jump line="419" column="29" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
+      <jump line="439" column="26" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
+      <jump line="56" column="4" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" />
+      <jump line="110" column="25" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" />
+      <jump line="224" column="13" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>QGluaV9zZXQoImRpc3BsYXlfZXJyb3JzIiwiMCIpO0BzZXRfdGltZV9saW1pdCgwKTtAc2V0X21hZ2ljX3F1b3Rlc19ydW50aW1lKDApO2VjaG8oIi0%2BfCIpOzskcD1iYXNlNjRfZGVjb2RlKCRfUE9TVFsiejEiXSk7JHM9YmFzZTY0X2RlY29kZSgkX1BPU1RbInoyIl0pOyRkPWRpcm5hbWUoJF9TRVJWRVJbIlNDUklQVF9GSUxFTkFNRSJdKTskYz1zdWJzdHIoJGQsMCwxKT09Ii8iPyItYyBcInskc31cIiI6Ii9jIFwieyRzfVwiIjskcj0ieyRwfSB7JGN9IjtAc3lzdGVtKCRyLiIgMj4mMSIsJHJldCk7cHJpbnQgKCRyZXQhPTApPyIKcmV0PXskcmV0fQoiOiIiOztlY2hvKCJ8PC0iKTtkaWUoKTs%3D</text>
+        <text>@eval\u0001(base64_decode($_POST[action]));</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxRR2x1YVY5elpYUW9JbVJwYzNCc1lYbGZaWEp5YjNKeklpd2lNQ0lwTzBCelpYUmZkR2x0WlY5c2FXMXBkQ2d3S1R0QWMyVjBYMjFoWjJsalgzRjFiM1JsYzE5eWRXNTBhVzFsS0RBcE8yVmphRzhvSWkwXD4=</text>
+        <text>CUS_MAKE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMT0dHRVIubG9nKExldmVsLklORk8sICJTYXZlcyBhIHVzZXIgc3VjY2Vzc2Z1bGx5IFt1c2VySWQ9ezB9XSIsIHVzZXJJZCk7Cg==</text>
@@ -381,18 +383,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxRR2x1YVY5elpYUW9JbVJwYzNCc1lYbGZaWEp5YjNKeklpd2lNQ0lwTzBCelpYUmZkR2x0WlY5c2FXMXBkQ2d3S1R0QWMyVjBYMjFoWjJsalgzRjFiM1JsYzE5eWRXNTBhVzFsS0RBcE8yVmphRzhvSWkwXD4=</last-search>
+      <last-search>CUS_MAKE</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxRR2x1YVY5elpYUW9JbVJwYzNCc1lYbGZaWEp5YjNKeklpd2lNQ0lwTzBCelpYUmZkR2x0WlY5c2FXMXBkQ2d3S1R0QWMyVjBYMjFoWjJsalgzRjFiM1JsYzE5eWRXNTBhVzFsS0RBcE8yVmphRzhvSWkwXD4=</last-pattern>
+      <last-pattern>CUS_MAKE</last-pattern>
       <last-replace>image</last-replace>
       <last-substitute>images</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Focus</entry>
-        <entry>mirror</entry>
         <entry>mo</entry>
         <entry>morr</entry>
         <entry>morris</entry>
@@ -411,6 +411,8 @@
         <entry>h2</entry>
         <entry>PHP</entry>
         <entry encoding="base64">XDxRR2x1YVY5elpYUW9JbVJwYzNCc1lYbGZaWEp5YjNKeklpd2lNQ0lwTzBCelpYUmZkR2x0WlY5c2FXMXBkQ2d3S1R0QWMyVjBYMjFoWjJsalgzRjFiM1JsYzE5eWRXNTBhVzFsS0RBcE8yVmphRzhvSWkwXD4=</entry>
+        <entry>doAction</entry>
+        <entry>CUS_MAKE</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
