@@ -32,8 +32,8 @@
         <mark key="." line="58" column="1" />
         <mark key="^" line="58" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" timestamp="1561605767516">
-        <mark key="'" line="439" column="26" />
+      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" timestamp="1561607446743">
+        <mark key="'" line="141" column="18" />
       </file>
       <file name="/teacher.excercise_book [teacher@localhost]" timestamp="1556160269986">
         <mark key="[" line="0" column="0" />
@@ -78,6 +78,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cde018f6-8dc6-45e1-92c7-6bc8e8416819/console_7.sql" timestamp="1556162456086">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/Safe.java" timestamp="1561607337274">
+        <mark key="'" line="65" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/TeacherCertificate_Server/src/main/resources/application.yml" timestamp="1557900033948">
         <mark key="[" line="14" column="68" />
         <mark key="]" line="16" column="11" />
@@ -115,10 +118,12 @@
       <file name="/teacher.system_code [teacher@localhost]" timestamp="1556160297545">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" timestamp="1561603572108">
-        <mark key="'" line="224" column="13" />
-        <mark key="[" line="76" column="37" />
-        <mark key="]" line="76" column="79" />
+      <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" timestamp="1561607777449">
+        <mark key="'" line="77" column="25" />
+        <mark key="[" line="78" column="38" />
+        <mark key="]" line="78" column="713" />
+        <mark key="." line="78" column="38" />
+        <mark key="^" line="78" column="37" />
       </file>
       <file name="/teacher.pos [teacher@localhost]" timestamp="1556516282512">
         <mark key="[" line="0" column="0" />
@@ -222,25 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="19" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/page/sort/tree-sort.html" />
-      <jump line="248" column="61" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/index_new.html" />
-      <jump line="392" column="15" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/index.html" />
-      <jump line="31" column="35" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/index.html" />
-      <jump line="238" column="40" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/index_new.html" />
-      <jump line="37" column="0" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/index.html" />
-      <jump line="806" column="0" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/index.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/index.html" />
-      <jump line="365" column="0" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/index_new.html" />
-      <jump line="34" column="16" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/page/member/member.html" />
-      <jump line="29" column="42" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/page/member/member.html" />
-      <jump line="30" column="38" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/page/member/member.html" />
-      <jump line="157" column="47" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/page/member/member.html" />
-      <jump line="26" column="40" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/page/member/member.html" />
-      <jump line="27" column="20" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/page/member/member.html" />
-      <jump line="28" column="20" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/page/member/member.html" />
-      <jump line="39" column="47" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/page/member/member.html" />
-      <jump line="38" column="23" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/index_new.html" />
-      <jump line="83" column="0" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/page/member/member.html" />
       <jump line="306" column="15" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/index_new.html" />
       <jump line="347" column="17" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/index_new.html" />
       <jump line="23" column="41" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/index_new.html" />
@@ -317,24 +303,43 @@
       <jump line="40" column="31" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" />
       <jump line="87" column="38" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" />
       <jump line="266" column="52" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
-      <jump line="419" column="29" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
       <jump line="439" column="26" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
       <jump line="56" column="4" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" />
       <jump line="110" column="25" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" />
       <jump line="224" column="13" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" />
+      <jump line="155" column="26" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
+      <jump line="351" column="41" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
+      <jump line="53" column="34" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
+      <jump line="95" column="18" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
+      <jump line="96" column="25" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
+      <jump line="122" column="59" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
+      <jump line="308" column="14" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
+      <jump line="52" column="18" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
+      <jump line="419" column="29" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
+      <jump line="141" column="18" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
+      <jump line="16" column="38" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/Safe.java" />
+      <jump line="82" column="29" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/Safe.java" />
+      <jump line="14" column="29" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/Safe.java" />
+      <jump line="33" column="30" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/Safe.java" />
+      <jump line="50" column="29" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/Safe.java" />
+      <jump line="65" column="29" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/Safe.java" />
+      <jump line="146" column="18" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" />
+      <jump line="148" column="42" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" />
+      <jump line="77" column="25" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>@eval\u0001(base64_decode($_POST[action]));</text>
+        <text>QGluaV9zZXQoImRpc3BsYXlfZXJyb3JzIiwiMCIpOwpAc2V0X3RpbWVfbGltaXQoMCk7Ci8vQHNldF9tYWdpY19xdW90ZXNfcnVudGltZSgwKTsKZWNobygiLT58Iik7CiREPWRpcm5hbWUoJF9TRVJWRVJbIlNDUklQVF9GSUxFTkFNRSJdKTsKaWYoJEQ9PSIiKSREPWRpcm5hbWUoJF9TRVJWRVJbIlBBVEhfVFJBTlNMQVRFRCJdKTsKJFI9InskRH1cdCI7CmlmKHN1YnN0cigkRCwwLDEpIT0iLyIpewogICAgZm9yZWFjaChyYW5nZSgiQSIsIloiKSBhcyAkTCkKICAgICAgICBpZihpc19kaXIoInskTH06IikpCiAgICAgICAgICAgICRSLj0ieyRMfToiOwp9CiRSLj0iXHQiOwokdT0oZnVuY3Rpb25fZXhpc3RzKCdwb3NpeF9nZXRlZ2lkJykpP0Bwb3NpeF9nZXRwd3VpZChAcG9zaXhfZ2V0ZXVpZCgpKTonJzsKJHVzcj0oJHUpPyR1WyduYW1lJ106QGdldF9jdXJyZW50X3VzZXIoKTsKJFIuPXBocF91bmFtZSgpOwokUi49Iih7JHVzcn0pIjsKcHJpbnQgJFI7CmVjaG8oInw8LSIpOwpkaWUoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>QGluaV9zZXQoImRpc3BsYXlfZXJyb3JzIiwiMCIpOyBAc2V0X3RpbWVfbGltaXQoMCk7IC8vQHNldF9tYWdpY19xdW90ZXNfcnVudGltZSgwKTsgZWNobygiLT58Iik7ICREPWRpcm5hbWUoJF9TRVJWRVJbIlNDUklQVF9GSUxFTkFNRSJdKTsgaWYoJEQ9PSIiKSREPWRpcm5hbWUoJF9TRVJWRVJbIlBBVEhfVFJBTlNMQVRFRCJdKTsgJFI9InskRH1cdCI7IGlmKHN1YnN0cigkRCwwLDEpIT0iLyIpeyBmb3JlYWNoKHJhbmdlKCJBIiwiWiIpIGFzICRMKSBpZihpc19kaXIoInskTH06IikpICRSLj0ieyRMfToiOyB9ICRSLj0iXHQiOyAkdT0oZnVuY3Rpb25fZXhpc3RzKCdwb3NpeF9nZXRlZ2lkJykpP0Bwb3NpeF9nZXRwd3VpZChAcG9zaXhfZ2V0ZXVpZCgpKTonJzsgJHVzcj0oJHUpPyR1WyduYW1lJ106QGdldF9jdXJyZW50X3VzZXIoKTsgJFIuPXBocF91bmFtZSgpOyAkUi49Iih7JHVzcn0pIjsgcHJpbnQgJFI7IGVjaG8oInw8LSIpOyBkaWUoKTsKCg%3d%3d</text>
       </register>
       <register name="/" type="4">
-        <text>CUS_MAKE</text>
+        <text>PHP_INDEX</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIubG9nKExldmVsLklORk8sICJTYXZlcyBhIHVzZXIgc3VjY2Vzc2Z1bGx5IFt1c2VySWQ9ezB9XSIsIHVzZXJJZCk7Cg==</text>
+        <text encoding="base64">CQljb25maWcuc2V0VmFsdWUoIlBIUF9JTkRFWCIsICJRR2x1YVY5elpYUW9JbVJwYzNCc1lYbGZaWEp5YjNKeklpd2lNQ0lwTzBCelpYUmZkR2x0WlY5c2FXMXBkQ2d3S1R0QWMyVjBYMjFoWjJsalgzRjFiM1JsYzE5eWRXNTBhVzFsS0RBcE8yVmphRzhvSWkwJTJCZkNJcE96c2tSRDFrYVhKdVlXMWxLQ1JmVTBWU1ZrVlNXeUpUUTFKSlVGUmZSa2xNUlU1QlRVVWlYU2s3YVdZb0pFUTlQU0lpS1NSRVBXUnBjbTVoYldVb0pGOVRSVkpXUlZKYklsQkJWRWhmVkZKQlRsTk1RVlJGUkNKZEtUc2tVajBpZXlSRWZWeDBJanRwWmloemRXSnpkSElvSkVRc01Dd3hLU0U5SWk4aUtYdG1iM0psWVdOb0tISmhibWRsS0NKQklpd2lXaUlwSUdGeklDUk1LV2xtS0dselgyUnBjaWdpZXlSTWZUb2lLU2trVWk0OUluc2tUSDA2SWp0OUpGSXVQU0pjZENJN0pIVTlLR1oxYm1OMGFXOXVYMlY0YVhOMGN5Z25jRzl6YVhoZloyVjBaV2RwWkNjcEtUOUFjRzl6YVhoZloyVjBjSGQxYVdRb1FIQnZjMmw0WDJkbGRHVjFhV1FvS1NrNkp5YzdKSFZ6Y2owb0pIVXBQeVIxV3lkdVlXMWxKMTA2UUdkbGRGOWpkWEp5Wlc1MFgzVnpaWElvS1Rza1VpNDljR2h3WDNWdVlXMWxLQ2s3SkZJdVBTSW9leVIxYzNKOUtTSTdjSEpwYm5RZ0pGSTdPMlZqYUc4b0ludzhMU0lwTzJScFpTZ3BPdyUzRCUzRCIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDI0Cg==</text>
@@ -383,9 +388,9 @@
       </register>
     </registers>
     <search>
-      <last-search>CUS_MAKE</last-search>
+      <last-search>PHP_INDEX</last-search>
       <last-offset />
-      <last-pattern>CUS_MAKE</last-pattern>
+      <last-pattern>PHP_INDEX</last-pattern>
       <last-replace>image</last-replace>
       <last-substitute>images</last-substitute>
       <last-dir>1</last-dir>
@@ -393,11 +398,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mo</entry>
-        <entry>morr</entry>
-        <entry>morris</entry>
-        <entry>Morris</entry>
-        <entry>element</entry>
         <entry>MORR</entry>
         <entry>morrir</entry>
         <entry>Mor</entry>
@@ -409,10 +409,15 @@
         <entry>addCorsMappings</entry>
         <entry>jetty</entry>
         <entry>h2</entry>
-        <entry>PHP</entry>
         <entry encoding="base64">XDxRR2x1YVY5elpYUW9JbVJwYzNCc1lYbGZaWEp5YjNKeklpd2lNQ0lwTzBCelpYUmZkR2x0WlY5c2FXMXBkQ2d3S1R0QWMyVjBYMjFoWjJsalgzRjFiM1JsYzE5eWRXNTBhVzFsS0RBcE8yVmphRzhvSWkwXD4=</entry>
-        <entry>doAction</entry>
         <entry>CUS_MAKE</entry>
+        <entry>JSP</entry>
+        <entry>PHP</entry>
+        <entry>doAction</entry>
+        <entry>php</entry>
+        <entry>index</entry>
+        <entry>INDEX</entry>
+        <entry>PHP_INDEX</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
