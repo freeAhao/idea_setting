@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/security/sqlidemo/src/main/java/net/ddns/ahao/dao/UserDao.java" timestamp="1562562583341">
-        <mark key="'" line="16" column="23" />
-        <mark key="[" line="50" column="9" />
-        <mark key="]" line="51" column="17" />
-        <mark key="." line="51" column="17" />
-        <mark key="^" line="51" column="17" />
+      <file name="$USER_HOME$/workspace/security/sqlidemo/src/main/java/net/ddns/ahao/dao/UserDao.java" timestamp="1562564715663">
+        <mark key="'" line="25" column="37" />
+        <mark key="[" line="58" column="9" />
+        <mark key="]" line="59" column="19" />
+        <mark key="." line="59" column="19" />
+        <mark key="^" line="59" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/security/sqlidemo/src/main/java/net/ddns/ahao/application/Init.java" timestamp="1562562983950">
         <mark key="'" line="24" column="32" />
@@ -17,11 +17,11 @@
         <mark key="^" line="59" column="160" />
         <mark key="." line="71" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/security/sqlidemo/pom.xml" timestamp="1562318773183">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/workspace/security/sqlidemo/pom.xml" timestamp="1562565513080">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
         <mark key="^" line="29" column="3" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/model/RightTableModel.java" timestamp="1561625786000">
         <mark key="'" line="82" column="34" />
@@ -89,10 +89,12 @@
       <file name="$USER_HOME$/workspace/somethingCool/Cknife/Config.ini" timestamp="1561617296586">
         <mark key="'" line="45" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/security/sqlidemo/src/main/java/net/ddns/ahao/servlet/SqliServlet.java" timestamp="1562317689985">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/workspace/security/sqlidemo/src/main/java/net/ddns/ahao/servlet/SqliServlet.java" timestamp="1562566940584">
+        <mark key="'" line="20" column="3" />
+        <mark key="[" line="33" column="38" />
+        <mark key="]" line="34" column="48" />
+        <mark key="." line="34" column="48" />
+        <mark key="^" line="34" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/.gitignore" timestamp="1557732357481">
         <mark key="[" line="8" column="0" />
@@ -106,11 +108,12 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/security/sqlidemo/src/main/java/net/ddns/ahao/dao/PostDao.java" timestamp="1562562937666">
-        <mark key="[" line="29" column="46" />
-        <mark key="]" line="29" column="49" />
-        <mark key="^" line="29" column="49" />
-        <mark key="." line="29" column="49" />
+      <file name="$USER_HOME$/workspace/security/sqlidemo/src/main/java/net/ddns/ahao/dao/PostDao.java" timestamp="1562566949761">
+        <mark key="'" line="45" column="20" />
+        <mark key="[" line="61" column="19" />
+        <mark key="]" line="61" column="19" />
+        <mark key="." line="61" column="19" />
+        <mark key="^" line="61" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/security/sqlidemo/src/main/webapp/WEB-INF/web.xml" timestamp="1562557752528">
         <mark key="'" line="8" column="0" />
@@ -166,10 +169,12 @@
         <mark key="." line="54" column="21" />
         <mark key="^" line="54" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/security/sqlidemo/src/main/java/net/ddns/ahao/model/Post.java" timestamp="1562562099416">
+      <file name="$USER_HOME$/workspace/security/sqlidemo/src/main/java/net/ddns/ahao/model/Post.java" timestamp="1562564532890">
         <mark key="'" line="2" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="8" column="18" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/dev/tmp/latke-demo/src/main/java/latke/demo/processor/HelloProcessor.java" timestamp="1558686589883">
         <mark key="[" line="58" column="0" />
@@ -184,27 +189,23 @@
         <mark key="." line="81" column="0" />
         <mark key="^" line="81" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/security/sqlidemo/src/main/java/net/ddns/ahao/service/PostService.java" timestamp="1562562308327">
-        <mark key="[" line="13" column="11" />
-        <mark key="]" line="13" column="17" />
-        <mark key="." line="13" column="17" />
-        <mark key="^" line="13" column="17" />
+      <file name="$USER_HOME$/workspace/security/sqlidemo/src/main/java/net/ddns/ahao/service/PostService.java" timestamp="1562566495348">
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="23" column="34" />
+        <mark key="." line="23" column="34" />
+        <mark key="^" line="23" column="34" />
       </file>
       <file name="/fragment.java" timestamp="1562562058164">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/security/sqlidemo/src/main/webapp/sqli.jsp" timestamp="1562315747902">
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="11" column="8" />
-        <mark key="." line="11" column="8" />
-        <mark key="^" line="11" column="8" />
+      <file name="$USER_HOME$/workspace/security/sqlidemo/src/main/webapp/sqli.jsp" timestamp="1562566230823">
+        <mark key="[" line="14" column="80" />
+        <mark key="]" line="14" column="85" />
+        <mark key="." line="14" column="80" />
+        <mark key="^" line="14" column="79" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="296" column="35" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/assets/js/jquery.app.js" />
-      <jump line="89" column="24" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/assets/js/jquery.app.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/index_new.html" />
-      <jump line="417" column="40" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/page/member/member_new.html" />
       <jump line="141" column="3" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/assets/js/jquery.app.js" />
       <jump line="450" column="35" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/page/member/member_new.html" />
       <jump line="72" column="40" filename="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/webapp/page/member/member_new.html" />
@@ -301,52 +302,58 @@
       <jump line="27" column="0" filename="$USER_HOME$/workspace/security/sqlidemo/src/main/java/net/ddns/ahao/service/UserService.java" />
       <jump line="26" column="28" filename="$USER_HOME$/workspace/security/sqlidemo/src/main/java/net/ddns/ahao/service/UserService.java" />
       <jump line="16" column="23" filename="$USER_HOME$/workspace/security/sqlidemo/src/main/java/net/ddns/ahao/dao/UserDao.java" />
+      <jump line="26" column="19" filename="$USER_HOME$/workspace/security/sqlidemo/src/main/java/net/ddns/ahao/servlet/SqliServlet.java" />
+      <jump line="15" column="3" filename="$USER_HOME$/workspace/security/sqlidemo/src/main/java/net/ddns/ahao/servlet/SqliServlet.java" />
+      <jump line="42" column="20" filename="$USER_HOME$/workspace/security/sqlidemo/src/main/java/net/ddns/ahao/dao/PostDao.java" />
+      <jump line="25" column="37" filename="$USER_HOME$/workspace/security/sqlidemo/src/main/java/net/ddns/ahao/dao/UserDao.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, create_date timestamp not null default current_timestamp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKCIiLCBlLmdldE1lc3NhZ2UoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, create_date timestamp not null default current_timestamp</text>
+        <text encoding="base64">dGhyb3cg</text>
       </register>
       <register name="/" type="4">
         <text>Po</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBleGVjdXRlKFN0cmluZyBzcWwpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIENvbm5lY3Rpb24gY29ubmVjdGlvbiA9IFV0aWxzLmdldENvbm5lY3Rpb24oKTsKICAgICAgICBTdGF0ZW1lbnQgIHN0YXRlbWVudCAgPSBjb25uZWN0aW9uLmNyZWF0ZVN0YXRlbWVudCgpOwogICAgICAgIHJldHVybiBzdGF0ZW1lbnQuZXhlY3V0ZShzcWwpOwogICAgfQoKICAgIHByaXZhdGUgUmVzdWx0U2V0IGV4ZWN1dGVRdWVyeShTdHJpbmcgc3FsKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICBDb25uZWN0aW9uIGNvbm5lY3Rpb24gPSBVdGlscy5nZXRDb25uZWN0aW9uKCk7CiAgICAgICAgU3RhdGVtZW50ICBzdGF0ZW1lbnQgID0gY29ubmVjdGlvbi5jcmVhdGVTdGF0ZW1lbnQoKTsKICAgICAgICBSZXN1bHRTZXQgIHJlc3VsdFNldCAgPSBudWxsOwogICAgICAgIHJldHVybiByZXN1bHRTZXQgPSBzdGF0ZW1lbnQuZXhlY3V0ZVF1ZXJ5KHNxbCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdC5zZXRBdHRyaWJ1dGUoInBvc3RzIiwgcG9zdHMpOwogICAgICAgICAgICByZXF1ZXN0LmdldFJlcXVlc3REaXNwYXRjaGVyKCIvc3FsaS5qc3AiKS5mb3J3YXJkKHJlcXVlc3QsIHJlc3BvbnNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKCIiLCBlLmdldE1lc3NhZ2UoKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlclNlcnZpY2UucmVnaXN0ZXIodXNlcjEpOwogICAgICAgICAgICB1c2VyU2VydmljZS5yZWdpc3Rlcih1c2VyMik7CiAgICAgICAgICAgIHVzZXJTZXJ2aWNlLnJlZ2lzdGVyKHVzZXIzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoU1FMRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwb3N0LmFkZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwb3N0LmdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXMK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>Post(resultSet.getInt(&quot;id&quot;),
+                    userDao.getUserById(resultSet.getInt(&quot;user_id&quot;)),
+                    resultSet.getString(&quot;content&quot;),</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2VyRGFvLmdldFVzZXJCeUlkKHJlc3VsdFNldC5nZXRJbnQoInVzZXJfaWQiKSksCiAgICAgICAgICAgICAgICAgICAgcmVzdWx0U2V0LmdldFN0cmluZygiY29udGVudCIpLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -394,7 +401,6 @@
         <entry>we</entry>
         <entry>qa</entry>
         <entry>wqa</entry>
-        <entry>wq</entry>
         <entry>vs</entry>
         <entry>q</entry>
         <entry>qa!</entry>
@@ -402,6 +408,7 @@
         <entry>split</entry>
         <entry>Wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
