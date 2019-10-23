@@ -9,12 +9,6 @@
         <mark key="^" line="53" column="160" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/test/web/shell.jsp" timestamp="1564042965814">
-        <mark key="'" line="0" column="23" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="1" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/security/sqlidemo/src/main/webapp/posts.jsp" timestamp="1562570195411">
         <mark key="[" line="12" column="28" />
         <mark key="]" line="13" column="8" />
@@ -27,12 +21,15 @@
         <mark key="^" line="29" column="3" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M6.java" timestamp="1571812856231">
-        <mark key="'" line="28" column="58" />
-        <mark key="[" line="28" column="27" />
-        <mark key="]" line="28" column="27" />
-        <mark key="." line="28" column="27" />
-        <mark key="^" line="22" column="27" />
+      <file name="/a.dummy" timestamp="1564040705176">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M6.java" timestamp="1571813662191">
+        <mark key="'" line="80" column="19" />
+        <mark key="[" line="38" column="27" />
+        <mark key="]" line="38" column="27" />
+        <mark key="." line="38" column="27" />
+        <mark key="^" line="44" column="27" />
       </file>
       <file name="$USER_HOME$/dev/tmp/latke-demo/src/main/java/latke/demo/service/UserService.java" timestamp="1558686645984">
         <mark key="[" line="54" column="33" />
@@ -163,7 +160,7 @@
         <mark key="^" line="28" column="52" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/usr/lib/jvm/java-6-jdk/jre/lib/rt.jar!/sun/reflect/annotation/AnnotationInvocationHandler.class" timestamp="1571812830250">
+      <file name="/usr/lib/jvm/java-6-jdk/jre/lib/rt.jar!/sun/reflect/annotation/AnnotationInvocationHandler.class" timestamp="1571813121676">
         <mark key="'" line="27" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M2.java" timestamp="1571811184520">
@@ -171,6 +168,9 @@
         <mark key="]" line="25" column="102" />
         <mark key="." line="25" column="102" />
         <mark key="^" line="27" column="27" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1562315508312">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/resources/application.yml" timestamp="1557898776713">
         <mark key="[" line="12" column="14" />
@@ -184,9 +184,9 @@
         <mark key="." line="26" column="35" />
         <mark key="^" line="26" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/Persion.java" timestamp="1571811925875">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
+      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/Persion.java" timestamp="1571813440390">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="61" column="4" />
         <mark key="." line="61" column="0" />
         <mark key="^" line="60" column="50" />
       </file>
@@ -221,6 +221,9 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="17" />
       </file>
+      <file name="/fragment.java" timestamp="1571813860771">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M5.java" timestamp="1571809615106">
         <mark key="[" line="26" column="70" />
         <mark key="]" line="26" column="87" />
@@ -229,9 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
-      <jump line="52" column="18" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
-      <jump line="419" column="29" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
       <jump line="141" column="18" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
       <jump line="16" column="38" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/Safe.java" />
       <jump line="82" column="29" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/Safe.java" />
@@ -322,17 +322,20 @@
       <jump line="21" column="34" filename="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M4.java" />
       <jump line="20" column="22" filename="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M3.java" />
       <jump line="11" column="7" filename="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M6.java" />
-      <jump line="22" column="58" filename="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M6.java" />
       <jump line="36" column="1" filename="$USER_HOME$/workspace/java/java se/SerialTest/pom.xml" />
       <jump line="449" column="56" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/sun/reflect/annotation/AnnotationInvocationHandler.java" />
       <jump line="77" column="18" filename="/usr/lib/jvm/java-7-openjdk/jre/lib/rt.jar!/sun/reflect/annotation/AnnotationInvocationHandler.class" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/java/java se/SerialTest/pom.xml" />
       <jump line="32" column="8" filename="$USER_HOME$/workspace/java/java se/SerialTest/pom.xml" />
       <jump line="27" column="35" filename="/usr/lib/jvm/java-6-jdk/jre/lib/rt.jar!/sun/reflect/annotation/AnnotationInvocationHandler.class" />
+      <jump line="22" column="7" filename="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M6.java" />
+      <jump line="72" column="50" filename="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M6.java" />
+      <jump line="25" column="38" filename="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M6.java" />
+      <jump line="80" column="19" filename="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M6.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -344,34 +347,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBJbnZva2VyVHJhbnNmb3JtZXIoImludm9rZSIsCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBDbGFzc1tde1N0cmluZy5jbGFzcywgQ2xhc3NbXS5jbGFzc30sCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBPYmplY3RbXXtudWxsLCBuZXcgQ2xhc3NbMF19CiAgICAgICAgICAgICAgICApLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3RyaW5nIG5hbWU7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8YnVpbGQ+CiAgICA8cGx1Z2lucz4KICAgICAgPHBsdWdpbj4KICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tY29tcGlsZXItcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgPHNvdXJjZT4xLjc8L3NvdXJjZT4KICAgICAgICAgIDx0YXJnZXQ+MS43PC90YXJnZXQ+CiAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICA8L3BsdWdpbj4KICAgIDwvcGx1Z2lucz4KICA8L2J1aWxkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUnVudGltZS5nZXRSdW50aW1lKCkuZXhlYygiZ25vbWUtY2FsY3VsYXRvciIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8cHJvcGVydGllcz4KICAgIDxtYXZlbi5jb21waWxlci50YXJnZXQ+MS43PC9tYXZlbi5jb21waWxlci50YXJnZXQ+CiAgICA8bWF2ZW4uY29tcGlsZXIuc291cmNlPjEuNzwvbWF2ZW4uY29tcGlsZXIuc291cmNlPgogIDwvcHJvcGVydGllcz4KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obyk7Cg==</text>
+        <text encoding="base64">ICA8YnVpbGQ+CiAgICA8cGx1Z2lucz4KICAgICAgPHBsdWdpbj4KICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tY29tcGlsZXItcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgPHNvdXJjZT4xLjc8L3NvdXJjZT4KICAgICAgICAgIDx0YXJnZXQ+MS43PC90YXJnZXQ+CiAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICA8L3BsdWdpbj4KICAgIDwvcGx1Z2lucz4KICA8L2J1aWxkPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
+        <text encoding="base64">ICA8cHJvcGVydGllcz4KICAgIDxtYXZlbi5jb21waWxlci50YXJnZXQ+MS43PC9tYXZlbi5jb21waWxlci50YXJnZXQ+CiAgICA8bWF2ZW4uY29tcGlsZXIuc291cmNlPjEuNzwvbWF2ZW4uY29tcGlsZXIuc291cmNlPgogIDwvcHJvcGVydGllcz4KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3QgICAgbmV4dCAgICAgICAgPSBvdXRlck1hcC5lbnRyeVNldCgpLml0ZXJhdG9yKCkubmV4dCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
