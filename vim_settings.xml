@@ -6,12 +6,12 @@
       <file name="/a.dummy" timestamp="1564040705176">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M6.java" timestamp="1571816263412">
+      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M6.java" timestamp="1571820800614">
         <mark key="'" line="80" column="19" />
-        <mark key="[" line="71" column="65" />
-        <mark key="]" line="71" column="91" />
-        <mark key="." line="38" column="27" />
-        <mark key="^" line="44" column="27" />
+        <mark key="[" line="44" column="27" />
+        <mark key="]" line="44" column="27" />
+        <mark key="." line="44" column="27" />
+        <mark key="^" line="38" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M1.java" timestamp="1571799747705">
         <mark key="'" line="9" column="18" />
@@ -198,10 +198,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>AnnotationInvocationHandler</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>read</text>
