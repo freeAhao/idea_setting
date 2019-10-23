@@ -11,6 +11,7 @@
       <mapping pattern="note" type="PLAIN_TEXT" />
       <mapping pattern="Rcon Packet" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="property" type="PLAIN_TEXT" />
       <mapping ext="lang" type="PLAIN_TEXT" />

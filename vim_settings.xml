@@ -38,6 +38,12 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="43" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/java/java se/SerialTest/pom.xml" timestamp="1571800398273">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="28" column="15" />
+        <mark key="." line="11" column="4" />
+        <mark key="^" line="11" column="3" />
+      </file>
       <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/Common.java" timestamp="1561623092601">
         <mark key="[" line="51" column="66" />
         <mark key="]" line="52" column="36" />
@@ -77,6 +83,13 @@
         <mark key="." line="440" column="23" />
         <mark key="^" line="440" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M1.java" timestamp="1571799747705">
+        <mark key="'" line="9" column="18" />
+        <mark key="[" line="16" column="55" />
+        <mark key="]" line="16" column="90" />
+        <mark key="." line="28" column="7" />
+        <mark key="^" line="28" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/TeacherCertificate_Server/src/main/java/com/haichuang/teacher/config/MVCConfiguration.java" timestamp="1557900488454">
         <mark key="[" line="25" column="34" />
         <mark key="]" line="25" column="34" />
@@ -95,7 +108,6 @@
         <mark key="^" line="26" column="32" />
         <mark key="." line="26" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/java/java se/empty/src/Main.java" timestamp="1569639437747" />
       <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/TeacherCertificate_Server/TeacherCertificate_Server/src/main/java/com/haichuang/teacher/config/MVCConfiguration.java" timestamp="1557899687432">
         <mark key="[" line="25" column="33" />
         <mark key="]" line="25" column="32" />
@@ -127,6 +139,12 @@
         <mark key="." line="7" column="18" />
         <mark key="^" line="7" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M3.java" timestamp="1571802453059">
+        <mark key="[" line="21" column="48" />
+        <mark key="]" line="21" column="52" />
+        <mark key="." line="21" column="52" />
+        <mark key="^" line="21" column="52" />
+      </file>
       <file name="$USER_HOME$/workspace/security/sqlidemo/src/main/webapp/WEB-INF/web.xml" timestamp="1562569068148">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="47" column="18" />
@@ -145,6 +163,12 @@
         <mark key="]" line="16" column="11" />
         <mark key="." line="16" column="11" />
         <mark key="^" line="16" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M2.java" timestamp="1571799923934">
+        <mark key="[" line="25" column="101" />
+        <mark key="]" line="25" column="102" />
+        <mark key="." line="25" column="102" />
+        <mark key="^" line="27" column="27" />
       </file>
       <file name="/Dummy.txt" timestamp="1562315508312">
         <mark key="[" line="0" column="0" />
@@ -171,6 +195,12 @@
         <mark key="." line="22" column="9" />
         <mark key="^" line="22" column="9" />
       </file>
+      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/Persion.java" timestamp="1571799657131">
+        <mark key="[" line="44" column="5" />
+        <mark key="]" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+      </file>
       <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/ui/MainFrame.java" timestamp="1561628556757">
         <mark key="[" line="12" column="45" />
         <mark key="]" line="12" column="46" />
@@ -190,6 +220,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="38" column="29" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.1/commons-collections-3.1.jar!/org/apache/commons/collections/functors/InvokerTransformer.class" timestamp="1571801234706" />
       <file name="$USER_HOME$/workspace/security/sqlidemo/src/main/java/net/ddns/ahao/model/Post.java" timestamp="1562572551863">
         <mark key="'" line="40" column="0" />
         <mark key="[" line="75" column="9" />
@@ -205,6 +236,12 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
         <mark key="^" line="56" column="76" />
+      </file>
+      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/Config.java" timestamp="1571799783577">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="17" />
+        <mark key="^" line="7" column="17" />
+        <mark key="." line="7" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" timestamp="1561629659104">
         <mark key="'" line="0" column="0" />
@@ -230,12 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="27" filename="$USER_HOME$/dev/tmp/latke-demo/pom.xml" />
-      <jump line="36" column="19" filename="$USER_HOME$/dev/tmp/latke-demo/pom.xml" />
-      <jump line="44" column="41" filename="$USER_HOME$/dev/tmp/latke-demo/pom.xml" />
-      <jump line="40" column="31" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" />
-      <jump line="87" column="38" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" />
-      <jump line="266" column="52" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
       <jump line="439" column="26" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
       <jump line="56" column="4" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" />
       <jump line="110" column="25" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" />
@@ -330,22 +361,28 @@
       <jump line="1" column="0" filename="$USER_HOME$/Downloads/activemq-parent-5.7.0-source-release/activemq-parent-5.7.0/pom.xml" />
       <jump line="137" column="22" filename="$USER_HOME$/Downloads/activemq-parent-5.7.0-source-release/activemq-parent-5.7.0/activemq-fileserver/src/main/java/org/apache/activemq/util/RestFilter.java" />
       <jump line="0" column="23" filename="$USER_HOME$/Downloads/test/web/shell.jsp" />
+      <jump line="17" column="13" filename="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M1.java" />
+      <jump line="26" column="31" filename="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M1.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M1.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M1.java" />
+      <jump line="9" column="18" filename="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M1.java" />
+      <jump line="11" column="46" filename="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M3.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICA8ZmlsdGVyLW1hcHBpbmc+CiAgIDxmaWx0ZXItbmFtZT5SZXN0RmlsdGVyPC9maWx0ZXItbmFtZT4KICAgPHVybC1wYXR0ZXJuPi8qPC91cmwtcGF0dGVybj4KICA8L2ZpbHRlci1tYXBwaW5nPiAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>getRuntime()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PGJyPiI=</text>
+        <text>getRuntime()</text>
       </register>
       <register name="/" type="4">
         <text>project.version</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3FsID0gInNlbGVjdCAqIGZyb20gcG9zdCB3aGVyZSBpZCA9ICIraWQrIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBJbnZva2VyVHJhbnNmb3JtZXIoImludm9rZSIsCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBDbGFzc1tde1N0cmluZy5jbGFzcywgQ2xhc3NbXS5jbGFzc30sCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBPYmplY3RbXXtudWxsLCBuZXcgQ2xhc3NbMF19CiAgICAgICAgICAgICAgICApLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCVAIHBhZ2UgaW1wb3J0PSJqYXZhLmlvLklucHV0U3RyZWFtUmVhZGVyIiAlPgo8JUAgcGFnZSBpbXBvcnQ9ImphdmEuaW8uQnVmZmVyZWRSZWFkZXIiICU+PCUKICBTdHJpbmcgcGFyYW0gPSByZXF1ZXN0LmdldFBhcmFtZXRlcigiaSIpOwogIFByb2Nlc3MgcHJvYyA9IFJ1bnRpbWUuZ2V0UnVudGltZSgpLmV4ZWMocGFyYW0pOwogIEJ1ZmZlcmVkUmVhZGVyIGJ1ZmZlcmVkUmVhZGVyID0gbmV3IEJ1ZmZlcmVkUmVhZGVyKG5ldyBJbnB1dFN0cmVhbVJlYWRlcihwcm9jLmdldElucHV0U3RyZWFtKCkpKTsKICBTdHJpbmcgcyA9IG51bGw7CiAgd2hpbGUgKChzID0gYnVmZmVyZWRSZWFkZXIucmVhZExpbmUoKSkgIT0gbnVsbCApewogICAgICBvdXQucHJpbnRsbihzKyI8YnI+Iik7CiAgfQolPgo=</text>
+        <text encoding="base64">ICAgICAgICBvbmx5RWxlbWVudC5zZXRWYWx1ZSgiZm9vIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -354,28 +391,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBSdW50aW1lLmdldFJ1bnRpbWUoKS5nZXRDbGFzcygpLmdldE1ldGhvZCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text />
+        <text encoding="base64">ICAgICAgICBTdHJpbmcuY2xhc3MuZ2V0TWV0aG9kKCkK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICB3aGlsZSAoKHMgPSBidWZmZXJlZFJlYWRlci5yZWFkTGluZSgpKSAhPSBudWxsICl7CiAgICAgIG91dC5wcmludChzKTsKICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBDbGFzcy5nZXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgb3V0Lgo=</text>
+        <text encoding="base64">ICAgICAgICBSdW50aW1lLmdldFJ1bnRpbWUoKS5nZXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcGFnZUNvbnRleHQuZ2V0T3V0KCkK</text>
+        <text encoding="base64">ICAgICAgICBUcmFuc2Zvcm1lciB0cmFuc2Zvcm1lZENoYWluID0gbmV3Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVzcG9uc2UuZ2V0V3JpdGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJT4KICAgICAgPCUK</text>
+        <text encoding="base64">ICAgICAgICAgZD0K</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -429,8 +466,8 @@
         <entry>W</entry>
         <entry>split</entry>
         <entry>vsplit</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
