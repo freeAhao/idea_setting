@@ -163,11 +163,11 @@
       <file name="/usr/lib/jvm/java-6-jdk/jre/lib/rt.jar!/sun/reflect/annotation/AnnotationInvocationHandler.class" timestamp="1571813121676">
         <mark key="'" line="27" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M2.java" timestamp="1571811184520">
-        <mark key="[" line="25" column="101" />
-        <mark key="]" line="25" column="102" />
-        <mark key="." line="25" column="102" />
-        <mark key="^" line="27" column="27" />
+      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M2.java" timestamp="1571815046787">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="26" />
+        <mark key="." line="9" column="26" />
+        <mark key="^" line="9" column="26" />
       </file>
       <file name="/Dummy.txt" timestamp="1562315508312">
         <mark key="[" line="0" column="0" />
@@ -335,10 +335,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>read</text>
