@@ -6,10 +6,10 @@
       <file name="/a.dummy" timestamp="1564040705176">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M6.java" timestamp="1571820800614">
+      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M6.java" timestamp="1571822491587">
         <mark key="'" line="80" column="19" />
-        <mark key="[" line="44" column="27" />
-        <mark key="]" line="44" column="27" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="40" column="48" />
         <mark key="." line="44" column="27" />
         <mark key="^" line="38" column="27" />
       </file>
@@ -197,8 +197,8 @@
       <jump line="10" column="15" filename="$USER_HOME$/workspace/java/java se/SerialTest/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBPYmplY3RJbnB1dFN0cmVhbSBvaXMgPSBuZXcgT2JqZWN0SW5wdXRTdHJlYW0obmV3IEZpbGVJbnB1dFN0cmVhbShDb25maWcuT1VUUFVUX1BBVEggKyAibTYuc2VyIikpOwogICAgICAgIE9iamVjdCAgICAgICAgICAgIG8gICA9IG9pcy5yZWFkT2JqZWN0KCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
