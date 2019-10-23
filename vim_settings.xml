@@ -27,8 +27,12 @@
         <mark key="^" line="29" column="3" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1564040705176">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M6.java" timestamp="1571812856231">
+        <mark key="'" line="28" column="58" />
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="28" column="27" />
+        <mark key="." line="28" column="27" />
+        <mark key="^" line="22" column="27" />
       </file>
       <file name="$USER_HOME$/dev/tmp/latke-demo/src/main/java/latke/demo/service/UserService.java" timestamp="1558686645984">
         <mark key="[" line="54" column="33" />
@@ -102,6 +106,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.1/commons-collections-3.1.jar!/org/apache/commons/collections/functors/ChainedTransformer.class" timestamp="1571808582473" />
       <file name="$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.1/commons-collections-3.1.jar!/org/apache/commons/collections/functors/ConstantTransformer.class" timestamp="1571808554153" />
+      <file name="/usr/lib/jvm/java-7-openjdk/jre/lib/rt.jar!/sun/reflect/annotation/AnnotationInvocationHandler.class" timestamp="1571812195773">
+        <mark key="'" line="77" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/security/sqlidemo/src/main/java/net/ddns/ahao/service/PostService.java" timestamp="1562569662521">
         <mark key="[" line="22" column="34" />
         <mark key="]" line="22" column="36" />
@@ -118,22 +125,17 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="43" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/java/java se/SerialTest/pom.xml" timestamp="1571800398273">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="28" column="15" />
-        <mark key="." line="11" column="4" />
-        <mark key="^" line="11" column="3" />
+      <file name="$USER_HOME$/workspace/java/java se/SerialTest/pom.xml" timestamp="1571812887214">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="31" column="1" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/Common.java" timestamp="1561623092601">
         <mark key="[" line="51" column="66" />
         <mark key="]" line="52" column="36" />
         <mark key="." line="52" column="36" />
         <mark key="^" line="52" column="36" />
-      </file>
-      <file name="$USER_HOME$/Downloads/activemq-parent-5.7.0-source-release/activemq-parent-5.7.0/activemq-fileserver/src/main/webapp/shell.jsp" timestamp="1564041118664">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/tmp/latke-demo/src/main/resources/local.properties" timestamp="1558688028653">
         <mark key="[" line="27" column="36" />
@@ -154,20 +156,21 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M3.java" timestamp="1571808321031">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
+      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M3.java" timestamp="1571811002046">
+        <mark key="'" line="20" column="22" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="44" column="35" />
         <mark key="^" line="28" column="52" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M2.java" timestamp="1571807614472">
+      <file name="/usr/lib/jvm/java-6-jdk/jre/lib/rt.jar!/sun/reflect/annotation/AnnotationInvocationHandler.class" timestamp="1571812830250">
+        <mark key="'" line="27" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M2.java" timestamp="1571811184520">
         <mark key="[" line="25" column="101" />
         <mark key="]" line="25" column="102" />
         <mark key="." line="25" column="102" />
         <mark key="^" line="27" column="27" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1562315508312">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ys易尚/xcx小程序/源码/后台/TeacherCertificate_Server/src/main/resources/application.yml" timestamp="1557898776713">
         <mark key="[" line="12" column="14" />
@@ -181,7 +184,7 @@
         <mark key="." line="26" column="35" />
         <mark key="^" line="26" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/Persion.java" timestamp="1571807889557">
+      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/Persion.java" timestamp="1571811925875">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
@@ -192,6 +195,9 @@
         <mark key="]" line="12" column="46" />
         <mark key="^" line="12" column="46" />
         <mark key="." line="12" column="46" />
+      </file>
+      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/sun/reflect/annotation/AnnotationInvocationHandler.java" timestamp="1571812324386">
+        <mark key="'" line="449" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/security/sqlidemo/src/main/java/net/ddns/ahao/servlet/PostServlet.java" timestamp="1562572621369">
         <mark key="[" line="4" column="0" />
@@ -215,20 +221,14 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1562562058164">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M5.java" timestamp="1571809615106">
+        <mark key="[" line="26" column="70" />
+        <mark key="]" line="26" column="87" />
+        <mark key="^" line="26" column="87" />
+        <mark key="." line="26" column="87" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="25" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" />
-      <jump line="224" column="13" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/InitConfig.java" />
-      <jump line="155" column="26" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
-      <jump line="351" column="41" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
-      <jump line="53" column="34" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
-      <jump line="95" column="18" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
-      <jump line="96" column="25" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
-      <jump line="122" column="59" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
-      <jump line="308" column="14" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
       <jump line="52" column="18" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
       <jump line="419" column="29" filename="$USER_HOME$/workspace/somethingCool/Cknife/src/com/ms509/util/FileManager.java" />
@@ -320,16 +320,25 @@
       <jump line="11" column="46" filename="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M3.java" />
       <jump line="13" column="21" filename="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M4.java" />
       <jump line="21" column="34" filename="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M4.java" />
+      <jump line="20" column="22" filename="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M3.java" />
+      <jump line="11" column="7" filename="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M6.java" />
+      <jump line="22" column="58" filename="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M6.java" />
+      <jump line="36" column="1" filename="$USER_HOME$/workspace/java/java se/SerialTest/pom.xml" />
+      <jump line="449" column="56" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/sun/reflect/annotation/AnnotationInvocationHandler.java" />
+      <jump line="77" column="18" filename="/usr/lib/jvm/java-7-openjdk/jre/lib/rt.jar!/sun/reflect/annotation/AnnotationInvocationHandler.class" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/java/java se/SerialTest/pom.xml" />
+      <jump line="32" column="8" filename="$USER_HOME$/workspace/java/java se/SerialTest/pom.xml" />
+      <jump line="27" column="35" filename="/usr/lib/jvm/java-6-jdk/jre/lib/rt.jar!/sun/reflect/annotation/AnnotationInvocationHandler.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>io</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>project.version</text>
+        <text>read</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBJbnZva2VyVHJhbnNmb3JtZXIoImludm9rZSIsCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBDbGFzc1tde1N0cmluZy5jbGFzcywgQ2xhc3NbXS5jbGFzc30sCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBPYmplY3RbXXtudWxsLCBuZXcgQ2xhc3NbMF19CiAgICAgICAgICAgICAgICApLAo=</text>
@@ -340,38 +349,38 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">ICAKIDQKIDUKIDYKIDcKIDgKIDkKMTAKMTEKMTIKMTMKMTQKMTU=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICA8YnVpbGQ+CiAgICA8cGx1Z2lucz4KICAgICAgPHBsdWdpbj4KICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tY29tcGlsZXItcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgPHNvdXJjZT4xLjc8L3NvdXJjZT4KICAgICAgICAgIDx0YXJnZXQ+MS43PC90YXJnZXQ+CiAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICA8L3BsdWdpbj4KICAgIDwvcGx1Z2lucz4KICA8L2J1aWxkPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTZXJ2ZXJTb2NrZXQgc2VydmVyID0gbmV3IFNlcnZlclNvY2tldCgxMDAwMCk7CiAgICAgICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAgICAgU29ja2V0IHNvY2tldCA9IHNlcnZlci5hY2NlcHQoKTsKICAgICAgICAgICAgZXhlY3V0ZShzb2NrZXQpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICA8cHJvcGVydGllcz4KICAgIDxtYXZlbi5jb21waWxlci50YXJnZXQ+MS43PC9tYXZlbi5jb21waWxlci50YXJnZXQ+CiAgICA8bWF2ZW4uY29tcGlsZXIuc291cmNlPjEuNzwvbWF2ZW4uY29tcGlsZXIuc291cmNlPgogIDwvcHJvcGVydGllcz4KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBleGVjdXRlKGZpbmFsIFNvY2tldCBzb2NrZXQpIHsKICAgICAgICBuZXcgVGhyZWFkKG5ldyBSdW5uYWJsZSgpIHsKICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLmlrDnmoTov57mjqUiK3NvY2tldC50b1N0cmluZygpKTsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgT2JqZWN0SW5wdXRTdHJlYW0gaXMgID0gbmV3IE9iamVjdElucHV0U3RyZWFtKG5ldyBCdWZmZXJlZElucHV0U3RyZWFtKHNvY2tldC5nZXRJbnB1dFN0cmVhbSgpKSk7CiAgICAgICAgICAgICAgICAgICAgT2JqZWN0ICAgICAgICAgICAgb2JqID0gaXMucmVhZE9iamVjdCgpOwogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihvYmopOwogICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfSkuc3RhcnQoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgU2VydmVyU29ja2V0IHNlcnZlciA9IG5ldyBTZXJ2ZXJTb2NrZXQoMTAwMDApOwogICAgICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgICAgIFNvY2tldCBzb2NrZXQgPSBzZXJ2ZXIuYWNjZXB0KCk7CiAgICAgICAgICAgIGV4ZWN1dGUoc29ja2V0KTsKICAgICAgICB9CiAgICB9CgogICAgcHVibGljIHN0YXRpYyB2b2lkIGV4ZWN1dGUoZmluYWwgU29ja2V0IHNvY2tldCkgewogICAgICAgIG5ldyBUaHJlYWQobmV3IFJ1bm5hYmxlKCkgewogICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuaWsOeahOi/nuaOpSIrc29ja2V0LnRvU3RyaW5nKCkpOwogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICBPYmplY3RJbnB1dFN0cmVhbSBpcyAgPSBuZXcgT2JqZWN0SW5wdXRTdHJlYW0obmV3IEJ1ZmZlcmVkSW5wdXRTdHJlYW0oc29ja2V0LmdldElucHV0U3RyZWFtKCkpKTsKICAgICAgICAgICAgICAgICAgICBPYmplY3QgICAgICAgICAgICBvYmogPSBpcy5yZWFkT2JqZWN0KCk7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG9iaik7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9KS5zdGFydCgpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFRyYW5zZm9ybWVyW10gdHJhbnNmb3JtZXJzID0gbmV3IFRyYW5zZm9ybWVyW117Ci8vICAgICAgICAgICAgICAgIG5ldyBDb25zdGFudFRyYW5zZm9ybWVyKFJ1bnRpbWUuY2xhc3MpLAovLyAgICAgICAgICAgICAgICBuZXcgSW52b2tlclRyYW5zZm9ybWVyKCJnZXRNZXRob2QiLAovLyAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBDbGFzc1tde1N0cmluZy5jbGFzcywgQ2xhc3NbXS5jbGFzc30sCi8vICAgICAgICAgICAgICAgICAgICAgICAgbmV3IE9iamVjdFtdeyJnZXRSdW50aW1lIiwgbmV3IENsYXNzWzBdfSksCi8vICAgICAgICAgICAgICAgIG5ldyBJbnZva2VyVHJhbnNmb3JtZXIoImludm9rZSIsCi8vICAgICAgICAgICAgICAgICAgICAgICAgbmV3IENsYXNzW117T2JqZWN0LmNsYXNzLCBPYmplY3RbXS5jbGFzc30sCi8vICAgICAgICAgICAgICAgICAgICAgICAgbmV3IE9iamVjdFtde251bGwsIG5ldyBPYmplY3RbMF19KSwKLy8gICAgICAgICAgICAgICAgbmV3IEludm9rZXJUcmFuc2Zvcm1lcigiZXhlYyIsCi8vICAgICAgICAgICAgICAgICAgICAgICAgbmV3IENsYXNzW117U3RyaW5nLmNsYXNzfSwKLy8gICAgICAgICAgICAgICAgICAgICAgICBuZXcgT2JqZWN0W117Imdub21lLWNhbGN1bGF0b3IifQovLyAgICAgICAgICAgICAgICApCi8vICAgICAgICB9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvbmx5RWxlbWVudC5zZXRWYWx1ZSgiZm9vIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3QgICAgbmV4dCAgICAgICAgPSBvdXRlck1hcC5lbnRyeVNldCgpLml0ZXJhdG9yKCkubmV4dCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>project.version</last-search>
+      <last-search>read</last-search>
       <last-offset />
-      <last-pattern>project.version</last-pattern>
+      <last-pattern>read</last-pattern>
       <last-replace>image</last-replace>
       <last-substitute>images</last-substitute>
       <last-dir>1</last-dir>
@@ -379,8 +388,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addCorsMappings</entry>
-        <entry>jetty</entry>
         <entry>h2</entry>
         <entry encoding="base64">XDxRR2x1YVY5elpYUW9JbVJwYzNCc1lYbGZaWEp5YjNKeklpd2lNQ0lwTzBCelpYUmZkR2x0WlY5c2FXMXBkQ2d3S1R0QWMyVjBYMjFoWjJsalgzRjFiM1JsYzE5eWRXNTBhVzFsS0RBcE8yVmphRzhvSWkwXD4=</entry>
         <entry>CUS_MAKE</entry>
@@ -399,6 +406,8 @@
         <entry>varchat</entry>
         <entry>Po</entry>
         <entry>project.version</entry>
+        <entry>readO</entry>
+        <entry>read</entry>
       </history-search>
       <history-cmd>
         <entry>set wrap</entry>
