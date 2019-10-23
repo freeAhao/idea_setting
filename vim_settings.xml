@@ -24,10 +24,10 @@
       <file name="/a.dummy" timestamp="1564040705176">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M6.java" timestamp="1571813662191">
+      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M6.java" timestamp="1571816263412">
         <mark key="'" line="80" column="19" />
-        <mark key="[" line="38" column="27" />
-        <mark key="]" line="38" column="27" />
+        <mark key="[" line="71" column="65" />
+        <mark key="]" line="71" column="91" />
         <mark key="." line="38" column="27" />
         <mark key="^" line="44" column="27" />
       </file>
@@ -224,11 +224,11 @@
       <file name="/fragment.java" timestamp="1571813860771">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M5.java" timestamp="1571809615106">
-        <mark key="[" line="26" column="70" />
-        <mark key="]" line="26" column="87" />
-        <mark key="^" line="26" column="87" />
-        <mark key="." line="26" column="87" />
+      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M5.java" timestamp="1571815708503">
+        <mark key="[" line="28" column="60" />
+        <mark key="]" line="29" column="34" />
+        <mark key="^" line="29" column="34" />
+        <mark key="." line="29" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -335,7 +335,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>AnnotationInvocationHandler</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
