@@ -3,6 +3,31 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M2.java" timestamp="1571815046787">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="26" />
+        <mark key="." line="9" column="26" />
+        <mark key="^" line="9" column="26" />
+      </file>
+      <file name="$USER_HOME$/Downloads/activemq-parent-5.7.0-source-release/activemq-parent-5.7.0/activemq-fileserver/src/main/java/org/apache/activemq/util/RestFilter.java" timestamp="1564047254162">
+        <mark key="'" line="137" column="22" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1562315508312">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/java/java se/SerialTest/pom.xml" timestamp="1571819608315">
+        <mark key="'" line="22" column="15" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="43" column="1" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/Persion.java" timestamp="1571813440390">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="61" column="4" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="60" column="50" />
+      </file>
       <file name="/a.dummy" timestamp="1564040705176">
         <mark key="[" line="0" column="0" />
       </file>
@@ -13,6 +38,9 @@
         <mark key="." line="44" column="27" />
         <mark key="^" line="38" column="27" />
       </file>
+      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/sun/reflect/annotation/AnnotationInvocationHandler.java" timestamp="1571812324386">
+        <mark key="'" line="449" column="56" />
+      </file>
       <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M1.java" timestamp="1571799747705">
         <mark key="'" line="9" column="18" />
         <mark key="[" line="16" column="55" />
@@ -20,24 +48,14 @@
         <mark key="." line="28" column="7" />
         <mark key="^" line="28" column="7" />
       </file>
-      <file name="$USER_HOME$/Downloads/activemq-parent-5.7.0-source-release/activemq-parent-5.7.0/activemq-fileserver/src/main/java/org/apache/activemq/util/RestFilter.java" timestamp="1564047254162">
-        <mark key="'" line="137" column="22" />
+      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/Base64.java" timestamp="1571884153598">
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="15" column="17" />
+        <mark key="." line="15" column="17" />
+        <mark key="^" line="15" column="17" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.1/commons-collections-3.1.jar!/org/apache/commons/collections/functors/ChainedTransformer.class" timestamp="1571808582473" />
-      <file name="$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.1/commons-collections-3.1.jar!/org/apache/commons/collections/functors/ConstantTransformer.class" timestamp="1571808554153" />
-      <file name="/usr/lib/jvm/java-7-openjdk/jre/lib/rt.jar!/sun/reflect/annotation/AnnotationInvocationHandler.class" timestamp="1571812195773">
-        <mark key="'" line="77" column="18" />
-      </file>
-      <file name="$USER_HOME$/Downloads/activemq-parent-5.7.0-source-release/activemq-parent-5.7.0/activemq-fileserver/src/main/webapp/WEB-INF/web.xml" timestamp="1564047039296">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="43" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/java/java se/SerialTest/pom.xml" timestamp="1571819608315">
-        <mark key="'" line="10" column="15" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="31" column="1" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Downloads/activemq-parent-5.7.0-source-release/activemq-parent-5.7.0/pom.xml" timestamp="1564036791323">
+        <mark key="'" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M4.java" timestamp="1571807010786">
         <mark key="[" line="11" column="61" />
@@ -45,7 +63,6 @@
         <mark key="." line="11" column="58" />
         <mark key="^" line="11" column="58" />
       </file>
-      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/io/ObjectInputStream.java" timestamp="1571807604931" />
       <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M3.java" timestamp="1571811002046">
         <mark key="'" line="20" column="22" />
         <mark key="[" line="42" column="0" />
@@ -56,33 +73,20 @@
       <file name="/usr/lib/jvm/java-6-jdk/jre/lib/rt.jar!/sun/reflect/annotation/AnnotationInvocationHandler.class" timestamp="1571813121676">
         <mark key="'" line="27" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/M2.java" timestamp="1571815046787">
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="9" column="26" />
-        <mark key="." line="9" column="26" />
-        <mark key="^" line="9" column="26" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1562315508312">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/Persion.java" timestamp="1571813440390">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="61" column="4" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="60" column="50" />
-      </file>
-      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/sun/reflect/annotation/AnnotationInvocationHandler.java" timestamp="1571812324386">
-        <mark key="'" line="449" column="56" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.1/commons-collections-3.1.jar!/org/apache/commons/collections/functors/InvokerTransformer.class" timestamp="1571808092577" />
-      <file name="$USER_HOME$/Downloads/activemq-parent-5.7.0-source-release/activemq-parent-5.7.0/pom.xml" timestamp="1564036791323">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/Base64Tools.java" timestamp="1571884486291">
+        <mark key="[" line="41" column="30" />
+        <mark key="]" line="43" column="7" />
+        <mark key="." line="43" column="7" />
+        <mark key="^" line="43" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/java/java se/SerialTest/src/main/java/com/ahao/Config.java" timestamp="1571799783577">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="17" />
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="17" />
+      </file>
+      <file name="/usr/lib/jvm/java-7-openjdk/jre/lib/rt.jar!/sun/reflect/annotation/AnnotationInvocationHandler.class" timestamp="1571812195773">
+        <mark key="'" line="77" column="18" />
       </file>
       <file name="/fragment.java" timestamp="1571813860771">
         <mark key="[" line="0" column="0" />
@@ -197,11 +201,11 @@
       <jump line="10" column="15" filename="$USER_HOME$/workspace/java/java se/SerialTest/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3RJbnB1dFN0cmVhbSBvaXMgPSBuZXcgT2JqZWN0SW5wdXRTdHJlYW0obmV3IEZpbGVJbnB1dFN0cmVhbShDb25maWcuT1VUUFVUX1BBVEggKyAibTYuc2VyIikpOwogICAgICAgIE9iamVjdCAgICAgICAgICAgIG8gICA9IG9pcy5yZWFkT2JqZWN0KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>read</text>
@@ -210,34 +214,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBJbnZva2VyVHJhbnNmb3JtZXIoImludm9rZSIsCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBDbGFzc1tde1N0cmluZy5jbGFzcywgQ2xhc3NbXS5jbGFzc30sCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBPYmplY3RbXXtudWxsLCBuZXcgQ2xhc3NbMF19CiAgICAgICAgICAgICAgICApLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3RyaW5nIG5hbWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlSW5wdXRTdHJlYW0gZmlzID0gbmV3IEZpbGVJbnB1dFN0cmVhbShmaWxlKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUnVudGltZS5nZXRSdW50aW1lKCkuZXhlYygiZ25vbWUtY2FsY3VsYXRvciIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgQnl0ZUFycmF5SW5wdXRTdHJlYW0oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaXMucmVhZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8YnVpbGQ+CiAgICA8cGx1Z2lucz4KICAgICAgPHBsdWdpbj4KICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tY29tcGlsZXItcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgPHNvdXJjZT4xLjc8L3NvdXJjZT4KICAgICAgICAgIDx0YXJnZXQ+MS43PC90YXJnZXQ+CiAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICA8L3BsdWdpbj4KICAgIDwvcGx1Z2lucz4KICA8L2J1aWxkPgo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgQmFzZTY0VG9vbHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8cHJvcGVydGllcz4KICAgIDxtYXZlbi5jb21waWxlci50YXJnZXQ+MS43PC9tYXZlbi5jb21waWxlci50YXJnZXQ+CiAgICA8bWF2ZW4uY29tcGlsZXIuc291cmNlPjEuNzwvbWF2ZW4uY29tcGlsZXIuc291cmNlPgogIDwvcHJvcGVydGllcz4KCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZmlsZSA9ICIiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3RyaW5nIG5hbWU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUnVudGltZS5nZXRSdW50aW1lKCkuZXhlYygiZ25vbWUtY2FsY3VsYXRvciIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8YnVpbGQ+CiAgICA8cGx1Z2lucz4KICAgICAgPHBsdWdpbj4KICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tY29tcGlsZXItcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgPHNvdXJjZT4xLjc8L3NvdXJjZT4KICAgICAgICAgIDx0YXJnZXQ+MS43PC90YXJnZXQ+CiAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICA8L3BsdWdpbj4KICAgIDwvcGx1Z2lucz4KICA8L2J1aWxkPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
