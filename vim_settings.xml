@@ -3,37 +3,43 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/bzr/src/main/java/com/yz/bzr/controller/base/IndexController.java" timestamp="1573527135470">
+        <mark key="'" line="42" column="30" />
+      </file>
       <file name="$USER_HOME$/git/yazhuoCenter/src/main/resources/spring/spring-servlet.xml" timestamp="1573464476387">
         <mark key="[" line="87" column="20" />
         <mark key="]" line="87" column="35" />
       </file>
-      <file name="$USER_HOME$/git/yazhuoCenter/src/main/java/com/yz/center/service/iface/user/LoginService.java" timestamp="1573463648278" />
-      <file name="$USER_HOME$/git/yazhuoCenter/src/main/webapp/WEB-INF/web.xml" timestamp="1573459816162" />
-      <file name="$USER_HOME$/git/yazhuoCenter/src/main/java/com/yz/center/interceptor/LoginIntercept.java" timestamp="1573461891035" />
+      <file name="$USER_HOME$/git/bzr/src/main/resources/spring/spring-servlet.xml" timestamp="1573526672568">
+        <mark key="[" line="70" column="19" />
+        <mark key="]" line="70" column="46" />
+      </file>
+      <file name="$USER_HOME$/git/bzr/src/main/java/com/yz/bzr/controller/base/LoginController.java" timestamp="1573526429469">
+        <mark key="'" line="60" column="47" />
+      </file>
+      <file name="$USER_HOME$/git/bzr/src/main/java/com/yz/bzr/controller/base/LoginInterceptor.java" timestamp="1573527395765">
+        <mark key="[" line="32" column="39" />
+        <mark key="]" line="32" column="63" />
+      </file>
       <file name="/usr/lib/jvm/java-6-jdk/jre/lib/rt.jar!/sun/reflect/annotation/AnnotationInvocationHandler.class" timestamp="1571813121676">
         <mark key="'" line="27" column="35" />
       </file>
-      <file name="$USER_HOME$/git/yazhuoCenter/src/main/webapp/WEB-INF/admin/layouts/top.jsp" timestamp="1573463811039" />
       <file name="$USER_HOME$/git/yazhuoCenter/src/main/java/com/yz/center/controller/school/Resource/ResourceController.java" timestamp="1573461621610">
         <mark key="[" line="225" column="58" />
         <mark key="]" line="225" column="84" />
       </file>
-      <file name="$USER_HOME$/git/yazhuoCenter/src/main/java/com/yz/center/model/po/UserPo.java" timestamp="1573463472482" />
       <file name="$USER_HOME$/Downloads/activemq-parent-5.7.0-source-release/activemq-parent-5.7.0/activemq-fileserver/src/main/java/org/apache/activemq/util/RestFilter.java" timestamp="1564047254162">
         <mark key="'" line="137" column="22" />
       </file>
       <file name="$USER_HOME$/Downloads/JFinalcms/src/main/webapp/templates/default/front/index.html" timestamp="1572578771728">
         <mark key="'" line="79" column="39" />
       </file>
-      <file name="$USER_HOME$/git/yazhuoCenter/src/main/java/com/yz/center/controller/banner/BanneController.java" timestamp="1573462032699" />
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/sun/reflect/annotation/AnnotationInvocationHandler.java" timestamp="1571812324386">
         <mark key="'" line="449" column="56" />
       </file>
       <file name="$USER_HOME$/Downloads/JFinalcms/src/main/java/com/cms/filter/PermissionFilter.java" timestamp="1572577540084">
         <mark key="'" line="92" column="0" />
       </file>
-      <file name="$USER_HOME$/git/yazhuoCenter/src/main/webapp/umeditor/jsp/Uploader.java" timestamp="1573460307805" />
-      <file name="$USER_HOME$/git/yazhuoCenter/src/main/java/com/yz/center/service/impl/login/LoginServiceImpl.java" timestamp="1573462727698" />
       <file name="$USER_HOME$/Downloads/activemq-parent-5.7.0-source-release/activemq-parent-5.7.0/pom.xml" timestamp="1564036791323">
         <mark key="'" line="1" column="0" />
       </file>
@@ -43,15 +49,13 @@
       <file name="$USER_HOME$/git/zxyClient/src/main/webapp/WEB-INF/default.jsp" timestamp="1573459659302">
         <mark key="'" line="99" column="7" />
       </file>
-      <file name="$USER_HOME$/git/yazhuoCenter/src/main/java/com/yz/center/service/impl/resource/ResourceServiceImpl.java" timestamp="1573461510375" />
       <file name="$USER_HOME$/git/yazhuoCenter/src/main/java/com/yz/center/controller/user/LoginController.java" timestamp="1573464560801">
         <mark key="'" line="55" column="40" />
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/git/yazhuoCenter/src/main/java/com/yz/center/dao/user/LoginDao.java" timestamp="1573462916967" />
-      <file name="$USER_HOME$/git/yazhuoCenter/src/main/java/com/yz/center/model/po/LoginPo.java" timestamp="1573463479740" />
+      <file name="$USER_HOME$/git/bzr/src/main/webapp/WEB-INF/admin/base/login.jsp" timestamp="1573526609795" />
       <file name="/usr/lib/jvm/java-7-openjdk/jre/lib/rt.jar!/sun/reflect/annotation/AnnotationInvocationHandler.class" timestamp="1571812195773">
         <mark key="'" line="77" column="18" />
       </file>
@@ -60,9 +64,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="299" column="21" filename="$USER_HOME$/Downloads/tools/deserialization/ysoserial/pom.xml" />
-      <jump line="300" column="24" filename="$USER_HOME$/Downloads/tools/deserialization/ysoserial/pom.xml" />
-      <jump line="341" column="0" filename="$USER_HOME$/Downloads/tools/deserialization/ysoserial/pom.xml" />
       <jump line="343" column="32" filename="$USER_HOME$/Downloads/tools/deserialization/ysoserial/pom.xml" />
       <jump line="377" column="29" filename="$USER_HOME$/Downloads/tools/deserialization/ysoserial/pom.xml" />
       <jump line="378" column="32" filename="$USER_HOME$/Downloads/tools/deserialization/ysoserial/pom.xml" />
@@ -160,16 +161,19 @@
       <jump line="99" column="7" filename="$USER_HOME$/git/zxyClient/src/main/webapp/WEB-INF/default.jsp" />
       <jump line="12" column="39" filename="$USER_HOME$/git/yazhuoCenter/src/main/resources/spring/mybatis-config.xml" />
       <jump line="55" column="40" filename="$USER_HOME$/git/yazhuoCenter/src/main/java/com/yz/center/controller/user/LoginController.java" />
+      <jump line="48" column="34" filename="$USER_HOME$/git/bzr/src/main/java/com/yz/bzr/controller/base/LoginController.java" />
+      <jump line="60" column="47" filename="$USER_HOME$/git/bzr/src/main/java/com/yz/bzr/controller/base/LoginController.java" />
+      <jump line="42" column="30" filename="$USER_HOME$/git/bzr/src/main/java/com/yz/bzr/controller/base/IndexController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlsb2dpblNlcnZpY2UuCg==</text>
+      <register name="&quot;" type="4">
+        <text>/admin/login/initVerify.html</text>
       </register>
       <register name="-" type="4">
         <text>root</text>
       </register>
       <register name="/" type="4">
-        <text>initVerify</text>
+        <text>loginIp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgY21kID0gImphdmEubGFuZy5SdW50aW1lLmdldFJ1bnRpbWUoKS5leGVjKFwiIiArCg==</text>
@@ -209,9 +213,9 @@
       </register>
     </registers>
     <search>
-      <last-search>initVerify</last-search>
+      <last-search>loginIp</last-search>
       <last-offset />
-      <last-pattern>initVerify</last-pattern>
+      <last-pattern>loginIp</last-pattern>
       <last-replace>image</last-replace>
       <last-substitute>images</last-substitute>
       <last-dir>1</last-dir>
@@ -219,7 +223,6 @@
     </search>
     <history>
       <history-search>
-        <entry>javax.el</entry>
         <entry>hibernate</entry>
         <entry>profile</entry>
         <entry>-Dhibernate</entry>
@@ -239,6 +242,7 @@
         <entry>loginName</entry>
         <entry>Name</entry>
         <entry>initVerify</entry>
+        <entry>loginIp</entry>
       </history-search>
       <history-cmd>
         <entry>set wrap</entry>
