@@ -3,8 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/education/src/main/java/com/education/druid/EncryptConnection.java" timestamp="1573613893706" />
-      <file name="$USER_HOME$/git/education/src/test/java/com/eduction/test/TestClass.java" timestamp="1573616324523" />
       <file name="$USER_HOME$/git/bzr/src/main/java/com/yz/bzr/controller/base/IndexController.java" timestamp="1573527135470">
         <mark key="'" line="42" column="30" />
       </file>
@@ -43,6 +41,12 @@
       <file name="$USER_HOME$/git/bzr/src/main/java/com/yz/bzr/controller/base/LoginController.java" timestamp="1573526429469">
         <mark key="'" line="60" column="47" />
       </file>
+      <file name="$USER_HOME$/Downloads/tools/deserialization/ysoserial/src/main/java/ysoserial/payloads/util/Gadgets.java" timestamp="1574919768912">
+        <mark key="[" line="116" column="124" />
+        <mark key="]" line="116" column="127" />
+        <mark key="." line="116" column="127" />
+        <mark key="^" line="116" column="127" />
+      </file>
       <file name="$USER_HOME$/git/bzr/src/main/java/com/yz/bzr/controller/base/LoginInterceptor.java" timestamp="1573609800888">
         <mark key="[" line="32" column="39" />
         <mark key="]" line="32" column="63" />
@@ -62,7 +66,6 @@
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/sun/reflect/annotation/AnnotationInvocationHandler.java" timestamp="1571812324386">
         <mark key="'" line="449" column="56" />
       </file>
-      <file name="$USER_HOME$/git/education/src/main/java/com/education/util/Const.java" timestamp="1573614343431" />
       <file name="$USER_HOME$/git/yazhuoCenter/src/main/resources/ftp/prop.properties" timestamp="1573534891184">
         <mark key="[" line="17" column="11" />
         <mark key="]" line="17" column="44" />
@@ -209,10 +212,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>url</text>
+        <text>9999</text>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text>9999</text>
       </register>
       <register name="/" type="4">
         <text>dbconfig.</text>
