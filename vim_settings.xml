@@ -54,6 +54,12 @@
       <file name="/usr/lib/jvm/java-6-jdk/jre/lib/rt.jar!/sun/reflect/annotation/AnnotationInvocationHandler.class" timestamp="1571813121676">
         <mark key="'" line="27" column="35" />
       </file>
+      <file name="$USER_HOME$/workspace/java/src/net/ddns/ahao/Main.java" timestamp="1578282776894">
+        <mark key="[" line="113" column="46" />
+        <mark key="]" line="113" column="46" />
+        <mark key="." line="113" column="46" />
+        <mark key="^" line="113" column="93" />
+      </file>
       <file name="$USER_HOME$/git/yazhuoCenter/src/main/java/com/yz/center/controller/base/RoleController.java" timestamp="1573541069637">
         <mark key="'" line="36" column="35" />
       </file>
@@ -109,7 +115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1742" column="0" filename="$USER_HOME$/Downloads/tools/deserialization/Java-Deserialization-Scanner/src/burp/BurpExtender.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Downloads/tools/deserialization/Java-Deserialization-Scanner/src/burp/BurpExtender.java" />
       <jump line="22" column="17" filename="$USER_HOME$/Downloads/tools/deserialization/Java-Deserialization-Scanner/src/burp/BurpExtender.java" />
       <jump line="55" column="0" filename="$USER_HOME$/Downloads/tools/deserialization/Java-Deserialization-Scanner/src/burp/BurpExtender.java" />
@@ -209,13 +214,14 @@
       <jump line="50" column="18" filename="$USER_HOME$/git/education/src/main/java/com/education/util/EncryptUtil.java" />
       <jump line="110" column="51" filename="$USER_HOME$/git/education/src/main/java/com/education/util/EncryptUtil.java" />
       <jump line="50" column="49" filename="$USER_HOME$/git/education/src/main/resources/spring/ApplicationContext.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/java/src/net/ddns/ahao/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>9999</text>
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>9999</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>dbconfig.</text>
@@ -224,34 +230,34 @@
         <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oRGVjcnlwdDNERVModXJsKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl1c2VyID0gcHJvcGVydGllcy5nZXRQcm9wZXJ0eSgiZGF0YVNvdXJjZS51c2VyIik7CgkJcHdkID0gcHJvcGVydGllcy5nZXRQcm9wZXJ0eSgiZGF0YVNvdXJjZS5wYXNzd29yZCIpOwo=</text>
+        <text encoding="base64">cGFja2FnZSBuZXQuZGRucy5haGFvOwoKcHVibGljIGNsYXNzIE1haW4gewoKICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCiAgICB9Cn0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oRGVjcnlwdDNERVModXNlcikpOwoJCVN5c3RlbS5vdXQucHJpbnRsbihEZWNyeXB0M0RFUyhwd2QpKTsK</text>
+        <text encoding="base64">CQl1c2VyID0gcHJvcGVydGllcy5nZXRQcm9wZXJ0eSgiZGF0YVNvdXJjZS51c2VyIik7CgkJcHdkID0gcHJvcGVydGllcy5nZXRQcm9wZXJ0eSgiZGF0YVNvdXJjZS5wYXNzd29yZCIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlwcm9wZXJ0aWVzLmNsb25lKCkK</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oRGVjcnlwdDNERVModXNlcikpOwoJCVN5c3RlbS5vdXQucHJpbnRsbihEZWNyeXB0M0RFUyhwd2QpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlwcm9wZXJ0aWVzLmxvCg==</text>
+        <text encoding="base64">CQlwcm9wZXJ0aWVzLmNsb25lKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlJbnB1dAo=</text>
+        <text encoding="base64">CQlwcm9wZXJ0aWVzLmxvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlQcm9wZXJ0eU0K</text>
+        <text encoding="base64">CQlJbnB1dAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlsb2dpblNlcnZpY2UuCg==</text>
+        <text encoding="base64">CQlQcm9wZXJ0eU0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlsb2dpblNlcnZpY2UuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
