@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/java/java se/burp-ext-helloworld/src/main/java/cf/freeahao/burp/HelloWorld.java" timestamp="1578897785295">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="13" />
+        <mark key="^" line="6" column="47" />
+        <mark key="." line="6" column="13" />
+      </file>
       <file name="$USER_HOME$/git/bzr/src/main/java/com/yz/bzr/controller/base/IndexController.java" timestamp="1573527135470">
         <mark key="'" line="42" column="30" />
       </file>
@@ -38,6 +44,17 @@
         <mark key="[" line="68" column="38" />
         <mark key="]" line="68" column="47" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.portswigger.burp.extender/burp-extender-api/1.7.22/8c3b2b46d7484a5de0099efe70f5883430146dcc/burp-extender-api-1.7.22-sources.jar!/burp/IBurpExtenderCallbacks.java" timestamp="1578900808672">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1094" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/java/java se/burp-ext-helloworld/src/main/java/burp/BurpExtender.java" timestamp="1578901083092">
+        <mark key="'" line="16" column="20" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/git/bzr/src/main/java/com/yz/bzr/controller/base/LoginController.java" timestamp="1573526429469">
         <mark key="'" line="60" column="47" />
       </file>
@@ -66,11 +83,20 @@
       <file name="$USER_HOME$/Downloads/activemq-parent-5.7.0-source-release/activemq-parent-5.7.0/activemq-fileserver/src/main/java/org/apache/activemq/util/RestFilter.java" timestamp="1564047254162">
         <mark key="'" line="137" column="22" />
       </file>
+      <file name="/Dummy.txt" timestamp="1578900103027">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/JFinalcms/src/main/webapp/templates/default/front/index.html" timestamp="1572578771728">
         <mark key="'" line="79" column="39" />
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/sun/reflect/annotation/AnnotationInvocationHandler.java" timestamp="1571812324386">
         <mark key="'" line="449" column="56" />
+      </file>
+      <file name="$USER_HOME$/workspace/java/java se/burp-ext-helloworld/build.gradle" timestamp="1578900049685">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/git/yazhuoCenter/src/main/resources/ftp/prop.properties" timestamp="1573534891184">
         <mark key="[" line="17" column="11" />
@@ -101,6 +127,11 @@
       <file name="$USER_HOME$/git/yazhuoCenter/src/main/resources/spring/mybatis-config.xml" timestamp="1573462800410">
         <mark key="'" line="12" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/java/java se/burp-ext-helloworld/src/main/java/cf/freeahao/burp/BurpExtender.java" timestamp="1578897810670">
+        <mark key="]" line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+      </file>
       <file name="$USER_HOME$/git/zxyClient/src/main/webapp/WEB-INF/default.jsp" timestamp="1573459659302">
         <mark key="'" line="99" column="7" />
       </file>
@@ -110,19 +141,16 @@
       <file name="$USER_HOME$/git/zxyClient/pom.xml" timestamp="1573459480926">
         <mark key="'" line="37" column="13" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.portswigger.burp.extender/burp-extender-api/1.7.22/8c3b2b46d7484a5de0099efe70f5883430146dcc/burp-extender-api-1.7.22-sources.jar!/burp/IBurpExtender.java" timestamp="1578898219972">
+        <mark key="'" line="11" column="2" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="30" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1573614251022">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Downloads/tools/deserialization/Java-Deserialization-Scanner/src/burp/BurpExtender.java" />
-      <jump line="22" column="17" filename="$USER_HOME$/Downloads/tools/deserialization/Java-Deserialization-Scanner/src/burp/BurpExtender.java" />
-      <jump line="55" column="0" filename="$USER_HOME$/Downloads/tools/deserialization/Java-Deserialization-Scanner/src/burp/BurpExtender.java" />
-      <jump line="58" column="32" filename="$USER_HOME$/Downloads/tools/deserialization/Java-Deserialization-Scanner/src/burp/BurpExtender.java" />
-      <jump line="76" column="20" filename="$USER_HOME$/Downloads/tools/deserialization/Java-Deserialization-Scanner/src/burp/BurpExtender.java" />
-      <jump line="305" column="34" filename="$USER_HOME$/Downloads/tools/deserialization/Java-Deserialization-Scanner/src/burp/BurpExtender.java" />
-      <jump line="1728" column="12" filename="$USER_HOME$/Downloads/tools/deserialization/Java-Deserialization-Scanner/src/burp/BurpExtender.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/tools/deserialization/Java-Deserialization-Scanner/src/burp/BurpExtender.java" />
       <jump line="167" column="8" filename="$USER_HOME$/Downloads/tools/deserialization/Java-Deserialization-Scanner/src/burp/BurpExtender.java" />
       <jump line="67" column="45" filename="$USER_HOME$/Downloads/tools/deserialization/ysoserial/src/main/java/ysoserial/GeneratePayload.java" />
       <jump line="92" column="57" filename="$USER_HOME$/Downloads/tools/deserialization/ysoserial/src/main/java/ysoserial/GeneratePayload.java" />
@@ -215,49 +243,57 @@
       <jump line="110" column="51" filename="$USER_HOME$/git/education/src/main/java/com/education/util/EncryptUtil.java" />
       <jump line="50" column="49" filename="$USER_HOME$/git/education/src/main/resources/spring/ApplicationContext.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/java/src/net/ddns/ahao/Main.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/java/java se/burp-ext-helloworld/build.gradle" />
+      <jump line="11" column="2" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.portswigger.burp.extender/burp-extender-api/1.7.22/8c3b2b46d7484a5de0099efe70f5883430146dcc/burp-extender-api-1.7.22-sources.jar!/burp/IBurpExtender.java" />
+      <jump line="90" column="26" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.portswigger.burp.extender/burp-extender-api/1.7.22/8c3b2b46d7484a5de0099efe70f5883430146dcc/burp-extender-api-1.7.22-sources.jar!/burp/IBurpExtenderCallbacks.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.portswigger.burp.extender/burp-extender-api/1.7.22/8c3b2b46d7484a5de0099efe70f5883430146dcc/burp-extender-api-1.7.22-sources.jar!/burp/IBurpExtenderCallbacks.java" />
+      <jump line="18" column="48" filename="$USER_HOME$/workspace/java/java se/burp-ext-helloworld/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/java/java se/burp-ext-helloworld/build.gradle" />
+      <jump line="9" column="26" filename="$USER_HOME$/workspace/java/java se/burp-ext-helloworld/src/main/java/burp/BurpExtender.java" />
+      <jump line="17" column="20" filename="$USER_HOME$/workspace/java/java se/burp-ext-helloworld/src/main/java/burp/BurpExtender.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>\</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uT3V0cHV0U3RyZWFtOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>unloadExtension();</text>
       </register>
       <register name="/" type="4">
         <text>dbconfig.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oRGVjcnlwdDNERVModXJsKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cucHJpbnRsbigidGVzdCBsb2cgb3V0IOi+k+WHuuaXpeW/lyIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGFja2FnZSBuZXQuZGRucy5haGFvOwoKcHVibGljIGNsYXNzIE1haW4gewoKICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCiAgICB9Cn0K</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uT3V0cHV0U3RyZWFtOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl1c2VyID0gcHJvcGVydGllcy5nZXRQcm9wZXJ0eSgiZGF0YVNvdXJjZS51c2VyIik7CgkJcHdkID0gcHJvcGVydGllcy5nZXRQcm9wZXJ0eSgiZGF0YVNvdXJjZS5wYXNzd29yZCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oRGVjcnlwdDNERVModXNlcikpOwoJCVN5c3RlbS5vdXQucHJpbnRsbihEZWNyeXB0M0RFUyhwd2QpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlwcm9wZXJ0aWVzLmNsb25lKCkK</text>
+        <text encoding="base64">ICAgICAgICBidXJwLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlwcm9wZXJ0aWVzLmxvCg==</text>
+        <text encoding="base64">ICAgICAgICBidXJwLnByaW50RXJyb3IoInByaW50IGVycm9yIG1ldGhvZCIpOwogICAgICAgIGJ1cnAucHJpbnRPdXRwdXQoInByaW50IG91dHB1dCBtZXRob2QiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlJbnB1dAo=</text>
+        <text encoding="base64">ICAgICAgICBidXJwLnByaW50RXJyb3IoInByaW50IGVycm9yIG1ldGhvZCIpOwogICAgICAgIGJ1cnAucHJpbnRPdXRwdXQoInByaW50IG91dHB1dCBtZXRob2QiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlQcm9wZXJ0eU0K</text>
+        <text encoding="base64">ICAgICAgICBidXJwLmFkZFNjYW5Jc3N1ZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlsb2dpblNlcnZpY2UuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAiY29tLmdpdGh1Yi5qb2hucmVuZ2VsbWFuLnNoYWRvdyIKCmphciB7CiAgICBtYW5pZmVzdCB7CiAgICAgICAgYXR0cmlidXRlcyAnSW1wbGVtZW50YXRpb24tVGl0bGUnOiAnQXBwbGljYXRpb24nLAogICAgICAgICAgICAgICAgJ0ltcGxlbWVudGF0aW9uLVZlcnNpb24nOiB2ZXJzaW9uCiAgICB9Cn0Kc2hhZG93SmFyIHsKICAgIHppcDY0IHRydWUKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
