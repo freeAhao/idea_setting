@@ -24,12 +24,11 @@
       <file name="$USER_HOME$/git/education/src/main/resources/spring/ApplicationContext.xml" timestamp="1573620695029">
         <mark key="'" line="50" column="49" />
       </file>
-      <file name="$USER_HOME$/git/education/pom.xml" timestamp="1573615934133">
-        <mark key="'" line="223" column="0" />
-        <mark key="[" line="209" column="0" />
-        <mark key="]" line="222" column="21" />
-        <mark key="^" line="209" column="0" />
-        <mark key="." line="209" column="0" />
+      <file name="$USER_HOME$/workspace/java/java se/burp-ext-custom-logger/src/main/java/burp/BurpExtender.java" timestamp="1578907029461">
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="11" column="33" />
+        <mark key="." line="11" column="33" />
+        <mark key="^" line="11" column="33" />
       </file>
       <file name="$USER_HOME$/git/yazhuoCenter/src/main/resources/mybatis/teacher/teacherMapper.xml" timestamp="1573527830517">
         <mark key="'" line="51" column="12" />
@@ -82,11 +81,11 @@
       <file name="$USER_HOME$/git/yazhuoCenter/src/main/java/com/yz/center/controller/base/RoleController.java" timestamp="1573541069637">
         <mark key="'" line="36" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/java/java se/burp-ext-traffic-redirector/src/main/java/burp/BurpExtender.java" timestamp="1578905563448">
-        <mark key="[" line="31" column="73" />
-        <mark key="]" line="31" column="74" />
-        <mark key="." line="31" column="74" />
-        <mark key="^" line="31" column="74" />
+      <file name="$USER_HOME$/workspace/java/java se/burp-ext-traffic-redirector/src/main/java/burp/BurpExtender.java" timestamp="1578906664926">
+        <mark key="'" line="10" column="35" />
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="23" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/java/java se/burp-ext-traffic-redirector/settings.gradle" timestamp="1578904830093">
         <mark key="[" line="0" column="37" />
@@ -99,6 +98,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1578904892725">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/java/java se/burp-ext-custom-logger/settings.gradle" timestamp="1578906970662">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="41" />
+        <mark key="." line="0" column="41" />
+        <mark key="^" line="0" column="41" />
       </file>
       <file name="$USER_HOME$/Downloads/JFinalcms/src/main/webapp/templates/default/front/index.html" timestamp="1572578771728">
         <mark key="'" line="79" column="39" />
@@ -124,13 +129,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.portswigger.burp.extender/burp-extender-api/1.7.22/8c3b2b46d7484a5de0099efe70f5883430146dcc/burp-extender-api-1.7.22-sources.jar!/burp/IExtensionStateListener.java" timestamp="1578903620773" />
       <file name="$USER_HOME$/Downloads/activemq-parent-5.7.0-source-release/activemq-parent-5.7.0/pom.xml" timestamp="1564036791323">
         <mark key="'" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/education/src/main/java/com/education/util/EncryptUtil.java" timestamp="1573617068338">
-        <mark key="'" line="110" column="51" />
-        <mark key="[" line="162" column="39" />
-        <mark key="]" line="162" column="41" />
-        <mark key="." line="162" column="41" />
-        <mark key="^" line="162" column="41" />
       </file>
       <file name="$USER_HOME$/git/education/src/main/resources/dbconfig.properties" timestamp="1573620619391">
         <mark key="[" line="3" column="20" />
@@ -165,8 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="343" column="8" filename="$USER_HOME$/Downloads/tools/deserialization/Java-Deserialization-Scanner/src/burp/BurpExtender.java" />
-      <jump line="344" column="8" filename="$USER_HOME$/Downloads/tools/deserialization/Java-Deserialization-Scanner/src/burp/BurpExtender.java" />
       <jump line="345" column="8" filename="$USER_HOME$/Downloads/tools/deserialization/Java-Deserialization-Scanner/src/burp/BurpExtender.java" />
       <jump line="346" column="8" filename="$USER_HOME$/Downloads/tools/deserialization/Java-Deserialization-Scanner/src/burp/BurpExtender.java" />
       <jump line="347" column="8" filename="$USER_HOME$/Downloads/tools/deserialization/Java-Deserialization-Scanner/src/burp/BurpExtender.java" />
@@ -265,13 +261,15 @@
       <jump line="19" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.portswigger.burp.extender/burp-extender-api/1.7.22/8c3b2b46d7484a5de0099efe70f5883430146dcc/burp-extender-api-1.7.22-sources.jar!/burp/IHttpRequestResponse.java" />
       <jump line="58" column="0" filename="$USER_HOME$/workspace/java/java se/burp-ext-event-listener/src/main/java/burp/BurpExtender.java" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/java/java se/burp-ext-traffic-redirector/src/main/java/burp/BurpExtender.java" />
+      <jump line="10" column="35" filename="$USER_HOME$/workspace/java/java se/burp-ext-traffic-redirector/src/main/java/burp/BurpExtender.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspace/java/java se/burp-ext-custom-logger/src/main/java/burp/BurpExtender.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>google</text>
+        <text>Event Listener</text>
       </register>
       <register name="-" type="4">
-        <text>google</text>
+        <text>Event Listener</text>
       </register>
       <register name="/" type="4">
         <text>dbconfig.</text>
@@ -280,34 +278,35 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1cnAucHJpbnRPdXRwdXQodXJsLnRvU3RyaW5nKCkrIuWcqHNjb3Bl6YeM6Z2iIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGh0dHBTZXJ2aWNlLnNlCg==</text>
+        <text encoding="base64">ICAgICAgICBidXJwLnJlZ2lzdGVyUHJveHlMaXN0ZW5lcih0aGlzKTsKICAgICAgICBidXJwLnJlZ2lzdGVyU2Nhbm5lckxpc3RlbmVyKHRoaXMpOwogICAgICAgIGJ1cnAucmVnaXN0ZXJFeHRlbnNpb25TdGF0ZUxpc3RlbmVyKHRoaXMpOwogICAgICAgIGJ1cnAucmVnaXN0ZXJTY29wZUNoYW5nZUxpc3RlbmVyKHRoaXMpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="2" type="4">
+        <text>, IProxyListener, IScannerListener
+        , IExtensionStateListener, IScopeChangeListener</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBtZXNzYWdlSXNSZXF1ZXN0KCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBidXJwLnJlZ2lzdGVySHR0cExpc3RlbmVyKHRoaXMpOwogICAgICAgIGJ1cnAucmVnaXN0ZXJQcm94eUxpc3RlbmVyKHRoaXMpOwogICAgICAgIGJ1cnAucmVnaXN0ZXJTY2FubmVyTGlzdGVuZXIodGhpcyk7CiAgICAgICAgYnVycC5yZWdpc3RlckV4dGVuc2lvblN0YXRlTGlzdGVuZXIodGhpcyk7CiAgICAgICAgYnVycC5yZWdpc3RlclNjb3BlQ2hhbmdlTGlzdGVuZXIodGhpcyk7Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">LCBJSHR0cExpc3RlbmVyLCBJUHJveHlMaXN0ZW5lciwgSVNjYW5uZXJMaXN0ZW5lcgogICAgICAgICwgSUV4dGVuc2lvblN0YXRlTGlzdGVuZXIsIElTY29wZUNoYW5nZUxpc3RlbmVyIA==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHByb2Nlc3NIdHRwTWVzc2FnZShpbnQgdG9vbEZsYWcsIGJvb2xlYW4gbWVzc2FnZUlzUmVxdWVzdCwgSUh0dHBSZXF1ZXN0UmVzcG9uc2UgbWVzc2FnZUluZm8pIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBieXRlW10gYnl0ZXMgICA9IG1lc3NhZ2VJc1JlcXVlc3QgPyBtZXNzYWdlSW5mby5nZXRSZXF1ZXN0KCkgOiBtZXNzYWdlSW5mby5nZXRSZXNwb25zZSgpOwogICAgICAgICAgICBTdHJpbmcgbWVzc2FnZSA9IG5ldyBTdHJpbmcoYnl0ZXMsICJVVEYtOCIpOwogICAgICAgICAgICBidXJwLnByaW50T3V0cHV0KG1lc3NhZ2VJc1JlcXVlc3QgPyAi6K+35rGC5piv77yaIiA6ICLlk43lupTmmK/vvJoiKTsKICAgICAgICAgICAgYnVycC5wcmludE91dHB1dChtZXNzYWdlKTsKICAgICAgICB9IGNhdGNoIChVbnN1cHBvcnRlZEVuY29kaW5nRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgYnVycC5wcmludEVycm9yKGUudG9TdHJpbmcoKSk7CiAgICAgICAgfQogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgZXh0ZW5zaW9uVW5sb2FkZWQoKSB7CiAgICAgICAgYnVycC5wcmludE91dHB1dCgi5omp5bGV5YWz6ZetIik7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBwcm9jZXNzUHJveHlNZXNzYWdlKGJvb2xlYW4gbWVzc2FnZUlzUmVxdWVzdCwgSUludGVyY2VwdGVkUHJveHlNZXNzYWdlIG1lc3NhZ2UpIHsKICAgICAgICBieXRlW10gYnl0ZXMgPSBtZXNzYWdlLmdldENsaWVudElwQWRkcmVzcygpLmdldEFkZHJlc3MoKTsKICAgICAgICB0cnkgewogICAgICAgICAgICBTdHJpbmcgYWRkcmVzcyA9IG5ldyBTdHJpbmcoYnl0ZXMsICJVVEYtOCIpOwogICAgICAgICAgICBidXJwLnByaW50T3V0cHV0KGFkZHJlc3MpOwogICAgICAgIH0gY2F0Y2ggKFVuc3VwcG9ydGVkRW5jb2RpbmdFeGNlcHRpb24gZSkgewogICAgICAgICAgICBidXJwLnByaW50RXJyb3IoZS50b1N0cmluZygpKTsKICAgICAgICB9CgogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgbmV3U2Nhbklzc3VlKElTY2FuSXNzdWUgaXNzdWUpIHsKICAgICAgICBTdHJpbmcgdGl0bGUgPSAiPT09PT0iICsgInNjYW4gaXNzdWUiICsgIj09PT09IjsKICAgICAgICBidXJwLnByaW50T3V0cHV0KHRpdGxlKTsKICAgICAgICBidXJwLnByaW50T3V0cHV0KGlzc3VlLmdldENvbmZpZGVuY2UoKSk7CiAgICAgICAgYnVycC5wcmludE91dHB1dChpc3N1ZS5nZXRJc3N1ZUJhY2tncm91bmQoKSk7CiAgICAgICAgYnVycC5wcmludE91dHB1dChpc3N1ZS5nZXRJc3N1ZU5hbWUoKSk7CiAgICAgICAgYnVycC5wcmludE91dHB1dChpc3N1ZS5nZXRJc3N1ZURldGFpbCgpKTsKICAgICAgICBidXJwLnByaW50T3V0cHV0KGlzc3VlLmdldFJlbWVkaWF0aW9uQmFja2dyb3VuZCgpKTsKICAgICAgICBidXJwLnByaW50T3V0cHV0KGlzc3VlLmdldFJlbWVkaWF0aW9uRGV0YWlsKCkpOwogICAgICAgIGJ1cnAucHJpbnRPdXRwdXQoaXNzdWUuZ2V0U2V2ZXJpdHkoKSk7CiAgICAgICAgYnVycC5wcmludE91dHB1dChpc3N1ZS5nZXRJc3N1ZVR5cGUoKSArICIiKTsKICAgICAgICBidXJwLnByaW50T3V0cHV0KGlzc3VlLmdldFVybCgpLnRvU3RyaW5nKCkpOwoKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHNjb3BlQ2hhbmdlZCgpIHsKICAgICAgICBTdHJpbmcgdGl0bGUgPSAiPT09PT0iICsgInNjb3BlIGNoYW5nZSIgKyAiPT09PT0iOwogICAgICAgIGJ1cnAucHJpbnRPdXRwdXQodGl0bGUpOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIFVSTCAgICAgdXJsICAgICAgPSBuZXcgVVJMKCJodHRwIiwgImlwLmdzIiwgODAsICIvIik7CiAgICAgICAgICAgIGJvb2xlYW4gaXNJblNjb3BlID0gYnVycC5pc0luU2NvcGUodXJsKTsKICAgICAgICAgICAgaWYgKGlzSW5TY29wZSkgewogICAgICAgICAgICAgICAgYnVycC5wcmludE91dHB1dCh1cmwudG9TdHJpbmcoKSsi5Zyoc2NvcGXph4zpnaIiKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGJ1cnAucHJpbnRPdXRwdXQodXJsLnRvU3RyaW5nKCkrIuS4jeWcqHNjb3Bl6YeM6Z2iIik7CiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoIChNYWxmb3JtZWRVUkxFeGNlcHRpb24gZSkgewogICAgICAgICAgICBidXJwLnByaW50RXJyb3IoZS50b1N0cmluZygpKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaHR0cFNlcnZpY2UK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaHR0Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZUluZm8K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBoZWxwZXJzLmJ1aQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBoZWxwZXJzLgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGh0dHBTZXJ2aWNlLnNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
