@@ -74,16 +74,18 @@
         <mark key="." line="25" column="59" />
         <mark key="^" line="25" column="59" />
       </file>
+      <file name="$USER_HOME$/workspace/java/java se/burp-ext-intruder-payloads/settings.gradle" timestamp="1578990585736">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="45" />
+        <mark key="." line="0" column="45" />
+        <mark key="^" line="0" column="45" />
+      </file>
       <file name="$USER_HOME$/Downloads/JFinalcms/src/main/java/com/cms/filter/PermissionFilter.java" timestamp="1572577540084">
         <mark key="'" line="92" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.portswigger.burp.extender/burp-extender-api/1.7.22/8c3b2b46d7484a5de0099efe70f5883430146dcc/burp-extender-api-1.7.22-sources.jar!/burp/ITab.java" timestamp="1578969014012">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="30" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.portswigger.burp.extender/burp-extender-api/1.7.22/8c3b2b46d7484a5de0099efe70f5883430146dcc/burp-extender-api-1.7.22-sources.jar!/burp/IMessageEditor.java" timestamp="1578907194833">
-        <mark key="[" line="19" column="17" />
-        <mark key="]" line="19" column="30" />
       </file>
       <file name="$USER_HOME$/git/zxyClient/src/main/webapp/WEB-INF/default.jsp" timestamp="1573459659302">
         <mark key="'" line="99" column="7" />
@@ -116,13 +118,17 @@
       <file name="$USER_HOME$/workspace/java/java se/burp-ext-custom-logger/burp.bak/CLTableModel.java" timestamp="1578972644421">
         <mark key="'" line="19" column="32" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.portswigger.burp.extender/burp-extender-api/1.7.22/8c3b2b46d7484a5de0099efe70f5883430146dcc/burp-extender-api-1.7.22-sources.jar!/burp/IProxyListener.java" timestamp="1578904585887">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="12" />
+      <file name="$USER_HOME$/workspace/java/java se/burp-ext-intruder-payloads/src/main/java/burp/BurpExtender.java" timestamp="1578991076318">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="32" column="15" />
+        <mark key="]" line="32" column="46" />
+        <mark key="." line="32" column="46" />
+        <mark key="^" line="32" column="46" />
       </file>
       <file name="$USER_HOME$/git/bzr/src/main/java/com/yz/bzr/controller/base/LoginController.java" timestamp="1573526429469">
         <mark key="'" line="60" column="47" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.portswigger.burp.extender/burp-extender-api/1.7.22/8c3b2b46d7484a5de0099efe70f5883430146dcc/burp-extender-api-1.7.22-sources.jar!/burp/IIntruderPayloadGenerator.java" timestamp="1578991397966" />
       <file name="$USER_HOME$/workspace/java/java se/burp-ext-custom-logger/burp.bak/CLTable.java" timestamp="1578974106935" />
       <file name="/usr/lib/jvm/java-6-jdk/jre/lib/rt.jar!/sun/reflect/annotation/AnnotationInvocationHandler.class" timestamp="1571813121676">
         <mark key="'" line="27" column="35" />
@@ -139,6 +145,13 @@
         <mark key="]" line="113" column="46" />
         <mark key="." line="113" column="46" />
         <mark key="^" line="113" column="93" />
+      </file>
+      <file name="$USER_HOME$/workspace/java/java se/burp-ext-intruder-payloads/src/main/java/burp/MyIntruderPayloadGenerator.java" timestamp="1578991406670">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="27" column="50" />
+        <mark key="]" line="27" column="60" />
+        <mark key="." line="27" column="60" />
+        <mark key="^" line="27" column="60" />
       </file>
       <file name="$USER_HOME$/git/yazhuoCenter/src/main/java/com/yz/center/controller/base/RoleController.java" timestamp="1573541069637">
         <mark key="'" line="36" column="35" />
@@ -196,15 +209,11 @@
         <mark key="[" line="52" column="0" />
         <mark key="]" line="55" column="48" />
       </file>
-      <file name="/fragment.java" timestamp="1578972572672">
+      <file name="/fragment.java" timestamp="1578991080601">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="25" filename="$USER_HOME$/git/education/src/main/java/com/education/util/EncryptUtil.java" />
-      <jump line="22" column="44" filename="$USER_HOME$/git/education/pom.xml" />
-      <jump line="48" column="15" filename="$USER_HOME$/git/education/pom.xml" />
-      <jump line="201" column="25" filename="$USER_HOME$/git/education/pom.xml" />
       <jump line="53" column="15" filename="$USER_HOME$/git/education/pom.xml" />
       <jump line="223" column="0" filename="$USER_HOME$/git/education/pom.xml" />
       <jump line="47" column="4" filename="$USER_HOME$/git/education/src/main/java/com/education/util/EncryptUtil.java" />
@@ -301,49 +310,53 @@
       <jump line="11" column="0" filename="$USER_HOME$/workspace/java/java se/burp-ext-custom-editor-tab/src/main/java/burp/BurpExtender.java" />
       <jump line="14" column="33" filename="$USER_HOME$/workspace/java/java se/burp-ext-custom-editor-tab/src/main/java/burp/Base64InputTab.java" />
       <jump line="23" column="44" filename="$USER_HOME$/workspace/java/java se/burp-ext-custom-editor-tab/src/main/java/burp/Base64InputTab.java" />
+      <jump line="19" column="9" filename="$USER_HOME$/workspace/java/java se/burp-ext-intruder-payloads/src/main/java/burp/BurpExtender.java" />
+      <jump line="13" column="4" filename="$USER_HOME$/workspace/java/java se/burp-ext-intruder-payloads/src/main/java/burp/BurpExtender.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/java/java se/burp-ext-intruder-payloads/src/main/java/burp/BurpExtender.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/java/java se/burp-ext-intruder-payloads/src/main/java/burp/MyIntruderPayloadGenerator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>new byte[0]</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>new byte[0]</text>
       </register>
       <register name="/" type="4">
         <text>dbconfig.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSVBhcmFtZXRlciBwYXJhbWV0ZXIgPSBidXJwLmdldEhlbHBlcnMoKS5nZXRSZXF1ZXN0UGFyYW1ldGVyKGNvbnRlbnQsICJkYXRhIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8MTAwOyBpKyspIHsKICAgICAgICAgICAgcGF5bG9hZHMuYWRkKFN0cmluZy52YWx1ZU9mKGkpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVscGVycyA9IGJ1cnAuZ2V0SGVscGVycygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGV4dEVkaXRvci5zZXQK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnl0ZVtdIHRleHQgPSAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IGJ5dGVbMF07Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwYXlsb2Fkcy5hZGQoInRlc3QiKTsKICAgICAgICBwYXlsb2Fkcy5hZGQoInRlc3QiKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnBheWxvYWRzID0gcGF5bG9hZHM7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIElJbnRydWRlclBheWxvYWRQcm9jZXNzb3IK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvKgogICAgICAgICDovpPlh7rml6Xlv5cKICAgICAgICAgKi8KLy8gICAgICAgIE91dHB1dFN0cmVhbSBvdXQgPSBidXJwLmdldFN0ZG91dCgpOwovLyAgICAgICAgT3V0cHV0U3RyZWFtIGVyck91dCA9IGJ1cnAuZ2V0U3RkZXJyKCk7CiAgICAgICAgUHJpbnRXcml0ZXIgbG9nICAgID0gbmV3IFByaW50V3JpdGVyKGJ1cnAuZ2V0U3Rkb3V0KCksIHRydWUpOwogICAgICAgIFByaW50V3JpdGVyIGVyckxvZyA9IG5ldyBQcmludFdyaXRlcihidXJwLmdldFN0ZGVycigpLCB0cnVlKTsKCgogICAgICAgIGxvZy5wcmludGxuKCJ0ZXN0IGxvZyDovpPlh7rml6Xlv5ciKTsKICAgICAgICBlcnJMb2cucHJpbnRsbigidGVzdCBsb2cgZXJyb3Ig6L6T5Ye66ZSZ6K+v5pel5b+XIik7CgogICAgICAgIGJ1cnAucHJpbnRFcnJvcigicHJpbnQgZXJyb3IgbWV0aG9kIik7CiAgICAgICAgYnVycC5wcmludE91dHB1dCgicHJpbnQgb3V0cHV0IG1ldGhvZCIpOwoKICAgICAgICAvKgogICAgICAgICBhbGVydCB0YWLkuK3mmL7npLrmtojmga8KICAgICAgICAgKi8KICAgICAgICBidXJwLmlzc3VlQWxlcnQoImhlbGxvIGFsZXJ0Iik7CgogICAgICAgIC8qCiAgICAgICAg5oqb5Ye65byC5bi4CiAgICAgICAgICovCiAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIuaJqeWxleWPkeeUn+W8guW4uCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
