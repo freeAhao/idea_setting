@@ -51,26 +51,28 @@
         <mark key="." line="84" column="49" />
         <mark key="^" line="84" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/java/java se/burp-ext-traffic-redirector/src/main/java/burp/BurpExtender.java" timestamp="1578906664926">
-        <mark key="'" line="10" column="35" />
-        <mark key="[" line="29" column="12" />
-        <mark key="]" line="29" column="23" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/java/java se/burp-ext-traffic-redirector/settings.gradle" timestamp="1578904830093">
         <mark key="[" line="0" column="37" />
         <mark key="]" line="0" column="46" />
         <mark key="." line="0" column="46" />
         <mark key="^" line="0" column="46" />
       </file>
+      <file name="$USER_HOME$/workspace/java/java se/burp-ext-custom-editor-tab/src/main/java/burp/Base64InputTab.java" timestamp="1578986417374">
+        <mark key="'" line="23" column="44" />
+        <mark key="[" line="49" column="92" />
+        <mark key="]" line="49" column="92" />
+        <mark key="." line="49" column="92" />
+        <mark key="^" line="49" column="92" />
+      </file>
       <file name="$USER_HOME$/Downloads/activemq-parent-5.7.0-source-release/activemq-parent-5.7.0/activemq-fileserver/src/main/java/org/apache/activemq/util/RestFilter.java" timestamp="1564047254162">
         <mark key="'" line="137" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/java/java se/burp-ext-helloworld/build.gradle" timestamp="1578900049685">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/workspace/java/java se/burp-ext-custom-editor-tab/src/main/java/burp/BurpExtender.java" timestamp="1578984348873">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="25" column="38" />
+        <mark key="]" line="25" column="59" />
+        <mark key="." line="25" column="59" />
+        <mark key="^" line="25" column="59" />
       </file>
       <file name="$USER_HOME$/Downloads/JFinalcms/src/main/java/com/cms/filter/PermissionFilter.java" timestamp="1572577540084">
         <mark key="'" line="92" column="0" />
@@ -114,12 +116,6 @@
       <file name="$USER_HOME$/workspace/java/java se/burp-ext-custom-logger/burp.bak/CLTableModel.java" timestamp="1578972644421">
         <mark key="'" line="19" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/java/java se/burp-ext-helloworld/src/main/java/burp/BurpExtender.java" timestamp="1578901083092">
-        <mark key="'" line="16" column="20" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.portswigger.burp.extender/burp-extender-api/1.7.22/8c3b2b46d7484a5de0099efe70f5883430146dcc/burp-extender-api-1.7.22-sources.jar!/burp/IProxyListener.java" timestamp="1578904585887">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="23" column="12" />
@@ -147,7 +143,13 @@
       <file name="$USER_HOME$/git/yazhuoCenter/src/main/java/com/yz/center/controller/base/RoleController.java" timestamp="1573541069637">
         <mark key="'" line="36" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1578904892725">
+      <file name="$USER_HOME$/workspace/java/java se/burp-ext-custom-editor-tab/settings.gradle" timestamp="1578984142715">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="45" />
+        <mark key="." line="0" column="45" />
+        <mark key="^" line="0" column="45" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1578985035251">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/java/java se/burp-ext-custom-logger/settings.gradle" timestamp="1578906970662">
@@ -199,10 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="35" filename="$USER_HOME$/git/yazhuoCenter/src/main/java/com/yz/center/controller/base/RoleController.java" />
-      <jump line="14" column="15" filename="$USER_HOME$/git/yazhuoCenter/src/main/resources/mybatis/role/roleMapping.xml" />
-      <jump line="66" column="0" filename="$USER_HOME$/git/education/src/main/java/com/education/util/EncryptUtil.java" />
-      <jump line="145" column="30" filename="$USER_HOME$/git/education/src/main/java/com/education/util/EncryptUtil.java" />
       <jump line="44" column="25" filename="$USER_HOME$/git/education/src/main/java/com/education/util/EncryptUtil.java" />
       <jump line="22" column="44" filename="$USER_HOME$/git/education/pom.xml" />
       <jump line="48" column="15" filename="$USER_HOME$/git/education/pom.xml" />
@@ -299,49 +297,53 @@
       <jump line="36" column="41" filename="$USER_HOME$/workspace/java/java se/burp-ext-custom-logger/src/main/java/burp/BurpExtender.java" />
       <jump line="100" column="29" filename="$USER_HOME$/workspace/java/java se/burp-ext-custom-logger/src/main/java/burp/BurpExtender.java" />
       <jump line="33" column="25" filename="$USER_HOME$/workspace/java/java se/burp-ext-custom-logger/src/main/java/burp/BurpExtender.java" />
+      <jump line="19" column="9" filename="$USER_HOME$/workspace/java/java se/burp-ext-custom-editor-tab/src/main/java/burp/BurpExtender.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/workspace/java/java se/burp-ext-custom-editor-tab/src/main/java/burp/BurpExtender.java" />
+      <jump line="14" column="33" filename="$USER_HOME$/workspace/java/java se/burp-ext-custom-editor-tab/src/main/java/burp/Base64InputTab.java" />
+      <jump line="23" column="44" filename="$USER_HOME$/workspace/java/java se/burp-ext-custom-editor-tab/src/main/java/burp/Base64InputTab.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>JSplitPane.</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>JSplitPane.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>dbconfig.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBqTWVudUl0ZW1zLmFkZChuZXcgSk1lbnVJdGVtKCJ0ZXN0IikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSVBhcmFtZXRlciBwYXJhbWV0ZXIgPSBidXJwLmdldEhlbHBlcnMoKS5nZXRSZXF1ZXN0UGFyYW1ldGVyKGNvbnRlbnQsICJkYXRhIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVscGVycyA9IGJ1cnAuZ2V0SGVscGVycygpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEpNZW51IG1lbnUgPSBuZXcgSk1lbnUoImN1c3RvbSBsb2dnZXIiKTsKLy8gICAgICAgIG1lbnUuYWRkKG5ldyBKTWVudUl0ZW0oIuS/ruaUueinhuWbviIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGV4dEVkaXRvci5zZXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBKTWVudUl0ZW0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqTWVudUl0ZW1zLmFkZChuZXcgSk1lbnVJdGVtKCJ0ZXN0IikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnl0ZVtdIHRleHQgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBqTWVudUl0ZW1zLmFkZChuZXcgSk1lbnVJdGVtKCJ0ZXN0IikpOwogICAgICAgIHJldHVybiBqTWVudUl0ZW1zOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IGJ5dGVbMF07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBKTWVudUl0ZW0gICAgICAgdGVzdCAgICAgICA9IG5ldyBKTWVudUl0ZW0oInRlc3QiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSk1lbnUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBqTWVudUl0ZW1zLmFkZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -380,7 +382,6 @@
         <entry>dbconfig.</entry>
       </history-search>
       <history-cmd>
-        <entry>set wrap</entry>
         <entry>set nowrap</entry>
         <entry>waq</entry>
         <entry>%s/images/image/g</entry>
@@ -399,6 +400,7 @@
         <entry>wq</entry>
         <entry>vs</entry>
         <entry>W</entry>
+        <entry>wq!</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
