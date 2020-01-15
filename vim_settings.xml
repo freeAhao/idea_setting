@@ -9,11 +9,12 @@
         <mark key="^" line="14" column="28" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/search/Search.java" timestamp="1579073872657">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="46" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="47" column="45" />
+      <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/search/Search.java" timestamp="1579076007916">
+        <mark key="'" line="78" column="28" />
+        <mark key="[" line="59" column="31" />
+        <mark key="]" line="59" column="33" />
+        <mark key="." line="59" column="33" />
+        <mark key="^" line="59" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/TestSearch.java" timestamp="1579059704403">
         <mark key="[" line="9" column="32" />
@@ -107,7 +108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/java/java se/burp-ext-custom-logger/src/main/java/burp/BurpExtender.java" />
       <jump line="148" column="15" filename="$USER_HOME$/workspace/java/java se/burp-ext-custom-logger/src/main/java/burp/BurpExtender.java" />
       <jump line="43" column="0" filename="$USER_HOME$/workspace/java/java se/burp-ext-custom-logger/src/main/java/burp/CLTableModel.java" />
       <jump line="97" column="22" filename="$USER_HOME$/workspace/java/java se/burp-ext-custom-logger/src/main/java/burp/BurpExtender.java" />
@@ -207,58 +207,59 @@
       <jump line="148" column="32" filename="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/search/TableDataModel.java" />
       <jump line="42" column="24" filename="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/search/Search.java" />
       <jump line="36" column="21" filename="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/search/Search.java" />
+      <jump line="45" column="28" filename="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/search/Search.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBqUG9wdXBNZW51LmFkZChuZXcgSk1lbnVJdGVtKCJ0ZXN0IikpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>id</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;test&quot;</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
-        <text>table</text>
+        <text>test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBqUG9wdXBNZW51LmFkZChuZXcgSk1lbnVJdGVtKCJ0ZXN0IikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3NDb21tYW5kKCJ4ZGctb3BlbiBodHRwOi8vd3d3dy5iYWlkdS5jb20vcz93ZD0iICsgdGl0bGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBqUG9wdXBNZW51LnNldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyB0aXRsZSAgICAgICAgID0gKFN0cmluZykgdGFibGUxLmdldE1vZGVsKCkuZ2V0VmFsdWVBdChzZWxlY3RlZFJvdywgMCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBqUG9wdXBNZW51LmFkZCgidGVzdCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyB0aXRsZSAgICAgICAgID0gKFN0cmluZykgdGFibGUxLmdldE1vZGVsKCkuZ2V0VmFsdWVBdChzZWxlY3RlZFJvdywgMCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRhYmxlMS5zZXRBdXRvQ3JlYXRlUm93U29ydGVyKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3NDb21tYW5kKCJ4ZGctb3BlbiBodHRwOi8vd3d3dy5iYWlkdS5jb20vcz93ZD0iK3RpdGxlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKGNvbHVtbkluZGV4KSB7CiAgICAgICAgICAgIGNhc2UgMTM6CiAgICAgICAgICAgICAgICByZXR1cm4gVVJMLmNsYXNzOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFJ1bnRpbWUuZ2V0UnVudGltZSgpLmV4ZWMobmV3IFN0cmluZ1tdeyJ4ZGctb3BlbiIsImh0dHBzOi8vd3d3LmJhaWR1LmNvbS9zP3dkPSIrdGl0bGV9KTsKICAgICAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZTEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ1cnAucHJpbnRFcnJvcihlMS50b1N0cmluZygpKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFJ1bnRpbWUuZ2V0UnVudGltZSgpLmV4ZWMobmV3IFN0cmluZ1tdeyJ4ZGctb3BlbiIsImh0dHBzOi8vd3d3LmJhaWR1LmNvbS9zP3dkPSIrdGl0bGV9KTsKICAgICAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZTEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ1cnAucHJpbnRFcnJvcihlMS50b1N0cmluZygpKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUxLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIENsYXNzPD8+IGdldENvbHVtbkNsYXNzKGludCBjb2x1bW5JbmRleCkgewogICAgICAgIHN3aXRjaCAoY29sdW1uSW5kZXgpIHsKICAgICAgICAgICAgY2FzZSAxMzoKICAgICAgICAgICAgICAgIHJldHVybiBVUkwuY2xhc3M7CiAgICAgICAgfQogICAgICAgIHJldHVybiBzdXBlci5nZXRDb2x1bW5DbGFzcyhjb2x1bW5JbmRleCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludFtdICBzZWxlY3RlZFJvd3MgID0gdGFibGUxLmdldFNlbGVjdGVkUm93cygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gaXNDZWxsRWRpdGFibGUoaW50IHJvd0luZGV4LCBpbnQgY29sdW1uSW5kZXgpIHsKICAgICAgICByZXR1cm4gdHJ1ZTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUnVudGltZS5nZXRSdW50aW1lKCkuZXhlYygib3BlbiIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>table</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>table</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-replace>image</last-replace>
       <last-substitute>images</last-substitute>
       <last-dir>1</last-dir>
@@ -266,8 +267,6 @@
     </search>
     <history>
       <history-search>
-        <entry>common</entry>
-        <entry>collection</entry>
         <entry>getBy</entry>
         <entry>getby</entry>
         <entry>get</entry>
@@ -286,6 +285,8 @@
         <entry>edit</entry>
         <entry>able</entry>
         <entry>table</entry>
+        <entry>tset</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>set nowrap</entry>
@@ -306,8 +307,8 @@
         <entry>wq</entry>
         <entry>wq!</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
