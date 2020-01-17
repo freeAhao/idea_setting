@@ -108,12 +108,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/JdbcUtils.java" timestamp="1579163913542">
+      <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/JdbcUtils.java" timestamp="1579233346904">
         <mark key="'" line="44" column="41" />
-        <mark key="[" line="17" column="24" />
-        <mark key="]" line="18" column="3" />
-        <mark key="." line="18" column="3" />
-        <mark key="^" line="18" column="3" />
+        <mark key="[" line="35" column="45" />
+        <mark key="]" line="35" column="47" />
+        <mark key="." line="35" column="47" />
+        <mark key="^" line="35" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/TestSearch.java" timestamp="1579059704403">
         <mark key="[" line="9" column="32" />
@@ -242,11 +242,11 @@
       <jump line="57" column="14" filename="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/search/menu/SearchMenu.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihuYW1lKTsK</text>
+      <register name="&quot;" type="4">
+        <text>效</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>效</text>
       </register>
       <register name="/" type="4">
         <text>Size</text>
@@ -339,8 +339,8 @@
         <entry>wq</entry>
         <entry>wq!</entry>
         <entry>vs</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
