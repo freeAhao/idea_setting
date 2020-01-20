@@ -22,6 +22,12 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="11" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/java/java se/burp-ext/req-converter/src/main/java/burp/conveter/Boundary.java" timestamp="1579510861448">
+        <mark key="[" line="94" column="54" />
+        <mark key="]" line="94" column="55" />
+        <mark key="^" line="94" column="78" />
+        <mark key="." line="94" column="55" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.portswigger.burp.extender/burp-extender-api/2.1/10411888ddb0f6c8d2008d52ef0bfd14c21b597/burp-extender-api-2.1-sources.jar!/burp/IContextMenuInvocation.java" timestamp="1579494900384" />
       <file name="$USER_HOME$/git/chunked-coding-converter/src/main/java/burp/Util.java" timestamp="1579490967352" />
       <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/UI/UI.java" timestamp="1579055791681">
@@ -29,9 +35,6 @@
         <mark key="]" line="11" column="3" />
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
-      </file>
-      <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/search/Search.java" timestamp="1579244608865">
-        <mark key="'" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/git/chunked-coding-converter/src/main/java/burp/Transfer.java" timestamp="1579491016863">
         <mark key="[" line="26" column="0" />
@@ -43,11 +46,11 @@
         <mark key="]" line="1970" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/net/portswigger/burp/extender/burp-extender-api/2.1/burp-extender-api-2.1-sources.jar!/burp/IRequestInfo.java" timestamp="1579488965447" />
-      <file name="$USER_HOME$/workspace/java/java se/burp-ext/req-converter/src/main/java/burp/Menu.java" timestamp="1579495027264">
-        <mark key="[" line="23" column="41" />
-        <mark key="]" line="23" column="50" />
-        <mark key="." line="23" column="50" />
-        <mark key="^" line="23" column="50" />
+      <file name="$USER_HOME$/workspace/java/java se/burp-ext/req-converter/src/main/java/burp/Menu.java" timestamp="1579509209461">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="32" />
+        <mark key="." line="25" column="32" />
+        <mark key="^" line="25" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/options/Options.java" timestamp="1579228895725">
         <mark key="[" line="53" column="0" />
@@ -60,11 +63,10 @@
         <mark key="." line="14" column="9" />
         <mark key="^" line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/java/java se/burp-ext/req-converter/src/main/java/burp/Utils.java" timestamp="1579504832538">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="12" column="17" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/workspace/java/java se/burp-ext/req-converter/src/main/java/burp/Utils.java" timestamp="1579510267976">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="51" column="5" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/java/java se/burp-ext/req-converter/src/main/java/burp/MyUtils.java" timestamp="1579504124064">
         <mark key="[" line="12" column="13" />
@@ -125,21 +127,18 @@
         <mark key="^" line="10" column="17" />
         <mark key="." line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/java/java se/burp-ext/req-converter/src/main/java/burp/conveter/TransferChunked.java" timestamp="1579506530957">
+      <file name="$USER_HOME$/workspace/java/java se/burp-ext/req-converter/src/main/java/burp/conveter/TransferChunked.java" timestamp="1579509871843">
         <mark key="'" line="42" column="47" />
-        <mark key="[" line="121" column="49" />
-        <mark key="]" line="121" column="49" />
-        <mark key="." line="121" column="49" />
-        <mark key="^" line="121" column="49" />
+        <mark key="[" line="47" column="132" />
+        <mark key="]" line="47" column="132" />
+        <mark key="." line="47" column="132" />
+        <mark key="^" line="46" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/search/menu/ViewDetail.java" timestamp="1579237103552">
         <mark key="[" line="33" column="42" />
         <mark key="]" line="33" column="42" />
         <mark key="." line="33" column="42" />
         <mark key="^" line="33" column="28" />
-      </file>
-      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/javax/swing/table/TableRowSorter.java" timestamp="1579070728633">
-        <mark key="'" line="129" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/UI.java" timestamp="1579172475958">
         <mark key="[" line="17" column="39" />
@@ -265,47 +264,47 @@
       <jump line="42" column="47" filename="$USER_HOME$/workspace/java/java se/burp-ext/req-converter/src/main/java/burp/conveter/TransferChunked.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>!</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGJvdW5kYXJ5ID0gVXRpbHMuZ2V0UmFuZG9tU3RyaW5nKDgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>body.getBytes()</text>
       </register>
       <register name="/" type="4">
         <text>JOp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBieXRlW10gICAgICAgcmVxdWVzdCAgICAgID0gcmVxdWVzdFJlc3BvbnNlLmdldFJlcXVlc3QoKTsKICAgICAgICBJUmVxdWVzdEluZm8gaVJlcXVlc3RJbmZvID0gQnVycEV4dGVuZGVyLmhlbHBlcnMuYW5hbHl6ZVJlcXVlc3QocmVxdWVzdCk7CiAgICAgICAgTGlzdDxTdHJpbmc+IGhlYWRlcnMgICAgICA9IGlSZXF1ZXN0SW5mby5nZXRIZWFkZXJzKCk7CiAgICAgICAgZm9yIChTdHJpbmcgaGVhZGVyIDogaGVhZGVycykgewoKICAgICAgICAgICAgaWYgKGhlYWRlci50b0xvd2VyQ2FzZSgpLnN0YXJ0c1dpdGgoInRyYW5zZmVyLWVuY29kaW5nIikpIHsKICAgICAgICAgICAgICAgIHJldHVybiByZXF1ZXN0OwogICAgICAgICAgICB9CiAgICAgICAgfQoKLy8gICAgICAgIEJ1cnBFeHRlbmRlci5idXJwLnByaW50T3V0cHV0KCLnvJbnoIEiKTsKICAgICAgICBpbnQgYm9keU9mZnNldCA9IGlSZXF1ZXN0SW5mby5nZXRCb2R5T2Zmc2V0KCk7CiAgICAgICAgaW50IGJvZHlMZW5ndGggPSByZXF1ZXN0Lmxlbmd0aCAtIGJvZHlPZmZzZXQ7CgogICAgICAgIFN0cmluZyAgICAgICBib2R5ICAgICAgICA9IG5ldyBTdHJpbmcocmVxdWVzdCwgYm9keU9mZnNldCwgYm9keUxlbmd0aCk7CiAgICAgICAgTGlzdDxTdHJpbmc+IHN0cmluZ0xpc3QgID0gVXRpbHMuc3BsaXRTdHJpbmdSYW5kb21MZW5MaXN0KGJvZHksIDEsIDEwKTsKICAgICAgICBTdHJpbmcgICAgICAgZW5jb2RlZEJvZHkgPSAiIjsKICAgICAgICBmb3IgKFN0cmluZyBzIDogc3RyaW5nTGlzdCkgewogICAgICAgICAgICBTdHJpbmcgbGVuZ3RoSGV4ID0gSW50ZWdlci50b0hleFN0cmluZyhzLmxlbmd0aCgpKTsKICAgICAgICAgICAgZW5jb2RlZEJvZHkgKz0gbGVuZ3RoSGV4ICsgIlxyXG4iOwogICAgICAgICAgICBlbmNvZGVkQm9keSArPSBzOwogICAgICAgICAgICBlbmNvZGVkQm9keSArPSAiXHJcbiI7CiAgICAgICAgfQogICAgICAgIGVuY29kZWRCb2R5ICs9ICIwXHJcblxyXG4iOwoKICAgICAgICBCdXJwRXh0ZW5kZXIuYnVycC5wcmludE91dHB1dChlbmNvZGVkQm9keSk7CiAgICAgICAgcmV0dXJuIEJ1cnBFeHRlbmRlci5oZWxwZXJzLmJ1aWxkSHR0cE1lc3NhZ2UoaGVhZGVycywgZW5jb2RlZEJvZHkuZ2V0Qnl0ZXMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9keSArPSAiY29udGVudC1kaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPVwiIitwYXJhbWV0ZXIuZ2V0TmFtZSgpKyJcIiIgKyJcclxuIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGJvdW5kYXJ5ID0gVXRpbHMuZ2V0UmFuZG9tU3RyaW5nKDgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9keSArPSAiLS0iK2JvdW5kYXJ5KyItLVxyXG4iOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJ1cnBFeHRlbmRlci5idXJwLnByaW50T3V0cHV0KHNwbGl0W2ldKTsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9keSArPSAiY29udGVudC1kaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPVwiIitwYXJhbWV0ZXIuZ2V0TmFtZSgpKyJcIiI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQnVycEV4dGVuZGVyLmJ1cnAucHJpbnRPdXRwdXQoc3BsaXRbaV0pOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIGdldFJhbmRvbVN0cigpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGQpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKElQYXJhbWV0ZXIgcGFyYW1ldGVyIDogcGFyYW1ldGVycykgewogICAgICAgICAgICBCdXJwRXh0ZW5kZXIuYnVycC5wcmludE91dHB1dChwYXJhbWV0ZXIuZ2V0TmFtZSgpICsgIi0tLSIgKyBwYXJhbWV0ZXIuZ2V0VmFsdWUoKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBCdXJwRXh0ZW5kZXIuYnVycC5wcmludE91dHB1dChlbmNvZGVkQm9keSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYm9keSAgICAgICA9IG5ldyBTdHJpbmcocmVxdWVzdCwgYm9keU9mZnNldCwgcmVxdWVzdC5sZW5ndGggLSBib2R5T2Zmc2V0KTsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbmNvZGVkQm9keSArPSAiMFxyXG5cclxuIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
