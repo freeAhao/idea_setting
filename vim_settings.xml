@@ -9,6 +9,67 @@
         <mark key="^" line="36" column="4" />
         <mark key="." line="15" column="14" />
       </file>
+      <file name="$USER_HOME$/git/chunked-coding-converter/pom.xml" timestamp="1579486870065">
+        <mark key="'" line="17" column="27" />
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="17" />
+        <mark key="." line="18" column="17" />
+        <mark key="^" line="18" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/UI/UI.java" timestamp="1579055791681">
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/search/Search.java" timestamp="1579244608865">
+        <mark key="'" line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/search/TableDataModel.java" timestamp="1579224878891">
+        <mark key="'" line="66" column="37" />
+        <mark key="[" line="22" column="49" />
+        <mark key="]" line="23" column="30" />
+        <mark key="." line="23" column="30" />
+        <mark key="^" line="23" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/search/menu/SearchMenu.java" timestamp="1579242276759">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="58" column="51" />
+        <mark key="]" line="58" column="64" />
+        <mark key="." line="58" column="64" />
+        <mark key="^" line="58" column="64" />
+      </file>
+      <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/options/Options.java" timestamp="1579228895725">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/Tab.java" timestamp="1579055188905">
+        <mark key="'" line="14" column="34" />
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/TestSearch.java" timestamp="1579059704403">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="9" column="32" />
+        <mark key="." line="9" column="32" />
+        <mark key="^" line="9" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/Test.java" timestamp="1579062690690">
+        <mark key="'" line="57" column="22" />
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="10" />
+        <mark key="." line="10" column="10" />
+        <mark key="^" line="10" column="10" />
+      </file>
+      <file name="$USER_HOME$/git/chunked-coding-converter/src/main/java/burp/Menu.java" timestamp="1579487686248">
+        <mark key="[" line="42" column="132" />
+        <mark key="]" line="42" column="156" />
+        <mark key="." line="42" column="156" />
+        <mark key="^" line="42" column="156" />
+      </file>
       <file name="/Dummy.txt" timestamp="1579227854469">
         <mark key="[" line="0" column="0" />
       </file>
@@ -24,12 +85,6 @@
         <mark key="." line="48" column="49" />
         <mark key="^" line="48" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/UI/UI.java" timestamp="1579055791681">
-        <mark key="[" line="10" column="44" />
-        <mark key="]" line="11" column="3" />
-        <mark key="." line="11" column="3" />
-        <mark key="^" line="11" column="3" />
-      </file>
       <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/search/DataEntry.java" timestamp="1579223441524">
         <mark key="'" line="10" column="25" />
         <mark key="[" line="156" column="11" />
@@ -37,31 +92,15 @@
         <mark key="." line="156" column="17" />
         <mark key="^" line="156" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/search/Search.java" timestamp="1579244608865">
-        <mark key="'" line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/search/TableDataModel.java" timestamp="1579224878891">
-        <mark key="'" line="66" column="37" />
-        <mark key="[" line="22" column="49" />
-        <mark key="]" line="23" column="30" />
-        <mark key="." line="23" column="30" />
-        <mark key="^" line="23" column="30" />
-      </file>
       <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/search/menu/Search.java" timestamp="1579230627465">
         <mark key="[" line="14" column="19" />
         <mark key="]" line="16" column="23" />
         <mark key="." line="16" column="23" />
         <mark key="^" line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/search/menu/SearchMenu.java" timestamp="1579242276759">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="58" column="51" />
-        <mark key="]" line="58" column="64" />
-        <mark key="." line="58" column="64" />
-        <mark key="^" line="58" column="64" />
-      </file>
-      <file name="$USER_HOME$/git/chunked-coding-converter/src/main/java/burp/BurpExtender.java" timestamp="1579485314039">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/git/chunked-coding-converter/src/main/java/burp/BurpExtender.java" timestamp="1579486968338">
+        <mark key="'" line="69" column="13" />
+        <mark key="^" line="4" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/search/menu/ViewDetail.java" timestamp="1579237103552">
         <mark key="[" line="33" column="42" />
@@ -71,11 +110,6 @@
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/javax/swing/table/TableRowSorter.java" timestamp="1579070728633">
         <mark key="'" line="129" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/options/Options.java" timestamp="1579228895725">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/UI.java" timestamp="1579172475958">
         <mark key="[" line="17" column="39" />
@@ -88,13 +122,6 @@
         <mark key="]" line="29" column="27" />
         <mark key="." line="29" column="27" />
         <mark key="^" line="29" column="27" />
-      </file>
-      <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/Tab.java" timestamp="1579055188905">
-        <mark key="'" line="14" column="34" />
-        <mark key="[" line="11" column="18" />
-        <mark key="]" line="11" column="17" />
-        <mark key="." line="11" column="17" />
-        <mark key="^" line="11" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/build.gradle" timestamp="1579162733305">
         <mark key="'" line="29" column="0" />
@@ -115,19 +142,6 @@
         <mark key="^" line="49" column="60" />
         <mark key="." line="49" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/TestSearch.java" timestamp="1579059704403">
-        <mark key="[" line="9" column="32" />
-        <mark key="]" line="9" column="32" />
-        <mark key="." line="9" column="32" />
-        <mark key="^" line="9" column="32" />
-      </file>
-      <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/Test.java" timestamp="1579062690690">
-        <mark key="'" line="57" column="22" />
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="10" />
-        <mark key="." line="10" column="10" />
-        <mark key="^" line="10" column="10" />
-      </file>
       <file name="/fragment.java" timestamp="1579230340863">
         <mark key="[" line="0" column="0" />
       </file>
@@ -140,9 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="21" filename="$USER_HOME$/workspace/java/java se/burp-ext-custom-logger/src/main/java/burp/CLTableModel.java" />
-      <jump line="58" column="36" filename="$USER_HOME$/workspace/java/java se/burp-ext-custom-logger/burp.bak/BurpExtender.java" />
-      <jump line="95" column="13" filename="$USER_HOME$/workspace/java/java se/burp-ext-custom-logger/src/main/java/burp/BurpExtender.java" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/java/java se/burp-ext-custom-logger/src/main/java/burp/Log.java" />
       <jump line="42" column="14" filename="$USER_HOME$/workspace/java/java se/burp-ext-custom-logger/src/main/java/burp/CLTableModel.java" />
       <jump line="94" column="41" filename="$USER_HOME$/workspace/java/java se/burp-ext-custom-logger/src/main/java/burp/BurpExtender.java" />
@@ -240,58 +251,61 @@
       <jump line="48" column="0" filename="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/search/menu/SearchMenu.java" />
       <jump line="19" column="45" filename="$USER_HOME$/git/chunked-coding-converter/src/main/java/burp/BurpExtender.java" />
       <jump line="0" column="0" filename="$USER_HOME$/git/chunked-coding-converter/src/main/java/burp/BurpExtender.java" />
+      <jump line="76" column="40" filename="$USER_HOME$/git/chunked-coding-converter/src/main/java/burp/BurpExtender.java" />
+      <jump line="17" column="27" filename="$USER_HOME$/git/chunked-coding-converter/pom.xml" />
+      <jump line="69" column="13" filename="$USER_HOME$/git/chunked-coding-converter/src/main/java/burp/BurpExtender.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlCg==</text>
+      <register name="&quot;" type="4">
+        <text>e.CLOSED_OPTION</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e.CLOSED_OPTION</text>
       </register>
       <register name="/" type="4">
-        <text>Size</text>
+        <text>JOp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBCdXJwRXh0ZW5kZXIuZ2V0SW5zdGF0Y2UoKS5vc0NvbW1hbmQobmV3IFN0cmluZ1tdeyJ4ZGctb3BlbiIsICJodHRwOi8vd3d3Lmdvb2dsZS5jb20vc2VhcmNoP3E9IitnZXRTZWxlY3RWYWx1ZSgpfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlCg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgcmVnaXN0ZXJFeHRlbmRlckNhbGxiYWNrcyhJQnVycEV4dGVuZGVyQ2FsbGJhY2tzIGNhbGxiYWNrcykgewogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNhbGxiYWNrcyA9IGNhbGxiYWNrczsKICAgICAgICB0aGlzLmhlbHBlcnMgPSBjYWxsYmFja3MuZ2V0SGVscGVycygpOwogICAgICAgIGNhbGxiYWNrcy5zZXRFeHRlbnNpb25OYW1lKFN0cmluZy5mb3JtYXQoIiVzICVzIixleHRlbnNpb25OYW1lLHZlcnNpb24pKTsKICAgICAgICBjYWxsYmFja3MucmVnaXN0ZXJDb250ZXh0TWVudUZhY3RvcnkobmV3IE1lbnUoKSk7CiAgICAgICAgY2FsbGJhY2tzLnJlZ2lzdGVySHR0cExpc3RlbmVyKHRoaXMpOwogICAgICAgIGNhbGxiYWNrcy5yZWdpc3RlclByb3h5TGlzdGVuZXIodGhpcyk7CiAgICAgICAgc3Rkb3V0ID0gbmV3IFByaW50V3JpdGVyKGNhbGxiYWNrcy5nZXRTdGRvdXQoKSx0cnVlKTsKICAgICAgICBzdGRlcnIgPSBuZXcgUHJpbnRXcml0ZXIoY2FsbGJhY2tzLmdldFN0ZGVycigpLHRydWUpOwogICAgICAgIHN0ZG91dC5wcmludGxuKGdldEJhbm5lcigpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBCdXJwRXh0ZW5kZXIuZ2V0SW5zdGF0Y2UoKS5vc0NvbW1hbmQobmV3IFN0cmluZ1tdeyJ4ZGctb3BlbiIsICJodHRwczovL2dpdGh1Yi5jb20vc2VhcmNoP3E9IitnZXRTZWxlY3RWYWx1ZSgpfSk7Cg==</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHByb2plY3QgeG1sbnM9Imh0dHA6Ly9tYXZlbi5hcGFjaGUub3JnL1BPTS80LjAuMCIKICAgICAgICAgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIKICAgICAgICAgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vbWF2ZW4uYXBhY2hlLm9yZy9QT00vNC4wLjAgaHR0cDovL21hdmVuLmFwYWNoZS5vcmcveHNkL21hdmVuLTQuMC4wLnhzZCI+CiAgICA8bW9kZWxWZXJzaW9uPjQuMC4wPC9tb2RlbFZlcnNpb24+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBCdXJwRXh0ZW5kZXIuZ2V0SW5zdGF0Y2UoKS5vc0NvbW1hbmQobmV3IFN0cmluZ1tdeyJ4ZGctb3BlbiIsICJodHRwOi8vd3d3Lmdvb2dsZS5jb20vc2VhcmNoP3E9IitnZXRTZWxlY3RWYWx1ZSgpfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBCdXJwRXh0ZW5kZXIuZ2V0SW5zdGF0Y2UoKS5vc0NvbW1hbmQobmV3IFN0cmluZ1tdeyJ4ZGctb3BlbiIsICJodHRwOi8vd3d3Lmdvb2dsZS5jb20vc2VhcmNoP3E9IitnZXRTZWxlY3RWYWx1ZSgpfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQnVycAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBEZXNrdG9wIGRlc2t0b3AgPSBEZXNrdG9wLmdldERlc2t0b3AoKTsKICAgICAgICBkZXNrdG9wLmJyb3dzZSh1cmkpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBCdXJwRXh0ZW5kZXIuZ2V0SW5zdGF0Y2UoKS5vc0NvbW1hbmQobmV3IFN0cmluZ1tdeyJ4ZGctb3BlbiIsICJodHRwczovL2dpdGh1Yi5jb20vc2VhcmNoP3E9IitnZXRTZWxlY3RWYWx1ZSgpfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQnVycEV4dGVuZGVyLmdldEluc3RhdGNlKCkub3NDb21tYW5kKG5ldyBTdHJpbmdbXXsieGRnLW9wZW4iLCB9KTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBCdXJwRXh0ZW5kZXIuZ2V0SW5zdGF0Y2UoKS5vc0NvbW1hbmQobmV3IFN0cmluZ1tdeyJ4ZGctb3BlbiIsICJodHRwOi8vd3d3Lmdvb2dsZS5jb20vc2VhcmNoP3E9IitnZXRTZWxlY3RWYWx1ZSgpfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Size</last-search>
+      <last-search>JOp</last-search>
       <last-offset />
-      <last-pattern>Size</last-pattern>
+      <last-pattern>JOp</last-pattern>
       <last-replace>image</last-replace>
       <last-substitute>images</last-substitute>
       <last-dir>1</last-dir>
@@ -299,7 +313,6 @@
     </search>
     <history>
       <history-search>
-        <entry>initVerify</entry>
         <entry>loginIp</entry>
         <entry>login_info</entry>
         <entry>left</entry>
@@ -319,6 +332,7 @@
         <entry>log</entry>
         <entry>size</entry>
         <entry>Size</entry>
+        <entry>JOp</entry>
       </history-search>
       <history-cmd>
         <entry>set nowrap</entry>
