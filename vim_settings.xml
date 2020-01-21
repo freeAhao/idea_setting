@@ -123,7 +123,7 @@
         <mark key="^" line="10" column="17" />
         <mark key="." line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/java/java se/burp-ext/req-converter/src/main/java/burp/conveter/TransferChunked.java" timestamp="1579571119944">
+      <file name="$USER_HOME$/workspace/java/java se/burp-ext/req-converter/src/main/java/burp/conveter/TransferChunked.java" timestamp="1579571228652">
         <mark key="[" line="126" column="0" />
         <mark key="]" line="126" column="0" />
         <mark key="." line="126" column="0" />
@@ -258,11 +258,11 @@
       <jump line="126" column="25" filename="$USER_HOME$/workspace/java/java se/burp-ext/req-converter/src/main/java/burp/conveter/TransferChunked.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEJ1cnBFeHRlbmRlci5idXJwLnByaW50T3V0cHV0KGVuY29kZWRCb2R5KTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>invocation.getSelectedMessages()[0]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>JOp</text>
