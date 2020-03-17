@@ -27,6 +27,12 @@
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/JdbcUtils.java" timestamp="1584409030657">
+        <mark key="[" line="22" column="48" />
+        <mark key="]" line="22" column="54" />
+        <mark key="." line="22" column="54" />
+        <mark key="^" line="22" column="54" />
+      </file>
       <file name="$USER_HOME$/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/UI/UI.java" timestamp="1579055791681">
         <mark key="[" line="10" column="44" />
         <mark key="]" line="11" column="3" />
@@ -259,10 +265,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Downloads</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Downloads</text>
       </register>
       <register name="/" type="4">
         <text>JOp</text>
