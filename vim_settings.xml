@@ -48,6 +48,12 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/SimpeJavaWeb/web/WEB-INF/web.xml" timestamp="1589275065764">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/fastjson-vul-demo/src/main/java/cf/freeahao/App.java" timestamp="1585211021262">
         <mark key="[" line="13" column="39" />
         <mark key="]" line="13" column="39" />
@@ -350,10 +356,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>org.apache.catalina.servlets.DefaultServlet</text>
+        <text>org.apache.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2VydmxldC1jbGFzcz4=</text>
+        <text>org.apache.</text>
       </register>
       <register name="/" type="4">
         <text>read</text>
