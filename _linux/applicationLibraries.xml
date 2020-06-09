@@ -1,0 +1,12 @@
+<application>
+  <component name="libraryTable">
+    <library name="ECLIPSE">
+      <CLASSES>
+        <root url="file:///usr/lib/eclipse/plugins" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file:///usr/lib/eclipse/plugins" recursive="true" />
+    </library>
+  </component>
+</application>
