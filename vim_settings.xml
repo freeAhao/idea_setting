@@ -23,6 +23,12 @@
       <file name="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/web-app_2_3.dtd" timestamp="1589332960197">
         <mark key="'" line="27" column="35" />
       </file>
+      <file name="$USER_HOME$/dev/SpringActuatorDemo/src/main/resources/logback.xml" timestamp="1592272938061">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="15" />
+        <mark key="^" line="11" column="15" />
+        <mark key="." line="11" column="15" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.2.23/1fc5bfb461ed0e9b7397fbd595955ff7f198f70f/fastjson-1.2.23-sources.jar!/com/alibaba/fastjson/parser/JSONLexer.java" timestamp="1585213429027">
         <mark key="'" line="104" column="0" />
       </file>
@@ -47,12 +53,12 @@
       <file name="$USER_HOME$/.local/share/tomcat/apache-tomcat-8.5.54/lib/catalina.jar!/org/apache/catalina/servlets/DefaultServlet.class" timestamp="1589276934354">
         <mark key="'" line="92" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/SpringActuatorDemo/pom.xml" timestamp="1592270431739">
+      <file name="$USER_HOME$/dev/SpringActuatorDemo/pom.xml" timestamp="1592272671012">
         <mark key="'" line="14" column="37" />
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="7" column="25" />
-        <mark key="." line="7" column="25" />
-        <mark key="^" line="7" column="25" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="21" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -158,8 +164,8 @@
       <jump line="14" column="37" filename="$USER_HOME$/dev/SpringActuatorDemo/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ASE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICA8ZGVwZW5kZW5jeT4KICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLWxvZ2dpbmc8L2FydGlmYWN0SWQ+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>ASE</text>
@@ -167,35 +173,35 @@
       <register name="/" type="4">
         <text>listen</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxpbml0LXBhcmFtPgogICAgICA8cGFyYW0tbmFtZT5saXN0aW5nczwvcGFyYW0tbmFtZT4KICAgICAgPHBhcmFtLXZhbHVlPnRydWU8L3BhcmFtLXZhbHVlPgogICAgPC9pbml0LXBhcmFtPgo=</text>
+      <register name="0" type="4">
+        <text>spring-boot-starter-actuator</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICA8ZGVwZW5kZW5jeT4KICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLWxvZ2dpbmc8L2FydGlmYWN0SWQ+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzZXJ2Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8c2VydmxldC1tYXBwaW5nPgogICAgPHNlcnZsZXQtbmFtZT5kZWZhdWx0PC9zZXJ2bGV0LW5hbWU+CiAgICA8dXJsLXBhdHRlcm4+LzwvdXJsLXBhdHRlcm4+CiAgPC9zZXJ2bGV0LW1hcHBpbmc+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxpbml0LXBhcmFtPgogICAgICA8cGFyYW0tbmFtZT5yZWFkb25seTwvcGFyYW0tbmFtZT4KICAgICAgPHBhcmFtLXZhbHVlPmZhbHNlPC9wYXJhbS12YWx1ZT4KICAgIDwvaW5pdC1wYXJhbT4K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxpbml0LXBhcmFtPgogICAgICA8cGFyYW0tbmFtZT48L3BhcmFtLW5hbWU+CiAgICAgIDxwYXJhbS12YWx1ZT48L3BhcmFtLXZhbHVlPgogICAgPC9pbml0LXBhcmFtPgo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgPHNlcnZsZXQ+CiAgICA8c2VydmxldC1uYW1lPmRlZmF1bHRTZXJ2bGV0PC9zZXJ2bGV0LW5hbWU+CiAgICA8c2VydmxldC1jbGFzcz5vcmcuYXBhY2hlLmNhdGFsaW5hLnNlcnZsZXRzLkRlZmF1bHRTZXJ2bGV0PC9zZXJ2bGV0LWNsYXNzPgogICAgPGluaXQtcGFyYW0+CiAgICAgIDxwYXJhbS1uYW1lPmxpc3RpbmdzPC9wYXJhbS1uYW1lPgogICAgICA8cGFyYW0tdmFsdWU+dHJ1ZTwvcGFyYW0tdmFsdWU+CiAgICA8L2luaXQtcGFyYW0+CiAgICA8aW5pdC1wYXJhbT4KICAgICAgPHBhcmFtLW5hbWU+cmVhZG9ubHk8L3BhcmFtLW5hbWU+CiAgICAgIDxwYXJhbS12YWx1ZT5mYWxzZTwvcGFyYW0tdmFsdWU+CiAgICA8L2luaXQtcGFyYW0+CiAgPC9zZXJ2bGV0PgoKICA8c2VydmxldC1tYXBwaW5nPgogICAgPHNlcnZsZXQtbmFtZT5kZWZhdWx0U2VydmxldDwvc2VydmxldC1uYW1lPgogICAgPHVybC1wYXR0ZXJuPi88L3VybC1wYXR0ZXJuPgogIDwvc2VydmxldC1tYXBwaW5nPgo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxzZXJ2Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICA8c2VydmxldC1tYXBwaW5nPgogICAgPHNlcnZsZXQtbmFtZT5kZWZhdWx0PC9zZXJ2bGV0LW5hbWU+CiAgICA8dXJsLXBhdHRlcm4+LzwvdXJsLXBhdHRlcm4+CiAgPC9zZXJ2bGV0LW1hcHBpbmc+Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -255,8 +261,8 @@
         <entry>wq</entry>
         <entry>wq!</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
