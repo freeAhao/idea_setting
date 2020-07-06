@@ -36,11 +36,12 @@
         <mark key="^" line="12" column="28" />
         <mark key="." line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/UtilsPanel.java" timestamp="1594021202274">
-        <mark key="'" line="48" column="7" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/UtilsPanel.java" timestamp="1594027520007">
+        <mark key="'" line="14" column="17" />
+        <mark key="[" line="97" column="26" />
+        <mark key="]" line="97" column="31" />
+        <mark key="." line="97" column="31" />
+        <mark key="^" line="97" column="31" />
       </file>
       <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/options/Options.java" timestamp="1593867630198">
         <mark key="[" line="85" column="0" />
@@ -62,23 +63,23 @@
         <mark key="^" line="12" column="30" />
         <mark key="." line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/utils/WhoisForm.java" timestamp="1594024648669">
-        <mark key="'" line="97" column="23" />
-        <mark key="[" line="17" column="23" />
-        <mark key="]" line="17" column="29" />
-        <mark key="^" line="17" column="29" />
-        <mark key="." line="17" column="29" />
+      <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/utils/WhoisForm.java" timestamp="1594026958441">
+        <mark key="'" line="112" column="23" />
+        <mark key="[" line="35" column="42" />
+        <mark key="]" line="36" column="51" />
+        <mark key="^" line="36" column="51" />
+        <mark key="." line="36" column="51" />
       </file>
       <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/SubdomainForm.java" timestamp="1594011409930">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/utils/Form.java" timestamp="1594021665724">
-        <mark key="[" line="7" column="26" />
-        <mark key="]" line="9" column="30" />
-        <mark key="." line="9" column="30" />
-        <mark key="^" line="9" column="30" />
+      <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/utils/Form.java" timestamp="1594027549155">
+        <mark key="[" line="15" column="26" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="15" column="31" />
+        <mark key="^" line="15" column="31" />
       </file>
       <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/utils/InfoForm.java" timestamp="1594021823757">
         <mark key="[" line="12" column="22" />
@@ -92,6 +93,12 @@
         <mark key="." line="23" column="25" />
         <mark key="^" line="23" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/model/Target.java" timestamp="1594027567913">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+      </file>
       <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/resources/nslookup-cn.properties" timestamp="1594007649404">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="6" column="0" />
@@ -99,7 +106,7 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/TargetPanel.java" timestamp="1594011689336" />
+      <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/TargetPanel.java" timestamp="1594027790953" />
       <file name="$USER_HOME$/dev/EKPV12/ekp/WebContent/km/signature/km_signature_document_main/DocumentEdit.jsp" timestamp="1591670559453">
         <mark key="[" line="191" column="8" />
         <mark key="]" line="191" column="7" />
@@ -111,7 +118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="45" filename="$USER_HOME$/git/chunked-coding-converter/src/main/java/burp/BurpExtender.java" />
       <jump line="0" column="0" filename="$USER_HOME$/git/chunked-coding-converter/src/main/java/burp/BurpExtender.java" />
       <jump line="76" column="40" filename="$USER_HOME$/git/chunked-coding-converter/src/main/java/burp/BurpExtender.java" />
       <jump line="17" column="27" filename="$USER_HOME$/git/chunked-coding-converter/pom.xml" />
@@ -211,49 +217,50 @@
       <jump line="26" column="31" filename="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/UtilsPanel.java" />
       <jump line="97" column="23" filename="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/utils/WhoisForm.java" />
       <jump line="48" column="7" filename="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/UtilsPanel.java" />
+      <jump line="14" column="17" filename="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/UtilsPanel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>implements</text>
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>implements</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>php</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtTGlzdC5hZGQod2hvaXNGb3JtKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0YXJnZXQgIT0gbnVsbCAmJiAhdGFyZ2V0LmVxdWFscygiIikpIHsKLy8gICAgICAgICAgICAgICAgICAgIGZ1dHVyZS50aGVuQWNjZXB0KHF1ZXJ5IC0+IFN5c3RlbS5vdXQucHJpbnRsbihxdWVyeSkpOwogICAgICAgICAgICAgICAgICAgIGV4ZWN1dG9yLmV4ZWN1dGUobmV3IFJ1bm5hYmxlKCkgewogICAgICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHF1ZXJ5ID0gV2hvaXMucXVlcnkodGFyZ2V0KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3VsdC5zZXRUZXh0KHF1ZXJ5KTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmaW5hbCB2b2lkIHNldFQK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHN1YmRvbWFpbgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFRhcgo=</text>
+        <text encoding="base64">ICAgICAgICB0YWJiZWRQYW5lMS5hZGQoIkPmrrUiLCBjRm9ybS4kJCRnZXRSb290Q29tcG9uZW50JCQkKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyB0YXJnZXQgPSAiIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+      <register name="7" type="4">
+        <text encoding="base64">Ly8gICAgICAgIENvbXBsZXRhYmxlRnV0dXJlPFN0cmluZz4gZnV0dXJlID0gQ29tcGxldGFibGVGdXR1cmUuc3VwcGx5QXN5bmMobmV3IFN1cHBsaWVyPFN0cmluZz4oKSB7Ci8vICAgICAgICAgICAgQE92ZXJyaWRlCi8vICAgICAgICAgICAgcHVibGljIFN0cmluZyBnZXQoKSB7Ci8vICAgICAgICAgICAgICAgIFN0cmluZyBxdWVyeSA9IFdob2lzLnF1ZXJ5KHRhcmdldCk7Ci8vICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigicXVlcnkgPSAiICsgcXVlcnkpOwovLyAgICAgICAgICAgICAgICByZXN1bHQuc2V0VGV4dChxdWVyeSk7Ci8vICAgICAgICAgICAgICAgIHJldHVybiBxdWVyeTsKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9LCBleGVjdXRvcik7</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFRhcmdldCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaSAK</text>
+        <text encoding="base64">ICAgICAgICBzZXRUYXJnZXQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
