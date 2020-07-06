@@ -63,11 +63,11 @@
       <file name="$USER_HOME$/dev/jsp_include_test/target/tomcat/conf/web.xml" timestamp="1587030912478">
         <mark key="'" line="62" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/UtilsPanel.java" timestamp="1594002975166">
-        <mark key="[" line="90" column="47" />
-        <mark key="]" line="90" column="47" />
-        <mark key="." line="90" column="47" />
-        <mark key="^" line="90" column="47" />
+      <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/UtilsPanel.java" timestamp="1594003707515">
+        <mark key="[" line="72" column="8" />
+        <mark key="]" line="72" column="21" />
+        <mark key="." line="72" column="21" />
+        <mark key="^" line="72" column="21" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/web-app_2_3.dtd" timestamp="1589332960197">
         <mark key="'" line="27" column="35" />
@@ -195,10 +195,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>subdomainPanlScrollPane</text>
+        <text>subdomainpanel</text>
       </register>
       <register name="-" type="4">
-        <text>subdomainPanlScrollPane</text>
+        <text>subdomainpanel</text>
       </register>
       <register name="/" type="4">
         <text>php</text>
