@@ -106,7 +106,13 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/TargetPanel.java" timestamp="1594027790953" />
+      <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/TargetPanel.java" timestamp="1594028429219">
+        <mark key="'" line="87" column="45" />
+        <mark key="[" line="39" column="37" />
+        <mark key="]" line="39" column="62" />
+        <mark key="." line="39" column="62" />
+        <mark key="^" line="39" column="62" />
+      </file>
       <file name="$USER_HOME$/dev/EKPV12/ekp/WebContent/km/signature/km_signature_document_main/DocumentEdit.jsp" timestamp="1591670559453">
         <mark key="[" line="191" column="8" />
         <mark key="]" line="191" column="7" />
@@ -118,7 +124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/chunked-coding-converter/src/main/java/burp/BurpExtender.java" />
       <jump line="76" column="40" filename="$USER_HOME$/git/chunked-coding-converter/src/main/java/burp/BurpExtender.java" />
       <jump line="17" column="27" filename="$USER_HOME$/git/chunked-coding-converter/pom.xml" />
       <jump line="69" column="13" filename="$USER_HOME$/git/chunked-coding-converter/src/main/java/burp/BurpExtender.java" />
@@ -218,13 +223,14 @@
       <jump line="97" column="23" filename="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/utils/WhoisForm.java" />
       <jump line="48" column="7" filename="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/UtilsPanel.java" />
       <jump line="14" column="17" filename="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/UtilsPanel.java" />
+      <jump line="85" column="45" filename="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/TargetPanel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>selectNode.toString()</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>selectNode.toString()</text>
       </register>
       <register name="/" type="4">
         <text>php</text>
@@ -233,34 +239,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0YXJnZXQgIT0gbnVsbCAmJiAhdGFyZ2V0LmVxdWFscygiIikpIHsKLy8gICAgICAgICAgICAgICAgICAgIGZ1dHVyZS50aGVuQWNjZXB0KHF1ZXJ5IC0+IFN5c3RlbS5vdXQucHJpbnRsbihxdWVyeSkpOwogICAgICAgICAgICAgICAgICAgIGV4ZWN1dG9yLmV4ZWN1dGUobmV3IFJ1bm5hYmxlKCkgewogICAgICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHF1ZXJ5ID0gV2hvaXMucXVlcnkodGFyZ2V0KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3VsdC5zZXRUZXh0KHF1ZXJ5KTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHN1YmRvbWFpbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGVjdE5vZGUuc2V0Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHN1YmRvbWFpbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0YWJiZWRQYW5lMS5hZGQoIkPmrrUiLCBjRm9ybS4kJCRnZXRSb290Q29tcG9uZW50JCQkKCkpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0YWJiZWRQYW5lMS5hZGQoIkPmrrUiLCBjRm9ybS4kJCRnZXRSb290Q29tcG9uZW50JCQkKCkpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">Ly8gICAgICAgIENvbXBsZXRhYmxlRnV0dXJlPFN0cmluZz4gZnV0dXJlID0gQ29tcGxldGFibGVGdXR1cmUuc3VwcGx5QXN5bmMobmV3IFN1cHBsaWVyPFN0cmluZz4oKSB7Ci8vICAgICAgICAgICAgQE92ZXJyaWRlCi8vICAgICAgICAgICAgcHVibGljIFN0cmluZyBnZXQoKSB7Ci8vICAgICAgICAgICAgICAgIFN0cmluZyBxdWVyeSA9IFdob2lzLnF1ZXJ5KHRhcmdldCk7Ci8vICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigicXVlcnkgPSAiICsgcXVlcnkpOwovLyAgICAgICAgICAgICAgICByZXN1bHQuc2V0VGV4dChxdWVyeSk7Ci8vICAgICAgICAgICAgICAgIHJldHVybiBxdWVyeTsKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9LCBleGVjdXRvcik7</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRUYXJnZXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
