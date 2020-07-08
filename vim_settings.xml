@@ -149,6 +149,7 @@
         <mark key="^" line="12" column="30" />
         <mark key="." line="12" column="30" />
       </file>
+      <file name="$USER_HOME$/hacking/tools/scanner/burp/J2EEScan/src/main/java/burp/WeakPasswordBruteforcer.java" timestamp="1594199561970" />
       <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/utils/WhoisForm.java" timestamp="1594029146808">
         <mark key="'" line="111" column="23" />
         <mark key="[" line="28" column="59" />
@@ -179,7 +180,6 @@
         <mark key="^" line="12" column="28" />
         <mark key="." line="12" column="28" />
       </file>
-      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/javax/swing/tree/DefaultMutableTreeNode.java" timestamp="1594090756422" />
       <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/model/TargetNode.java" timestamp="1594090903126">
         <mark key="[" line="12" column="38" />
         <mark key="]" line="13" column="31" />
@@ -240,11 +240,7 @@
         <mark key="." line="97" column="31" />
         <mark key="^" line="97" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/options/Options.java" timestamp="1593867630198">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-      </file>
+      <file name="$USER_HOME$/hacking/tools/scanner/burp/J2EEScan/src/main/java/burp/WeakPassword.java" timestamp="1594199583345" />
       <file name="/fragment.java" timestamp="1594020835831">
         <mark key="[" line="0" column="0" />
       </file>
