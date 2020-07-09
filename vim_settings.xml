@@ -140,7 +140,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/hacking/tools/scanner/burp/J2EEScan/src/main/java/burp/j2ee/lib/SimpleAjpClient.java" timestamp="1594259696838" />
+      <file name="$USER_HOME$/hacking/tools/scanner/burp/J2EEScan/src/main/java/burp/j2ee/lib/SimpleAjpClient.java" timestamp="1594275768200" />
       <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/model/TargetNode.java" timestamp="1594090903126">
         <mark key="[" line="12" column="38" />
         <mark key="]" line="13" column="31" />
@@ -154,19 +154,15 @@
         <mark key="^" line="12" column="33" />
         <mark key="." line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/utils/PortForm.java" timestamp="1594021828256">
-        <mark key="'" line="18" column="19" />
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="12" column="28" />
-        <mark key="^" line="12" column="28" />
-        <mark key="." line="12" column="28" />
-      </file>
       <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/UtilsPanel.java" timestamp="1594027520007">
         <mark key="'" line="14" column="17" />
         <mark key="[" line="97" column="26" />
         <mark key="]" line="97" column="31" />
         <mark key="." line="97" column="31" />
         <mark key="^" line="97" column="31" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1594275729670">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/hacking/tools/scanner/burp/J2EEScan/src/main/java/burp/j2ee/issues/impl/AJP_Tomcat_GhostCatTest.java" timestamp="1594262780595">
         <mark key="'" line="78" column="21" />
@@ -175,6 +171,7 @@
         <mark key="." line="56" column="17" />
         <mark key="^" line="56" column="18" />
       </file>
+      <file name="$USER_HOME$/hacking/tools/scanner/burp/J2EEScan/src/main/java/burp/j2ee/issues/impl/TomcatManager.java" timestamp="1594275663699" />
       <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/utils/WhoisForm.java" timestamp="1594029146808">
         <mark key="'" line="111" column="23" />
         <mark key="[" line="28" column="59" />
@@ -195,12 +192,6 @@
         <mark key="]" line="15" column="31" />
         <mark key="." line="15" column="31" />
         <mark key="^" line="15" column="31" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/utils/InfoForm.java" timestamp="1594021823757">
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="12" column="28" />
-        <mark key="^" line="12" column="28" />
-        <mark key="." line="12" column="28" />
       </file>
       <file name="$USER_HOME$/hacking/tools/scanner/burp/J2EEScan/src/main/java/burp/j2ee/PassiveScanner.java" timestamp="1594263493412" />
       <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/model/Target.java" timestamp="1594090810330">
@@ -231,7 +222,7 @@
         <mark key="[" line="93" column="0" />
         <mark key="]" line="105" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1594261629479">
+      <file name="/fragment.java" timestamp="1594275729681">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
