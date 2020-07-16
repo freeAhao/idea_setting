@@ -150,6 +150,10 @@
         <mark key="." line="56" column="17" />
         <mark key="^" line="56" column="18" />
       </file>
+      <file name="$USER_HOME$/hacking/vulhub/liferay-portal/liferay-portal-7.2.0-ga1/tomcat-9.0.17/webapps/ROOT/WEB-INF/web.xml" timestamp="1594889499777">
+        <mark key="[" line="197" column="53" />
+        <mark key="]" line="197" column="73" />
+      </file>
       <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/utils/WhoisForm.java" timestamp="1594029146808">
         <mark key="'" line="111" column="23" />
         <mark key="[" line="28" column="59" />
@@ -332,8 +336,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>JSONWebServiceServlet</text>
+      </register>
+      <register name="+" type="4">
+        <text>JSONWebServiceServlet</text>
       </register>
       <register name="-" type="4">
         <text>[</text>
