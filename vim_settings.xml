@@ -178,7 +178,6 @@
         <mark key="." line="24" column="74" />
         <mark key="^" line="24" column="86" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/5.2.7.RELEASE/spring-jdbc-5.2.7.RELEASE.jar!/org/springframework/jdbc/core/JdbcTemplate.class" timestamp="1595319674319" />
       <file name="$USER_HOME$/hacking/tools/scanner/burp/J2EEScan/src/main/java/burp/j2ee/issues/impl/AJP_Tomcat_GhostCat.java" timestamp="1594264215747">
         <mark key="'" line="60" column="22" />
         <mark key="[" line="64" column="4" />
@@ -186,12 +185,7 @@
         <mark key="^" line="64" column="4" />
         <mark key="." line="64" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/utils/Form.java" timestamp="1594027549155">
-        <mark key="[" line="15" column="26" />
-        <mark key="]" line="15" column="31" />
-        <mark key="." line="15" column="31" />
-        <mark key="^" line="15" column="31" />
-      </file>
+      <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/BurpExtender.java" timestamp="1595572978085" />
       <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/model/TargetNode.java" timestamp="1594090903126">
         <mark key="[" line="12" column="38" />
         <mark key="]" line="13" column="31" />
@@ -213,6 +207,7 @@
       <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/io/File.java" timestamp="1594258151431">
         <mark key="'" line="1033" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/search/Search.java" timestamp="1595572838269" />
       <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/TargetPanel.java" timestamp="1594091419276">
         <mark key="'" line="90" column="45" />
         <mark key="[" line="90" column="34" />
@@ -236,13 +231,6 @@
         <mark key="]" line="35" column="18" />
         <mark key="^" line="35" column="18" />
         <mark key="." line="35" column="17" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/MYPT/BurpExtender/src/main/java/burp/ui/UtilsPanel.java" timestamp="1594027520007">
-        <mark key="'" line="14" column="17" />
-        <mark key="[" line="97" column="26" />
-        <mark key="]" line="97" column="31" />
-        <mark key="." line="97" column="31" />
-        <mark key="^" line="97" column="31" />
       </file>
       <file name="/fragment.java" timestamp="1594275729681">
         <mark key="[" line="0" column="0" />
