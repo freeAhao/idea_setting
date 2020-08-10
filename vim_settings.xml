@@ -140,10 +140,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/hacking/vulhub/liferay-portal/liferay-portal-7.2.0-ga1/tomcat-9.0.17/webapps/ROOT/WEB-INF/web.xml" timestamp="1594889499777">
-        <mark key="[" line="197" column="53" />
-        <mark key="]" line="197" column="73" />
-      </file>
       <file name="$USER_HOME$/dev/workspace/java/java se/sqlidemo/src/main/java/priv/freeahao/sqlidemo/SqlidemoApplication.java" timestamp="1595317046275">
         <mark key="'" line="31" column="76" />
         <mark key="[" line="14" column="0" />
@@ -158,11 +154,11 @@
         <mark key="." line="44" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.8.RELEASE/spring-web-5.2.8.RELEASE.jar!/org/springframework/web/bind/annotation/GetMapping.class" timestamp="1597026680205" />
-      <file name="$USER_HOME$/dev/workspace/java/java se/aesdemo/src/main/java/cf/freeahao/aesdemo/utils/DecodeRequesBodyAdvice.java" timestamp="1597032271352">
-        <mark key="[" line="20" column="41" />
-        <mark key="]" line="20" column="57" />
-        <mark key="^" line="23" column="85" />
-        <mark key="." line="23" column="84" />
+      <file name="$USER_HOME$/dev/workspace/java/java se/aesdemo/src/main/java/cf/freeahao/aesdemo/utils/DecodeRequesBodyAdvice.java" timestamp="1597035639183">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="7" />
+        <mark key="." line="20" column="6" />
+        <mark key="^" line="20" column="7" />
       </file>
       <file name="$USER_HOME$/dev/workspace/java/java se/aesdemo/pom.xml" timestamp="1597031379569">
         <mark key="[" line="56" column="15" />
@@ -176,17 +172,11 @@
         <mark key="]" line="8" column="25" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/java/java se/aesdemo/src/main/java/cf/freeahao/aesdemo/utils/EncodeResponseBodyAdvice.java" timestamp="1597032019316">
-        <mark key="[" line="45" column="23" />
-        <mark key="]" line="45" column="31" />
+      <file name="$USER_HOME$/dev/workspace/java/java se/aesdemo/src/main/java/cf/freeahao/aesdemo/utils/EncodeResponseBodyAdvice.java" timestamp="1597035855668">
+        <mark key="[" line="18" column="49" />
+        <mark key="]" line="18" column="66" />
         <mark key="." line="45" column="30" />
         <mark key="^" line="45" column="31" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/java/java se/sqlidemo/src/main/java/priv/freeahao/sqlidemo/Customer.java" timestamp="1595313683994">
-        <mark key="[" line="32" column="5" />
-        <mark key="]" line="35" column="18" />
-        <mark key="^" line="35" column="18" />
-        <mark key="." line="35" column="17" />
       </file>
       <file name="$USER_HOME$/dev/workspace/java/java se/aesdemo/src/main/java/cf/freeahao/aesdemo/controller/ViewController.java" timestamp="1597028507995">
         <mark key="[" line="13" column="18" />
@@ -194,16 +184,12 @@
         <mark key="." line="13" column="17" />
         <mark key="^" line="13" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/java/java se/sqlidemo/src/main/resources/application.properties" timestamp="1595316967036">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/java/java se/aesdemo/src/main/resources/templates/index.html" timestamp="1597031131641">
-        <mark key="[" line="33" column="55" />
-        <mark key="]" line="33" column="56" />
-        <mark key="." line="33" column="56" />
-        <mark key="^" line="25" column="49" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.8.RELEASE/spring-webmvc-5.2.8.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestBodyAdvice.class" timestamp="1597036035730" />
+      <file name="$USER_HOME$/dev/workspace/java/java se/aesdemo/src/main/resources/templates/index.html" timestamp="1597037618370">
+        <mark key="[" line="36" column="34" />
+        <mark key="]" line="36" column="34" />
+        <mark key="." line="36" column="34" />
+        <mark key="^" line="36" column="35" />
       </file>
       <file name="$USER_HOME$/dev/workspace/java/java se/aesdemo/src/main/java/cf/freeahao/aesdemo/AesdemoApplication.java" timestamp="1597025104385">
         <mark key="[" line="22" column="0" />
@@ -229,10 +215,16 @@
         <mark key="^" line="16" column="7" />
         <mark key="." line="16" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/java/java se/burp-ext/sploitdb/src/main/java/burp/ui/search/menu/SearchMenu.java" timestamp="1594350109517">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/dev/workspace/java/java se/aesdemo/src/main/java/cf/freeahao/aesdemo/advice/EncodeResponseBodyAdvice.java" timestamp="1597035988876">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/java/java se/aesdemo/src/main/java/cf/freeahao/aesdemo/advice/DecodeRequestBodyAdvice.java" timestamp="1597037232734">
+        <mark key="[" line="32" column="15" />
+        <mark key="]" line="32" column="20" />
+        <mark key="." line="32" column="19" />
+        <mark key="^" line="32" column="20" />
       </file>
       <file name="$USER_HOME$/dev/workspace/java/java se/aesdemo/src/main/java/cf/freeahao/aesdemo/utils/AesUtils.java" timestamp="1597031449794">
         <mark key="'" line="122" column="6" />
@@ -241,13 +233,12 @@
         <mark key="^" line="20" column="21" />
         <mark key="." line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/java/java se/aesdemo/src/main/java/cf/freeahao/aesdemo/controller/CustomersController.java" timestamp="1597031886080">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="89" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1594275729681">
-        <mark key="[" line="0" column="0" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.8.RELEASE/spring-web-5.2.8.RELEASE.jar!/org/springframework/web/bind/annotation/RequestBody.class" timestamp="1597036463145" />
+      <file name="$USER_HOME$/dev/workspace/java/java se/aesdemo/src/main/java/cf/freeahao/aesdemo/controller/CustomersController.java" timestamp="1597037559121">
+        <mark key="[" line="37" column="88" />
+        <mark key="]" line="38" column="8" />
+        <mark key="." line="38" column="7" />
+        <mark key="^" line="38" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -356,49 +347,49 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>RequestBodyAdvice</text>
+        <text>,</text>
       </register>
       <register name="+" type="4">
-        <text>RequestBodyAdvice</text>
+        <text encoding="base64">QFJlcXVlc3RCb2R5KHJlcXVpcmVkID0gdHJ1ZSkgQ3VzdG9tZXIgY3VzdG9tZXIg</text>
       </register>
       <register name="-" type="4">
-        <text>AESUtil</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>helper</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihEZWNvZGVSZXF1ZXN0Qm9keUFkdmljZS5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PEN1c3RvbWVyPiBnZXRDdXN0b21lcnMoQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJpZCIsIHJlcXVpcmVkID0gZmFsc2UpIExvbmcgaWQsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFNsZjRqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5leHRlcm4uc2xmNGouU2xmNGo7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nICAgICAgICAgc3FsICAgICAgICAgID0gIlNFTEVDVCBpZCwgZmlyc3RfbmFtZSwgbGFzdF9uYW1lIGZyb20gY3VzdG9tZXJzIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIEBhdXRob3IgYWhhbwogKiBAZGF0ZSAyMDIwLzA4LzEwCiAqLwpwdWJsaWMgY2xhc3MgRW5jb2RlUmVzcG9uc2VCb2R5QWR2aWNlIHsKfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxDdXN0b21lcj4gY3VzdG9tZXJMaXN0ID0gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmltcG9ydCBsb21ib2suZXh0ZXJuLnNsZjRqLlNsZjRqOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb25nIGlkID0gY3VzdG9tZXIuZ2V0SWQoKTsKICAgICAgICBTdHJpbmcgZmlyc3ROYW1lID0gY3VzdG9tZXIuZ2V0Rmlyc3ROYW1lKCk7CiAgICAgICAgU3RyaW5nIGxhc3ROYW1lID0gY3VzdG9tZXIuZ2V0TGFzdE5hbWUoKTsKCiAgICAgICAgTGlzdDxDdXN0b21lcj4gY3VzdG9tZXJMaXN0ID0gbnVsbDsKICAgICAgICBTdHJpbmcgICAgICAgICBzcWwgICAgICAgICAgPSAiU0VMRUNUIGlkLCBmaXJzdF9uYW1lLCBsYXN0X25hbWUgZnJvbSBjdXN0b21lcnMiOwogICAgICAgIExpc3Q8U3RyaW5nPiAgIHdoZXJlU1FMICAgICA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGlmIChpZCAhPSBudWxsKSB7CiAgICAgICAgICAgIFN0cmluZyBzcWxfID0gImlkPSIgKyBpZDsKICAgICAgICAgICAgd2hlcmVTUUwuYWRkKHNxbF8pOwogICAgICAgIH0KICAgICAgICBpZiAoZmlyc3ROYW1lICE9IG51bGwgJiYgIWZpcnN0TmFtZS5lcXVhbHMoIiIpKSB7CiAgICAgICAgICAgIFN0cmluZyBzcWxfID0gImZpcnN0X25hbWUgbGlrZSAnJSIgKyBmaXJzdE5hbWUgKyAiJSciOwogICAgICAgICAgICB3aGVyZVNRTC5hZGQoc3FsXyk7CiAgICAgICAgfQogICAgICAgIGlmIChsYXN0TmFtZSAhPSBudWxsICYmICAhbGFzdE5hbWUuZXF1YWxzKCIiKSkgewogICAgICAgICAgICBTdHJpbmcgc3FsXyA9ICJsYXN0X25hbWUgbGlrZSAnJSIgKyBsYXN0TmFtZSArICIlJyI7CiAgICAgICAgICAgIHdoZXJlU1FMLmFkZChzcWxfKTsKICAgICAgICB9CgogICAgICAgIGlmICh3aGVyZVNRTC5zaXplKCkgPiAwKSB7CiAgICAgICAgICAgIHNxbCArPSAiIHdoZXJlICIgKyBTdHJpbmcuam9pbigiIGFuZCAiLCB3aGVyZVNRTCk7CiAgICAgICAgfQoKICAgICAgICBsb2cuaW5mbygiZXhlY3V0ZSBzcWw6ICIrIHNxbCk7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5Db250cm9sbGVyQWR2aWNlOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuc2VydmxldC5tdmMubWV0aG9kLmFubm90YXRpb24uUmVxdWVzdEJvZHlBZHZpY2U7CgppbXBvcnQgamF2YS5pby5CdWZmZXJlZFJlYWRlcjsKaW1wb3J0IGphdmEuaW8uQnl0ZUFycmF5SW5wdXRTdHJlYW07CmltcG9ydCBqYXZhLmlvLklPRXhjZXB0aW9uOwppbXBvcnQgamF2YS5pby5JbnB1dFN0cmVhbTsKaW1wb3J0IGphdmEuaW8uSW5wdXRTdHJlYW1SZWFkZXI7CmltcG9ydCBqYXZhLmxhbmcucmVmbGVjdC5UeXBlOwoKaW1wb3J0IGphdmEubGFuZy5yZWZsZWN0LlR5cGU7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29yZS5NZXRob2RQYXJhbWV0ZXI7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmh0dHAuY29udmVydGVyLkh0dHBNZXNzYWdlQ29udmVydGVyOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuYmluZC5hbm5vdGF0aW9uLkNvbnRyb2xsZXJBZHZpY2U7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5zZXJ2bGV0Lm12Yy5tZXRob2QuYW5ub3RhdGlvbi5SZXF1ZXN0Qm9keUFkdmljZTsK</text>
+        <text encoding="base64">ICAgIFJlcXVlc3RhZHZpY2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFNsZjRqCg==</text>
+        <text encoding="base64">UmVxdWVzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFJlc3RDb250cm9sbGVyQWR2aWNlCg==</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0Qm9keShyZXF1aXJlZCA9IHRydWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIERlY29kZVJlcXVlc0JvZHlBZHZpY2Ugewp9Cg==</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0Qm9keShyZXF1aXJlZCA9IHRydWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
