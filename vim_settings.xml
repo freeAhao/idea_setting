@@ -45,8 +45,8 @@
         <entry>wq!</entry>
         <entry>vs</entry>
         <entry>q!</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -140,6 +140,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/workspace/java/java se/sqlidemo/src/main/resources/application.properties" timestamp="1597547251775">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="5" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/workspace/java/java se/aesdemo/src/main/resources/templates/index.html" timestamp="1597051374989">
         <mark key="'" line="14" column="16" />
         <mark key="[" line="25" column="13" />
@@ -231,6 +237,7 @@
         <mark key="." line="31" column="44" />
         <mark key="^" line="31" column="45" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/java/java se/sqlidemo/pom.xml" timestamp="1597547334543" />
       <file name="/fragment.java" timestamp="1597041763384">
         <mark key="[" line="0" column="0" />
       </file>
@@ -340,8 +347,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.0.0/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c3ByaW5nLm12Yy5wb3IK</text>
       </register>
       <register name="+" type="4">
         <text>https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.0.0/</text>
@@ -356,34 +363,34 @@
         <text encoding="base64">ICAgICAgICBmZXRjaERhdGEoeyJpZCI6aWQudmFsdWV9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkK</text>
+        <text encoding="base64">c3ByaW5nLm12Yy5wb3IK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZC52YWx1ZSA9IHBhcnNlSW50KGlkLnZhbHVlKS0xOwo=</text>
+        <text>spring.port</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZC52YWx1ZSA9IHBhcnNlSW50KGlkLnZhbHVlKSsxOwo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZC52YWx1ZSA9IHBhcnNlSW50KGlkLnZhbHVlKS0xOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZC52YWx1ZSA9IHBhcnNlSW50KGlkLnZhbHVlKSsxOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhc3VsID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcigiI2RhdGFzIik7CiAgICAgICAgZGF0YXN1bC5pbm5lckhUTUwgPSAiIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhc3VsID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcigiI2RhdGFzIik7CiAgICAgICAgZGF0YXN1bC5pbm5lckhUTUwgPSAiIjsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
