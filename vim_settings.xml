@@ -207,11 +207,12 @@
         <mark key="]" line="75" column="33" />
         <mark key="." line="75" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/java/java se/aesdemo/src/main/resources/application.properties" timestamp="1597043739596">
+      <file name="$USER_HOME$/dev/workspace/java/java se/aesdemo/src/main/resources/application.properties" timestamp="1597547467871">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="5" column="45" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="16" />
       </file>
       <file name="$USER_HOME$/dev/workspace/java/java se/aesdemo/src/main/java/cf/freeahao/aesdemo/utils/EncodeResponseBodyAdvice.java" timestamp="1597035855668">
         <mark key="[" line="18" column="49" />
@@ -237,7 +238,6 @@
         <mark key="." line="31" column="44" />
         <mark key="^" line="31" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/java/java se/sqlidemo/pom.xml" timestamp="1597547334543" />
       <file name="/fragment.java" timestamp="1597041763384">
         <mark key="[" line="0" column="0" />
       </file>
